@@ -1,3 +1,4 @@
+# Output from https://query.wikidata.org/#SELECT%20%3Ftype%20%3FtypeLabel%20%3Fsubtype%20%3FsubtypeLabel%20%23%28COUNT%28%3Fx%29%20AS%20%3Fcnt%29%0AWHERE%0A%7B%0A%09%3Ftype%20wdt%3AP279%20wd%3AQ1656682%20.%0A%09%3Fsubtype%20wdt%3AP31%20%3Ftype%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%20%7D%0A%20%20%20%20FILTER%20%28%20%3Ftype%20in%20%28%20wd%3AQ189760%2Cwd%3AQ207549%2Cwd%3AQ861911%20%29%20%29%0A%20%20%20%20%3Fsitelink%20schema%3Aabout%20%3Fsubtype%20.%0A%09%3Fsitelink%20schema%3AinLanguage%20%22da%22%20.%0A%20%20%20%20%3Fsitelink%20schema%3AisPartOf%20%5B%20wikibase%3AwikiGroup%20%22wikipedia%22%20%5D%20.%0A%7D
 type	typeLabel	subtype	subtypeLabel
 http://www.wikidata.org/entity/Q861911	tale	http://www.wikidata.org/entity/Q443	Ich bin ein Berliner
 http://www.wikidata.org/entity/Q861911	tale	http://www.wikidata.org/entity/Q160211	Schuman-erklæringen

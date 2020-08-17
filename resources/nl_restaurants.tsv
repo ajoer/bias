@@ -1,3 +1,4 @@
+# Output from https://query.wikidata.org/#SELECT%20%3Ftype%20%3FtypeLabel%0AWHERE%0A%7B%0A%09%3Ftype%20wdt%3AP31%20wd%3AQ11707%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22nl%22%20.%20%7D%0A%7D
 type	typeLabel
 http://www.wikidata.org/entity/Q10939	Brasserie Georges
 http://www.wikidata.org/entity/Q11706	Windows on the World

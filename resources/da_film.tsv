@@ -1,3 +1,4 @@
+#Output from https://query.wikidata.org/#SELECT%20%3Ftype%20%3FtypeLabel%0AWHERE%0A%7B%0A%09%3Ftype%20wdt%3AP31%20wd%3AQ11424%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22da%22%20.%20%7D%0A%7D%20LIMIT%205000
 type	typeLabel
 http://www.wikidata.org/entity/Q372	Q372
 http://www.wikidata.org/entity/Q593	Q593
