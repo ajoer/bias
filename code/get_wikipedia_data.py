@@ -47,7 +47,7 @@ def main():
 		output_dictionary[event] = summary
 		
 	with open(f"data/{args.language}_{args.source}_summaries.json", 'w') as outfile:
-		json.dump(output_dictionary, outfile)
+		json.dump(output_dictionary, outfile, indent=4)
 
 if __name__ == "__main__":
 	main()
