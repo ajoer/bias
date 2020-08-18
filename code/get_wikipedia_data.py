@@ -19,32 +19,46 @@ parser.add_argument("source", default="restaurants")
 args = parser.parse_args()
 
 def get_summary(event):
-
+	""" Extract summary from Wikipedia """
+	print(event)
 	try:
-		event = '_'.join(x for x in list(event.strip().split()))
-		print(event)
+		event = '_'.join(x for x in list(event.strip().split()))	
 		try: 
 			return wikipedia.summary(event)
 		except (DisambiguationError, PageError) as e: 
-			#print(e) 
 			return None
 
 	except ValueError:
 		print("this event is not processed", line)
 		return None
 
+def process_line(line):
+	""" Process line, and use the article title on Wikipedia extracted from Wikidata """
+
+	line_dict = {}
+	if not line.startswith("http://www.wikidata.org/entity/"): return None, None
+	event = line.strip().split("\t")[-1]
+
+	summary = get_summary(event)
+	if summary is None: return None, None
+
+	# restrict text length?
+	text_length = len(summary)
+
+	line_dict["text"] = summary
+	line_dict["text_length"] = text_length
+
+	return event, line_dict
+
 def main():
-	input_data = set(open(f"resources/{args.language}_{args.source}.tsv").readlines())
+	input_data = open(f"resources/{args.language}_{args.source}.tsv").readlines()
 	output_dictionary = {}
 	wikipedia.set_lang(args.language)
 
 	for line in input_data:
-		if not line.startswith("http://www.wikidata.org/entity/"): continue
-		event = line.strip().split("\t")[-1]
-
-		summary = get_summary(event)
-		if summary is None: continue
-		output_dictionary[event] = summary
+		event, line_rep = process_line(line)
+		if line_rep is None: continue
+		output_dictionary[event] = line_rep
 		
 	with open(f"data/{args.language}_{args.source}_summaries.json", 'w') as outfile:
 		json.dump(output_dictionary, outfile, indent=4)
