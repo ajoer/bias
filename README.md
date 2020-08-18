@@ -3,6 +3,7 @@
 Data and code for bias and fairness evaluation of encoders.
 
 The repo is structured as follows:
+
 *resources/* contains the input files for extracting summaries from Wikipedia. The names of the files correspond to the Wikidata class the elements in the file belong to, e.g. "person" (with gender) and "natural disasters". *./old* contains initial trial data for Wikipedia pages on restaurants, films and speeches, in EN, DA and NL.
 
 *data/* contains the extracted summaries from Wikipedia along with the length of the summary. The files are JSON, each key is a page, each value a dictionary with the summary and the length of the summary. The naming in data/ is the same as in resources/
