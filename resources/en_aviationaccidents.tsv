@@ -1,0 +1,1832 @@
+# Output from https://query.wikidata.org/#SELECT%20%3Ftype%20%3FtypeLabel%20%23%3Fsubtype%20%3FsubtypeLabel%20%23%28COUNT%28%3Fx%29%20AS%20%3Fcnt%29%0AWHERE%0A%7B%0A%09%3Ftype%20wdt%3AP31%2Fwdt%3AP279%2a%20wd%3AQ744913%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%20%7D%0A%20%20%20%20%3Fsitelink%20schema%3Aabout%20%3Ftype%20.%0A%09%3Fsitelink%20schema%3AinLanguage%20%22en%22%20.%0A%20%20%20%20%3Fsitelink%20schema%3AisPartOf%20%5B%20wikibase%3AwikiGroup%20%22wikipedia%22%20%5D%20.%0A%7D
+type	typeLabel
+http://www.wikidata.org/entity/Q11694	American Airlines Flight 11
+http://www.wikidata.org/entity/Q11705	United Airlines Flight 175
+http://www.wikidata.org/entity/Q18173	Japan Airlines Flight 123
+http://www.wikidata.org/entity/Q707497	China Airlines Flight 120
+http://www.wikidata.org/entity/Q699055	China Airlines Flight 140
+http://www.wikidata.org/entity/Q709416	China Airlines Flight 676
+http://www.wikidata.org/entity/Q699195	Far Eastern Air Transport Flight 103
+http://www.wikidata.org/entity/Q715683	South African Airways Flight 295
+http://www.wikidata.org/entity/Q703762	China Airlines Flight 006
+http://www.wikidata.org/entity/Q704766	China Airlines Flight 358
+http://www.wikidata.org/entity/Q1434082	B-25 Empire State Building crash
+http://www.wikidata.org/entity/Q1434101	1960 Munich Convair 340 crash
+http://www.wikidata.org/entity/Q1434079	1967 Nicosia Britannia disaster
+http://www.wikidata.org/entity/Q1427211	Flash Airlines Flight 604
+http://www.wikidata.org/entity/Q1434078	1972 Königs Wusterhausen air disaster
+http://www.wikidata.org/entity/Q1434041	1946 C-53 Skytrooper crash on the Gauli Glacier
+http://www.wikidata.org/entity/Q1434037	Sknyliv air show disaster
+http://www.wikidata.org/entity/Q1434107	Stockport air disaster
+http://www.wikidata.org/entity/Q1428147	Banat Air Flight 166
+http://www.wikidata.org/entity/Q1434047	1988 Remscheid A-10 crash
+http://www.wikidata.org/entity/Q1439744	Alitalia Flight 4128
+http://www.wikidata.org/entity/Q1434045	1943 Gibraltar B-24 crash
+http://www.wikidata.org/entity/Q60638	Thai Airways International Flight 114
+http://www.wikidata.org/entity/Q43394	Swiss International Airlines Flight 850
+http://www.wikidata.org/entity/Q113382	1966 Palomares B-52 crash
+http://www.wikidata.org/entity/Q62179	collapse of the World Trade Center
+http://www.wikidata.org/entity/Q60266	United Airlines Flight 173
+http://www.wikidata.org/entity/Q73736	Petropavlovsk-Kamchatsky Air Flight 251
+http://www.wikidata.org/entity/Q100021	PIA Flight 661
+http://www.wikidata.org/entity/Q60323	Viasa Flight 897
+http://www.wikidata.org/entity/Q94774	Pakistan Naval Air Arm Atlantique shootdown
+http://www.wikidata.org/entity/Q2303215	NLM CityHopper Flight 431
+http://www.wikidata.org/entity/Q2254983	Pan Am Flight 759
+http://www.wikidata.org/entity/Q2323805	Alliance Air Flight 7412
+http://www.wikidata.org/entity/Q2290851	2010 Filair Let L-410 crash
+http://www.wikidata.org/entity/Q2317794	KLM Flight 608
+http://www.wikidata.org/entity/Q2254949	Air France Flight 1611
+http://www.wikidata.org/entity/Q2289446	KLM Flight 607-E
+http://www.wikidata.org/entity/Q2320123	West Caribbean Airways Flight 708
+http://www.wikidata.org/entity/Q2292497	Linate Airport disaster
+http://www.wikidata.org/entity/Q722529	EgyptAir Flight 11990
+http://www.wikidata.org/entity/Q741398	1996 Air Africa crash
+http://www.wikidata.org/entity/Q741126	Iran Aseman Airlines Flight 6895
+http://www.wikidata.org/entity/Q736968	2008 Los Roques archipelago Transaven Let L-410 crash
+http://www.wikidata.org/entity/Q743060	Iran Air Flight 655 shootdown
+http://www.wikidata.org/entity/Q737967	1972 Andes flight disaster
+http://www.wikidata.org/entity/Q3153850	Martinair Flight 495
+http://www.wikidata.org/entity/Q3156912	Air Philippines Flight 541
+http://www.wikidata.org/entity/Q3182149	2013 Vauxhall helicopter crash
+http://www.wikidata.org/entity/Q3177188	TAM Transportes Aéreos Regionais Flight 402
+http://www.wikidata.org/entity/Q3241797	Sita Air Flight 601
+http://www.wikidata.org/entity/Q3180238	Arrow Air Flight 1285
+http://www.wikidata.org/entity/Q3267305	China Eastern Airlines Flight 5210
+http://www.wikidata.org/entity/Q3182723	Hindenburg disaster
+http://www.wikidata.org/entity/Q118373	Charkhi Dadri mid-air collision
+http://www.wikidata.org/entity/Q131311	2010 Polish Air Force Tu-154 crash
+http://www.wikidata.org/entity/Q756253	Atlantic Southeast Airlines Flight 529
+http://www.wikidata.org/entity/Q746785	Mandala Airlines Flight 091
+http://www.wikidata.org/entity/Q757299	Atlasjet Flight 4203
+http://www.wikidata.org/entity/Q752308	Eastern Air Lines Flight 537
+http://www.wikidata.org/entity/Q748379	1960 U-2 incident
+http://www.wikidata.org/entity/Q1494794	Garuda Indonesia Flight 200
+http://www.wikidata.org/entity/Q1467946	Malaysian Airline System Flight 653
+http://www.wikidata.org/entity/Q1521925	Gorman dogfight
+http://www.wikidata.org/entity/Q1514690	1958 Tybee Island mid-air collision
+http://www.wikidata.org/entity/Q1463967	Luxair Flight 9642
+http://www.wikidata.org/entity/Q1524096	Northwest Airlines Flight 6231
+http://www.wikidata.org/entity/Q1516710	TACA Flight 110
+http://www.wikidata.org/entity/Q1488972	UTA Flight 772
+http://www.wikidata.org/entity/Q1529863	Scandinavian Airlines Flight 751
+http://www.wikidata.org/entity/Q1526574	South African Airways Flight 406
+http://www.wikidata.org/entity/Q3502611	ČSA Flight 001
+http://www.wikidata.org/entity/Q3503541	Garuda Indonesia Flight 152
+http://www.wikidata.org/entity/Q3274581	Garuda Indonesia Flight 865
+http://www.wikidata.org/entity/Q3501432	Airlines PNG Flight 1600
+http://www.wikidata.org/entity/Q3271379	Gulf Air Flight 072
+http://www.wikidata.org/entity/Q3270393	LOT Polish Airlines Flight 5055
+http://www.wikidata.org/entity/Q3499141	Sol Líneas Aéreas Flight 5428
+http://www.wikidata.org/entity/Q3317347	LAPA Flight 3142
+http://www.wikidata.org/entity/Q3488717	TABSO Flight 101
+http://www.wikidata.org/entity/Q3373219	1977 Convair CV-300 crash
+http://www.wikidata.org/entity/Q182085	2011 Lokomotiv Yaroslavl air disaster
+http://www.wikidata.org/entity/Q152758	Spanair Flight 5022
+http://www.wikidata.org/entity/Q163107	Überlingen mid-air collision
+http://www.wikidata.org/entity/Q172129	2001 Japan Airlines mid-air incident
+http://www.wikidata.org/entity/Q173973	Swissair Flight 306
+http://www.wikidata.org/entity/Q153570	2011 Reno Air Races crash
+http://www.wikidata.org/entity/Q768914	1976 Zagreb mid-air collision
+http://www.wikidata.org/entity/Q770935	Alaska Airlines Flight 261
+http://www.wikidata.org/entity/Q769736	British Airways Flight 38
+http://www.wikidata.org/entity/Q770821	Hewa Bora Airways Flight 122
+http://www.wikidata.org/entity/Q779099	2009 Indonesian Air Force Fokker F27-400M crash
+http://www.wikidata.org/entity/Q777089	Aurora
+http://www.wikidata.org/entity/Q2372837	Air Florida Flight 90
+http://www.wikidata.org/entity/Q2343232	BOAC Flight 777
+http://www.wikidata.org/entity/Q2344220	2012 Indonesian Air Force Fokker F27 crash
+http://www.wikidata.org/entity/Q2375420	Aeroflot Flight 3352
+http://www.wikidata.org/entity/Q2375128	1979 Dniprodzerzhynsk mid-air collision
+http://www.wikidata.org/entity/Q2375246	2004 Russian aircraft bombings
+http://www.wikidata.org/entity/Q2372347	Vladivostok Air Flight 352
+http://www.wikidata.org/entity/Q2344809	KLM Flight 844
+http://www.wikidata.org/entity/Q2334343	1948 KLM Constellation air disaster
+http://www.wikidata.org/entity/Q2360975	2009 Indonesian Air Force C-130H Hercules crash
+http://www.wikidata.org/entity/Q3525589	2005 Royal Air Force Hercules shootdown
+http://www.wikidata.org/entity/Q3562567	Avioimpex Flight 110
+http://www.wikidata.org/entity/Q3562643	Eastern Air Lines Flight 980
+http://www.wikidata.org/entity/Q3562572	Inex-Adria Aviopromet Flight 1308
+http://www.wikidata.org/entity/Q3562603	Olympic Aviation Flight 545
+http://www.wikidata.org/entity/Q3562629	XL Airways Germany Flight 888T
+http://www.wikidata.org/entity/Q3562568	Air France Flight 117
+http://www.wikidata.org/entity/Q3562565	Air Moorea Flight 1121
+http://www.wikidata.org/entity/Q3562612	Qantas Flight 72
+http://www.wikidata.org/entity/Q3562641	Iran Air Tours Flight 945
+http://www.wikidata.org/entity/Q3558304	Olympic Airways Flight 417
+http://www.wikidata.org/entity/Q3562580	Flight 2605 by Western Airlines
+http://www.wikidata.org/entity/Q185380	Air France Flight 447
+http://www.wikidata.org/entity/Q211087	Pan Am Flight 103
+http://www.wikidata.org/entity/Q783597	American Airlines Flight 1420
+http://www.wikidata.org/entity/Q784141	Eastern Air Lines Flight 401
+http://www.wikidata.org/entity/Q783193	Avianca Flight 52
+http://www.wikidata.org/entity/Q783579	American Airlines Flight 96
+http://www.wikidata.org/entity/Q794998	1994 Fairchild Air Force Base B-52 crash
+http://www.wikidata.org/entity/Q786906	1949 Air France Lockheed Constellation crash
+http://www.wikidata.org/entity/Q784466	Itavia Flight 870
+http://www.wikidata.org/entity/Q2422134	2010 Austin suicide attack
+http://www.wikidata.org/entity/Q2405347	Kolavia Flight 348
+http://www.wikidata.org/entity/Q2422973	Armavia Flight 967
+http://www.wikidata.org/entity/Q2440618	Saudia Flight 163
+http://www.wikidata.org/entity/Q2381192	Mexicana Flight 940
+http://www.wikidata.org/entity/Q2424011	Merpati Nusantara Airlines Flight 836
+http://www.wikidata.org/entity/Q2423283	Mantell UFO incident
+http://www.wikidata.org/entity/Q1600902	Iberia Airlines Flight 602
+http://www.wikidata.org/entity/Q1583411	Pacific Southwest Airlines Flight 1771
+http://www.wikidata.org/entity/Q1575474	Sabena Flight 548
+http://www.wikidata.org/entity/Q1574101	Southwest Airlines Flight 1248
+http://www.wikidata.org/entity/Q1576861	Libyan Arab Airlines Flight 114
+http://www.wikidata.org/entity/Q1573486	LOT Polish Airlines Flight 7
+http://www.wikidata.org/entity/Q1615396	UPS Airlines Flight 6
+http://www.wikidata.org/entity/Q223288	Tenerife airport disaster
+http://www.wikidata.org/entity/Q250439	Adam Air Flight 574
+http://www.wikidata.org/entity/Q2453061	Death and state funeral of Lech Kaczyński and Maria Kaczyńska
+http://www.wikidata.org/entity/Q2475745	Siberia Airlines Flight 1812
+http://www.wikidata.org/entity/Q2485673	CanJet Flight 918
+http://www.wikidata.org/entity/Q2579458	KLM Cityhopper Flight 433
+http://www.wikidata.org/entity/Q2550247	El Al Flight 402
+http://www.wikidata.org/entity/Q2523832	Merpati Nusantara Airlines Flight 8968
+http://www.wikidata.org/entity/Q2497839	Bellview Airlines Flight 210
+http://www.wikidata.org/entity/Q2597490	Noar Linhas Aéreas Flight 4896
+http://www.wikidata.org/entity/Q2452289	KLM Flight 633
+http://www.wikidata.org/entity/Q2502052	UM Airlines Flight 4230
+http://www.wikidata.org/entity/Q2495117	United Airlines Flight 736
+http://www.wikidata.org/entity/Q251039	US Airways Flight 1549
+http://www.wikidata.org/entity/Q282999	Aero Caribbean Flight 883
+http://www.wikidata.org/entity/Q275701	2012 Aéro-Service Ilyushin Il-76 crash
+http://www.wikidata.org/entity/Q265922	KLM Flight 867
+http://www.wikidata.org/entity/Q261538	S. A. Andrée's Arctic Balloon Expedition of 1897
+http://www.wikidata.org/entity/Q1671791	Invicta International Airlines Flight 435
+http://www.wikidata.org/entity/Q1705140	1987 Alianza Lima air disaster
+http://www.wikidata.org/entity/Q1681634	Pamir Airways Flight 112
+http://www.wikidata.org/entity/Q1667658	TWA Flight 3
+http://www.wikidata.org/entity/Q1739099	Kenya Airways Flight 507
+http://www.wikidata.org/entity/Q1616631	Hewa Bora Airways Flight 952
+http://www.wikidata.org/entity/Q1707895	JetBlue Airways Flight 292
+http://www.wikidata.org/entity/Q1704625	2012 Kazakhstan Antonov An-72 crash
+http://www.wikidata.org/entity/Q1628058	Northwest Orient Airlines Flight 2501
+http://www.wikidata.org/entity/Q1624024	R38 class
+http://www.wikidata.org/entity/Q3610236	1982 British Army Gazelle friendly fire incident
+http://www.wikidata.org/entity/Q3662192	Continental Express Flight 2574
+http://www.wikidata.org/entity/Q3866667	SCAT Airlines Flight 760
+http://www.wikidata.org/entity/Q3709238	TWA Flight 891
+http://www.wikidata.org/entity/Q3797640	2002 Pirelli Tower plane crash
+http://www.wikidata.org/entity/Q3809581	Aer Lingus Flight 164
+http://www.wikidata.org/entity/Q3797657	Airbus Industrie Flight 129
+http://www.wikidata.org/entity/Q3975725	1973 Rome airport attacks and hijacking
+http://www.wikidata.org/entity/Q3797641	Sabena Flight 503
+http://www.wikidata.org/entity/Q3737036	Copterline Flight 103
+http://www.wikidata.org/entity/Q3997249	1971 RAF Hercules crash
+http://www.wikidata.org/entity/Q3646750	Mirosławiec air disaster
+http://www.wikidata.org/entity/Q3631590	Azza Transport Flight 2241
+http://www.wikidata.org/entity/Q3616208	British Airways Flight 268
+http://www.wikidata.org/entity/Q3608354	Garuda Indonesia Flight 421
+http://www.wikidata.org/entity/Q4016225	Aero Trasporti Italiani Flight 460
+http://www.wikidata.org/entity/Q3622449	Argo 16
+http://www.wikidata.org/entity/Q858734	Superga air disaster
+http://www.wikidata.org/entity/Q858145	Space Shuttle Challenger disaster
+http://www.wikidata.org/entity/Q862548	Turkish Airlines Flight 1951
+http://www.wikidata.org/entity/Q2603955	Gulf of Sidra incident
+http://www.wikidata.org/entity/Q2623769	Taban Air Flight 6437
+http://www.wikidata.org/entity/Q2631349	Air Inter Flight 148
+http://www.wikidata.org/entity/Q2623686	1996 Belgian Air Force Hercules accident
+http://www.wikidata.org/entity/Q2626134	British Airtours Flight 28M
+http://www.wikidata.org/entity/Q2616916	Allied Air Flight 111
+http://www.wikidata.org/entity/Q2610182	Surinam Airways Flight 764
+http://www.wikidata.org/entity/Q2608588	Cubana Flight 455
+http://www.wikidata.org/entity/Q2604253	Gulf of Sidra incident
+http://www.wikidata.org/entity/Q314087	Ramstein air show disaster
+http://www.wikidata.org/entity/Q348349	Adam Air Flight 172
+http://www.wikidata.org/entity/Q320879	Lufthansa Flight 005
+http://www.wikidata.org/entity/Q337044	BSAA Star Dust accident
+http://www.wikidata.org/entity/Q346847	1968 Thule Air Base B-52 crash
+http://www.wikidata.org/entity/Q308923	Munich air disaster
+http://www.wikidata.org/entity/Q842026	PMTair Flight 241
+http://www.wikidata.org/entity/Q800043	1990 Guangzhou Baiyun airport collisions
+http://www.wikidata.org/entity/Q835929	Kashmir Princess
+http://www.wikidata.org/entity/Q855050	Bhoja Air Flight 213
+http://www.wikidata.org/entity/Q806481	Bangkok Airways Flight 266
+http://www.wikidata.org/entity/Q822853	Lufthansa Flight 502
+http://www.wikidata.org/entity/Q842831	Caspian Airlines Flight 7908
+http://www.wikidata.org/entity/Q796847	BOAC Flight 911
+http://www.wikidata.org/entity/Q846291	Vietnam Airlines Flight 815
+http://www.wikidata.org/entity/Q865870	TAM Airlines Flight 3054
+http://www.wikidata.org/entity/Q873485	Colgan Air Flight 3407
+http://www.wikidata.org/entity/Q865513	Helios Airways Flight 522
+http://www.wikidata.org/entity/Q1762806	RusAir Flight 9605
+http://www.wikidata.org/entity/Q1767634	Air Bagan Flight 11
+http://www.wikidata.org/entity/Q1771343	Hurum air disaster
+http://www.wikidata.org/entity/Q1827323	Pan Am Flight 214
+http://www.wikidata.org/entity/Q1779841	Lufthansa Cargo Flight 8460
+http://www.wikidata.org/entity/Q1816505	Philippine Airlines Flight 434
+http://www.wikidata.org/entity/Q1775068	Alitalia Flight 112
+http://www.wikidata.org/entity/Q1797867	LANSA Flight 508
+http://www.wikidata.org/entity/Q1781104	Southern Airways Flight 242
+http://www.wikidata.org/entity/Q378227	Battle of Barking Creek
+http://www.wikidata.org/entity/Q381558	1986 Cerritos mid-air collision
+http://www.wikidata.org/entity/Q381070	Aer Lingus Flight 712
+http://www.wikidata.org/entity/Q381183	Aero Flight 311
+http://www.wikidata.org/entity/Q381461	Aeroflot Flight 593
+http://www.wikidata.org/entity/Q381468	Aeroflot Flight 821
+http://www.wikidata.org/entity/Q381615	Aeroperú Flight 603
+http://www.wikidata.org/entity/Q4016228	Air India Flight 101
+http://www.wikidata.org/entity/Q4055755	2011 Antonov An-148 crash
+http://www.wikidata.org/entity/Q4055381	Dagestan Airlines Flight 372
+http://www.wikidata.org/entity/Q4055758	1958 Aeroflot Тu-104 crash in Chuvash
+http://www.wikidata.org/entity/Q4016245	TWA Flight 800 (1964)
+http://www.wikidata.org/entity/Q4055748	Ethiopian Airlines Flight 604
+http://www.wikidata.org/entity/Q4055756	Aeroflot Flight 909
+http://www.wikidata.org/entity/Q4055377	Alrosa Flight 514
+http://www.wikidata.org/entity/Q4016243	RwandAir Flight 205
+http://www.wikidata.org/entity/Q4055757	Pulkovo Aviation Enterprise Flight 9560
+http://www.wikidata.org/entity/Q4055754	2007 Africa One Antonov An-26 crash
+http://www.wikidata.org/entity/Q4016231	Airlines PNG Flight 4684
+http://www.wikidata.org/entity/Q4055393	Belavia Flight 1834
+http://www.wikidata.org/entity/Q4016236	Cebu Pacific Flight 387
+http://www.wikidata.org/entity/Q4055751	1997 Irkutsk Antonov An-124 crash
+http://www.wikidata.org/entity/Q908717	TWA Flight 800
+http://www.wikidata.org/entity/Q918595	British Eagle International Airlines Flight 802
+http://www.wikidata.org/entity/Q883089	Paninternational Flight 112
+http://www.wikidata.org/entity/Q918604	British European Airways Flight 706
+http://www.wikidata.org/entity/Q909869	China Northern Airlines Flight 6136
+http://www.wikidata.org/entity/Q890629	American Airlines Flight 1
+http://www.wikidata.org/entity/Q904715	Yemenia Flight 626
+http://www.wikidata.org/entity/Q2641878	Buddha Air Flight 103
+http://www.wikidata.org/entity/Q2634895	Nigeria Airways Flight 2120
+http://www.wikidata.org/entity/Q2662518	Vnukovo Airlines Flight 2801
+http://www.wikidata.org/entity/Q2633598	Chalk's Ocean Airways Flight 101
+http://www.wikidata.org/entity/Q2647284	Alitalia Flight 404
+http://www.wikidata.org/entity/Q2648885	TANS Perú Flight 204
+http://www.wikidata.org/entity/Q2632428	Air Ontario Flight 1363
+http://www.wikidata.org/entity/Q2641872	2011 Royal Moroccan Air Force Lockheed C-130 Hercules crash
+http://www.wikidata.org/entity/Q2673524	Sudan Airways Flight 109
+http://www.wikidata.org/entity/Q406486	Air France Flight 296
+http://www.wikidata.org/entity/Q394864	Agni Air Flight CHT
+http://www.wikidata.org/entity/Q384845	American Airlines Flight 587
+http://www.wikidata.org/entity/Q387892	Afriqiyah Airways Flight 771
+http://www.wikidata.org/entity/Q406503	Air France Flight 358
+http://www.wikidata.org/entity/Q1993878	1975 Tan Son Nhut C-5 accident
+http://www.wikidata.org/entity/Q1922654	Henan Airlines Flight 8387
+http://www.wikidata.org/entity/Q1860910	Yeti Airlines Flight 103
+http://www.wikidata.org/entity/Q1945321	Pulkovo Aviation Enterprise Flight 612
+http://www.wikidata.org/entity/Q1865863	Cavalese cable car disaster
+http://www.wikidata.org/entity/Q1875659	Lufthansa CityLine Flight 5634
+http://www.wikidata.org/entity/Q1995382	1963 Aeroflot Tupolev Tu-124 Neva river ditching
+http://www.wikidata.org/entity/Q2003519	Air Canada Flight 797
+http://www.wikidata.org/entity/Q1851980	Malév Flight 240
+http://www.wikidata.org/entity/Q1965497	1936 KLM Croydon accident
+http://www.wikidata.org/entity/Q1977092	2007 Mogadishu TransAVIAexport Airlines Il-76 crash
+http://www.wikidata.org/entity/Q1833067	KLM Flight 823
+http://www.wikidata.org/entity/Q4055775	JS Air Flight 201
+http://www.wikidata.org/entity/Q4055774	Sun Way Flight 4412
+http://www.wikidata.org/entity/Q4055763	Aeroflot Flight 5463
+http://www.wikidata.org/entity/Q4055770	Aeroflot Flight 7425
+http://www.wikidata.org/entity/Q4055786	1961 Goldsboro B-52 Crash
+http://www.wikidata.org/entity/Q4055760	1981 Pushkin Tu-104 crash
+http://www.wikidata.org/entity/Q4055781	2011 Chinook shootdown in Afghanistan
+http://www.wikidata.org/entity/Q4055767	Baikal Airlines Flight 130
+http://www.wikidata.org/entity/Q4055777	2009 Makhachkala Il-76 collision
+http://www.wikidata.org/entity/Q4055762	Aeroflot Flight 6502
+http://www.wikidata.org/entity/Q4055771	2011 Pointe-Noire Trans Air Congo An-12 crash
+http://www.wikidata.org/entity/Q4055766	UTair Flight 471
+http://www.wikidata.org/entity/Q4055779	1950 Sverdlovsk air disaster
+http://www.wikidata.org/entity/Q4055780	1961 Yuba City B-52 crash
+http://www.wikidata.org/entity/Q4055776	Agni Air Flight 101
+http://www.wikidata.org/entity/Q4055773	Katekavia Flight 9357
+http://www.wikidata.org/entity/Q2822721	1994 Black Hawk shootdown incident
+http://www.wikidata.org/entity/Q2822718	2012 Sudan Antonov An-26 crash
+http://www.wikidata.org/entity/Q2753195	Grand Canyon Airlines Flight 6
+http://www.wikidata.org/entity/Q2822708	2005 Iranian Air Force C-130 crash
+http://www.wikidata.org/entity/Q2822710	2003 Iran Ilyushin Il-76 crash
+http://www.wikidata.org/entity/Q2746913	Air Canada Flight 621
+http://www.wikidata.org/entity/Q2822697	Air France Flight 152
+http://www.wikidata.org/entity/Q2822713	Atlantic Airways Flight 670
+http://www.wikidata.org/entity/Q2707543	2008 Mexico City Learjet crash
+http://www.wikidata.org/entity/Q2822723	1973 Paris Air Show crash
+http://www.wikidata.org/entity/Q2822709	2012 Kenya Police helicopter crash
+http://www.wikidata.org/entity/Q2784125	Singapore Airlines Flight 117
+http://www.wikidata.org/entity/Q2822699	1955 MacArthur Airport United Airlines crash
+http://www.wikidata.org/entity/Q435223	Birgenair Flight 301
+http://www.wikidata.org/entity/Q406599	Air New Zealand Flight 901
+http://www.wikidata.org/entity/Q406535	Air France Flight 4590
+http://www.wikidata.org/entity/Q406609	Air Transat Flight 236
+http://www.wikidata.org/entity/Q4116581	June 2012 interception of Turkish aircraft
+http://www.wikidata.org/entity/Q4118734	United Airlines Flight 610
+http://www.wikidata.org/entity/Q4117937	Libyan Arab Airlines Flight 1103
+http://www.wikidata.org/entity/Q4071388	Japan Airlines Flight 2
+http://www.wikidata.org/entity/Q4115786	TWA Flight 903
+http://www.wikidata.org/entity/Q4119077	United Airlines Flight 608
+http://www.wikidata.org/entity/Q4118471	1959 Turkish Airlines Gatwick crash
+http://www.wikidata.org/entity/Q4118137	Emirates Flight 407
+http://www.wikidata.org/entity/Q4055787	Cyprus Airways Flight 284
+http://www.wikidata.org/entity/Q4118954	Northwest Airlines Flight 2
+http://www.wikidata.org/entity/Q921029	2011 Silk Way Airlines Ilyushin Il-76 crash
+http://www.wikidata.org/entity/Q950273	1986 Mozambican Tupolev Tu-134 crash
+http://www.wikidata.org/entity/Q935682	Sudan Airways Flight 139
+http://www.wikidata.org/entity/Q941612	American Airlines Flight 965
+http://www.wikidata.org/entity/Q947452	ValuJet Flight 592
+http://www.wikidata.org/entity/Q929721	USAir Flight 427
+http://www.wikidata.org/entity/Q947605	First Air Flight 6560
+http://www.wikidata.org/entity/Q926160	Aerolíneas Argentinas Flight 322
+http://www.wikidata.org/entity/Q2043000	1933 United Airlines Boeing 247 mid-air explosion
+http://www.wikidata.org/entity/Q2020397	Aria Air Flight 1525
+http://www.wikidata.org/entity/Q2054084	LOT Polish Airlines Flight 16
+http://www.wikidata.org/entity/Q2047975	Bjørnøya Accident
+http://www.wikidata.org/entity/Q2033524	Red Wings Airlines Flight 9268
+http://www.wikidata.org/entity/Q2078823	1960 New York air disaster
+http://www.wikidata.org/entity/Q2010333	2012 Norwegian Air Force C-130 crash
+http://www.wikidata.org/entity/Q2062178	Kegworth air disaster
+http://www.wikidata.org/entity/Q2025205	Sosoliso Airlines Flight 1145
+http://www.wikidata.org/entity/Q458321	Korean Air Lines Flight 902
+http://www.wikidata.org/entity/Q435572	British Airways Flight 5390
+http://www.wikidata.org/entity/Q435806	China Airlines Flight 611
+http://www.wikidata.org/entity/Q452157	Mechelen incident
+http://www.wikidata.org/entity/Q448597	Sabena OO-AUB Ostend crash
+http://www.wikidata.org/entity/Q435605	British Airways Flight 9
+http://www.wikidata.org/entity/Q461911	Swissair Flight 111
+http://www.wikidata.org/entity/Q462847	United Airlines Flight 585
+http://www.wikidata.org/entity/Q460476	One-Two-GO Airlines Flight 269
+http://www.wikidata.org/entity/Q462716	Turkish Airlines Flight 981
+http://www.wikidata.org/entity/Q962966	BOAC Flight 781
+http://www.wikidata.org/entity/Q1012788	Bristow Flight 56C
+http://www.wikidata.org/entity/Q1014658	Andersen Air Force Base B-2 accident
+http://www.wikidata.org/entity/Q1037884	Turkish Airlines Flight 634
+http://www.wikidata.org/entity/Q962475	Tuninter Flight 1153
+http://www.wikidata.org/entity/Q951088	Iran Air Flight 277
+http://www.wikidata.org/entity/Q967315	1992 European Community Monitor Mission helicopter downing
+http://www.wikidata.org/entity/Q994581	Japan Airlines Flight 350
+http://www.wikidata.org/entity/Q2853075	TAP Portugal Flight 425
+http://www.wikidata.org/entity/Q2909812	1997 Israeli helicopter disaster
+http://www.wikidata.org/entity/Q2918683	2010 IAF Sikorsky CH-53 crash
+http://www.wikidata.org/entity/Q2907826	Dymshits–Kuznetsov hijacking affair
+http://www.wikidata.org/entity/Q2891775	Japan Air Lines flight 1628 incident
+http://www.wikidata.org/entity/Q2948131	Aeroflot Flight 8381
+http://www.wikidata.org/entity/Q2910683	United Airlines Flight 629
+http://www.wikidata.org/entity/Q2907585	Pan Am Flight 73
+http://www.wikidata.org/entity/Q2869968	2002 Tampa plane crash
+http://www.wikidata.org/entity/Q2941687	1974 Togo plane crash
+http://www.wikidata.org/entity/Q2896309	Southern Airways Flight 932
+http://www.wikidata.org/entity/Q2896313	2002 Mombasa attacks
+http://www.wikidata.org/entity/Q2842206	Eastern Air Lines Flight 66
+http://www.wikidata.org/entity/Q2135123	Air France Flight 178
+http://www.wikidata.org/entity/Q2202322	S7 Airlines Flight 778
+http://www.wikidata.org/entity/Q2114686	2006 New York City plane crash
+http://www.wikidata.org/entity/Q2112721	Aviastar-TU Flight 1906
+http://www.wikidata.org/entity/Q2253960	Wuhan Airlines Flight 343
+http://www.wikidata.org/entity/Q2118432	2012 Mexico Learjet 25 crash
+http://www.wikidata.org/entity/Q2253625	Aeroflot Flight 4227
+http://www.wikidata.org/entity/Q2171192	Merpati Nusantara Airlines Flight 9760
+http://www.wikidata.org/entity/Q2240494	Turkish Airlines Flight 452
+http://www.wikidata.org/entity/Q2163513	American Eagle Flight 4184
+http://www.wikidata.org/entity/Q2239140	Spantax Flight 995
+http://www.wikidata.org/entity/Q463237	American Airlines Flight 77
+http://www.wikidata.org/entity/Q462876	United Airlines Flight 811
+http://www.wikidata.org/entity/Q463197	American Airlines Flight 191
+http://www.wikidata.org/entity/Q463187	American Airlines Flight 331
+http://www.wikidata.org/entity/Q4202308	1994 Iranian Air Force C-130 shootdown
+http://www.wikidata.org/entity/Q4217216	2008 Chelyabinsk Antonov An-12 crash
+http://www.wikidata.org/entity/Q4202305	1981 Armenia mid-air collision
+http://www.wikidata.org/entity/Q4163567	Britannia Airways Flight 226A
+http://www.wikidata.org/entity/Q4217220	Altaigate Scandal
+http://www.wikidata.org/entity/Q4207735	Caribbean Airlines Flight 523
+http://www.wikidata.org/entity/Q4207401	2011 Nusantara Buana CASA C-212 crash
+http://www.wikidata.org/entity/Q4202012	FlyMontserrat Flight 107
+http://www.wikidata.org/entity/Q4188884	1995 Airstan incident
+http://www.wikidata.org/entity/Q4217221	PIA Flight 705
+http://www.wikidata.org/entity/Q4119118	Bukken Bruse disaster
+http://www.wikidata.org/entity/Q4189392	UTAGE Flight 141
+http://www.wikidata.org/entity/Q4217224	Aeroflot Flight 2808
+http://www.wikidata.org/entity/Q4207890	Martinair Flight 138
+http://www.wikidata.org/entity/Q4209432	Mimika Air Flight 514
+http://www.wikidata.org/entity/Q4162202	Pinnacle Airlines Flight 3701
+http://www.wikidata.org/entity/Q3028762	Austral Líneas Aéreas Flight 2553
+http://www.wikidata.org/entity/Q3083143	Air France Flight 422
+http://www.wikidata.org/entity/Q3079315	Trans-Canada Air Lines Flight 831
+http://www.wikidata.org/entity/Q2976024	2011 United Nations Bombardier CRJ-100 crash
+http://www.wikidata.org/entity/Q3087193	Santa Bárbara Airlines Flight 518
+http://www.wikidata.org/entity/Q3079825	United Arab Airlines Flight 869 (1963)
+http://www.wikidata.org/entity/Q3048031	ADC Airlines Flight 53
+http://www.wikidata.org/entity/Q3098353	Air India Flight 855
+http://www.wikidata.org/entity/Q3087069	Avianca Flight 410
+http://www.wikidata.org/entity/Q3078122	South African Airways Flight 201
+http://www.wikidata.org/entity/Q471700	2006 Slovak Air Force Antonov An-24 crash
+http://www.wikidata.org/entity/Q485120	Korean Air Flight 801
+http://www.wikidata.org/entity/Q468754	Lufthansa Flight 2904
+http://www.wikidata.org/entity/Q489904	Air China Flight 129
+http://www.wikidata.org/entity/Q478172	Singapore Airlines Flight 006
+http://www.wikidata.org/entity/Q486045	Asiana Airlines Flight 991
+http://www.wikidata.org/entity/Q491520	Korean Air Cargo Flight 8509
+http://www.wikidata.org/entity/Q2254868	Olympic Airways Flight 954
+http://www.wikidata.org/entity/Q2254909	Austrian Airlines flight 901
+http://www.wikidata.org/entity/Q2254515	Viasa Flight 742
+http://www.wikidata.org/entity/Q2254501	Aviaco Flight 118
+http://www.wikidata.org/entity/Q2254414	ČSA Flight 511
+http://www.wikidata.org/entity/Q2254794	Aeroflot Flight 1691
+http://www.wikidata.org/entity/Q2254919	Pan Am Flight 217
+http://www.wikidata.org/entity/Q2254625	Aeroflot Flight 1491
+http://www.wikidata.org/entity/Q2254649	Aeroflot Flight 902
+http://www.wikidata.org/entity/Q2254436	China Southwest Airlines Flight 4146
+http://www.wikidata.org/entity/Q2254605	Turkish Airlines Flight 278
+http://www.wikidata.org/entity/Q2254354	Iran Air Flight 291
+http://www.wikidata.org/entity/Q1073177	China Airlines Flight 642
+http://www.wikidata.org/entity/Q1064550	PIA Flight 268
+http://www.wikidata.org/entity/Q1094539	Cathay Pacific Flight 780
+http://www.wikidata.org/entity/Q1093598	USAir Flight 405
+http://www.wikidata.org/entity/Q1116495	1956 Grand Canyon mid-air collision
+http://www.wikidata.org/entity/Q1059245	Cathay Pacific Flight 700Z bombing
+http://www.wikidata.org/entity/Q1137047	Hainan Island incident
+http://www.wikidata.org/entity/Q1134591	Ryanair Flight 4102
+http://www.wikidata.org/entity/Q1135895	Qantas Flight 32
+http://www.wikidata.org/entity/Q510468	PSA Flight 182
+http://www.wikidata.org/entity/Q495953	Korean Air Flight 858
+http://www.wikidata.org/entity/Q531334	Air India Flight 245
+http://www.wikidata.org/entity/Q519012	1989 Belgium MiG-23 crash
+http://www.wikidata.org/entity/Q530498	Angara Airlines Flight 9007
+http://www.wikidata.org/entity/Q501208	1991 Azerbaijani Mil Mi-8 shootdown
+http://www.wikidata.org/entity/Q497354	Asiana Airlines Flight 733
+http://www.wikidata.org/entity/Q534358	Lufthansa Flight 540
+http://www.wikidata.org/entity/Q1153249	Kenya Airways Flight 431
+http://www.wikidata.org/entity/Q1190969	Aeroflot Flight 411
+http://www.wikidata.org/entity/Q1264418	1983 Rhein-Main Starfighter crash
+http://www.wikidata.org/entity/Q1251468	Double Six Crash
+http://www.wikidata.org/entity/Q1184780	Delta Air Lines Flight 191
+http://www.wikidata.org/entity/Q1164685	1947 KLM Douglas DC-3 Copenhagen accident
+http://www.wikidata.org/entity/Q1184775	Comair Flight 5191
+http://www.wikidata.org/entity/Q1262739	JAT Flight 367
+http://www.wikidata.org/entity/Q314087	Ramstein air show disaster
+http://www.wikidata.org/entity/Q113382	1966 Palomares B-52 crash
+http://www.wikidata.org/entity/Q118373	Charkhi Dadri mid-air collision
+http://www.wikidata.org/entity/Q163107	Überlingen mid-air collision
+http://www.wikidata.org/entity/Q569392	Crossair Flight 3597
+http://www.wikidata.org/entity/Q553492	Air Midwest Flight 5481
+http://www.wikidata.org/entity/Q580867	Space Shuttle Columbia disaster
+http://www.wikidata.org/entity/Q584131	Dana Air Flight 992
+http://www.wikidata.org/entity/Q580343	United Airlines Flight 232
+http://www.wikidata.org/entity/Q4559465	1912 Brooklands Flanders Monoplane crash
+http://www.wikidata.org/entity/Q4564698	1940 Canberra air disaster
+http://www.wikidata.org/entity/Q4261034	Philippine Airlines Flight 137
+http://www.wikidata.org/entity/Q4261830	TACA Flight 390
+http://www.wikidata.org/entity/Q4372935	Aeroflot Flight 3739 (1988)
+http://www.wikidata.org/entity/Q4346080	VASP Flight 168
+http://www.wikidata.org/entity/Q4563222	1933 Imperial Airways Diksmuide crash
+http://www.wikidata.org/entity/Q4338183	Osoaviakhim-1
+http://www.wikidata.org/entity/Q4561535	1924 Imperial Airways de Havilland DH.34 crash
+http://www.wikidata.org/entity/Q4563408	1934 Hillman's Airways de Havilland Dragon Rapide crash
+http://www.wikidata.org/entity/Q4563643	1935 SABENA Savoia-Marchetti S.73 crash
+http://www.wikidata.org/entity/Q4564273	1938 Kyeema crash
+http://www.wikidata.org/entity/Q4554271	South Airlines Flight 8971
+http://www.wikidata.org/entity/Q4562246	1928 Imperial Airways Vickers Vulcan crash
+http://www.wikidata.org/entity/Q4564352	1938 Yosemite TWA crash
+http://www.wikidata.org/entity/Q4564468	1939 Atlantic Ocean Imperial Airways Short Empire flying boat sinking
+http://www.wikidata.org/entity/Q4564700	1940 Brocklesby mid-air collision
+http://www.wikidata.org/entity/Q4355070	TWA Flight 841 (1974)
+http://www.wikidata.org/entity/Q4217227	2002 Khankala Mi-26 crash
+http://www.wikidata.org/entity/Q4217225	1992 Azerbaijani Mil Mi-8 shootdown
+http://www.wikidata.org/entity/Q4356327	Scandinavian Airlines System Flight 933
+http://www.wikidata.org/entity/Q4355139	Turkish Airlines Flight 1476
+http://www.wikidata.org/entity/Q4563221	1933 Imperial Airways Ruysselede crash
+http://www.wikidata.org/entity/Q4563370	1934 Air France Wibault 282T crash
+http://www.wikidata.org/entity/Q1268842	1996 Croatia USAF CT-43 crash
+http://www.wikidata.org/entity/Q1272213	SilkAir Flight 185
+http://www.wikidata.org/entity/Q1320380	Alitalia Flight 771
+http://www.wikidata.org/entity/Q1323799	El Al Flight 1862
+http://www.wikidata.org/entity/Q1326918	Ethiopian Airlines Flight 961
+http://www.wikidata.org/entity/Q1278112	Eastern Air Lines Flight 663
+http://www.wikidata.org/entity/Q510468	PSA Flight 182
+http://www.wikidata.org/entity/Q768914	1976 Zagreb mid-air collision
+http://www.wikidata.org/entity/Q752308	Eastern Air Lines Flight 537
+http://www.wikidata.org/entity/Q381558	1986 Cerritos mid-air collision
+http://www.wikidata.org/entity/Q1116495	1956 Grand Canyon mid-air collision
+http://www.wikidata.org/entity/Q690883	Varig Flight 254
+http://www.wikidata.org/entity/Q1137047	Hainan Island incident
+http://www.wikidata.org/entity/Q1134591	Ryanair Flight 4102
+http://www.wikidata.org/entity/Q633870	UTair Flight 120
+http://www.wikidata.org/entity/Q612396	Thai Airways International Flight 261
+http://www.wikidata.org/entity/Q615020	EAS Airlines Flight 4226
+http://www.wikidata.org/entity/Q625871	Korean Air Lines YS-11 hijacking
+http://www.wikidata.org/entity/Q629645	Aerocon Flight 238
+http://www.wikidata.org/entity/Q638603	United Airlines Flight 93
+http://www.wikidata.org/entity/Q613025	Independent Air Flight 1851
+http://www.wikidata.org/entity/Q626003	Korean Air Flight 803
+http://www.wikidata.org/entity/Q689359	Crossair Flight 498
+http://www.wikidata.org/entity/Q689448	Canadian Pacific Air Lines Flight 402
+http://www.wikidata.org/entity/Q671604	China Southwest Airlines Flight 4509
+http://www.wikidata.org/entity/Q673726	Swissair Flight 330
+http://www.wikidata.org/entity/Q655671	Hapag-Lloyd Flight 3378
+http://www.wikidata.org/entity/Q665566	Aloha Airlines Flight 243
+http://www.wikidata.org/entity/Q675546	Lauda Air Flight 004
+http://www.wikidata.org/entity/Q1330826	FedEx Express Flight 80
+http://www.wikidata.org/entity/Q1332211	Flight 19
+http://www.wikidata.org/entity/Q1351598	Gol Transportes Aéreos Flight 1907
+http://www.wikidata.org/entity/Q1334888	Iberia Airlines Flight 610
+http://www.wikidata.org/entity/Q1366606	1993 Zambia national football team air disaster
+http://www.wikidata.org/entity/Q1412033	The Day the Music Died
+http://www.wikidata.org/entity/Q16662570	Aeroflot Flight 99
+http://www.wikidata.org/entity/Q16662552	Aeroflot Flight 109
+http://www.wikidata.org/entity/Q16662533	Aeroflot Flight 1912
+http://www.wikidata.org/entity/Q16662481	Aeroflot Flight 245
+http://www.wikidata.org/entity/Q16662560	Aeroflot Flight 2022
+http://www.wikidata.org/entity/Q16662495	Aeroflot Flight 343
+http://www.wikidata.org/entity/Q16662562	Aeroflot Flight 3630
+http://www.wikidata.org/entity/Q16662566	Aeroflot Flight 513
+http://www.wikidata.org/entity/Q16662554	Aeroflot Flight 65
+http://www.wikidata.org/entity/Q16662487	Aeroflot Flight U-45
+http://www.wikidata.org/entity/Q16662578	Azerbaijan Airlines Flight 56
+http://www.wikidata.org/entity/Q16662485	Aeroflot Flight 5003 (1977)
+http://www.wikidata.org/entity/Q16662545	Aeroflot Flight 12
+http://www.wikidata.org/entity/Q16662534	Aeroflot Flight 3739 (1976)
+http://www.wikidata.org/entity/Q16662564	Aeroflot Flight 5484
+http://www.wikidata.org/entity/Q16662479	1974 Leningrad Aeroflot Il-18 crash
+http://www.wikidata.org/entity/Q16662541	Aeroflot Flight 68
+http://www.wikidata.org/entity/Q19693134	Air Canada Flight 624
+http://www.wikidata.org/entity/Q19801342	Asiana Flight 162
+http://www.wikidata.org/entity/Q4820510	East Malling air disaster
+http://www.wikidata.org/entity/Q15644223	School of Civil Aviation Flight 111
+http://www.wikidata.org/entity/Q19832977	Turkish Airlines Flight 1878
+http://www.wikidata.org/entity/Q1351598	Gol Transportes Aéreos Flight 1907
+http://www.wikidata.org/entity/Q2054084	LOT Polish Airlines Flight 16
+http://www.wikidata.org/entity/Q3562607	Air Canada Flight 646
+http://www.wikidata.org/entity/Q28450484	United Airlines Flight 863
+http://www.wikidata.org/entity/Q50412176	US Bangla Airlines Flight 211
+http://www.wikidata.org/entity/Q695290	Ethiopian Airlines Flight 409
+http://www.wikidata.org/entity/Q949020	USAir Flight 1493
+http://www.wikidata.org/entity/Q408058	Airblue Flight 202
+http://www.wikidata.org/entity/Q406582	Air India Express Flight 812
+http://www.wikidata.org/entity/Q806481	Bangkok Airways Flight 266
+http://www.wikidata.org/entity/Q4565706	1946 Antarctica PBM Mariner crash
+http://www.wikidata.org/entity/Q4566211	1948 Australian National Airways DC-3 crash
+http://www.wikidata.org/entity/Q4566836	1950 Heathrow BEA Viking accident
+http://www.wikidata.org/entity/Q4566930	1950 Tête de l'Obiou C-54 crash
+http://www.wikidata.org/entity/Q4567560	1952 Transportes Aéreos Nacional Douglas C-47 mid-air explosion
+http://www.wikidata.org/entity/Q4567765	1953 Mediterranean Sea mid-air collision
+http://www.wikidata.org/entity/Q4567802	1953 Nutts Corner Viking accident
+http://www.wikidata.org/entity/Q4568649	1956 B-47 disappearance
+http://www.wikidata.org/entity/Q4568696	1956 Hawker Hunter multiple aircraft accident
+http://www.wikidata.org/entity/Q4569049	1957 Nutts Corner BEA Viscount crash
+http://www.wikidata.org/entity/Q4565106	1942 Qantas Short Empire shootdown
+http://www.wikidata.org/entity/Q4566258	1948 Gatow air disaster
+http://www.wikidata.org/entity/Q4567829	1953 Skyways Avro York disappearance
+http://www.wikidata.org/entity/Q4566785	1950 Australian National Airways Douglas DC-4 crash
+http://www.wikidata.org/entity/Q4566826	1950 Douglas C-54D disappearance
+http://www.wikidata.org/entity/Q4568646	1956 Atlantic R6D-1 disappearance
+http://www.wikidata.org/entity/Q4568967	1957 Aqaba Valetta accident
+http://www.wikidata.org/entity/Q4568972	1957 Blackbushe Viking accident
+http://www.wikidata.org/entity/Q4569319	1958 London Vickers Viking accident
+http://www.wikidata.org/entity/Q4565226	1943 Liberator crash at Whenuapai
+http://www.wikidata.org/entity/Q4566545	1949 Exhall mid-air collision
+http://www.wikidata.org/entity/Q4568343	1955 Cincinnati mid-air collision
+http://www.wikidata.org/entity/Q4568652	1956 BOAC Argonaut accident
+http://www.wikidata.org/entity/Q4568779	1956 Scottish Airlines Malta air disaster
+http://www.wikidata.org/entity/Q4565570	1945 New Guinea Gremlin Special rescue
+http://www.wikidata.org/entity/Q4565710	1946 Australian National Airways DC-3 crash
+http://www.wikidata.org/entity/Q4565736	1946 KLM Douglas DC-3 Amsterdam accident
+http://www.wikidata.org/entity/Q4565979	1947 Croydon Dakota accident
+http://www.wikidata.org/entity/Q4565993	1947 Korangi Creek crash
+http://www.wikidata.org/entity/Q4567216	1951 Ringway Dakota accident
+http://www.wikidata.org/entity/Q4567416	1952 Bermuda air crash
+http://www.wikidata.org/entity/Q4569679	1959 Okinawa F-100 crash
+http://www.wikidata.org/entity/Q4566557	1949 MacRobertson Miller Aviation DC-3 crash
+http://www.wikidata.org/entity/Q4566797	1950 British Columbia B-36 crash
+http://www.wikidata.org/entity/Q4569403	1958 Syerston Avro Vulcan crash
+http://www.wikidata.org/entity/Q4569574	1959 Air Charter Turkey crash
+http://www.wikidata.org/entity/Q4568809	Trans-Canada Air Lines Flight 304
+http://www.wikidata.org/entity/Q4565525	1945 Australian National Airways Stinson crash
+http://www.wikidata.org/entity/Q4566365	1948 Waycross B-29 crash
+http://www.wikidata.org/entity/Q4566606	1949 Queensland Airlines Lockheed Lodestar crash
+http://www.wikidata.org/entity/Q4567118	1951 Canadian Pacific Air Lines Douglas DC-4 disappearance
+http://www.wikidata.org/entity/Q4567449	1952 Farnborough Airshow DH.110 crash
+http://www.wikidata.org/entity/Q4568376	1955 Hawaii R6D-1 crash
+http://www.wikidata.org/entity/Q4569258	1958 Central African Airways plane crash
+http://www.wikidata.org/entity/Q4569275	1958 Dan-Air Avro York crash
+http://www.wikidata.org/entity/Q4565953	1947 BOAC Douglas C-47 crash
+http://www.wikidata.org/entity/Q4566263	1948 Lake Mead Boeing B-29 crash
+http://www.wikidata.org/entity/Q4566775	1950 Air France multiple Douglas DC-4 accidents
+http://www.wikidata.org/entity/Q4568009	1954 Aldbury Valetta accident
+http://www.wikidata.org/entity/Q4568156	1954 Swissair Convair CV-240 crash
+http://www.wikidata.org/entity/Q4569257	1958 Channel Airways de Havilland DH.104 Dove crash
+http://www.wikidata.org/entity/Q4566193	1948 Airborne Transport DC-3 (DST) disappearance
+http://www.wikidata.org/entity/Q2208597	Kam Air Flight 904
+http://www.wikidata.org/entity/Q1514690	1958 Tybee Island mid-air collision
+http://www.wikidata.org/entity/Q2375128	1979 Dniprodzerzhynsk mid-air collision
+http://www.wikidata.org/entity/Q952728	2017 Turkish Airlines cargo plane crash
+http://www.wikidata.org/entity/Q1459010	Northwest Airlines Flight 255
+http://www.wikidata.org/entity/Q2078823	1960 New York air disaster
+http://www.wikidata.org/entity/Q2753195	Grand Canyon Airlines Flight 6
+http://www.wikidata.org/entity/Q2909812	1997 Israeli helicopter disaster
+http://www.wikidata.org/entity/Q3046072	Air Algérie Flight 6289
+http://www.wikidata.org/entity/Q3002158	Proteus Airlines Flight 706
+http://www.wikidata.org/entity/Q3299165	Varig Flight 797
+http://www.wikidata.org/entity/Q2948131	Aeroflot Flight 8381
+http://www.wikidata.org/entity/Q2677721	AeroUnion Flight 302
+http://www.wikidata.org/entity/Q3997251	Green Cross Tragedy
+http://www.wikidata.org/entity/Q4055782	1961 Ndola United Nations DC-6 crash
+http://www.wikidata.org/entity/Q3267605	Varig Flight 820
+http://www.wikidata.org/entity/Q2495117	United Airlines Flight 736
+http://www.wikidata.org/entity/Q2983513	1973 Nantes Mid-Air Collision
+http://www.wikidata.org/entity/Q54933321	Delta Air Lines Flight 1080
+http://www.wikidata.org/entity/Q63490143	Aeroflot Flight 1492
+http://www.wikidata.org/entity/Q83569189	Delta Air Lines Flight 89
+http://www.wikidata.org/entity/Q56275150	Air Vanuatu Flight 241
+http://www.wikidata.org/entity/Q95131845	Southwest Airlines Flight 1392
+http://www.wikidata.org/entity/Q96370225	2020 East African Express Airways Brasilia crash
+http://www.wikidata.org/entity/Q16821708	SpaceX CRS-7
+http://www.wikidata.org/entity/Q16702239	1969 Yukhnov mid-air collision
+http://www.wikidata.org/entity/Q16662613	1993 Tajik Air Yakovlev Yak-40 incident
+http://www.wikidata.org/entity/Q16710094	2001 Grozny Mi-8 crash
+http://www.wikidata.org/entity/Q16662643	Aeroflot Flight 1080
+http://www.wikidata.org/entity/Q16824391	1958 BOAC Bristol Britannia crash
+http://www.wikidata.org/entity/Q16820731	Fairfax, California B-17 Crash
+http://www.wikidata.org/entity/Q16662589	Aeroflot Flight 2306
+http://www.wikidata.org/entity/Q16825829	1946 American Overseas Airlines Douglas DC-4 crash
+http://www.wikidata.org/entity/Q4571094	1963 Elephant Mountain B-52 crash
+http://www.wikidata.org/entity/Q4571879	1965 Carmel mid-air collision
+http://www.wikidata.org/entity/Q4576015	1974 British Airways bombing attempt
+http://www.wikidata.org/entity/Q4577574	1977 Aviateca Convair 240 crash
+http://www.wikidata.org/entity/Q4577626	1977 Dan-Air Boeing 707 crash
+http://www.wikidata.org/entity/Q4578177	1978 Iranian Chinook shootdown
+http://www.wikidata.org/entity/Q4571544	1964 Machida F-8 crash
+http://www.wikidata.org/entity/Q4577873	1977 Yokohama F-4 crash
+http://www.wikidata.org/entity/Q4578073	1978 Balkan Bulgarian Tupolev Tu-134 crash
+http://www.wikidata.org/entity/Q4575544	EgyptAir Flight 741
+http://www.wikidata.org/entity/Q4571933	1965 Little Baldon Hastings accident
+http://www.wikidata.org/entity/Q4570484	Turkish Airlines Flight 835
+http://www.wikidata.org/entity/Q4572010	1965 Skyways Coach-Air Avro 748 crash
+http://www.wikidata.org/entity/Q4572306	1966 Felthorpe Trident crash
+http://www.wikidata.org/entity/Q4574667	1971 January 22 Surgut Aeroflot Antonov An-12 crash
+http://www.wikidata.org/entity/Q4575176	1972 Thandwe crash
+http://www.wikidata.org/entity/Q4569721	TAI Flight 307
+http://www.wikidata.org/entity/Q4575535	1973 DeKalb-Peachtree Airport Learjet 24 crash
+http://www.wikidata.org/entity/Q4578076	1978 British Army Gazelle downing
+http://www.wikidata.org/entity/Q4570300	1961 Cincinnati Zantop DC-4 crash
+http://www.wikidata.org/entity/Q4570317	1961 Derby Aviation crash
+http://www.wikidata.org/entity/Q4570329	1961 F-84 Thunderstreak incident
+http://www.wikidata.org/entity/Q4570678	1962 Avensa Fairchild F-27 accident
+http://www.wikidata.org/entity/Q4571624	1964 Savage Mountain B-52 crash
+http://www.wikidata.org/entity/Q4571060	1963 BAC One-Eleven test crash
+http://www.wikidata.org/entity/Q4571991	1965 Philippine Sea A-4 incident
+http://www.wikidata.org/entity/Q4573060	1968 Heathrow BKS Air Transport Airspeed Ambassador crash
+http://www.wikidata.org/entity/Q4573536	1969 EC-121 shootdown incident
+http://www.wikidata.org/entity/Q4574523	1971 Indian Airlines hijacking
+http://www.wikidata.org/entity/Q4577581	1977 Benghazi Libyan Arab Airlines Tu-154 crash
+http://www.wikidata.org/entity/Q4569730	1959 Transair Douglas Dakota accident
+http://www.wikidata.org/entity/Q4572362	1966 NASA T-38 crash
+http://www.wikidata.org/entity/Q4573472	1969 Aswan Ilyushin Il-18 crash
+http://www.wikidata.org/entity/Q4574979	1972 Chicago-O'Hare runway collision
+http://www.wikidata.org/entity/Q4575422	Aeroflot Flight 141 (1973)
+http://www.wikidata.org/entity/Q4570694	1962 Channel Airways Dakota accident
+http://www.wikidata.org/entity/Q4571641	1964 T-39 shootdown incident
+http://www.wikidata.org/entity/Q4574525	1971 Indian Ocean Vickers Viscount crash
+http://www.wikidata.org/entity/Q4577674	1977 Israeli Air Force Sikorsky CH-53 Sea Stallion crash
+http://www.wikidata.org/entity/Q4562424	Channel Disaster
+http://www.wikidata.org/entity/Q4562426	Godstone air disaster
+http://www.wikidata.org/entity/Q4567765	1953 Mediterranean Sea mid-air collision
+http://www.wikidata.org/entity/Q4571879	1965 Carmel mid-air collision
+http://www.wikidata.org/entity/Q4581131	1983 Negev mid-air collision
+http://www.wikidata.org/entity/Q4609127	2007 Phoenix news helicopter collision
+http://www.wikidata.org/entity/Q4581223	1983 TAAG Angola Airlines 737 Boeing crash
+http://www.wikidata.org/entity/Q4117937	Libyan Arab Airlines Flight 1103
+http://www.wikidata.org/entity/Q4202305	1981 Armenia mid-air collision
+http://www.wikidata.org/entity/Q4562069	Sevenoaks air disaster
+http://www.wikidata.org/entity/Q4562602	1930 Air Union crash
+http://www.wikidata.org/entity/Q4566258	1948 Gatow air disaster
+http://www.wikidata.org/entity/Q4626540	2012 Philippines Piper Seneca crash
+http://www.wikidata.org/entity/Q4731275	Allegheny Airlines Flight 853
+http://www.wikidata.org/entity/Q4585026	1989 Alice Springs hot air balloon crash
+http://www.wikidata.org/entity/Q4566545	1949 Exhall mid-air collision
+http://www.wikidata.org/entity/Q4568343	1955 Cincinnati mid-air collision
+http://www.wikidata.org/entity/Q4697779	Air Canada Flight 189
+http://www.wikidata.org/entity/Q4697994	Air France Flight 406
+http://www.wikidata.org/entity/Q4561351	Ivinghoe Beacon plane crash
+http://www.wikidata.org/entity/Q4564700	1940 Brocklesby mid-air collision
+http://www.wikidata.org/entity/Q4729190	All Nippon Airways Flight 58
+http://www.wikidata.org/entity/Q4560836	Golders Green air disaster
+http://www.wikidata.org/entity/Q4588340	1993 Auckland mid-air collision
+http://www.wikidata.org/entity/Q4613452	2009 California mid-air collision
+http://www.wikidata.org/entity/Q4613973	2009 huesca River mid-air collision
+http://www.wikidata.org/entity/Q4614055	2009 Iranian Air Force Il-76MD Adnan 2 accident
+http://www.wikidata.org/entity/Q4688298	Aerolíneas Argentinas Flight 644
+http://www.wikidata.org/entity/Q4742960	American Airlines Flight 910
+http://www.wikidata.org/entity/Q5008500	CAAC Flight 3303
+http://www.wikidata.org/entity/Q5035450	Capital Airlines Flight 75
+http://www.wikidata.org/entity/Q5192133	Cubana de Aviación Flight 493
+http://www.wikidata.org/entity/Q7538136	Skywest Airlines Flight 1834
+http://www.wikidata.org/entity/Q4742943	American Airlines Flight 28
+http://www.wikidata.org/entity/Q5933331	Hughes Airwest Flight 706
+http://www.wikidata.org/entity/Q5035448	Capital Airlines Flight 67
+http://www.wikidata.org/entity/Q5099905	China Southern Airlines Flight 3943
+http://www.wikidata.org/entity/Q5603101	Green Ramp disaster
+http://www.wikidata.org/entity/Q7672520	TWA Flight 553
+http://www.wikidata.org/entity/Q10843965	1983 Guilin Airport collision
+http://www.wikidata.org/entity/Q5035447	Capital Airlines Flight 20
+http://www.wikidata.org/entity/Q5165237	Continental Airlines Flight 1713
+http://www.wikidata.org/entity/Q5166154	Convent Crash
+http://www.wikidata.org/entity/Q5579958	Golden West Airlines Flight 261
+http://www.wikidata.org/entity/Q7123099	Pacoima aircraft accident
+http://www.wikidata.org/entity/Q14714402	1972 Lake Winnebago mid-air collision
+http://www.wikidata.org/entity/Q15080583	1993 Tehran mid-air collision
+http://www.wikidata.org/entity/Q4820512	Hurst air disaster
+http://www.wikidata.org/entity/Q4816543	Atlantic Southeast Airlines Flight 2254
+http://www.wikidata.org/entity/Q4969943	British European Airways Flight 142
+http://www.wikidata.org/entity/Q5329962	Eastern Air Lines Flight 45
+http://www.wikidata.org/entity/Q5454216	First mid-air collision of airliners
+http://www.wikidata.org/entity/Q5454216	First mid-air collision of airliners
+http://www.wikidata.org/entity/Q7191488	Piedmont Airlines Flight 22
+http://www.wikidata.org/entity/Q15262592	Northwood mid-air collision
+http://www.wikidata.org/entity/Q16827138	1982 Aerocondor DHC-4 Caribou accident
+http://www.wikidata.org/entity/Q16891192	2014 Lao People's Liberation Army Air Force An-74 crash
+http://www.wikidata.org/entity/Q16902160	TWA Flight 277
+http://www.wikidata.org/entity/Q16984281	1972 Sacramento Canadair Sabre accident
+http://www.wikidata.org/entity/Q16974298	Continental Airlines Flight 603
+http://www.wikidata.org/entity/Q17015830	Northeast Airlines Flight 258
+http://www.wikidata.org/entity/Q16983340	Pan Am Flight 923
+http://www.wikidata.org/entity/Q16985021	Standard Air Lines Flight 897R
+http://www.wikidata.org/entity/Q16852705	Knight Air Flight 816
+http://www.wikidata.org/entity/Q16932230	1949 Manchester BEA Douglas DC-3 accident
+http://www.wikidata.org/entity/Q16961079	Allegheny Airlines Flight 485
+http://www.wikidata.org/entity/Q17069589	2002 Prestige Airlines Boeing 707 crash
+http://www.wikidata.org/entity/Q16982409	National Airlines Flight 16
+http://www.wikidata.org/entity/Q16985739	Transocean Air Lines Flight 512
+http://www.wikidata.org/entity/Q16826107	1958 Aviaco SNCASE Languedoc crash
+http://www.wikidata.org/entity/Q16868848	2012 Queensland DH.84 Dragon crash
+http://www.wikidata.org/entity/Q16902099	Turkish Airlines Flight 301
+http://www.wikidata.org/entity/Q16970536	Aeropesca Colombia Flight 217
+http://www.wikidata.org/entity/Q16960378	Aeropesca Colombia Flight 221
+http://www.wikidata.org/entity/Q16983329	Aviogenex Flight 130
+http://www.wikidata.org/entity/Q17027651	United Airlines Flight 2885
+http://www.wikidata.org/entity/Q17101041	Olympic Airways Flight 830
+http://www.wikidata.org/entity/Q17181586	2014 Ukrainian Air Force Il-76 shootdown
+http://www.wikidata.org/entity/Q16846287	Iberia Airlines Flight 062
+http://www.wikidata.org/entity/Q16895918	1974 Norfolk mid-air collision
+http://www.wikidata.org/entity/Q16894153	LIAT Flight 319
+http://www.wikidata.org/entity/Q16984127	1960 Rio de Janeiro air crash
+http://www.wikidata.org/entity/Q17058804	1986 Sudan Airways Fokker F-27 shootdown
+http://www.wikidata.org/entity/Q16999014	Nigeria Airways Flight 825
+http://www.wikidata.org/entity/Q16971150	1948 Los Gatos DC-3 crash
+http://www.wikidata.org/entity/Q16971167	1949 Strato-Freight Curtiss C-46A crash
+http://www.wikidata.org/entity/Q16961270	American Airlines Flight 1 (1936)
+http://www.wikidata.org/entity/Q16958964	Northwest Airlines Flight 188
+http://www.wikidata.org/entity/Q16927543	Whyalla Airlines Flight 904
+http://www.wikidata.org/entity/Q17074968	Ethiopian Air Lines Flight 372
+http://www.wikidata.org/entity/Q17143589	Si Fly Flight 3275
+http://www.wikidata.org/entity/Q16949343	1962 Turkish Airlines Taurus Mountains crash
+http://www.wikidata.org/entity/Q16960383	Aeroservicios Ecuatorianos Flight 767-103
+http://www.wikidata.org/entity/Q16974827	Flagship Airlines Flight 3379
+http://www.wikidata.org/entity/Q16986203	Inex-Adria Aviopromet Flight 450
+http://www.wikidata.org/entity/Q17017873	United Airlines Flight 553
+http://www.wikidata.org/entity/Q16825968	1952 Air France SNCASE Languedoc crash
+http://www.wikidata.org/entity/Q16851016	1938 Jersey Airport disaster
+http://www.wikidata.org/entity/Q16973631	1998 Occidental Petroleum Boeing 737 crash
+http://www.wikidata.org/entity/Q16986023	USAAF Boeing B-17 crash on North Barrule
+http://www.wikidata.org/entity/Q4581131	1983 Negev mid-air collision
+http://www.wikidata.org/entity/Q4591568	1996 New Hampshire Learjet crash
+http://www.wikidata.org/entity/Q4597179	2000 Australia Beechcraft King Air crash
+http://www.wikidata.org/entity/Q4600186	2002 Jalandhar MiG-21 crash
+http://www.wikidata.org/entity/Q4600461	2002 Shelkovskaya Mi-8 crash
+http://www.wikidata.org/entity/Q4604515	2005 Logan Airport runway incursion
+http://www.wikidata.org/entity/Q4582419	1985 Narita International Airport bombing
+http://www.wikidata.org/entity/Q4589707	1994 Scotland RAF Chinook crash
+http://www.wikidata.org/entity/Q4593767	1998 MIAT Mongolian Airlines crash
+http://www.wikidata.org/entity/Q4599679	2002 Africa One Antonov An-26 crash
+http://www.wikidata.org/entity/Q4581582	1984 Balkan Bulgarian Tupolev Tu-134 crash
+http://www.wikidata.org/entity/Q4585026	1989 Alice Springs hot air balloon crash
+http://www.wikidata.org/entity/Q4589262	1994 British Army Lynx shootdown
+http://www.wikidata.org/entity/Q4593350	1998 Ariana Afghan Airlines crash
+http://www.wikidata.org/entity/Q4599792	2002 Bristow Helicopters Sikorsky S-76A crash
+http://www.wikidata.org/entity/Q4604214	2005 Equatorial Express crash
+http://www.wikidata.org/entity/Q4580640	1982 Thunderbirds Indian Springs Diamond Crash
+http://www.wikidata.org/entity/Q4582156	1985 Aeroflot Antonov An-12 shoot-down
+http://www.wikidata.org/entity/Q4582884	1986 British International Helicopters Chinook crash
+http://www.wikidata.org/entity/Q4583866	1987 Ramada Inn Corsair crash
+http://www.wikidata.org/entity/Q4584351	1988 British International Helicopters Sikorsky S-61N crash
+http://www.wikidata.org/entity/Q4590155	1995 Air St. Martin Beech 1900 crash
+http://www.wikidata.org/entity/Q4602849	2004 Hendrick Motorsports aircraft crash
+http://www.wikidata.org/entity/Q4578905	1979 Turkish Airlines Ankara crash
+http://www.wikidata.org/entity/Q4579750	1981 Bristow Helicopters Westland Wessex crash
+http://www.wikidata.org/entity/Q4580452	1982 Garuda Fokker F28 crash
+http://www.wikidata.org/entity/Q4595096	1999 South Dakota Learjet crash
+http://www.wikidata.org/entity/Q4604680	2005 Nias Island Sea King crash
+http://www.wikidata.org/entity/Q4605679	2006 Afghan hijackers case
+http://www.wikidata.org/entity/Q4590181	1995 Antonov An-70 prototype crash
+http://www.wikidata.org/entity/Q4593756	1998 Lignes Aériennes Congolaises crash
+http://www.wikidata.org/entity/Q4601742	2003 Polish Air Force Mi-8 crash
+http://www.wikidata.org/entity/Q4587819	1992 Nigerian Air Force C-130 crash
+http://www.wikidata.org/entity/Q4588616	1993 Llyn Padarn helicopter crash
+http://www.wikidata.org/entity/Q4594461	1999 Air Botswana incident
+http://www.wikidata.org/entity/Q4600673	2002 airtanker crashes
+http://www.wikidata.org/entity/Q4600175	Aeromist-Kharkiv Flight 2137
+http://www.wikidata.org/entity/Q4578702	1979 Garuda Fokker F28 crash
+http://www.wikidata.org/entity/Q4579944	1981 Panamanian Air Force Twin Otter crash
+http://www.wikidata.org/entity/Q4580923	1983 Avensa Douglas DC-9 crash
+http://www.wikidata.org/entity/Q4580942	1983 British Airways Sikorsky S-61 crash
+http://www.wikidata.org/entity/Q4585232	1989 Jamba Hercules crash
+http://www.wikidata.org/entity/Q4588340	1993 Auckland mid-air collision
+http://www.wikidata.org/entity/Q4598489	2001 Avjet Aspen crash
+http://www.wikidata.org/entity/Q17282241	2014 Olsberg mid-air collision
+http://www.wikidata.org/entity/Q17374096	Malaysia Airlines Flight 17
+http://www.wikidata.org/entity/Q17353891	Nürnberger Flugdienst Flight 108
+http://www.wikidata.org/entity/Q15697985	1955 Altensteig mid-air collision
+http://www.wikidata.org/entity/Q15644543	Aeroflot Flight 811
+http://www.wikidata.org/entity/Q17282241	2014 Olsberg mid-air collision
+http://www.wikidata.org/entity/Q20986940	1963 Ankara mid-air collision
+http://www.wikidata.org/entity/Q16702239	1969 Yukhnov mid-air collision
+http://www.wikidata.org/entity/Q24944527	2000 Zion mid-air collision
+http://www.wikidata.org/entity/Q5933282	1981 Iranian Air Force C-130 crash
+http://www.wikidata.org/entity/Q16895918	1974 Norfolk mid-air collision
+http://www.wikidata.org/entity/Q16984127	1960 Rio de Janeiro air crash
+http://www.wikidata.org/entity/Q19523169	Villa Castelli helicopter collision
+http://www.wikidata.org/entity/Q5656105	Spantax Flight 275
+http://www.wikidata.org/entity/Q20646778	2015 Moncks Corner mid-air collision
+http://www.wikidata.org/entity/Q20828539	1997 Namibia mid-air collision
+http://www.wikidata.org/entity/Q20870682	2015 Červený Kameň mid-air collision
+http://www.wikidata.org/entity/Q76500676	2019 Ménaka helicopter crash
+http://www.wikidata.org/entity/Q20311862	2007 helicopter mid-air collision in Austria
+http://www.wikidata.org/entity/Q21608838	2015 Senegal mid-air collision
+http://www.wikidata.org/entity/Q6164992	West Caribbean Airways Flight 9955
+http://www.wikidata.org/entity/Q4606241	2006 Falsterbo Swedish Coast Guard crash
+http://www.wikidata.org/entity/Q4609109	2007 Paramount Airlines Mil Mi-8 crash
+http://www.wikidata.org/entity/Q4611145	2008 Guam B-52 crash
+http://www.wikidata.org/entity/Q4614584	2009 Pel-Air Westwind ditching
+http://www.wikidata.org/entity/Q4616572	2010 Alaska Turbo Otter crash
+http://www.wikidata.org/entity/Q4616571	2010 Alaska C-17 crash
+http://www.wikidata.org/entity/Q4612004	Blue Wing Airlines 2008 plane crash
+http://www.wikidata.org/entity/Q4609127	2007 Phoenix news helicopter collision
+http://www.wikidata.org/entity/Q4607112	2006 Vladikavkaz Mi-8 crash
+http://www.wikidata.org/entity/Q4608517	2007 Free Airlines L-410 crash
+http://www.wikidata.org/entity/Q4609229	2007 San Francisco International Airport runway incursion
+http://www.wikidata.org/entity/Q4614016	2009 Ilyushin Il-76 crash
+http://www.wikidata.org/entity/Q4616557	2010 Air Service Berlin Douglas C-47 crash
+http://www.wikidata.org/entity/Q4618017	2010 Fox Glacier FU-24 crash
+http://www.wikidata.org/entity/Q4625955	2012 Katanga Express Gulfstream IV crash
+http://www.wikidata.org/entity/Q4607840	2007 Abkhazia plane downing incident
+http://www.wikidata.org/entity/Q4611873	2008 San Diego F/A-18 crash
+http://www.wikidata.org/entity/Q4616841	2010 Cameroon Aéro Service CASA C-212 Aviocar crash
+http://www.wikidata.org/entity/Q4608028	2007 Balad aircraft crash
+http://www.wikidata.org/entity/Q4611461	2008 Macedonian Armed Forces Mil Mi-17 crash
+http://www.wikidata.org/entity/Q4611923	2008 South Carolina Learjet 60 crash
+http://www.wikidata.org/entity/Q4613202	2009 Andhra Pradesh Chief Minister helicopter crash
+http://www.wikidata.org/entity/Q4613880	2009 Gabonese Eurocopter AS 532 crash
+http://www.wikidata.org/entity/Q4614261	2009 Manaus Aerotáxi crash
+http://www.wikidata.org/entity/Q4618088	2010 Okhaldhunga Twin Otter crash
+http://www.wikidata.org/entity/Q4622567	2011 Pawan Hans Mi-17 crash
+http://www.wikidata.org/entity/Q4613375	2009 Bond Helicopters Eurocopter AS332 crash
+http://www.wikidata.org/entity/Q4626051	2012 Ljubljana Marshes hot air balloon crash
+http://www.wikidata.org/entity/Q4606632	2006 Morecambe Bay helicopter crash
+http://www.wikidata.org/entity/Q4620729	2011 Chilean Air Force CASA 212 crash
+http://www.wikidata.org/entity/Q4609257	2007 Shatoy Mi-8 crash
+http://www.wikidata.org/entity/Q4610566	2008 Aéreo Ruta Maya crash
+http://www.wikidata.org/entity/Q4606594	2006 Mercy Air Bell 412 crash
+http://www.wikidata.org/entity/Q4610613	2008 Biggin Hill Cessna Citation crash
+http://www.wikidata.org/entity/Q4613320	2009 Aéro-Frêt Antonov An-12 crash
+http://www.wikidata.org/entity/Q4614576	2009 Pakistan Army Mil Mi-17 crash
+http://www.wikidata.org/entity/Q4620452	2011 Avis Amur Antonov An-12 crash
+http://www.wikidata.org/entity/Q4620492	2011 Manila Beechcraft Queen Air crash
+http://www.wikidata.org/entity/Q4626654	2012 South African Air Force C-47 crash
+http://www.wikidata.org/entity/Q4606803	2006 People's Liberation Army Air Force KJ-200 crash
+http://www.wikidata.org/entity/Q4608078	Blue Angels airshow crash
+http://www.wikidata.org/entity/Q4610763	2008 Chișinău Antonov An-32 crash
+http://www.wikidata.org/entity/Q4610813	2008 Conviasa Boeing 737 crash
+http://www.wikidata.org/entity/Q4613452	2009 California mid-air collision
+http://www.wikidata.org/entity/Q4613973	2009 huesca River mid-air collision
+http://www.wikidata.org/entity/Q4614055	2009 Iranian Air Force Il-76MD Adnan 2 accident
+http://www.wikidata.org/entity/Q4614274	2009 Medair Bell 206 crash
+http://www.wikidata.org/entity/Q4625098	2012 Carterton hot air balloon crash
+http://www.wikidata.org/entity/Q4607752	2006–2007 Brazilian aviation crisis
+http://www.wikidata.org/entity/Q17509619	1952 Mount Gannett C-124 crash
+http://www.wikidata.org/entity/Q17512864	2013 Ethiopian Air Force An-12 crash
+http://www.wikidata.org/entity/Q17509912	Commonwealth Commuter Flight 317
+http://www.wikidata.org/entity/Q17616278	US Navy F/A-18 Hornet crash in Virginia Beach
+http://www.wikidata.org/entity/Q17985148	1958 Mars Bluff B-47 nuclear weapon loss incident
+http://www.wikidata.org/entity/Q17410088	Air Algérie Flight 5017
+http://www.wikidata.org/entity/Q17496200	Sepahan Airlines Flight 5915
+http://www.wikidata.org/entity/Q17985138	1950 Rivière-du-Loup B-50 nuclear weapon loss incident
+http://www.wikidata.org/entity/Q17505930	2014 Cessna Citation 560 XLS+ crash
+http://www.wikidata.org/entity/Q17494984	Aeroflot Flight 207
+http://www.wikidata.org/entity/Q4688265	Aeroflot Flight 505
+http://www.wikidata.org/entity/Q4688261	Aeroflot Flight 331
+http://www.wikidata.org/entity/Q4688263	Aeroflot Flight 3932
+http://www.wikidata.org/entity/Q4688478	Aerosvit Flight 241
+http://www.wikidata.org/entity/Q4651994	AIRES Flight 8250
+http://www.wikidata.org/entity/Q4655029	AVAir Flight 3378
+http://www.wikidata.org/entity/Q4688296	Aerolíneas Argentinas Flight 386
+http://www.wikidata.org/entity/Q4688260	Aeroflot Flight 217
+http://www.wikidata.org/entity/Q4690967	Agadir air disaster
+http://www.wikidata.org/entity/Q4652401	ALM Flight 980
+http://www.wikidata.org/entity/Q4651082	ADC Airlines Flight 86
+http://www.wikidata.org/entity/Q4688264	Aeroflot Flight 418
+http://www.wikidata.org/entity/Q4688302	Aerolíneas Argentinas Flight 707
+http://www.wikidata.org/entity/Q4688400	Aeropostal Alas de Venezuela Flight 108
+http://www.wikidata.org/entity/Q4688217	Aerocaribe Flight 7831
+http://www.wikidata.org/entity/Q4688331	Aeroméxico Flight 230
+http://www.wikidata.org/entity/Q4688266	Aeroflot Flight 964
+http://www.wikidata.org/entity/Q4688341	Aeroméxico Flight 229
+http://www.wikidata.org/entity/Q4697723	Air Algérie Flight 2208
+http://www.wikidata.org/entity/Q4698108	Air New England Flight 248
+http://www.wikidata.org/entity/Q4698807	Airlink Flight 8911
+http://www.wikidata.org/entity/Q4697990	Air France Flight 212 (1968)
+http://www.wikidata.org/entity/Q4697767	Air Bridge Denial Program
+http://www.wikidata.org/entity/Q4698221	Air Transat Flight 961
+http://www.wikidata.org/entity/Q4697989	Air France Flight 2005
+http://www.wikidata.org/entity/Q4698026	Air Illinois Flight 710
+http://www.wikidata.org/entity/Q4698206	Air Tahoma Flight 185
+http://www.wikidata.org/entity/Q4698032	Air India Flight 403
+http://www.wikidata.org/entity/Q4729190	All Nippon Airways Flight 58
+http://www.wikidata.org/entity/Q4697992	Air France Flight 007
+http://www.wikidata.org/entity/Q4729188	All Nippon Airways Flight 533
+http://www.wikidata.org/entity/Q4697725	Air Algérie Flight 702P
+http://www.wikidata.org/entity/Q4697993	Air France Flight 212 (1969)
+http://www.wikidata.org/entity/Q4698060	Air Lanka Flight 512
+http://www.wikidata.org/entity/Q4698170	Air Rhodesia Flight 827
+http://www.wikidata.org/entity/Q4708491	Alaska Airlines Flight 1866
+http://www.wikidata.org/entity/Q4698253	Air Vietnam Flight 706 hijacking
+http://www.wikidata.org/entity/Q4708406	Alas Chiricanas Flight 901
+http://www.wikidata.org/entity/Q4729189	All Nippon Airways Flight 60
+http://www.wikidata.org/entity/Q4729199	All Nippon Airways Flight 61
+http://www.wikidata.org/entity/Q7076876	Leigh air disaster
+http://www.wikidata.org/entity/Q8025209	Wingfoot Air Express crash
+http://www.wikidata.org/entity/Q16891192	2014 Lao People's Liberation Army Air Force An-74 crash
+http://www.wikidata.org/entity/Q7915893	Varig Flight 837
+http://www.wikidata.org/entity/Q10356047	Verona air disaster
+http://www.wikidata.org/entity/Q7059916	Wayne County Airport runway collision
+http://www.wikidata.org/entity/Q7059917	Northwest Airlines Flight 1
+http://www.wikidata.org/entity/Q12033079	ČSA Flight 540
+http://www.wikidata.org/entity/Q15726739	2014 Algerian Air Force C-130 crash
+http://www.wikidata.org/entity/Q15831524	Royal Air Force NS11 crash
+http://www.wikidata.org/entity/Q6555483	Lionair Flight 602
+http://www.wikidata.org/entity/Q6796267	Monsures air disaster
+http://www.wikidata.org/entity/Q17404012	TransAsia Airways Flight 222
+http://www.wikidata.org/entity/Q17015125	China Airlines Flight 2265
+http://www.wikidata.org/entity/Q15224161	Caungula air disaster
+http://www.wikidata.org/entity/Q18151865	Oklahoma State Cowgirls basketball team plane crash
+http://www.wikidata.org/entity/Q17985165	1969 Newton Cessna 172 crash
+http://www.wikidata.org/entity/Q17540707	Fine Air Flight 101
+http://www.wikidata.org/entity/Q18910392	2015 Hellenic Air Force F-16 Los Llanos Air Base crash
+http://www.wikidata.org/entity/Q18683047	AirAsia Flight 8501
+http://www.wikidata.org/entity/Q17985130	1943 Saint-Donat RCAF Liberator III Crash
+http://www.wikidata.org/entity/Q18821635	2015 Syrian Air Force An-26 crash
+http://www.wikidata.org/entity/Q4731272	Allegheny Airlines Flight 736
+http://www.wikidata.org/entity/Q4731274	Allegheny Airlines Flight 737
+http://www.wikidata.org/entity/Q4742940	American Airlines Flight 1572
+http://www.wikidata.org/entity/Q4742953	American Airlines Flight 63 (Flagship Missouri)
+http://www.wikidata.org/entity/Q4742960	American Airlines Flight 910
+http://www.wikidata.org/entity/Q4743789	American Flyers Flight 280
+http://www.wikidata.org/entity/Q4770648	Ansett New Zealand Flight 703
+http://www.wikidata.org/entity/Q4816544	Atlantic Southeast Airlines Flight 2311
+http://www.wikidata.org/entity/Q4816365	United Express Flight 6291
+http://www.wikidata.org/entity/Q4731275	Allegheny Airlines Flight 853
+http://www.wikidata.org/entity/Q4742943	American Airlines Flight 28
+http://www.wikidata.org/entity/Q4742957	American Airlines Flight 6780
+http://www.wikidata.org/entity/Q4743650	American Eagle Flight 5456
+http://www.wikidata.org/entity/Q4770643	Ansett-ANA Flight 325
+http://www.wikidata.org/entity/Q4820510	East Malling air disaster
+http://www.wikidata.org/entity/Q4823381	Austral Líneas Aéreas Flight 46
+http://www.wikidata.org/entity/Q4742941	American Airlines Flight 2
+http://www.wikidata.org/entity/Q4742948	American Airlines Flight 320
+http://www.wikidata.org/entity/Q4806746	Asian Spirit Flight 100
+http://www.wikidata.org/entity/Q4790210	Ariana Afghan Airlines Flight 202
+http://www.wikidata.org/entity/Q4790211	Ariana Afghan Airlines Flight 701
+http://www.wikidata.org/entity/Q4793024	Armed Forces of the Russian Federation Flight 9064
+http://www.wikidata.org/entity/Q4742942	American Airlines Flight 157
+http://www.wikidata.org/entity/Q4742946	American Airlines Flight 383
+http://www.wikidata.org/entity/Q4742954	American Airlines Flight 444
+http://www.wikidata.org/entity/Q4742955	American Airlines Flight 63 (Flagship Ohio)
+http://www.wikidata.org/entity/Q4747815	Amos-6
+http://www.wikidata.org/entity/Q4749663	An-24 incident at Gambell, Alaska
+http://www.wikidata.org/entity/Q4742949	American Airlines Flight 625
+http://www.wikidata.org/entity/Q4743649	American Eagle Flight 5452
+http://www.wikidata.org/entity/Q4816543	Atlantic Southeast Airlines Flight 2254
+http://www.wikidata.org/entity/Q4823384	Austral Líneas Aéreas Flight 901
+http://www.wikidata.org/entity/Q4742959	American Airlines Flight 723
+http://www.wikidata.org/entity/Q4770640	Ansett-ANA Flight 149
+http://www.wikidata.org/entity/Q17996745	Aeroflot Flight 4
+http://www.wikidata.org/entity/Q18148724	Henson Airlines Flight 1517
+http://www.wikidata.org/entity/Q18398555	1970 Atlantic Ocean Antonov An-22 crash
+http://www.wikidata.org/entity/Q18336327	Pulkovo Aviation Enterprise Flight 9045
+http://www.wikidata.org/entity/Q18387417	TWA Flight 6963
+http://www.wikidata.org/entity/Q18149796	2001 Marsh Harbour Cessna 402 crash
+http://www.wikidata.org/entity/Q18207072	FedEx Flight 630
+http://www.wikidata.org/entity/Q18398586	Aeroflot Flight 2723
+http://www.wikidata.org/entity/Q18398589	Aeroflot Flight 663
+http://www.wikidata.org/entity/Q18396768	2014 Virgin Galactic crash
+http://www.wikidata.org/entity/Q18398603	1983 Chosonminhang Ilyushin Il-62 crash
+http://www.wikidata.org/entity/Q18088261	1984 Biman Bangladesh Airlines Fokker F27 crash
+http://www.wikidata.org/entity/Q18380400	2014 Wichita plane crash
+http://www.wikidata.org/entity/Q18147604	Aero Flight 217
+http://www.wikidata.org/entity/Q18379387	National Airlines Flight 470
+http://www.wikidata.org/entity/Q4836509	BSAA Star Ariel disappearance
+http://www.wikidata.org/entity/Q4914541	Binter Mediterráneo Flight 8261
+http://www.wikidata.org/entity/Q4828809	Avient Aviation Flight 324
+http://www.wikidata.org/entity/Q4953156	Braathens SAFE Flight 239
+http://www.wikidata.org/entity/Q4957364	Braniff Flight 542
+http://www.wikidata.org/entity/Q4828570	Avianca Flight 671
+http://www.wikidata.org/entity/Q4836175	BOAC Flight 712
+http://www.wikidata.org/entity/Q4832380	Azerbaijan Airlines Flight 217
+http://www.wikidata.org/entity/Q4836516	BSAA Star Tiger disappearance
+http://www.wikidata.org/entity/Q4828151	Avensa Flight 358
+http://www.wikidata.org/entity/Q4849260	Bakers Creek air crash
+http://www.wikidata.org/entity/Q4957358	Braniff Flight 250
+http://www.wikidata.org/entity/Q4969947	British European Airways Flight 548
+http://www.wikidata.org/entity/Q4828576	Avianca Flight 4
+http://www.wikidata.org/entity/Q4835218	BCPA Flight 304
+http://www.wikidata.org/entity/Q4851066	Balkan Bulgarian Airlines Flight 307
+http://www.wikidata.org/entity/Q4857928	Bar Harbor Airlines Flight 1808
+http://www.wikidata.org/entity/Q4969273	Britannia Airways Flight 105
+http://www.wikidata.org/entity/Q4969943	British European Airways Flight 142
+http://www.wikidata.org/entity/Q4828607	Aviateca Flight 901
+http://www.wikidata.org/entity/Q4957361	Braniff Flight 352
+http://www.wikidata.org/entity/Q4919790	Thai Airways International Flight 311
+http://www.wikidata.org/entity/Q4969946	British European Airways Flight S200P
+http://www.wikidata.org/entity/Q19671417	Germanwings Flight 9525
+http://www.wikidata.org/entity/Q18951344	TransAsia Airways Flight 235
+http://www.wikidata.org/entity/Q19000000	Jeju Island military aircraft crash
+http://www.wikidata.org/entity/Q18398632	Malév Flight 110
+http://www.wikidata.org/entity/Q19032749	Alaska Airlines Flight 779
+http://www.wikidata.org/entity/Q18471510	Varig Flight 810
+http://www.wikidata.org/entity/Q18401908	1974 Surgut mid-air collision
+http://www.wikidata.org/entity/Q18535080	2014 Armenian Mil Mi-24 shootdown
+http://www.wikidata.org/entity/Q19569675	Delta Air Lines Flight 1086
+http://www.wikidata.org/entity/Q18398641	1994 Vanavara air disaster
+http://www.wikidata.org/entity/Q18398627	Aeroflot Flight 3
+http://www.wikidata.org/entity/Q19000000	Jeju Island military aircraft crash
+http://www.wikidata.org/entity/Q18543266	Pan Am Flight 799
+http://www.wikidata.org/entity/Q18510562	Vietnam Airlines Flight 474
+http://www.wikidata.org/entity/Q5008496	CAAC Flight 301
+http://www.wikidata.org/entity/Q5026437	Cameroon Airlines Flight 3701
+http://www.wikidata.org/entity/Q5060325	Central American Airways Flight 731
+http://www.wikidata.org/entity/Q5099661	China Eastern Airlines Flight 5398
+http://www.wikidata.org/entity/Q5030418	Canadian Pacific Air Lines Flight 301
+http://www.wikidata.org/entity/Q5099824	China Northwest Airlines Flight 2119
+http://www.wikidata.org/entity/Q5095874	Chicago and Southern Flight 4
+http://www.wikidata.org/entity/Q5099830	China Northwest Airlines Flight 2303
+http://www.wikidata.org/entity/Q5099569	China Airlines Flight 605
+http://www.wikidata.org/entity/Q5099695	China General Aviation Flight 7552
+http://www.wikidata.org/entity/Q5019415	Caledonian Airways Flight 153
+http://www.wikidata.org/entity/Q5025276	Cambrian Airways Liverpool crash
+http://www.wikidata.org/entity/Q5026436	Cameroon Airlines Flight 786
+http://www.wikidata.org/entity/Q5099822	China Northern Airlines Flight 6901
+http://www.wikidata.org/entity/Q4971170	British United Airways Flight 1030X
+http://www.wikidata.org/entity/Q4992083	Sterling Airways Flight 296
+http://www.wikidata.org/entity/Q4985647	Buffalo 461
+http://www.wikidata.org/entity/Q5030419	Canadian Pacific Air Lines Flight 21
+http://www.wikidata.org/entity/Q5099564	China Airlines Flight 204
+http://www.wikidata.org/entity/Q5099566	China Airlines Flight 206
+http://www.wikidata.org/entity/Q5099664	China Eastern Airlines Flight 583
+http://www.wikidata.org/entity/Q5018202	Cal Poly football team plane crash
+http://www.wikidata.org/entity/Q5165240	Continental Airlines Flight 1404
+http://www.wikidata.org/entity/Q5165259	Continental Charters Flight 44-2
+http://www.wikidata.org/entity/Q5192133	Cubana de Aviación Flight 493
+http://www.wikidata.org/entity/Q5150488	Comair Flight 3272
+http://www.wikidata.org/entity/Q5165235	Continental Airlines Flight 12
+http://www.wikidata.org/entity/Q5172397	Corporate Airlines Flight 5966
+http://www.wikidata.org/entity/Q5192131	Cubana de Aviación Flight 310
+http://www.wikidata.org/entity/Q5165300	Continental Micronesia Flight 614
+http://www.wikidata.org/entity/Q5124398	Civil Air Transport Flight 106
+http://www.wikidata.org/entity/Q5192132	Cubana de Aviación Flight 1216
+http://www.wikidata.org/entity/Q5166546	Conviasa Flight 2350
+http://www.wikidata.org/entity/Q5099909	China Southern Airlines Flight 3456
+http://www.wikidata.org/entity/Q5144772	Colgan Air Flight 9446
+http://www.wikidata.org/entity/Q5159340	Condor Flugdienst Flight 3782
+http://www.wikidata.org/entity/Q5161732	Connellan air disaster
+http://www.wikidata.org/entity/Q5168156	Copa Airlines Flight 201
+http://www.wikidata.org/entity/Q5165236	Continental Airlines Flight 11
+http://www.wikidata.org/entity/Q5171725	Cornfield Bomber
+http://www.wikidata.org/entity/Q5178250	Court Line Flight 95
+http://www.wikidata.org/entity/Q19802312	Carson Air Flight 66
+http://www.wikidata.org/entity/Q19882906	Seville A400M crash
+http://www.wikidata.org/entity/Q21334178	2015 Juba plane crash
+http://www.wikidata.org/entity/Q20715108	TWA Flight 15A
+http://www.wikidata.org/entity/Q20870280	1945 Broadway Consolidated Liberator crash
+http://www.wikidata.org/entity/Q19863321	2015 Pakistan Army Mil Mi-17 crash
+http://www.wikidata.org/entity/Q20857716	2015 Shoreham Airshow crash
+http://www.wikidata.org/entity/Q20593793	2015 Indonesia Hercules C-130 crash
+http://www.wikidata.org/entity/Q20743961	2015 Blackbushe Airport crash
+http://www.wikidata.org/entity/Q22927624	Tara Air Flight 193
+http://www.wikidata.org/entity/Q5254567	Delta Air Lines Flight 723
+http://www.wikidata.org/entity/Q5290887	Dominicana DC-9 air disaster
+http://www.wikidata.org/entity/Q5348314	EgyptAir Flight 843
+http://www.wikidata.org/entity/Q5254563	Delta Air Lines Flight 1288
+http://www.wikidata.org/entity/Q5254566	Delta Air Lines Flight 821
+http://www.wikidata.org/entity/Q5329958	Eastern Air Lines Flight 304
+http://www.wikidata.org/entity/Q5348312	EgyptAir Flight 763
+http://www.wikidata.org/entity/Q5213020	Dan-Air Flight 0034
+http://www.wikidata.org/entity/Q5288383	1957 Cebu Douglas C-47 crash
+http://www.wikidata.org/entity/Q5254564	Delta Air Lines Flight 1141
+http://www.wikidata.org/entity/Q5254569	Delta Air Lines Flight 9570
+http://www.wikidata.org/entity/Q5283989	Divi Divi Air Flight 014
+http://www.wikidata.org/entity/Q5339109	Edmonton air crash
+http://www.wikidata.org/entity/Q5213023	Dan-Air Flight 1008
+http://www.wikidata.org/entity/Q5247537	death of Stevie Ray Vaughan
+http://www.wikidata.org/entity/Q5329959	Eastern Air Lines Flight 21
+http://www.wikidata.org/entity/Q5329961	Eastern Air Lines Flight 512
+http://www.wikidata.org/entity/Q5329963	Eastern Air Lines Flight 605
+http://www.wikidata.org/entity/Q5348315	EgyptAir Flight 864
+http://www.wikidata.org/entity/Q5210058	Dakota VT-CLA
+http://www.wikidata.org/entity/Q5247504	death of Muhammad Zia-ul-Haq
+http://www.wikidata.org/entity/Q5325012	Eagle Airways Flight 2279
+http://www.wikidata.org/entity/Q5329956	Eastern Air Lines Flight 212
+http://www.wikidata.org/entity/Q5329960	Eastern Air Lines Flight 375
+http://www.wikidata.org/entity/Q5329962	Eastern Air Lines Flight 45
+http://www.wikidata.org/entity/Q5213021	Dan-Air Flight 240
+http://www.wikidata.org/entity/Q5303099	Downend air crash
+http://www.wikidata.org/entity/Q5192135	Cubana de Aviación Flight 9646
+http://www.wikidata.org/entity/Q19574742	1937 Australian National Airways Stinson crash
+http://www.wikidata.org/entity/Q19574743	1943 RAF Hudson crash
+http://www.wikidata.org/entity/Q19574753	1978 LAV HS 748 accident
+http://www.wikidata.org/entity/Q19574801	2005 Kavatshi Airlines Antonov An-26B crash
+http://www.wikidata.org/entity/Q20007247	Skyway Enterprises Flight 7101
+http://www.wikidata.org/entity/Q19574787	2001 Antonov An-70 Crash
+http://www.wikidata.org/entity/Q19574803	2007 Kongolo Antonov An-32B crash
+http://www.wikidata.org/entity/Q19574800	HMS Richmond helicopter crash
+http://www.wikidata.org/entity/Q19574747	1999 Glasgow Airport Cessna 404 crash
+http://www.wikidata.org/entity/Q19574790	2005 Air Kasai Antonov An-26B crash
+http://www.wikidata.org/entity/Q19574749	American Airlines Flight 514
+http://www.wikidata.org/entity/Q19574756	Pan Am Flight 843
+http://www.wikidata.org/entity/Q19740658	Sriwijaya Air Flight 62
+http://www.wikidata.org/entity/Q19864044	Air Wisconsin Flight 965
+http://www.wikidata.org/entity/Q19574757	1984 TAM – Transportes Aéreos Regionais Bandeirante accident
+http://www.wikidata.org/entity/Q19574789	2015 Eglin Air Force Base helicopter crash
+http://www.wikidata.org/entity/Q19574745	1956 London Heathrow Avro Vulcan crash
+http://www.wikidata.org/entity/Q19907679	Aeroflot Flight 120
+http://www.wikidata.org/entity/Q20312617	1972 B-52C Lake Michigan crash
+http://www.wikidata.org/entity/Q19917124	Aeroflot Flight 19
+http://www.wikidata.org/entity/Q5361613	FedEx Express Flight 647
+http://www.wikidata.org/entity/Q5439889	FedEx Express Flight 14
+http://www.wikidata.org/entity/Q5463546	Flying Tiger Line Flight 739
+http://www.wikidata.org/entity/Q5524466	Garuda Indonesia Flight 150
+http://www.wikidata.org/entity/Q5390512	Southwest Airlines Flight 812
+http://www.wikidata.org/entity/Q5463583	Flying imams incident
+http://www.wikidata.org/entity/Q5494346	Freckleton Air Disaster
+http://www.wikidata.org/entity/Q5461292	Florida Commuter Airlines crash
+http://www.wikidata.org/entity/Q5410510	United Airlines Flight 615
+http://www.wikidata.org/entity/Q5518110	Galaxy Airlines Flight 203
+http://www.wikidata.org/entity/Q5514367	GP Express Flight 861
+http://www.wikidata.org/entity/Q5434554	Far Eastern Air Transport Flight 104
+http://www.wikidata.org/entity/Q5438057	Faucett Flight 251
+http://www.wikidata.org/entity/Q5438752	Manx2 Flight 7100
+http://www.wikidata.org/entity/Q5524465	Garuda Indonesia Flight 035
+http://www.wikidata.org/entity/Q5381891	2013 Luxor hot air balloon crash
+http://www.wikidata.org/entity/Q5493210	Missinippi Airways Cessna 208 crash
+http://www.wikidata.org/entity/Q5463542	Flying Tiger Line Flight 282
+http://www.wikidata.org/entity/Q5463543	Flying Tiger Line Flight 66
+http://www.wikidata.org/entity/Q25080104	Allegheny Airlines Flight 371
+http://www.wikidata.org/entity/Q42851471	Elvetham air crash
+http://www.wikidata.org/entity/Q28810540	2017 Essendon Airport Beechcraft King Air crash
+http://www.wikidata.org/entity/Q48817656	1962 Godthab Catalina crash
+http://www.wikidata.org/entity/Q24147327	2016 Silk Way Airlines Antonov An-12 crash
+http://www.wikidata.org/entity/Q48790186	Necon Air Flight 128
+http://www.wikidata.org/entity/Q48817678	Empire Airlines Flight 8284
+http://www.wikidata.org/entity/Q48425813	Saratov Airlines Flight 703
+http://www.wikidata.org/entity/Q48733551	Blackwater 61 crash
+http://www.wikidata.org/entity/Q48977116	Northwest Airlines Flight 5
+http://www.wikidata.org/entity/Q30612660	August 1942 Dunbeath Air Crash
+http://www.wikidata.org/entity/Q24909534	2016 Air Kasthamandap PAC 750XL crash
+http://www.wikidata.org/entity/Q28231617	National Airlines Flight 83
+http://www.wikidata.org/entity/Q47348434	Pegasus Airlines Flight 8622
+http://www.wikidata.org/entity/Q39058384	Propair Flight 420
+http://www.wikidata.org/entity/Q41982974	2017 Valan International Antonov An-26 crash
+http://www.wikidata.org/entity/Q47472535	2000 East Coast Aviation Services British Aerospace Jetstream crash
+http://www.wikidata.org/entity/Q48853716	Aeroflot Flight 5003
+http://www.wikidata.org/entity/Q28162675	2016 Indonesian Air Force Lockheed C-130 Hercules crash
+http://www.wikidata.org/entity/Q29017862	2016 Indonesian Police PZL M28 Skytruck crash
+http://www.wikidata.org/entity/Q29614301	2017 Aerogaviota Antonov An-26 crash
+http://www.wikidata.org/entity/Q48803300	Air France Flight 5672
+http://www.wikidata.org/entity/Q6019809	Indian Airlines Flight 605
+http://www.wikidata.org/entity/Q5933331	Hughes Airwest Flight 706
+http://www.wikidata.org/entity/Q5603101	Green Ramp disaster
+http://www.wikidata.org/entity/Q5616979	Gujarat Beechcraft incident
+http://www.wikidata.org/entity/Q5684962	Hawker Hunter Tower Bridge incident
+http://www.wikidata.org/entity/Q5704685	Helgoland Island air disaster
+http://www.wikidata.org/entity/Q5983831	Iberia Airlines Flight 401
+http://www.wikidata.org/entity/Q5524468	Garuda Indonesia Flight 708
+http://www.wikidata.org/entity/Q5765923	Hindawi affair
+http://www.wikidata.org/entity/Q6019803	Indian Airlines Flight 257
+http://www.wikidata.org/entity/Q5579958	Golden West Airlines Flight 261
+http://www.wikidata.org/entity/Q5884634	Holtaheia Accident
+http://www.wikidata.org/entity/Q6019807	Indian Airlines Flight 491
+http://www.wikidata.org/entity/Q5684126	Havørn Accident
+http://www.wikidata.org/entity/Q5705347	Helikopter Service Flight 451
+http://www.wikidata.org/entity/Q5656105	Spantax Flight 275
+http://www.wikidata.org/entity/Q6019798	Indian Airlines Flight 440
+http://www.wikidata.org/entity/Q5685629	Hawthorne Nevada Airlines Flight 708
+http://www.wikidata.org/entity/Q6019789	Indian Airlines Flight 113
+http://www.wikidata.org/entity/Q5940948	Braathens SAFE Flight 253
+http://www.wikidata.org/entity/Q5985739	Icelandic Airlines Flight 001
+http://www.wikidata.org/entity/Q18180	Korean Air Lines Flight 007 crash
+http://www.wikidata.org/entity/Q49098663	Iran Aseman Airlines Flight 3704
+http://www.wikidata.org/entity/Q51747221	2018 Algerian Air Force Il-76 crash
+http://www.wikidata.org/entity/Q153570	2011 Reno Air Races crash
+http://www.wikidata.org/entity/Q50404279	2018 Iran Bombardier Challenger crash
+http://www.wikidata.org/entity/Q20880703	National Airlines Flight 101
+http://www.wikidata.org/entity/Q20715028	Prinair Flight 277
+http://www.wikidata.org/entity/Q20811151	Latin Carga Convair CV-880 crash
+http://www.wikidata.org/entity/Q20986940	1963 Ankara mid-air collision
+http://www.wikidata.org/entity/Q20986944	World Airways Flight 830
+http://www.wikidata.org/entity/Q20313323	Bill Graham helicopter crash
+http://www.wikidata.org/entity/Q20714105	Loganair Flight 670A
+http://www.wikidata.org/entity/Q20823597	Trigana Air Service Flight 267
+http://www.wikidata.org/entity/Q20743315	Capital Airlines Flight 300
+http://www.wikidata.org/entity/Q21006061	MASwings Flight 3002
+http://www.wikidata.org/entity/Q20715366	1972 Puerto Rico DC-7 crash
+http://www.wikidata.org/entity/Q20828539	1997 Namibia mid-air collision
+http://www.wikidata.org/entity/Q20937958	EgyptAir Flight 667
+http://www.wikidata.org/entity/Q20986954	Paradise Airlines Flight 901A
+http://www.wikidata.org/entity/Q21012051	2015 Colombia helicopter crash
+http://www.wikidata.org/entity/Q21042789	Aviastar Flight 7503
+http://www.wikidata.org/entity/Q20936223	ČSA Flight 523
+http://www.wikidata.org/entity/Q21012123	1921 SNETA Farman Goliath ditching
+http://www.wikidata.org/entity/Q314087	Ramstein air show disaster
+http://www.wikidata.org/entity/Q211087	Pan Am Flight 103
+http://www.wikidata.org/entity/Q406588	Air India Flight 182
+http://www.wikidata.org/entity/Q335259	1999 F-117A shoot-down
+http://www.wikidata.org/entity/Q766006	Partnair Flight 394
+http://www.wikidata.org/entity/Q743060	Iran Air Flight 655 shootdown
+http://www.wikidata.org/entity/Q1434037	Sknyliv air show disaster
+http://www.wikidata.org/entity/Q1464299	Kaleva
+http://www.wikidata.org/entity/Q1427012	Northwest Airlines Flight 253
+http://www.wikidata.org/entity/Q6164961	Cubana de Aviación Flight 389
+http://www.wikidata.org/entity/Q6156479	Japan Air System Flight 451
+http://www.wikidata.org/entity/Q6156492	Japan Airlines Flight 715
+http://www.wikidata.org/entity/Q6232326	John F. Kennedy, Jr. plane crash
+http://www.wikidata.org/entity/Q6416483	Kish Air Flight 7170
+http://www.wikidata.org/entity/Q6067958	Iraqi Airways Flight 163
+http://www.wikidata.org/entity/Q6156486	Japan Airlines Flight 446
+http://www.wikidata.org/entity/Q6156488	Japan Airlines Flight 471
+http://www.wikidata.org/entity/Q6320218	Jérôme Lohez 9/11 Scholarship Foundation
+http://www.wikidata.org/entity/Q6364195	Kano air disaster
+http://www.wikidata.org/entity/Q6066728	Iran Aseman Airlines Flight 746
+http://www.wikidata.org/entity/Q6143782	Pan Am Flight 202
+http://www.wikidata.org/entity/Q6107732	JAT Airways Flight 769
+http://www.wikidata.org/entity/Q6156491	Japan Airlines Flight 472 (1972)
+http://www.wikidata.org/entity/Q6164969	TACV Flight 5002
+http://www.wikidata.org/entity/Q6046495	Interflug Flight 1107
+http://www.wikidata.org/entity/Q6164938	LAN Chile Flight 107
+http://www.wikidata.org/entity/Q6164949	RUTACA Airlines Flight 225
+http://www.wikidata.org/entity/Q22093745	2016 U.S. Marine helicopter collision
+http://www.wikidata.org/entity/Q22450721	Daallo Airlines Flight 3159
+http://www.wikidata.org/entity/Q22093755	1977 Gary Powers helicopter crash
+http://www.wikidata.org/entity/Q22093749	2015 Fox Glacier helicopter crash
+http://www.wikidata.org/entity/Q22093753	1971 Colorado Aviation Aero Commander 680 crash
+http://www.wikidata.org/entity/Q21400540	Dynamic Airways Flight 405
+http://www.wikidata.org/entity/Q21997387	2005 Loganair Islander accident
+http://www.wikidata.org/entity/Q21995232	West Air Sweden Flight 294
+http://www.wikidata.org/entity/Q22093752	1963 Camden PA-24 crash
+http://www.wikidata.org/entity/Q22093785	Pan Am Flight 121
+http://www.wikidata.org/entity/Q21282782	Metrojet Flight 9268
+http://www.wikidata.org/entity/Q21608838	2015 Senegal mid-air collision
+http://www.wikidata.org/entity/Q22022180	Commutair flight 4281
+http://www.wikidata.org/entity/Q22022413	Downeast Flight 46
+http://www.wikidata.org/entity/Q22093747	Avia Traffic Company Flight 768
+http://www.wikidata.org/entity/Q2475745	Siberia Airlines Flight 1812
+http://www.wikidata.org/entity/Q4568040	1954 Cathay Pacific Douglas DC-4 shootdown
+http://www.wikidata.org/entity/Q4581223	1983 TAAG Angola Airlines 737 Boeing crash
+http://www.wikidata.org/entity/Q2335758	Gulf Air Flight 771
+http://www.wikidata.org/entity/Q7833750	Transair Georgia airliner shootdowns
+http://www.wikidata.org/entity/Q2697152	Avianca Flight 203
+http://www.wikidata.org/entity/Q2869996	Assassination of Juvénal Habyarimana and Cyprien Ntaryamira
+http://www.wikidata.org/entity/Q11311346	Dash 8 landing gear incidents
+http://www.wikidata.org/entity/Q2663474	1942 KNILM Douglas DC-3 shootdown
+http://www.wikidata.org/entity/Q2822723	1973 Paris Air Show crash
+http://www.wikidata.org/entity/Q4698169	Air Rhodesia Flight 825
+http://www.wikidata.org/entity/Q4593756	1998 Lignes Aériennes Congolaises crash
+http://www.wikidata.org/entity/Q4569938	1960 Danish football air crash
+http://www.wikidata.org/entity/Q16868874	1958 C-130 shootdown
+http://www.wikidata.org/entity/Q17181586	2014 Ukrainian Air Force Il-76 shootdown
+http://www.wikidata.org/entity/Q17058804	1986 Sudan Airways Fokker F-27 shootdown
+http://www.wikidata.org/entity/Q17374096	Malaysia Airlines Flight 17
+http://www.wikidata.org/entity/Q16057090	Bakhtar Afghan Airlines shootdown near Kandahar
+http://www.wikidata.org/entity/Q22773990	Reeve Aleutian Airways Flight 8
+http://www.wikidata.org/entity/Q23257919	2016 True Aviation An-26 crash
+http://www.wikidata.org/entity/Q23936619	2016 Turøy helicopter crash
+http://www.wikidata.org/entity/Q23663932	2016 Aero Teknic MU-2 crash
+http://www.wikidata.org/entity/Q22727885	American Airlines Flight 1502
+http://www.wikidata.org/entity/Q23253749	Flydubai Flight 981
+http://www.wikidata.org/entity/Q24039784	Batik Air Flight 7703
+http://www.wikidata.org/entity/Q23808587	1946 Railway Air Services Dakota crash
+http://www.wikidata.org/entity/Q24039782	Pan Am Flight 841
+http://www.wikidata.org/entity/Q6554197	Linjeflyg Flight 618
+http://www.wikidata.org/entity/Q6692532	Lovettsville air disaster
+http://www.wikidata.org/entity/Q6728635	Madrid Runway Disaster
+http://www.wikidata.org/entity/Q6745203	Malév Flight 262
+http://www.wikidata.org/entity/Q6817774	Meopham air disaster
+http://www.wikidata.org/entity/Q6431777	Korean Air Lines Flight 007 alternative theories
+http://www.wikidata.org/entity/Q6449781	Kvitbjørn disaster
+http://www.wikidata.org/entity/Q6457042	LANSA Flight 502
+http://www.wikidata.org/entity/Q6553353	Linea Aeropostal Venezolana Flight 253 (June 1956)
+http://www.wikidata.org/entity/Q6553354	Linea Aeropostal Venezolana Flight 253 (November 1956)
+http://www.wikidata.org/entity/Q6681951	Los Angeles Airways Flight 841
+http://www.wikidata.org/entity/Q6830431	Korean Air Flight 8702
+http://www.wikidata.org/entity/Q6841321	Middle East Airlines Flight 438
+http://www.wikidata.org/entity/Q6457048	LAN Chile Flight 160
+http://www.wikidata.org/entity/Q6516946	Widerøe Flight 710
+http://www.wikidata.org/entity/Q6772341	Maroochy air crash
+http://www.wikidata.org/entity/Q6455722	L'Express Airlines Flight 508
+http://www.wikidata.org/entity/Q6457040	LANSA Flight 501
+http://www.wikidata.org/entity/Q6459604	LOT Flight 703
+http://www.wikidata.org/entity/Q6514477	Widerøe Flight 933
+http://www.wikidata.org/entity/Q6555394	Lion Air Flight 583
+http://www.wikidata.org/entity/Q6681949	Los Angeles Airways Flight 417
+http://www.wikidata.org/entity/Q6747746	Mandala Airlines Flight 660
+http://www.wikidata.org/entity/Q6500030	Aeroflot Flight 7841
+http://www.wikidata.org/entity/Q6475222	Lake Central Flight 527
+http://www.wikidata.org/entity/Q6487841	Laoag International Airlines Flight 585
+http://www.wikidata.org/entity/Q6722105	MacRobertson Miller Airlines Flight 1750
+http://www.wikidata.org/entity/Q55601783	2006 Shree Air Mil Mi-8 crash
+http://www.wikidata.org/entity/Q55601433	1993 Everest Air Dornier 228 crash
+http://www.wikidata.org/entity/Q55603395	Airwork Flight 23
+http://www.wikidata.org/entity/Q28155650	1953 Avro Lincoln shootdown incident
+http://www.wikidata.org/entity/Q55601958	2013 Eberswalde-Finow Zlin crash
+http://www.wikidata.org/entity/Q52557851	2018 U.S. Air National Guard C-130 crash
+http://www.wikidata.org/entity/Q17627345	Kweilin Incident
+http://www.wikidata.org/entity/Q55239592	2018 UY Aviation King Air C90 crash
+http://www.wikidata.org/entity/Q55389499	2018 Philippines Piper PA-23 crash
+http://www.wikidata.org/entity/Q21540349	2015 Russian Sukhoi Su-24 shootdown
+http://www.wikidata.org/entity/Q53729870	Cubana de Aviación Flight 972
+http://www.wikidata.org/entity/Q7059923	Northwest Airlines Flight 4422
+http://www.wikidata.org/entity/Q6952032	2003 Angola 727 disappearance
+http://www.wikidata.org/entity/Q6911360	2011 Moremi Air Cessna 208 crash
+http://www.wikidata.org/entity/Q6970260	National Airlines Flight 193
+http://www.wikidata.org/entity/Q7032793	Nigeria Airways Flight 9805
+http://www.wikidata.org/entity/Q7057813	Northeast Airlines Flight 946
+http://www.wikidata.org/entity/Q6970264	National Airlines Flight 967
+http://www.wikidata.org/entity/Q7015530	New Zealand National Airways Corporation Flight 441
+http://www.wikidata.org/entity/Q7057810	Northeast Airlines Flight 823
+http://www.wikidata.org/entity/Q7059929	Northwest Airlink Flight 5719
+http://www.wikidata.org/entity/Q7060140	Northwest Orient Airlines Flight 2
+http://www.wikidata.org/entity/Q6946731	Myanma Airways Flight 635
+http://www.wikidata.org/entity/Q6970262	National Airlines Flight 27
+http://www.wikidata.org/entity/Q7060142	Northwest Orient Airlines Flight 307
+http://www.wikidata.org/entity/Q6893757	Mohawk Airlines Flight 40
+http://www.wikidata.org/entity/Q6900391	Thai Airways Flight 365
+http://www.wikidata.org/entity/Q7054721	North Central Airlines Flight 458
+http://www.wikidata.org/entity/Q6893760	Mohawk Airlines Flight 405
+http://www.wikidata.org/entity/Q6893758	Mohawk Airlines Flight 411
+http://www.wikidata.org/entity/Q6898549	Moncrieff and Hood disappearance
+http://www.wikidata.org/entity/Q7032791	Nigeria Airways Flight 357
+http://www.wikidata.org/entity/Q7059927	Northwest Airlines Flight 85
+http://www.wikidata.org/entity/Q6970261	National Airlines Flight 2511
+http://www.wikidata.org/entity/Q7059920	Northwest Airlines Flight 327
+http://www.wikidata.org/entity/Q7059928	Northwest Airlink Flight 2268
+http://www.wikidata.org/entity/Q6843375	Midwest Express Airlines Flight 105
+http://www.wikidata.org/entity/Q6893755	Mohawk Airlines Flight 121
+http://www.wikidata.org/entity/Q7060143	Northwest Orient Airlines Flight 293
+http://www.wikidata.org/entity/Q7059922	Northwest Airlines Flight 5
+http://www.wikidata.org/entity/Q56276725	2018 Pretoria Convair 340 crash
+http://www.wikidata.org/entity/Q56424561	Utair Flight 579
+http://www.wikidata.org/entity/Q56063491	Aeroflot Flight 1661
+http://www.wikidata.org/entity/Q60616816	2019 Saha Airlines Boeing 707 crash
+http://www.wikidata.org/entity/Q55859110	Aeroméxico Connect Flight 2431
+http://www.wikidata.org/entity/Q56050557	2018 Horizon Air Q400 incident
+http://www.wikidata.org/entity/Q55972779	2018 Ju-Air Junkers Ju 52 crash
+http://www.wikidata.org/entity/Q57896166	2018 Leicester City F.C. helicopter crash
+http://www.wikidata.org/entity/Q57912689	Lion Air Flight 610
+http://www.wikidata.org/entity/Q24191500	1947 Oregon Beechcraft Bonanza crash
+http://www.wikidata.org/entity/Q24229378	ACE Air Cargo Flight 51
+http://www.wikidata.org/entity/Q24908565	2015 Indian Border Security Force Plane crash
+http://www.wikidata.org/entity/Q25230570	1948 Heathrow Disaster
+http://www.wikidata.org/entity/Q25975805	2016 Indian Air Force An-32 disappearance
+http://www.wikidata.org/entity/Q24844462	Singapore Airlines Flight 368
+http://www.wikidata.org/entity/Q24907737	2016 Ecuadorian Army Arava crash
+http://www.wikidata.org/entity/Q24884216	Trans-Colorado Airlines Flight 2286
+http://www.wikidata.org/entity/Q24908390	2016 Sunbird Aviation crash
+http://www.wikidata.org/entity/Q25380855	Air Manila Flight 702
+http://www.wikidata.org/entity/Q25042932	1965 Hong Kong US Marines KC-130F Crash
+http://www.wikidata.org/entity/Q25230756	1948 Sabena DC-4 Crash
+http://www.wikidata.org/entity/Q26201735	2016 Lockhart hot air balloon crash
+http://www.wikidata.org/entity/Q24884513	2009 Aviastar British Aerospace BAe 146 crash
+http://www.wikidata.org/entity/Q24908574	2015 Services Air Airbus A310 crash
+http://www.wikidata.org/entity/Q25245659	1974 Sterling Airways Tehran Caravelle accident
+http://www.wikidata.org/entity/Q24091473	EgyptAir Flight 804
+http://www.wikidata.org/entity/Q24191593	2010 Conair CV-580 crash
+http://www.wikidata.org/entity/Q25327101	American Airlines Flight 711
+http://www.wikidata.org/entity/Q24901131	2016 Colombia army helicopter crash
+http://www.wikidata.org/entity/Q25230635	2012 Amazon Sky An-26 crash
+http://www.wikidata.org/entity/Q7076876	Leigh air disaster
+http://www.wikidata.org/entity/Q7082387	Oklahoma State University men's basketball team plane crash
+http://www.wikidata.org/entity/Q7129563	Pan Am Flight 151
+http://www.wikidata.org/entity/Q7119313	PIA Flight 740
+http://www.wikidata.org/entity/Q7126582	Palair Macedonian Airlines Flight 301
+http://www.wikidata.org/entity/Q7129554	Pan Am Flight 1-10
+http://www.wikidata.org/entity/Q7129566	Pan Am Flight 292
+http://www.wikidata.org/entity/Q7116473	Ozark Air Lines Flight 650
+http://www.wikidata.org/entity/Q7116475	Ozark Air Lines Flight 809
+http://www.wikidata.org/entity/Q7119306	PIA Flight 17
+http://www.wikidata.org/entity/Q7129562	Pan Am Flight 1104
+http://www.wikidata.org/entity/Q7129568	Pan Am Flight 708
+http://www.wikidata.org/entity/Q7123099	Pacoima aircraft accident
+http://www.wikidata.org/entity/Q7129567	Pan Am Flight 526A
+http://www.wikidata.org/entity/Q7118386	PBA Flight 1039
+http://www.wikidata.org/entity/Q7060146	Northwest Orient Airlines Flight 706
+http://www.wikidata.org/entity/Q7060145	Northwest Orient Airlines Flight 710
+http://www.wikidata.org/entity/Q7122767	Pacific Western Airlines Flight 314
+http://www.wikidata.org/entity/Q7122768	Pacific Western Airlines Flight 501
+http://www.wikidata.org/entity/Q7119310	PIA Flight 688
+http://www.wikidata.org/entity/Q7129569	Pan Am Flight 6
+http://www.wikidata.org/entity/Q7125603	PIA Flight 631
+http://www.wikidata.org/entity/Q7120079	PP-VLU
+http://www.wikidata.org/entity/Q7060144	Northwest Airlines Flight 705
+http://www.wikidata.org/entity/Q27630508	2016 Malta Fairchild Merlin crash
+http://www.wikidata.org/entity/Q27629717	ASL Airlines Hungary Flight 7332
+http://www.wikidata.org/entity/Q27925924	LaMia Flight 2933
+http://www.wikidata.org/entity/Q26309846	2016 Russian Ministry of Emergency Situations Il-76 crash
+http://www.wikidata.org/entity/Q26212179	Emirates Flight 521
+http://www.wikidata.org/entity/Q28043715	Aerosucre Flight 157
+http://www.wikidata.org/entity/Q27630528	2016 Skol Airlines Mil Mi-8 crash
+http://www.wikidata.org/entity/Q27630526	Fedex Express Flight 910
+http://www.wikidata.org/entity/Q65563181	Skydive Umeå Gippsland GA8 Airvan crash
+http://www.wikidata.org/entity/Q66759400	2019 Beirut drone crash
+http://www.wikidata.org/entity/Q62018034	Ethiopian Airlines Flight 302
+http://www.wikidata.org/entity/Q64740664	2019 Iranian shoot-down of American drone
+http://www.wikidata.org/entity/Q65065741	Lao Aviation Flight 703
+http://www.wikidata.org/entity/Q65066566	Sakha Avia Flight 301
+http://www.wikidata.org/entity/Q75413737	Bangkok Airways Flight 125
+http://www.wikidata.org/entity/Q69551492	October 2019 Boeing B-17 Flying Fortress crash
+http://www.wikidata.org/entity/Q60746455	Yirol Let L-410 Turbolet crash
+http://www.wikidata.org/entity/Q65084197	KLM Flight 592
+http://www.wikidata.org/entity/Q60747805	1969 Royal Nepal Airlines DC-3 crash
+http://www.wikidata.org/entity/Q61896974	2019 Taplejung helicopter crash
+http://www.wikidata.org/entity/Q65066520	Khabarovsk Airlines Flight 463
+http://www.wikidata.org/entity/Q81360866	Ukraine International Airlines Flight 752
+http://www.wikidata.org/entity/Q81360866	Ukraine International Airlines Flight 752
+http://www.wikidata.org/entity/Q80649403	2020 New Taipei helicopter crash
+http://www.wikidata.org/entity/Q7184949	Philippine Airlines Flight 475
+http://www.wikidata.org/entity/Q7129580	Pan Am Flight 845
+http://www.wikidata.org/entity/Q7163682	Pennsylvania Central Airlines Flight 105
+http://www.wikidata.org/entity/Q7129570	Pan Am Flight 7
+http://www.wikidata.org/entity/Q7191489	Piedmont Airlines Flight 349
+http://www.wikidata.org/entity/Q7243720	Prinair Flight 191
+http://www.wikidata.org/entity/Q7269864	Quebecair Flight 255
+http://www.wikidata.org/entity/Q7373611	Royal Air Force Nimrod XV230
+http://www.wikidata.org/entity/Q7332264	Rico Linhas Aéreas Flight 4815
+http://www.wikidata.org/entity/Q7129571	Pan Am Flight 806
+http://www.wikidata.org/entity/Q7184945	Philippine Airlines Flight 158
+http://www.wikidata.org/entity/Q7184948	Philippine Airlines Flight 443
+http://www.wikidata.org/entity/Q7184947	Philippine Airlines Flight 215
+http://www.wikidata.org/entity/Q7266512	Qantas Flight 30
+http://www.wikidata.org/entity/Q7340296	2013 Compagnie Africaine d'Aviation crash
+http://www.wikidata.org/entity/Q7129575	Pan Am Flight 830
+http://www.wikidata.org/entity/Q7148890	PauknAir Flight 4101
+http://www.wikidata.org/entity/Q7266508	Qantas Flight 1
+http://www.wikidata.org/entity/Q7332265	Rico Linhas Aéreas Flight 4823
+http://www.wikidata.org/entity/Q7373628	Royal Air Maroc Flight 630
+http://www.wikidata.org/entity/Q7373856	Royal Brunei Airlines Flight 238
+http://www.wikidata.org/entity/Q7129577	Pan Am Flight 816
+http://www.wikidata.org/entity/Q7129574	Pan Am Flight 845/26
+http://www.wikidata.org/entity/Q7184944	Philippine Airlines Flight 143
+http://www.wikidata.org/entity/Q7191488	Piedmont Airlines Flight 22
+http://www.wikidata.org/entity/Q7129572	Pan Am Flight 812
+http://www.wikidata.org/entity/Q83795110	2020 United States Air Force E-11A crash
+http://www.wikidata.org/entity/Q83737887	2020 Calabasas helicopter crash
+http://www.wikidata.org/entity/Q87591817	1990 Scotland RAF Shackleton crash
+http://www.wikidata.org/entity/Q94974086	1969 theft of C-130
+http://www.wikidata.org/entity/Q95092655	Pakistan International Airlines Flight 8303
+http://www.wikidata.org/entity/Q96313794	2020 United States Air Force F-15 crash
+http://www.wikidata.org/entity/Q98129149	Air India Express Flight 1344
+http://www.wikidata.org/entity/Q7388498	SAETA Flight 232
+http://www.wikidata.org/entity/Q7388664	SANSA Flight 32
+http://www.wikidata.org/entity/Q7541545	Slovak Police training explosives incident
+http://www.wikidata.org/entity/Q7569287	Southeast Airlines Flight 308
+http://www.wikidata.org/entity/Q7571207	Southwest Airlines Flight 2294
+http://www.wikidata.org/entity/Q7388896	SA de Transport Aérien Flight 730
+http://www.wikidata.org/entity/Q7440189	Seaboard World Airlines Flight 253A
+http://www.wikidata.org/entity/Q7388641	SAM Colombia Flight 501
+http://www.wikidata.org/entity/Q7571206	Southwest Airlines Flight 1455
+http://www.wikidata.org/entity/Q7572950	Spair Airlines Flight 3601
+http://www.wikidata.org/entity/Q7429939	Scandinavian Airlines System Flight 347
+http://www.wikidata.org/entity/Q7429941	Scandinavian Airlines System Flight 871
+http://www.wikidata.org/entity/Q7565425	South African Airways Flight 228
+http://www.wikidata.org/entity/Q7604846	Stavropolskaya Aktsionernaya Avia Flight 1023
+http://www.wikidata.org/entity/Q7427170	Saudia Flight 162
+http://www.wikidata.org/entity/Q7453539	Bek Air Flight 2100
+http://www.wikidata.org/entity/Q7559133	Somali Airlines Flight 40
+http://www.wikidata.org/entity/Q28100218	American Airlines Flight 383
+http://www.wikidata.org/entity/Q28163811	2016 Alfa Indonesia DHC-4 crash
+http://www.wikidata.org/entity/Q28451135	1931 Jinan air crash
+http://www.wikidata.org/entity/Q28224435	Air Fiji Flight 121
+http://www.wikidata.org/entity/Q28450144	1965 USAF KC-135 Wichita crash
+http://www.wikidata.org/entity/Q28441371	Tropical Airways Flight 1301
+http://www.wikidata.org/entity/Q28450603	2000 Marsa Brega Short 360 crash
+http://www.wikidata.org/entity/Q28231738	World Airways Flight 802
+http://www.wikidata.org/entity/Q28444882	Plane crash in Paraty in 2017
+http://www.wikidata.org/entity/Q28726001	2016 Haragîș helicopter crash
+http://www.wikidata.org/entity/Q28055770	2016 Russian Defence Ministry Tupolev Tu-154 crash
+http://www.wikidata.org/entity/Q28163765	Centurion Air Cargo Flight 164
+http://www.wikidata.org/entity/Q28448496	1987 Belize Air International C-97 Mexico City crash
+http://www.wikidata.org/entity/Q28163694	Merpati Nusantara Airlines Flight 724
+http://www.wikidata.org/entity/Q28163691	Sempati Air Flight 304
+http://www.wikidata.org/entity/Q28223278	2000 ASA Pesada Antonov An-24 crash
+http://www.wikidata.org/entity/Q28223433	2003 Congo air disaster
+http://www.wikidata.org/entity/Q28450531	Gabon Express Flight 221
+http://www.wikidata.org/entity/Q28450583	TEAM Linhas Aéreas Flight 6865
+http://www.wikidata.org/entity/Q28163710	Dirgantara Air Service Flight 3130
+http://www.wikidata.org/entity/Q7682001	Tan-Sahsa Flight 414
+http://www.wikidata.org/entity/Q7669317	TANS Perú Flight 222
+http://www.wikidata.org/entity/Q7833505	Trans-Canada Air Lines Flight 810
+http://www.wikidata.org/entity/Q7650341	Sutton Wick air crash
+http://www.wikidata.org/entity/Q7672508	TWA Flight 128
+http://www.wikidata.org/entity/Q7672515	TWA Flight 427
+http://www.wikidata.org/entity/Q7672516	TWA Flight 513
+http://www.wikidata.org/entity/Q7672527	TWA Flight 843
+http://www.wikidata.org/entity/Q7659034	Swissair Flight 316
+http://www.wikidata.org/entity/Q7672520	TWA Flight 553
+http://www.wikidata.org/entity/Q7669436	TAT Flight 230
+http://www.wikidata.org/entity/Q7672517	TWA Flight 514
+http://www.wikidata.org/entity/Q7669220	TAESA Flight 725
+http://www.wikidata.org/entity/Q7669350	TAROM Flight 3107
+http://www.wikidata.org/entity/Q7672514	TWA Flight 400
+http://www.wikidata.org/entity/Q7832616	Tragedy at Kufra
+http://www.wikidata.org/entity/Q7669292	1983 TAME 737-200 crash
+http://www.wikidata.org/entity/Q7672507	TWA Flight 1
+http://www.wikidata.org/entity/Q7672518	TWA Flight 529
+http://www.wikidata.org/entity/Q7707777	Texas International Airlines Flight 655
+http://www.wikidata.org/entity/Q7709095	Thai Airways Flight 231
+http://www.wikidata.org/entity/Q7672521	TWA Flight 599
+http://www.wikidata.org/entity/Q7672509	TWA Flight 159
+http://www.wikidata.org/entity/Q7672510	TWA Flight 260
+http://www.wikidata.org/entity/Q7672524	TWA Flight 840 bombing (1986)
+http://www.wikidata.org/entity/Q7709097	Thai Airways International Flight 601
+http://www.wikidata.org/entity/Q7672526	TWA Flight 841
+http://www.wikidata.org/entity/Q7862037	Táchira helicopter crash
+http://www.wikidata.org/entity/Q7887351	United Airlines Flight 521
+http://www.wikidata.org/entity/Q7833750	Transair Georgia airliner shootdowns
+http://www.wikidata.org/entity/Q7833655	Trans Australia Airlines Flight 538
+http://www.wikidata.org/entity/Q7833816	Transbrasil Flight 303
+http://www.wikidata.org/entity/Q7887359	United Airlines Flight 663
+http://www.wikidata.org/entity/Q7865889	USAir Flight 5050
+http://www.wikidata.org/entity/Q7833741	2013 Transaereo 5074 Britten-Norman Islander crash
+http://www.wikidata.org/entity/Q7877579	Uganda Airlines Flight 775
+http://www.wikidata.org/entity/Q7887365	United Airlines Flight 826 (1997)
+http://www.wikidata.org/entity/Q7887345	United Airlines Flight 266
+http://www.wikidata.org/entity/Q7855224	Turkish Airlines Flight 158
+http://www.wikidata.org/entity/Q7887343	United Airlines Flight 227
+http://www.wikidata.org/entity/Q7887347	United Airlines Flight 297
+http://www.wikidata.org/entity/Q7887350	United Airlines Flight 409
+http://www.wikidata.org/entity/Q7887360	United Airlines Flight 696
+http://www.wikidata.org/entity/Q7887363	United Airlines Flight 823
+http://www.wikidata.org/entity/Q7875834	USAir Flight 1016
+http://www.wikidata.org/entity/Q7866458	USMC R4Q NROTC crash
+http://www.wikidata.org/entity/Q7855225	Turkish Airlines Flight 345
+http://www.wikidata.org/entity/Q7855227	Turkish Airlines Flight 5904
+http://www.wikidata.org/entity/Q7887358	United Airlines Flight 624
+http://www.wikidata.org/entity/Q7887339	United Airlines Flight 4
+http://www.wikidata.org/entity/Q7887366	United Airlines Flight 859
+http://www.wikidata.org/entity/Q8025209	Wingfoot Air Express crash
+http://www.wikidata.org/entity/Q7906918	Advance Airlines Flight 4210
+http://www.wikidata.org/entity/Q7887737	United Express Flight 5925
+http://www.wikidata.org/entity/Q8010114	2013 Berlin helicopter crash
+http://www.wikidata.org/entity/Q7999114	Wien Air Alaska Flight 99
+http://www.wikidata.org/entity/Q7895381	University of Evansville men's basketball team plane crash
+http://www.wikidata.org/entity/Q7984794	West Coast Flight 720
+http://www.wikidata.org/entity/Q7998696	Widerøe Flight 839
+http://www.wikidata.org/entity/Q8035350	World Airways Flight 30
+http://www.wikidata.org/entity/Q8041409	X-15 Flight 3-65-97
+http://www.wikidata.org/entity/Q7887735	United Express Flight 2415
+http://www.wikidata.org/entity/Q7928485	Vietnam Airlines Flight 831
+http://www.wikidata.org/entity/Q7887369	United Airlines Trip 34
+http://www.wikidata.org/entity/Q7928392	Vieques Air Link Flight 901A
+http://www.wikidata.org/entity/Q7987443	Western Air Express Flight 7
+http://www.wikidata.org/entity/Q8065493	2010 Tarco Airlines Antonov An-24 crash
+http://www.wikidata.org/entity/Q7998695	Widerøe Flight 744
+http://www.wikidata.org/entity/Q7887394	United Arab Airlines Flight 749
+http://www.wikidata.org/entity/Q7887397	United Arab Airlines Flight 869 (1962)
+http://www.wikidata.org/entity/Q7998164	Wichita State University football team plane crash
+http://www.wikidata.org/entity/Q7999112	Wien Consolidated Airlines Flight 55
+http://www.wikidata.org/entity/Q8186780	1938 Santa Ana air show disaster
+http://www.wikidata.org/entity/Q8186827	Dan-Air Flight 1903
+http://www.wikidata.org/entity/Q7888388	United Nations Flight 544
+http://www.wikidata.org/entity/Q7984763	West Coast Airlines Flight 956
+http://www.wikidata.org/entity/Q29017942	Maxstoke air crash
+http://www.wikidata.org/entity/Q30632824	Peruvian Airlines Flight 112
+http://www.wikidata.org/entity/Q33129387	Zodiac balloon accident
+http://www.wikidata.org/entity/Q29018005	1950 Fairfield-Suisun Boeing B-29 crash
+http://www.wikidata.org/entity/Q29002461	2017 Istanbul S-76 TV tower collison
+http://www.wikidata.org/entity/Q30633576	Southwest Airlines Flight 3472
+http://www.wikidata.org/entity/Q32900831	2017 United States Marine Corps KC-130 crash
+http://www.wikidata.org/entity/Q29017996	2017 Irish Coast Guard Rescue 116 crash
+http://www.wikidata.org/entity/Q29018017	Air New Zealand Flight 4374
+http://www.wikidata.org/entity/Q30643510	East Coast Jets Flight 81
+http://www.wikidata.org/entity/Q43401556	Emery Worldwide Flight 17
+http://www.wikidata.org/entity/Q29018010	1968 Kadena Air Base B-52 crash
+http://www.wikidata.org/entity/Q30633939	1967 Air Ferry DC-4 accident
+http://www.wikidata.org/entity/Q30644006	FedEx Express Flight 1406
+http://www.wikidata.org/entity/Q28973748	2017 South Supreme Airlines Antonov An-26 crash
+http://www.wikidata.org/entity/Q29017934	Eastern Air Lines Flight 665
+http://www.wikidata.org/entity/Q29017955	1935 Jersey Airways Cardiff DH.84 crash
+http://www.wikidata.org/entity/Q29018000	Dirgantara Air Service Flight 5940
+http://www.wikidata.org/entity/Q41486205	Air France Flight 66
+http://www.wikidata.org/entity/Q42219195	1982 Bristow Helicopters Bell 212 crash
+http://www.wikidata.org/entity/Q28971917	Air Caraïbes Flight 1501
+http://www.wikidata.org/entity/Q29017929	1976 Taxi Aereo el Venado Douglas DC-4 accident
+http://www.wikidata.org/entity/Q30149289	2017 Myanmar Air Force Shaanxi Y-8 crash
+http://www.wikidata.org/entity/Q41771694	1994 Lake Constance Cessna 425 crash
+http://www.wikidata.org/entity/Q42499101	China Eastern Airlines Flight 5106
+http://www.wikidata.org/entity/Q42847700	2000 Royal Nepal Airlines DHC-6 crash
+http://www.wikidata.org/entity/Q30689001	Summit Air Flight 409
+http://www.wikidata.org/entity/Q33025184	Air Canada Flight 759
+http://www.wikidata.org/entity/Q42924546	TWA Flight 6 (1935)
+http://www.wikidata.org/entity/Q29018016	1966 Air New Zealand crash
+http://www.wikidata.org/entity/Q8929770	2014 Vnukovo Airport Falcon 50 crash
+http://www.wikidata.org/entity/Q10356050	1939 Pan Am Sikorsky S-43 crash
+http://www.wikidata.org/entity/Q10392497	1947 Avianca Douglas DC-4 crash
+http://www.wikidata.org/entity/Q10860425	Iran Air Flight 742
+http://www.wikidata.org/entity/Q10878635	September 13 incident
+http://www.wikidata.org/entity/Q10356053	Seaplane Santos Dumont Crash
+http://www.wikidata.org/entity/Q10392496	SATA Air Açores Flight 530M
+http://www.wikidata.org/entity/Q10392510	Transbrasil Flight 801
+http://www.wikidata.org/entity/Q10748098	Cougar Helicopters Flight 91
+http://www.wikidata.org/entity/Q9094825	Aeronor Flight 304
+http://www.wikidata.org/entity/Q9094823	TAME Flight 120
+http://www.wikidata.org/entity/Q10893876	Merpati Nusantara Airlines Flight 5601
+http://www.wikidata.org/entity/Q11071254	TransAsia Airways Flight 791
+http://www.wikidata.org/entity/Q10903028	Lion Air Flight 904
+http://www.wikidata.org/entity/Q10265411	1982 TABA Fairchild FH-227 accident
+http://www.wikidata.org/entity/Q10674369	1970 Spantax Convair crash
+http://www.wikidata.org/entity/Q10562735	Linjeflyg Flight 277
+http://www.wikidata.org/entity/Q10940323	Tianjin Airlines Flight 7554
+http://www.wikidata.org/entity/Q11233547	Korean Air Lines Flight 015
+http://www.wikidata.org/entity/Q45493810	West Wind Aviation Flight 280
+http://www.wikidata.org/entity/Q48727831	1968 Indian Air Force An-12 crash
+http://www.wikidata.org/entity/Q51934238	Southwest Airlines Flight 1380
+http://www.wikidata.org/entity/Q54933321	Delta Air Lines Flight 1080
+http://www.wikidata.org/entity/Q55606721	Cashel South African Air Force Alouette crash
+http://www.wikidata.org/entity/Q56073367	Aeroflot Flight 2
+http://www.wikidata.org/entity/Q47009401	Nature Air Flight 9916
+http://www.wikidata.org/entity/Q48790310	2002 Shangri-La Air Twin Otter Crash
+http://www.wikidata.org/entity/Q48837243	Merion air disaster
+http://www.wikidata.org/entity/Q53610919	Sichuan Airlines Flight 8633
+http://www.wikidata.org/entity/Q48790316	2006 Yeti Airlines Twin Otter Crash
+http://www.wikidata.org/entity/Q48815366	Graham Hill plane crash
+http://www.wikidata.org/entity/Q48817584	Iberia Airlines Flight 933
+http://www.wikidata.org/entity/Q48851855	2018 Sapphire Aviation Bell UH-1H Iroquois crash
+http://www.wikidata.org/entity/Q50419477	2018 New York City helicopter crash
+http://www.wikidata.org/entity/Q50356106	2018 Antonov An-26 crash
+http://www.wikidata.org/entity/Q48742715	Scandinavian Airlines System Flight 901
+http://www.wikidata.org/entity/Q46999137	Barra do Garças air disaster
+http://www.wikidata.org/entity/Q48733238	2005 Al-Anbar CH-53E crash
+http://www.wikidata.org/entity/Q48809100	1977 British Airtours Boeing 707 crash
+http://www.wikidata.org/entity/Q48809903	2017 Sydney Seaplanes crash
+http://www.wikidata.org/entity/Q48835298	Alan Kulwicki plane crash
+http://www.wikidata.org/entity/Q48816057	1929 Jask Imperial Airways de Havilland Hercules crash
+http://www.wikidata.org/entity/Q48815763	2001 Faraz Qeshm Airlines Yak-40 crash
+http://www.wikidata.org/entity/Q48850657	2000 Marana V-22 Crash
+http://www.wikidata.org/entity/Q55418648	Robert Cooke Fenwick
+http://www.wikidata.org/entity/Q48789976	2015 Charikot Helicopter Crash
+http://www.wikidata.org/entity/Q48851345	1934 United Airlines Utah crash
+http://www.wikidata.org/entity/Q11737195	1951 LOT Li-2 Tuszyn air disaster
+http://www.wikidata.org/entity/Q11345632	United Airlines Flight 389
+http://www.wikidata.org/entity/Q11616908	BOAC Flight 783
+http://www.wikidata.org/entity/Q11737210	Aeroflot Flight 6551
+http://www.wikidata.org/entity/Q11737216	Iran Air Tours Flight 956
+http://www.wikidata.org/entity/Q11597894	Tachikawa air disaster
+http://www.wikidata.org/entity/Q11276023	Toa Domestic Airlines Flight 63
+http://www.wikidata.org/entity/Q11475843	LOT Polish Airlines Flight 165
+http://www.wikidata.org/entity/Q11737139	Tajik National Guard helicopter crash
+http://www.wikidata.org/entity/Q11737212	Aeroflot Flight 8641
+http://www.wikidata.org/entity/Q11737211	Bonanza Air Lines Flight 114
+http://www.wikidata.org/entity/Q11508994	JAL Cargo Flight 8054
+http://www.wikidata.org/entity/Q11737206	1962 LOT Vickers Viscount Warsaw crash
+http://www.wikidata.org/entity/Q56764495	Air Niugini Flight 73
+http://www.wikidata.org/entity/Q56278825	Xiamen Airlines Flight 8667
+http://www.wikidata.org/entity/Q61846653	Atlas Air Flight 3591
+http://www.wikidata.org/entity/Q63490143	Aeroflot Flight 1492
+http://www.wikidata.org/entity/Q56277430	2001 Fishtail Air Eurocopter AS350 crash
+http://www.wikidata.org/entity/Q60139328	2018 Puebla helicopter crash
+http://www.wikidata.org/entity/Q60846211	2019 English Channel Piper PA-46 crash
+http://www.wikidata.org/entity/Q61714848	2019 São Paulo Bell 206B accident
+http://www.wikidata.org/entity/Q59503883	Fly Jamaica Airways Flight 256
+http://www.wikidata.org/entity/Q63185619	Japan Airlines food poisoning incident
+http://www.wikidata.org/entity/Q61896974	2019 Taplejung helicopter crash
+http://www.wikidata.org/entity/Q62015761	2019 Colombia DC-3 crash
+http://www.wikidata.org/entity/Q11737221	Tajikistan Airlines Flight 3183
+http://www.wikidata.org/entity/Q12257020	National Airlines Flight 102
+http://www.wikidata.org/entity/Q12592687	Korean Air Cargo Flight 6316
+http://www.wikidata.org/entity/Q13426819	British Airways Flight 2069
+http://www.wikidata.org/entity/Q11991955	Helikopter Service Flight 165
+http://www.wikidata.org/entity/Q12498226	Merpati Nusantara Airlines Flight 6715
+http://www.wikidata.org/entity/Q11737223	Uzbekistan Airways Flight 1154
+http://www.wikidata.org/entity/Q12154894	2013 Helicópteros del Pacífico Mil Mi-8 crash
+http://www.wikidata.org/entity/Q12487849	JetBlue Airways Flight 191
+http://www.wikidata.org/entity/Q13426579	Merpati Nusantara Airlines Flight 6517
+http://www.wikidata.org/entity/Q11989628	British European Airways Flight 530
+http://www.wikidata.org/entity/Q12592686	Korean Air Flight 1533
+http://www.wikidata.org/entity/Q13441139	Intercontinental de Aviación Flight 256
+http://www.wikidata.org/entity/Q12206792	1931 Avro Ten Southern Cloud disappearance
+http://www.wikidata.org/entity/Q13365876	Nepal Airlines Flight 555
+http://www.wikidata.org/entity/Q11890853	1978 Finnish Air Force DC-3 crash
+http://www.wikidata.org/entity/Q12234212	Llandow air disaster
+http://www.wikidata.org/entity/Q64846096	Angara Airlines Flight 200
+http://www.wikidata.org/entity/Q78069997	2019 Chilean Air Force C-130 accident
+http://www.wikidata.org/entity/Q76448858	2019 Busy Bee crash
+http://www.wikidata.org/entity/Q66459174	Ural Airlines Flight 178
+http://www.wikidata.org/entity/Q70141439	Ukraine Air Alliance Flight 4050
+http://www.wikidata.org/entity/Q84428052	Pegasus Airlines Flight 2193
+http://www.wikidata.org/entity/Q13642546	2013 Rediske Air DHC-3 Otter crash
+http://www.wikidata.org/entity/Q14712597	Imperial Airlines Flight 201/8
+http://www.wikidata.org/entity/Q14713049	Pennsylvania Central Airlines Flight 410
+http://www.wikidata.org/entity/Q14814571	Twilight Zone tragedy
+http://www.wikidata.org/entity/Q14714402	1972 Lake Winnebago mid-air collision
+http://www.wikidata.org/entity/Q14778492	Aeroflot Flight 528
+http://www.wikidata.org/entity/Q14711893	United Airlines Flight 2860
+http://www.wikidata.org/entity/Q14221532	Southwest Airlines Flight 345
+http://www.wikidata.org/entity/Q14566965	UPS Airlines Flight 1354
+http://www.wikidata.org/entity/Q14875706	MK Airlines Flight 1602
+http://www.wikidata.org/entity/Q14935476	Lockhart River air disaster
+http://www.wikidata.org/entity/Q13592575	2013 Polar Airlines Mil Mi-8 crash
+http://www.wikidata.org/entity/Q13628966	Asiana Airlines Flight 214
+http://www.wikidata.org/entity/Q15040730	1986 Aerovias Guatemala air crash
+http://www.wikidata.org/entity/Q15087637	Aeroflot Flight 2003
+http://www.wikidata.org/entity/Q15080410	1980 Camarate air crash
+http://www.wikidata.org/entity/Q15075468	Lao Airlines Flight 301
+http://www.wikidata.org/entity/Q15077425	1951 Atlantic C-124 disappearance
+http://www.wikidata.org/entity/Q15192734	Associated Aviation Flight 361
+http://www.wikidata.org/entity/Q15080583	1993 Tehran mid-air collision
+http://www.wikidata.org/entity/Q15204881	British European Airways Flight 411
+http://www.wikidata.org/entity/Q15259994	2013 Glasgow helicopter crash
+http://www.wikidata.org/entity/Q15198571	Tatarstan Airlines Flight 363
+http://www.wikidata.org/entity/Q15262592	Northwood mid-air collision
+http://www.wikidata.org/entity/Q15240032	Aeroflot Flight 2415
+http://www.wikidata.org/entity/Q15222832	Aeroflot Flight 51
+http://www.wikidata.org/entity/Q15260756	LAM Mozambique Airlines Flight 470
+http://www.wikidata.org/entity/Q15266139	Philippine Airlines Flight 206
+http://www.wikidata.org/entity/Q15697985	1955 Altensteig mid-air collision
+http://www.wikidata.org/entity/Q15698040	Malaysian Airline System Flight 684
+http://www.wikidata.org/entity/Q15644223	School of Civil Aviation Flight 111
+http://www.wikidata.org/entity/Q15642802	Aeroflot Flight 2230
+http://www.wikidata.org/entity/Q15644543	Aeroflot Flight 811
+http://www.wikidata.org/entity/Q15616144	1942 Ruislip Wellington accident
+http://www.wikidata.org/entity/Q15678814	1957 Aquila Airways Solent crash
+http://www.wikidata.org/entity/Q15700578	Khabarovsk United Air Group Flight 3949
+http://www.wikidata.org/entity/Q15678865	Northwest Airlines Flight 421
+http://www.wikidata.org/entity/Q15632884	1948 Air France Latécoère 631 disappearance
+http://www.wikidata.org/entity/Q15617473	Regional Airlines Flight 9288
+http://www.wikidata.org/entity/Q15726739	2014 Algerian Air Force C-130 crash
+http://www.wikidata.org/entity/Q15402066	1968 Kham Duc C-130 shootdown
+http://www.wikidata.org/entity/Q15621252	Aeroflot Flight 3603
+http://www.wikidata.org/entity/Q15316781	Aeroflot Flight 892
+http://www.wikidata.org/entity/Q15662857	1995 Alaska Boeing E-3 Sentry accident
+http://www.wikidata.org/entity/Q15726692	Mexicana Flight 704
+http://www.wikidata.org/entity/Q15410694	Maritime Central Airways Flight 315
+http://www.wikidata.org/entity/Q15407469	1961 President Airlines Douglas DC-6 crash
+http://www.wikidata.org/entity/Q15401460	CAAC Flight 2311
+http://www.wikidata.org/entity/Q15621133	1952 Moses Lake C-124 crash
+http://www.wikidata.org/entity/Q15678811	Winter Hill air disaster
+http://www.wikidata.org/entity/Q15905450	Johannisthal air disaster
+http://www.wikidata.org/entity/Q15732457	Ethiopian Airlines Flight 702
+http://www.wikidata.org/entity/Q15733418	2014 748 Air Services HS 748 crash
+http://www.wikidata.org/entity/Q15831524	Royal Air Force NS11 crash
+http://www.wikidata.org/entity/Q15908324	Malaysia Airlines Flight 370
+http://www.wikidata.org/entity/Q15729274	1951 Miami Airlines C-46 crash
+http://www.wikidata.org/entity/Q15732778	Nepal Airlines Flight 183
+http://www.wikidata.org/entity/Q15944664	Aeroflot Flight 721
+http://www.wikidata.org/entity/Q15911326	Malaysia Airlines Flight 2133
+http://www.wikidata.org/entity/Q16000671	1934 Swissair Tuttlingen accident
+http://www.wikidata.org/entity/Q16000912	2013 CHC Helicopters Eurocopter AS332 crash
+http://www.wikidata.org/entity/Q15942402	Formosa Airlines Flight 7601
+http://www.wikidata.org/entity/Q15948989	Indian Airlines Flight 171
+http://www.wikidata.org/entity/Q15927922	Merpati Nusantara Airlines Flight 106
+http://www.wikidata.org/entity/Q15940165	Haughey Air AgustaWestland AW139 crash
+http://www.wikidata.org/entity/Q16000679	1940 Deutsche Lufthansa Ju 90 crash
+http://www.wikidata.org/entity/Q16000689	1945 Beijing C-46 crash
+http://www.wikidata.org/entity/Q15924516	Alia Royal Jordanian Flight 600
+http://www.wikidata.org/entity/Q15916977	Uni Air Flight 873
+http://www.wikidata.org/entity/Q15961958	Aeroflot Flight 3519
+http://www.wikidata.org/entity/Q16002175	Air Mauritanie Flight 625
+http://www.wikidata.org/entity/Q15946346	Thai Airways International Flight 679
+http://www.wikidata.org/entity/Q16057145	1998 Sudan Air Force crash
+http://www.wikidata.org/entity/Q16205891	1951 Misrair SNCASE Languedoc crash
+http://www.wikidata.org/entity/Q16488150	Aeroflot Flight 3843
+http://www.wikidata.org/entity/Q16495731	Aeroflot Flight 826
+http://www.wikidata.org/entity/Q16056984	1954 BOAC Lockheed Constellation crash
+http://www.wikidata.org/entity/Q16257126	1990 British Army Gazelle shootdown
+http://www.wikidata.org/entity/Q16219320	Aeroflot Flight 1802
+http://www.wikidata.org/entity/Q16209266	Corporate Air Services HPF821
+http://www.wikidata.org/entity/Q16488142	Aeroflot Flight 20
+http://www.wikidata.org/entity/Q16153573	1954 Prestwick air disaster
+http://www.wikidata.org/entity/Q16165823	Aeroflot Flight 630
+http://www.wikidata.org/entity/Q16532374	1961 Bogoroditsk Il-18 incident
+http://www.wikidata.org/entity/Q16487613	Aeroflot Flight 558
+http://www.wikidata.org/entity/Q16424093	1947 Héðinsfjörður air crash
+http://www.wikidata.org/entity/Q16153007	1934 London, Scottish & Provincial Airways Airspeed Courier crash
+http://www.wikidata.org/entity/Q16202320	Pakistan International Airlines Flight 404
+http://www.wikidata.org/entity/Q16486635	1976 Anapa mid-air collision
+http://www.wikidata.org/entity/Q16487764	Aeroflot Flight 1036
+http://www.wikidata.org/entity/Q16485896	Aeroflot Flight 2174
+http://www.wikidata.org/entity/Q16487761	Aeroflot Flight 415
+http://www.wikidata.org/entity/Q16662450	Aeroflot Flight 191
+http://www.wikidata.org/entity/Q16662469	Aeroflot Flight 25
+http://www.wikidata.org/entity/Q16662465	Aeroflot Flight 15
+http://www.wikidata.org/entity/Q16662312	1991 Jakarta Indonesian Air Force C-130 crash
+http://www.wikidata.org/entity/Q16662368	Aeroflot Flight 13
+http://www.wikidata.org/entity/Q16662433	Aeroflot Flight 498
+http://www.wikidata.org/entity/Q16662335	1971 January 31 Surgut Aeroflot Antonov An-12 crash
+http://www.wikidata.org/entity/Q16662348	Aeroflot Flight 601
+http://www.wikidata.org/entity/Q16662323	Aeroflot Flight 315 (1960)
+http://www.wikidata.org/entity/Q16662383	Aeroflot Flight 6263
+http://www.wikidata.org/entity/Q16630128	Aeroflot Flight 773
+http://www.wikidata.org/entity/Q16662381	Aeroflot Flight 1668
+http://www.wikidata.org/entity/Q16662327	Aeroflot Flight 1969
+http://www.wikidata.org/entity/Q16662322	Aeroflot Flight 315 (1959)
+http://www.wikidata.org/entity/Q16662343	Aeroflot Flight 36 (1976)
+http://www.wikidata.org/entity/Q1419491	mount Salak Sukhoi Superjet 100 crash
+http://www.wikidata.org/entity/Q3104871	TAROM Flight 371
+http://www.wikidata.org/entity/Q1414752	Pacific Air Lines Flight 773
+http://www.wikidata.org/entity/Q3119385	Avianca Flight 011
+http://www.wikidata.org/entity/Q3107014	Cargolux Flight 7933
