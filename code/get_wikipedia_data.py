@@ -25,7 +25,7 @@ def get_summary(event):
 		event = '_'.join(x for x in list(event.strip().split()))	
 		try: 
 			return wikipedia.summary(event)
-		except (DisambiguationError, PageError) as e: 
+		except (DisambiguationError, PageError, KeyError) as e: 
 			return None
 
 	except ValueError:
