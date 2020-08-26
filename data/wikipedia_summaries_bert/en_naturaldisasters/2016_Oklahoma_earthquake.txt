@@ -1,0 +1,2 @@
+The 2016 Oklahoma earthquake occurred on September 3, 2016 near Pawnee, Oklahoma. [CLS] [SEP] Measuring 5.8 on the moment magnitude scale, it is the strongest in state history. [CLS] [SEP] At 5.8 magnitude, this ties it with the 2011 Virginia earthquake, which was determined after it struck to be the most powerful quake in the eastern United States in the preceding 70 years. [CLS] [SEP]
+

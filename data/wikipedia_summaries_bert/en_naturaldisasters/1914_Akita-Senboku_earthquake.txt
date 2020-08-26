@@ -1,0 +1,2 @@
+The 1914 Senboku earthquake (Japanese: 1914年秋田仙北地震) occurred on March 15, 1914 at 04:59 or 05:00 local time (or March 14 at 20:00 UTC) according to various sources in northern Japan. [CLS] [SEP] The earthquake had a magnitude of Ms 7.0.The epicenter was in Akita Prefecture, Japan. [CLS] [SEP] Ninety-four people died and 324 were injured. [CLS] [SEP] Senboku District (Japanese: 仙北郡) was seriously affected. [CLS] [SEP] The earthquake caused liquefaction. [CLS] [SEP] Explosions simultaneous with the earthquake were reported in Mount Asama. [CLS] [SEP]
+

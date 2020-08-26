@@ -1,0 +1,2 @@
+The 1348 Friuli earthquake, centered in the South Alpine region of Friuli, was felt across Europe on 25 January. [CLS] [SEP] The quake hit in the same year that the Great Plague ravaged Italy. [CLS] [SEP] According to contemporary sources, it caused considerable damage to structures; churches and houses collapsed, villages were destroyed and foul odors emanated from the earth. [CLS] [SEP]
+

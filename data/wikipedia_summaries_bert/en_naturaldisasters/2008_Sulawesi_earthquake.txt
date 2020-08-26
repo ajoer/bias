@@ -1,0 +1,2 @@
+The 2008 Sulawesi earthquake struck Sulawesi, Indonesia, on 16 November at 17:02:31 UTC. [CLS] [SEP] A 7.3 Mw earthquake, it was followed by seven aftershocks higher than 5.0 Mw . [CLS] [SEP] Tsunami warnings were issued for the region, but later cancelled. [CLS] [SEP] Four people were killed in the quake and 59 injured. [CLS] [SEP]
+

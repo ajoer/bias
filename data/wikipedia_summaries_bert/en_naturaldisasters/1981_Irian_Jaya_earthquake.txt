@@ -1,0 +1,2 @@
+On January 19, 1981, eastern Indonesia was struck by an earthquake known as the 1981 Irian Jaya earthquake. [CLS] [SEP] Registering a moment magnitude of 6.7, it killed more than 300 people, damaging structures and buildings across the Irian Jaya province. [CLS] [SEP] Indonesia is highly active in terms of seismicity and volcanic eruptions, with a subduction zone and many faults. [CLS] [SEP] It is neighbored by several tectonic plates. [CLS] [SEP] Such earthquakes pose a significant threat to life in the area through earthquakes and also tsunamis. [CLS] [SEP]
+

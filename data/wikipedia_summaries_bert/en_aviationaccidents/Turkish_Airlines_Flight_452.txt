@@ -1,0 +1,2 @@
+Turkish Airlines Flight 452 was a scheduled domestic passenger flight from Istanbul Atatürk Airport to Antalya Airport, Turkey. [CLS] [SEP] On 19 September 1976, the Boeing 727-200 operating the flight struck a slope of a hill at Karatepe in Isparta Province, 60 mi (97 km) north of the destination airport due to a pilot error on approach resulting in the death of all 154 people on board. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+Saterland Frisian, also known as Sater Frisian or Saterlandic (Seeltersk), is the last living dialect of the East Frisian language. [CLS] [SEP] It is closely related to the other Frisian languages: North Frisian, spoken in Germany as well, and West Frisian, spoken in the Dutch province of Friesland. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+On 4 November 2015, an Antonov An-12 cargo aircraft crashed near the White Nile shortly after takeoff from Juba International Airport serving Juba, the capital city of South Sudan. [CLS] [SEP] At least 37 people were killed, including the crew of six. [CLS] [SEP] One adult passenger and a baby girl were the only survivors. [CLS] [SEP] The crash is the deadliest aviation accident to have occurred in South Sudan since independence in 2011. [CLS] [SEP]
+

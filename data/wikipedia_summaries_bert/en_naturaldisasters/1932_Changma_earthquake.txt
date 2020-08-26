@@ -1,0 +1,2 @@
+The 1932 Changma earthquake occurred at 10:04:27 local time (02:04:07 UTC) on 25 December. [CLS] [SEP] With an estimated magnitude of 7.6 on the surface wave magnitude scale, and a maximum felt intensity of X (Extreme) on the Mercalli intensity scale, the quake destroyed 1,167 houses and caused 275 deaths and 320 injuries. [CLS] [SEP]
+

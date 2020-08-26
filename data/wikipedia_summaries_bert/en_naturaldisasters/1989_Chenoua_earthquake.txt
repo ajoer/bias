@@ -1,0 +1,2 @@
+The 1989 Chenoua earthquake occurred on October 29 at 19:09:15 local time in northern Algeria. [CLS] [SEP] The dip-slip event had a moment magnitude of 5.9 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] At least 22 were killed and many were injured with total losses of $5 million. [CLS] [SEP]
+

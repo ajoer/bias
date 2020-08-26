@@ -1,0 +1,2 @@
+The Finlay tephras are two tephra deposits in northern British Columbia, Canada. [CLS] [SEP] They take their name from the Finley River and were deposited just before 10,220-10,560 years ago. [CLS] [SEP] The source for the two tephra deposits is unknown but were likely erupted during two closely spaced periods of volcanism at one or two volcanoes associated with the Northern Cordilleran Volcanic Province. [CLS] [SEP] Volcanoes suggested to have erupted the tephras include Hoodoo Mountain, Heart Peaks, the Mount Edziza volcanic complex and Level Mountain. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The tornado outbreak of January 23–24, 1997 resulted in 16 tornadoes across the Deep South. [CLS] [SEP] Damage in excess of 16 million dollars occurred across several states, with the worst damage in Tennessee and Alabama. [CLS] [SEP] Over 300 buildings, including homes, businesses, and public facilities were either damaged or completely destroyed. [CLS] [SEP] An F2 tornado killed one person in Tuscaloosa, Alabama. [CLS] [SEP] The strongest storm in the outbreak was an F4 tornado that destroyed dozens of homes in and near Murfreesboro, Tennessee. [CLS] [SEP]
+

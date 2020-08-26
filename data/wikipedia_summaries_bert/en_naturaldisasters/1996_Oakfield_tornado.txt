@@ -1,0 +1,2 @@
+The 1996 Oakfield tornado outbreak was a small, but destructive outbreak of 12 tornadoes that struck Wisconsin on July 18, 1996. [CLS] [SEP] The worst event was an F5 tornado that severely damaged the village of Oakfield, Wisconsin. [CLS] [SEP] The outbreak killed one and injured 13. [CLS] [SEP]
+

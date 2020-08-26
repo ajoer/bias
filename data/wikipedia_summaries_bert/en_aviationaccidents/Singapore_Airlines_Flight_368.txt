@@ -1,0 +1,2 @@
+Singapore Airlines Flight 368 was a scheduled international passenger flight from Singapore Changi Airport to Milan–Malpensa Airport in Italy. [CLS] [SEP] On 27 June 2016, the Boeing 777-300ER operating the flight to Italy turned back to Singapore after an engine oil warning. [CLS] [SEP] While landing at Changi Airport, the plane's right engine caught fire. [CLS] [SEP] All passengers successfully evacuated the aircraft. [CLS] [SEP] There were no injuries among the 241 passengers and crew involved. [CLS] [SEP]
+

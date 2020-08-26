@@ -1,0 +1,2 @@
+Valerie L. [CLS] [SEP] Thomas (born February 8, 1943) is an American scientist and inventor. [CLS] [SEP] She invented the Illusion Transmitter, for which she received a patent in 1980. [CLS] [SEP] She was responsible for developing the digital media formats image processing systems used in the early years of the Landsat program. [CLS] [SEP]
+

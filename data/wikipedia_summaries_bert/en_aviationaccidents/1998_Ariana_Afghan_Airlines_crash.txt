@@ -1,0 +1,2 @@
+The 1998 Ariana Afghan Airlines crash was a flight operated by an Ariana Boeing 727-200. [CLS] [SEP] The flight crashed on approach into Kabul killing all 45 aboard. [CLS] [SEP] The flight may have been involved in illegal smuggling and Islamic militant operations, as Ariana Afghan Airlines was back then controlled by the Taliban-led Islamic Emirate of Afghanistan regime. [CLS] [SEP]
+

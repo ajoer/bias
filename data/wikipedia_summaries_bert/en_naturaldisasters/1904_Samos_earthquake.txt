@@ -1,0 +1,2 @@
+The 1904 Samos earthquake struck Greece on August 11 with moment magnitude of 6.8 and a maximum Mercalli intensity of X (Extreme). [CLS] [SEP] Four people were killed. [CLS] [SEP]
+

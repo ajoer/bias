@@ -1,0 +1,2 @@
+Dorothea Wagner (born 1957) is a German computer scientist, known for her research in graph drawing, route planning, and social network analysis. [CLS] [SEP] She heads the Institute of Theoretical Informatics at the Karlsruhe Institute of Technology. [CLS] [SEP]
+

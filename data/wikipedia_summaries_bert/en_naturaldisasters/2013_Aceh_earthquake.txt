@@ -1,0 +1,2 @@
+The 2013 Aceh earthquake struck the Indonesian island of Sumatra on July 2 with a moment magnitude of 6.1 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] The strike-slip earthquake killed at least 35 people and injured 276 others in the province of Aceh (on the northern end of Sumatra) where approximately 4,300 homes were damaged or destroyed. [CLS] [SEP]
+

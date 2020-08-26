@@ -1,0 +1,2 @@
+The 1938 Yosemite TWA crash involved a Transcontinental & Western Air Douglas DC-2. [CLS] [SEP] On March 1, 1938, during a scheduled passenger flight from San Francisco to Winslow, Arizona, TWA's interstate hub, the flight encountered severe weather. [CLS] [SEP] The pilot radioed his intention to land in nearby Fresno. [CLS] [SEP] The aircraft subsequently crashed on a mountain in Yosemite National Park, and was found three months later. [CLS] [SEP]
+

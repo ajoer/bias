@@ -1,0 +1,2 @@
+On 27 November 1461, a powerful earthquake and series of aftershocks struck Italy's Abruzzo region along the Aterno River. [CLS] [SEP] The tremors caused widespread damage to Abruzzo's capital, L'Aquila, and the surrounding villages. [CLS] [SEP] At least 80 people are recorded to have died and numerous people were injured by the earthquakes. [CLS] [SEP] The quakes also caused major, permanent damage to religious sites and changed politics for L'Aquila and the Abruzzo region. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+Pan Am Flight 1104, trip no. [CLS] [SEP] 62100, was a Martin M-130 flying boat nicknamed the Philippine Clipper that crashed on the morning of January 21, 1943, in Northern California. [CLS] [SEP] The aircraft was operated by Pan American Airways and was carrying ten US Navy personnel from Pearl Harbor, Hawaii, to San Francisco, California. [CLS] [SEP] The aircraft crashed in poor weather into mountainous terrain about 7 mi (11 km) southwest of Ukiah, California. [CLS] [SEP]
+

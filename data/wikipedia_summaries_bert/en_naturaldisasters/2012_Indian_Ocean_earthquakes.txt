@@ -1,0 +1,2 @@
+The 2012 Indian Ocean earthquakes were magnitude 8.6 and 8.2 Mw undersea earthquakes that struck near the Indonesian province of Aceh on 11 April at 15:38 local time. [CLS] [SEP] Initially, authorities feared that the initial earthquake would cause a tsunami and warnings were issued across the Indian Ocean; however, these warnings were subsequently cancelled. [CLS] [SEP] These were unusually strong intraplate earthquakes and the largest strike-slip earthquake ever recorded. [CLS] [SEP]
+

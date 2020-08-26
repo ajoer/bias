@@ -1,0 +1,2 @@
+The 1937 Orizaba earthquake occurred on July 26 at 03:47 UTC, near Orizaba, Veracruz, Mexico. [CLS] [SEP] It had a magnitude of 7.3 on the surface wave magnitude scale. [CLS] [SEP] Thirty four people were reported dead. [CLS] [SEP] Damage was reported in Esperanza, Puebla. [CLS] [SEP] This was an intraplate earthquake within the subducting Cocos Plate. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+Aeroflot Flight 2022 was a scheduled Soviet domestic passenger flight between Vilnius Airport in Lithuania and Vnukovo International Airport in Moscow, Russia that crashed on 16 December 1973, killing all 51 people on board. [CLS] [SEP] The five hundred mile flight suffered a loss of control as a result of a malfunction of its elevator, causing it to crash as it made its final descent into Moscow. [CLS] [SEP] At the time of the crash it was the worst accident in aviation history involving a Tupolev Tu-124, since it entered service with Aeroflot in 1962. [CLS] [SEP]
+

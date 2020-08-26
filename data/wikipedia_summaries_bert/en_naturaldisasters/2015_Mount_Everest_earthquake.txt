@@ -1,0 +1,2 @@
+During the afternoon of 25 April 2015, a MW 7.8 earthquake struck Nepal and surrounding countries. [CLS] [SEP] Shaking from the quake triggered an avalanche from Pumori into Base Camp on Mount Everest. [CLS] [SEP] At least twenty-two people were killed, surpassing an avalanche that occurred in 2014 as the deadliest disaster on the mountain. [CLS] [SEP]
+

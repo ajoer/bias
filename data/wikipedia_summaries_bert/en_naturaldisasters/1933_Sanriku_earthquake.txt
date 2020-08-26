@@ -1,0 +1,2 @@
+The 1933 Sanriku earthquake (昭和三陸地震, Shōwa Sanriku Jishin) occurred on the Sanriku coast of the Tōhoku region of Honshū, Japan on March 2 with a moment magnitude of 8.4. [CLS] [SEP] The associated tsunami caused widespread damage. [CLS] [SEP]
+

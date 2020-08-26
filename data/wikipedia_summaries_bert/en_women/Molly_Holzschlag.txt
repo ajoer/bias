@@ -1,0 +1,2 @@
+Molly E. [CLS] [SEP] Holzschlag (born January 25, 1963) is a U.S. [CLS] [SEP] author, lecturer and advocate of the Open Web. [CLS] [SEP] She has written or co-authored 35 books on web design and open standards, including The Zen of CSS Design: Visual Enlightenment for the Web (co-authored with Dave Shea). [CLS] [SEP]
+

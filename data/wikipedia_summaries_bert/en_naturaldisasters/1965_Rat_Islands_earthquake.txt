@@ -1,0 +1,2 @@
+The 1965 Rat Islands earthquake occurred at 05:01 UTC, on 4 February (19:01, 3 February local time). [CLS] [SEP] It had a magnitude of 8.7 and triggered a tsunami of over 10 m on Shemya Island, but caused very little damage. [CLS] [SEP]
+

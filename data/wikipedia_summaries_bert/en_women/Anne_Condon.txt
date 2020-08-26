@@ -1,0 +1,2 @@
+Anne Elizabeth Condon, is an Irish-Canadian computer scientist, professor, and former head of the Computer Science Department of the University of British Columbia. [CLS] [SEP] Her research focuses on computational complexity theory, DNA computing, and bioinformatics. [CLS] [SEP] She has also held the NSERC/General Motors Canada Chair for Women in Science and Engineering from 2004 to 2009, and has worked to improve the success of women in the sciences and engineering. [CLS] [SEP]
+

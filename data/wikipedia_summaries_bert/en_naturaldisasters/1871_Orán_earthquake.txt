@@ -1,0 +1,2 @@
+The 1871 Orán earthquake that took place in the Province of Salta, in the Republic of Argentina, on Tuesday, 9 October 1871 at 02:15. [CLS] [SEP] It had an estimated magnitude of 6.4 Ms. [CLS] [SEP] The earthquake was located at a depth of 30 kilometres (19 mi). [CLS] [SEP]
+

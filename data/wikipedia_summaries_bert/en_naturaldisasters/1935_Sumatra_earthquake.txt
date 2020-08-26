@@ -1,0 +1,2 @@
+The 1935 Sumatra earthquake occurred at 09:35 local time on 28 December. [CLS] [SEP] It had a magnitude of Mw = 7.7 and a maximum felt intensity of VIII (Severe) on the mercalli intensity scale. [CLS] [SEP] It triggered a minor tsunami. [CLS] [SEP]
+

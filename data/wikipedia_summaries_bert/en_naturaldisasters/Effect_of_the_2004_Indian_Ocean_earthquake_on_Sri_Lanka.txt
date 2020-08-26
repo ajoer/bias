@@ -1,0 +1,2 @@
+Sri Lanka was one of the countries struck by the tsunami resulting from the Indian Ocean earthquake on December 26, 2004. [CLS] [SEP] On January 3, 2005, Sri Lankan authorities reported 30,000+ confirmed deaths.Many of the dead were adults and the elderly. [CLS] [SEP] The south and east coasts were worst hit. [CLS] [SEP] One and a half million people were displaced from their homes. [CLS] [SEP] The death toll continued to rise as the threat of infectious diseases breaking out turned into a reality, with doctors confirming first cases of cholera. [CLS] [SEP]
+

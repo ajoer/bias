@@ -1,0 +1,2 @@
+Dukat is a fictional character from the television series Star Trek: Deep Space Nine. [CLS] [SEP] A member of the fictional Cardassian species, he is introduced as the former overseer of the series' namesake space station but goes on to become the leader of his species' governing body, the Cardassian Union. [CLS] [SEP] At times an enemy while at others an ally of Benjamin Sisko, Dukat appears in 35 of the series' 176 episodes. [CLS] [SEP] He was portrayed by Marc Alaimo throughout. [CLS] [SEP]
+

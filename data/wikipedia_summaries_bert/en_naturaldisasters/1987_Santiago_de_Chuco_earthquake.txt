@@ -1,0 +1,2 @@
+The 1987 Santiago de Chuco earthquake struck Peru on October 2 with a moment magnitude of 5.6 and a maximum Mercalli intensity of VII (Very strong). [CLS] [SEP] The shock killed three people and caused damage to homes in the titular province. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1984 Otaki earthquake hit Nagano Prefecture, Japan on September 14, 1984, at 08:48 local time (September 13, 1984, at 23:48 UTC). [CLS] [SEP] Registering a magnitude of Ms 6.3, the earthquake destroyed Otaki (Japanese: 王滝(おうたき)), and triggered major landslides. [CLS] [SEP] The earthquake left at least 29 people dead or missing, making it the deadliest earthquake in 1984. [CLS] [SEP]
+

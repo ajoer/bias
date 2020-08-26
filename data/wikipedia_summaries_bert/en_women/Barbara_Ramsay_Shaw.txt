@@ -1,0 +1,2 @@
+Barbara Ramsay Shaw is the William T. [CLS] [SEP] Miller Distinguished Professor of Chemistry at Duke University, having been appointed to that position in 2006. [CLS] [SEP] She is known for her work on boranophosphates, using them to study the chemical reactivity of DNA, for applying synthetic chemistry to gene expression, signal transduction, and cancer treatment. [CLS] [SEP]
+

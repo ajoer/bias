@@ -1,0 +1,2 @@
+The 1998 Papua New Guinea earthquake occurred on July 17 with a moment magnitude of 7.0 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] The event occurred on a reverse fault near the north coast region of Papua New Guinea, 25 kilometers (16 mi) from the coast near Aitape, and caused a large undersea landslide which caused a tsunami that hit the coast, killing between at least 2,183 and 2,700 people and injuring thousands. [CLS] [SEP]
+

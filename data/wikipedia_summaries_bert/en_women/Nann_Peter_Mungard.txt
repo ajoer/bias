@@ -1,0 +1,2 @@
+The Interfrisian Council is a geopolitical organization that represents the common interests of the Frisians. [CLS] [SEP] The organization consists of three regional councils or "sections": North Frisia, East Frisia and West Frisia. [CLS] [SEP] Every three years, the presidency of the Interfrisian Council is handed over to another section. [CLS] [SEP] The council was established in 1956. [CLS] [SEP]
+

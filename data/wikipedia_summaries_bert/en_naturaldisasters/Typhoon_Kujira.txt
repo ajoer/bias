@@ -1,0 +1,2 @@
+Kujira may refer to tropical cyclones in the Pacific Ocean. [CLS] [SEP] The name Kujira means whale (Cetus) in Japanese. [CLS] [SEP] Typhoon Kujira (2003) (T0302, 02W, Amang), threatened the Philippines and Taiwan before approaching Japan. [CLS] [SEP] Typhoon Kujira (2009) (T0901, 01W, Dante), affected the Philippines before turning out to sea. [CLS] [SEP] Tropical Storm Kujira (2015) (T1508, 08W), formed in the South China Sea. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The June 2007 Texas flooding occurred after heavy rains hit the Southern Plains of the United States. [CLS] [SEP] Moisture from the Gulf Mexico flowed north creating a slow-moving frontal system. [CLS] [SEP] Approximately 200 millimeters (8 inches) of rain poured in northern Texas, and 11 flood-related deaths were reported. [CLS] [SEP]
+

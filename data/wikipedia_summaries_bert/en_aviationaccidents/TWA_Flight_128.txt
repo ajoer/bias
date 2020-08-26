@@ -1,0 +1,2 @@
+TWA Flight 128 was a regularly scheduled Trans World Airlines passenger flight from Los Angeles to Boston, with intermediate stops in Cincinnati and Pittsburgh. [CLS] [SEP] On November 20, 1967, Flight 128 crashed on final approach to Greater Cincinnati Airport; 70 of the 82 people aboard the Convair 880 were killed. [CLS] [SEP]
+

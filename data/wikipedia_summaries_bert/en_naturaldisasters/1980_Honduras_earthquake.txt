@@ -1,0 +1,2 @@
+The 1980 Honduras earthquake struck just offshore Honduras on August 9 at 05:45 UTC. [CLS] [SEP] Two people were killed and many injured. [CLS] [SEP]
+

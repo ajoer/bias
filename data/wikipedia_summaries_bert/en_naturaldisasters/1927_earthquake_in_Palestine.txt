@@ -1,0 +1,2 @@
+The 1927 Jericho earthquake was a devastating event that shook Mandatory Palestine and Transjordan on July 11 at 15:04 local time. [CLS] [SEP] The epicenter of the earthquake was in the northern area of the Dead Sea. [CLS] [SEP] The cities of Jerusalem, Jericho, Ramle, Tiberias, and Nablus were heavily damaged and at least 287 were estimated to have been killed. [CLS] [SEP]
+

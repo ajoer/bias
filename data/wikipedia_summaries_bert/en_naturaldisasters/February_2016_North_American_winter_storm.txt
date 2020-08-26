@@ -1,0 +1,2 @@
+The February 2016 North American winter storm was a strong winter storm that caused more than 70,000 people in southern California to lose their electricity, with many broken trees and electrical lines in that area, with the Southern Rocky Mountains having the potential to receive some of the greatest snowfall from the system. [CLS] [SEP] One person in San Diego, California area died when a tree fell on their car. [CLS] [SEP] Another person in Minnesota died after being struck by a car while crossing a street. [CLS] [SEP]
+

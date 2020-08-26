@@ -1,0 +1,2 @@
+Aeroflot Flight 3932 was a flight operated by Aeroflot from Koltsovo Airport to Omsk Tsentralny Airport. [CLS] [SEP] On 30 September 1973 the Tupolev Tu-104 operating the route crashed shortly after takeoff from Sverdlovsk, killing all 108 passengers and crew on board. [CLS] [SEP]
+

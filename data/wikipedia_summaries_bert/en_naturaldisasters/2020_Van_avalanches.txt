@@ -1,0 +1,2 @@
+In February 2020, two avalanches occurred near Bahçesaray in Turkey's eastern Van Province. [CLS] [SEP] The first, on 4 February, buried two vehicles, leading to a rescue operation involving around 350 people. [CLS] [SEP] The second, on 5 February, occurred while this operation was ongoing. [CLS] [SEP] At least 41 people were killed in the two avalanches, with 84 others being injured, six seriously. [CLS] [SEP]
+

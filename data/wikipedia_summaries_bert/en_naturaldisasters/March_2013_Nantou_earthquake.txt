@@ -1,0 +1,2 @@
+The 2013 Nantou earthquake struck central Taiwan with a moment magnitude of 5.9 and a maximum Mercalli intensity of V (Moderate) on March 27 at 10:03 a.m. [CLS] [SEP] local time. [CLS] [SEP] The epicenter was located in mountainous terrain in Ren'ai Township, Nantou County, Taiwan, not far from Sun Moon Lake. [CLS] [SEP]
+

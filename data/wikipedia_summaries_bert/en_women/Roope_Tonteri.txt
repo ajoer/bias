@@ -1,0 +1,2 @@
+Roope Tonteri (born 1992 in Valkeala) is a Finnish snowboarder. [CLS] [SEP] He is studying in Vuokatti. [CLS] [SEP] Tonteri won gold in slopestyle and big air at the 2013 FIS Snowboarding World Championships. [CLS] [SEP]
+

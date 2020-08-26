@@ -1,0 +1,2 @@
+The 2008 Wells earthquake occurred at 07:16:02 on February 21, 2008 just northeast of the town of Wells, Nevada, causing moderate damage, mainly to older brick buildings. [CLS] [SEP] The quake was centered on one of the faults of the Independence Valley fault system, about nine kilometers (5.6 miles) beneath the surface and had no known near-surface ofset. [CLS] [SEP]
+

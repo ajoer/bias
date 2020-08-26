@@ -1,0 +1,2 @@
+The 1944 Tōnankai earthquake occurred at 13:35 local time (04:35 UTC) on 7 December. [CLS] [SEP] It had an estimated magnitude of 8.1 on the moment magnitude scale (making it the strongest known earthquake of 1944) and a maximum felt intensity of greater than 5 shindo (about VIII (Severe) on the Mercalli intensity scale). [CLS] [SEP] It triggered a large tsunami that caused serious damage along the coast of Wakayama Prefecture and the Tōkai region. [CLS] [SEP] Together the earthquake and tsunami caused 3,358 casualties. [CLS] [SEP]
+

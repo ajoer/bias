@@ -1,0 +1,2 @@
+The 1943 Central Java earthquake occurred on July 23 at 14:53:10 UTC with a moment magnitude of 7.0 near Java, which was under Japanese occupation. [CLS] [SEP]
+

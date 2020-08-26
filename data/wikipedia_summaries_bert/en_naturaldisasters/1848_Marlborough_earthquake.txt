@@ -1,0 +1,2 @@
+The 1848 Marlborough earthquake was a 7.5 (Mw) earthquake that occurred at 1:40 a.m. [CLS] [SEP] on 16 October 1848 and whose epicenter was in the Marlborough region of the South Island of New Zealand.In Wellington the shaking lasted for about two minutes and caused widespread damage, especially to brick or stone structures. [CLS] [SEP] Most of the buildings damaged in the earthquake were rebuilt in wood and this contributed to the relatively low level of damage and loss of life in the more powerful Wairarapa earthquake that hit Wellington seven years later. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The name Mindulle has been used to name three tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] The name was submitted by North Korea and refers to the Korean dandelion (Taraxacum platycarpum). [CLS] [SEP] Typhoon Mindulle (2004) (T0407, 10W, Igme) – struck the Philippines, Taiwan and China. [CLS] [SEP] Tropical Storm Mindulle (2010) (T1005, 06W) Typhoon Mindulle (2016) (T1609, 10W) - affected much of Japan during August 2016. [CLS] [SEP]
+

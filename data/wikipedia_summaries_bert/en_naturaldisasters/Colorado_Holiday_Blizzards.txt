@@ -1,0 +1,2 @@
+The Holiday Blizzards were major storms occurring in two segments during the last two weeks of December 2006 in the Denver, Colorado area. [CLS] [SEP] The blizzards occurred within a week of each other. [CLS] [SEP] A subsequent storm, smaller in scope, struck the area less than week after the second blizzard, further hampering removal efforts and travel in the region. [CLS] [SEP]
+

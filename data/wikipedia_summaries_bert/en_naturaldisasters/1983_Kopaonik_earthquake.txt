@@ -1,0 +1,2 @@
+1983 Kopaonik earthquake occurred on September 10 at 06:14 UTC with a body wave magnitude of 5.3 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] The epicenter was in the Kopaonik mountains of Serbia. [CLS] [SEP] It affected seven villages, leaving 200 homeless, and 1,200 buildings and dwellings damaged.Kopaonik was hit five times by earthquakes of intensity VII to VIII between 1978 and 1985. [CLS] [SEP]
+

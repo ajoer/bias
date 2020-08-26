@@ -1,0 +1,2 @@
+The 1854 Tōkai earthquake was the first of the Ansei great earthquakes (1854–1855). [CLS] [SEP] It occurred at about 09:00 local time on 23 December 1854. [CLS] [SEP] It had a magnitude of 8.4 and caused a damaging tsunami. [CLS] [SEP] More than 10,000 buildings were destroyed and there were at least 2,000 casualties.It was the first of the three Ansei great earthquakes; the 1854 Ansei-Nankai earthquake of similar size hit southern Honshu the following day. [CLS] [SEP]
+

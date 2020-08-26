@@ -1,0 +1,2 @@
+The 2013 Solomon Islands earthquake struck northeast of Australia on 6 February with a moment magnitude of 8.0 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] Its epicenter was the Solomon Islands, at the boundaries of the Australian and Pacific tectonic plates, causing local evacuations and a tsunami of 1.5 m (4.9 ft) and killing at least nine people. [CLS] [SEP]
+

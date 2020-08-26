@@ -1,0 +1,2 @@
+The Llandow air disaster was an aircraft accident in Wales in 1950. [CLS] [SEP] At that time it was the world's worst air disaster with a total of 80 fatalities. [CLS] [SEP] The aircraft, an Avro Tudor V, had been privately hired to fly rugby union enthusiasts to and from an international game in Ireland. [CLS] [SEP] On the return flight the aircraft stalled and crashed on its approach to land. [CLS] [SEP]
+

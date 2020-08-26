@@ -1,0 +1,2 @@
+On January 10, 2005, a major landslide occurred in the town of La Conchita, California. [CLS] [SEP] The landslide killed 10 people, and destroyed or damaged dozens of houses. [CLS] [SEP] The landslide occurred on part of a previous landslide that occurred in 1995. [CLS] [SEP] The historic slides are part of the larger Rincon Mountain slide, which "started many thousands of years ago and will continue generating slides in the future."
+

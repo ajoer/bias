@@ -1,0 +1,2 @@
+The 1688 Sannio earthquake occurred in the late afternoon of June 5 in the province of Benevento of southern Italy. [CLS] [SEP] The moment magnitude is estimated at 7, with a Mercalli intensity of XI. [CLS] [SEP] It severely damaged numerous towns in a vast area, completely destroying Cerreto Sannita and Guardia Sanframondi. [CLS] [SEP] The exact number of victims is unknown, and is estimated at about 10,000. [CLS] [SEP] It is among the most destructive earthquakes in the history of Italy. [CLS] [SEP]
+

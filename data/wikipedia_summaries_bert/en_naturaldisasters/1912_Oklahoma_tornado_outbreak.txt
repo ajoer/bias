@@ -1,0 +1,2 @@
+The tornado outbreak of April 27–29, 1912 was a major tornado outbreak. [CLS] [SEP] At least six violent tornadoes touched down throughout Oklahoma, with near constant activity until early the next day. [CLS] [SEP] At least 15 cities were affected. [CLS] [SEP] 40 people died, and 120 injured. [CLS] [SEP]
+

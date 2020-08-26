@@ -1,0 +1,2 @@
+A Mw 6.4 earthquake struck the island of Lombok on the morning of 29 July 2018 at a shallow depth of 14 km (8.7 mi). [CLS] [SEP] Widespread damage was reported in the area, and authorities confirmed that 20 people were killed in the earthquake while hundreds were injured.The epicentre was located in Sembalun Subdistrict, East Lombok Regency. [CLS] [SEP] The earthquake was a foreshock for the more powerful Mw 6.9 earthquake which struck the island a week later. [CLS] [SEP]
+

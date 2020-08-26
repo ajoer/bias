@@ -1,0 +1,2 @@
+The 1995 Antofagasta earthquake occurred on July 30 at 05:11 UTC (01:11 local time) with a moment magnitude of 8.0 and a maximum Mercalli intensity of VII (Very strong). [CLS] [SEP] The Antofagasta Region in Chile was affected by a moderate tsunami, with three people killed, 58 or 59 injured, and around 600 homeless. [CLS] [SEP] Total damage from the earthquake and tsunami amounted to $1.791 million. [CLS] [SEP]
+

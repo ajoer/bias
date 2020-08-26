@@ -1,0 +1,2 @@
+A massive snowstorm hit Romania in February 1954. [CLS] [SEP] Heavy snowfall that month was recorded on the following dates: 1-4, 7-9, 17-19 and 22-24. [CLS] [SEP] Wind speed reached 126 km/h in Bucharest on February 3, a record that still stands. [CLS] [SEP] The maximum quantity of snow was recorded on the 3rd in Grivița: 115.9 L/m2 in 24 hours, another unbroken record. [CLS] [SEP] The thickest layer of snow, 173 cm, appeared in Călărași on February 3-4 and also remains a record. [CLS] [SEP] Snowdrifts reached 5 m in the southeast of the country. [CLS] [SEP]
+

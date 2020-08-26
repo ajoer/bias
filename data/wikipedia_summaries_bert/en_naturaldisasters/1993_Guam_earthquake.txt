@@ -1,0 +1,2 @@
+The 1993 Guam earthquake occurred on August 8 at 6:34:26 pm local time with a moment magnitude of 7.8 and a maximum Mercalli intensity of IX (Violent). [CLS] [SEP] The thrust earthquake generated a non-destructive tsunami, injured as many as 71 people, and inflicted about $250 million in damage on Guam. [CLS] [SEP]
+

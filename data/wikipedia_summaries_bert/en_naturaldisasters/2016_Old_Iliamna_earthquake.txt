@@ -1,0 +1,2 @@
+The 2016 Old Iliamna earthquake struck in the Cook Inlet region of Alaska near Iliamna at 1:30 AM AKST on January 24, 2016. [CLS] [SEP] The quake was centered approximately 162 miles (261 km) from Anchorage, and 65 miles (105 km) from Homer. [CLS] [SEP] The earthquake registered 7.1, and was felt across a wide area of Southcentral Alaska, the Kenai Peninsula and as far away as Juneau roughly 700 miles (1,100 km) southeast of the epicenter. [CLS] [SEP] Moderate to heavy damage to homes, roads and businesses was experienced over a wide area. [CLS] [SEP]
+

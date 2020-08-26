@@ -1,0 +1,2 @@
+The 2012 Zohan earthquake occurred on December 5 at 20:38 IRST with a moment magnitude of 5.8 and a maximum perceived intensity of VI (Strong) on the Mercalli intensity scale. [CLS] [SEP] The shock occurred near the city of Zohan, Qayen and Birjand in South Khorasan Province, Iran. [CLS] [SEP] It struck 42 km ESE from Qayen. [CLS] [SEP] At least 8 people were killed and 23 people were injured. [CLS] [SEP]
+

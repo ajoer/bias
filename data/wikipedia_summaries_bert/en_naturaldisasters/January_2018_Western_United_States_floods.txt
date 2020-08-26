@@ -1,0 +1,2 @@
+The January 2018 American West floods occurred due to heavy precipitation in the Western United States. [CLS] [SEP] While wildfires in Southern California exacerbated the rain's effects there, other states, like Nevada, also experienced flooding. [CLS] [SEP]
+

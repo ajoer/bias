@@ -1,0 +1,2 @@
+The 1978 Singapore flood was one of the worst floods in Singapore's history. [CLS] [SEP] As much as 512 millimetres (20.2 in) of rain fell in just 24 hours from 2 to 3 December, 1978. [CLS] [SEP] Seven people were killed and more than a thousand residents were evacuated from their homes by the army and police boats from five affected areas. [CLS] [SEP] Total damage reached S$10 million, the worst flood since the Hari Raya floods that hit the island in December 1969. [CLS] [SEP]
+

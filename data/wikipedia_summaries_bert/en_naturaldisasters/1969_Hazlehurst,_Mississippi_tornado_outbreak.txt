@@ -1,0 +1,2 @@
+A destructive series of three tornadoes hit Mississippi, Kentucky, and Tennessee on January 23, 1969. [CLS] [SEP] This worst tornado was a violent F4 twister that devastated Hazlehurst, Mississippi and caused 32 fatalities. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1999 Chamoli earthquake occurred on 29 March in the Chamoli district in the Indian state of Uttar Pradesh (now in Uttarakhand). [CLS] [SEP] The earthquake was the strongest to hit the foothills of the Himalayas in more than ninety years. [CLS] [SEP] Approximately 103 people died in the earthquake. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The Bell UH-1N Twin Huey is a medium military helicopter. [CLS] [SEP] A member of the extensive Huey family, it first flew in 1969. [CLS] [SEP] The CUH-1N Twin Huey (later CH-135 Twin Huey) was the original version, first ordered by the Canadian Forces. [CLS] [SEP] The UH-1N has a 15-seat configuration, with one pilot and 14 passengers. [CLS] [SEP] In cargo configuration, it has an internal capacity of 220 ft³ (6.23 m³). [CLS] [SEP] An external load up to 5,000 lb (2,268 kg) can be carried. [CLS] [SEP] The UH-1N was later developed into the civilian Bell 212. [CLS] [SEP]
+

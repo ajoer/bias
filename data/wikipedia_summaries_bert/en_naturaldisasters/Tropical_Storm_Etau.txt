@@ -1,0 +1,2 @@
+The name Etau has been used to name three tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] The name was contributed by the United States of America, and is a Palauan word for "storm cloud". [CLS] [SEP] Typhoon Etau (T0310, 11W, Kabayan) – struck Japan. [CLS] [SEP] Tropical Storm Etau (2009) (T0909, 10W) – approached Japan and brought heavy rain. [CLS] [SEP] Tropical Storm Etau (2015) (T1518, 18W) - struck Japan and brought heavy rain. [CLS] [SEP]
+

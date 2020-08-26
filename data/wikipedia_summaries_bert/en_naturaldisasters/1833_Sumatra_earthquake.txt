@@ -1,0 +1,2 @@
+The 1833 Sumatra earthquake occurred on November 25 at about 22:00 local time, with an estimated magnitude in the range of 8.8–9.2 Mw . [CLS] [SEP] It caused a large tsunami that flooded the southwestern coast of the island. [CLS] [SEP] There are no reliable records of the loss of life, with the casualties being described only as 'numerous'. [CLS] [SEP] The magnitude of this event has been estimated using records of uplift taken from coral microatolls. [CLS] [SEP]
+

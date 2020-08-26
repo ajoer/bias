@@ -1,0 +1,2 @@
+The 1967 Koynanagar earthquake occurred near Koynanagar town in Maharashtra, India on 11 December local time. [CLS] [SEP] The magnitude 6.6 shock hit with a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] It occurred near the site of Koyna dam, raising questions about induced seismicity, and claimed at least 177 lives and injured over 2,200. [CLS] [SEP]
+

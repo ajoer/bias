@@ -1,0 +1,2 @@
+On April 22, 2019, a 6.1 magnitude earthquake struck the island of Luzon in the Philippines, leaving at least 18 dead, 3 missing and injuring at least 256 others. [CLS] [SEP] Despite the fact that the epicenter was in Zambales, most of the damage to infrastructure occurred in the neighboring province of Pampanga, which suffered damage to 29 buildings and structures. [CLS] [SEP]
+

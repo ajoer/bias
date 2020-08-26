@@ -1,0 +1,2 @@
+The 1780 Tabriz earthquake occurred at 01:15 local time on 8 January. [CLS] [SEP] It had an estimated magnitude of 7.4 and a maximum felt intensity of IX on the Mercalli intensity scale. [CLS] [SEP] The city of Tabriz was almost completely destroyed. [CLS] [SEP] Approximately 50,000 people were killed. [CLS] [SEP]
+

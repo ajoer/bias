@@ -1,0 +1,2 @@
+Quebecair Flight 255 was a scheduled flight from Quebec City to Montreal. [CLS] [SEP] On March 29, 1979, the Fairchild F-27, registered CF-QBL, that was operating the flight crashed minutes after takeoff when an engine exploded. [CLS] [SEP] All three crew and 14 of the 21 passengers died. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1992 Flores earthquake and tsunami occurred on December 12 on the island of Flores in Indonesia. [CLS] [SEP] With a magnitude of 7.8 and a maximum Mercalli intensity of VIII (Severe), it was the largest and also the deadliest earthquake in 1992. [CLS] [SEP]
+

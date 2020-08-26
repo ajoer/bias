@@ -1,0 +1,2 @@
+On 11 October 2018, an earthquake struck off the coast of East Java, Indonesia, with the epicentre located off the coast of Situbondo Regency. [CLS] [SEP] The earthquake, which struck at dawn, killed 4 people in addition to destroying or damaging hundreds of houses, mostly in the small island of Sapudi. [CLS] [SEP]
+

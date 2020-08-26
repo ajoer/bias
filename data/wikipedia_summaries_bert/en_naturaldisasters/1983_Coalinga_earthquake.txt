@@ -1,0 +1,2 @@
+The 1983 Coalinga earthquake struck at 4:42 p.m. [CLS] [SEP] Monday, May 2 of that year, in Coalinga, California,The shock was felt from the greater Los Angeles Area north to Susanville in Lassen County, and between the Pacific Coast and western Nevada. [CLS] [SEP] More than 5,000 aftershocks were recorded through July 31, of which 894 had a magnitude of 2.5 or larger. [CLS] [SEP] It measured 6.2 on the moment magnitude scale and had a maximum Mercalli intensity of VIII (severe). [CLS] [SEP]
+

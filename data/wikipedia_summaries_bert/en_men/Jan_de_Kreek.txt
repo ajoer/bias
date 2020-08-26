@@ -1,0 +1,2 @@
+This is the list of players that have played for the Netherlands national football team, ever since the first match against Belgium on April 30, 1905. [CLS] [SEP] It includes all players up until the match of 14 November 2012 against Germany. [CLS] [SEP] The players are listed in chronological order according to the date of their debut. [CLS] [SEP] Additionally, their dates of birth, number of caps and goals are stated. [CLS] [SEP]
+

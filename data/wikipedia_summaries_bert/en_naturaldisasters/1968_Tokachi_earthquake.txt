@@ -1,0 +1,2 @@
+The 1968 Tokachi earthquake (1968年十勝沖地震 Sen-kyūhyaku-rokujūhachi-nen Tokachi-oki Jishin) occurred on May 16 at 0:49 UTC (09:49 local time) in the area offshore Aomori and Hokkaido. [CLS] [SEP] The magnitude of this earthquake was put at Mw 8.3. [CLS] [SEP] The intensity of the earthquake reached shindo 5 in Aomori, Aomori and Hakodate, Hokkaido. [CLS] [SEP]
+

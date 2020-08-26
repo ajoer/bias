@@ -1,0 +1,2 @@
+The 1985 Luquan earthquake occurred on April 18, 1985, at 13:52 local time (05:52 UTC). [CLS] [SEP] The epicenter was near Luquan County, Yunnan, China. [CLS] [SEP] Research showed that the source of this earthquake was Zeyi Fault (则邑断层). [CLS] [SEP] 22 people were killed and more than 300 injured in this earthquake. [CLS] [SEP]
+

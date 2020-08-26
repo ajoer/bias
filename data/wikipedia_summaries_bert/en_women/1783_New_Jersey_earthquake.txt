@@ -1,0 +1,2 @@
+The 1783 New Jersey earthquake occurred on November 29 in the Province of New Jersey. [CLS] [SEP] With a magnitude estimated at 5.3, it stands as the most powerful earthquake to occur in the state. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1963 Kuril Islands earthquake occurred at 05:17 UTC, on October 13. [CLS] [SEP] The earthquake had a magnitude of 8.5 and was followed by a Mw=7.8 event seven days later. [CLS] [SEP] Both earthquakes triggered tsunamis that were observed around the northern part of the Pacific ocean. [CLS] [SEP]
+

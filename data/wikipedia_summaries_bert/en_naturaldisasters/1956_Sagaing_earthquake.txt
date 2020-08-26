@@ -1,0 +1,2 @@
+The 1956 Sagaing earthquake occurred on July 16, 1956, at 15:07 UTC. [CLS] [SEP] The earthquake was located near Sagaing, Burma. [CLS] [SEP] This earthquake had a magnitude of Mw 7.1.Thirty-eight people died because of the earthquake. [CLS] [SEP] Several pagodas, including the Mingun Pagoda, were severely damaged. [CLS] [SEP] The earthquake was close to the Shan-Sagaing Fault. [CLS] [SEP] However, the focal mechanism remains undetermined. [CLS] [SEP] The intensity reached MM VIII to MM IX near the epicenter. [CLS] [SEP]
+

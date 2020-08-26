@@ -1,0 +1,2 @@
+The 1985 Rapel Lake earthquake occurred on 8 April at 21:56:59 local time with a moment magnitude of 7.5 and a maximum perceived intensity of VII (Very strong). [CLS] [SEP] The shock was centered 75 kilometres (47 mi) southwest of Santiago, Chile, with a focal depth of 37.8 km (23 mi). [CLS] [SEP]
+

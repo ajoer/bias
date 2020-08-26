@@ -1,0 +1,2 @@
+CAAC Flight 3303 was a scheduled domestic passenger flight from the former Guangzhou Baiyun International Airport to Guilin Qifengling Airport, China. [CLS] [SEP] It was serviced by a Hawker Siddeley Trident, registration B-266, that crashed into a mountain on 26 April 1982, killing all 112 people aboard. [CLS] [SEP]
+

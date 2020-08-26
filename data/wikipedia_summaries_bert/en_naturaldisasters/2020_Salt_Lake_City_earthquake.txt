@@ -1,0 +1,2 @@
+At 7:09 AM MDT on March 18, 2020, a 5.7 magnitude earthquake hit Salt Lake City, Utah, United States, with an epicenter 6 km (3.7 mi) north-northeast of Magna, Utah. [CLS] [SEP] It was the state's strongest earthquake since the 1992 St. [CLS] [SEP] George earthquake, the first major earthquake to occur within the Salt Lake Valley since the city was founded, and the first earthquake of similar magnitude to occur near Salt Lake City since 1962, when a magnitude 5.0 earthquake struck a similar location in Magna. [CLS] [SEP]
+

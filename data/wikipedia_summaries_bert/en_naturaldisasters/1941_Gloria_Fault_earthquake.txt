@@ -1,0 +1,2 @@
+The 1941 Gloria Fault earthquake occurred at 18:03:57 UTC in the northern Atlantic Ocean on 25 November 1941. [CLS] [SEP] It had a magnitude of about 8.0 on the moment magnitude scale and a maximum perceived intensity of IX (Violent) on the Mercalli intensity scale. [CLS] [SEP] It was caused by movement on the Gloria Fault, part of the Azores–Gibraltar Transform Fault. [CLS] [SEP] It triggered a small tsunami, which was observed at Newlyn, Cornwall. [CLS] [SEP]
+

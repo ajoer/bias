@@ -1,0 +1,2 @@
+The 1957 Abant earthquake occurred at 8:33am on 26 May, in Turkey. [CLS] [SEP] The earthquake had an estimated surface wave magnitude of 7.1 and a maximum felt intensity of IX (Violent) on the Mercalli intensity scale, causing 52 casualties. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1382 Dover Straits earthquake occurred at 15:00 on 21 May. [CLS] [SEP] It had an estimated magnitude of 6.0 Ms and a maximum felt intensity of VII-VIII on the Mercalli intensity scale. [CLS] [SEP] Based on contemporary reports of damage, the epicentre is thought to have been in the Straits of Dover. [CLS] [SEP] The earthquake caused widespread damage in south-eastern England and in the Low Countries. [CLS] [SEP] The earthquake interrupted a synod convened in part to examine the religious writings of John Wycliffe, which became known as the Earthquake Synod. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+Sarah Allen is a Canadian actress. [CLS] [SEP] She studied acting at the National Theatre School of Canada and graduated in 2002. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The first of the 1894 Atalanti earthquakes occurred on 20 April 1894 at 16:52 UTC, with a magnitude of 6.4 on the moment magnitude scale and a maximum perceived intensity of X on the Mercalli intensity scale. [CLS] [SEP] It was followed seven days later on 27 April at 19:42 UTC by the second, with a magnitude of 6.9 and a maximum intensity of X. [CLS] [SEP] These two earthquakes caused widespread damage in the Locris area, causing a total of 255 deaths. [CLS] [SEP] More literature on these destructive events can be seen in the references section. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+Johanna Doris Moore is a computational linguist and cognitive scientist. [CLS] [SEP] Her research publications include contributions to natural language generation, spoken dialogue systems, computational models of discourse, intelligent tutoring and training systems, human-computer interaction, user modeling, and knowledge representation. [CLS] [SEP]
+

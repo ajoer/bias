@@ -1,0 +1,2 @@
+In January 1974 a flood occurred in Brisbane, Queensland, Australia after three weeks of continual rain. [CLS] [SEP] The Brisbane River, which runs through the heart of the city, broke its banks and flooded the surrounding areas. [CLS] [SEP] The cyclone that produced the flood also flooded surrounding cities: Ipswich, Beenleigh, and the Gold Coast.In total, there were 16 fatalities, 300 people injured, 8000 homes destroyed and an estimated A$980 million in damages. [CLS] [SEP]
+

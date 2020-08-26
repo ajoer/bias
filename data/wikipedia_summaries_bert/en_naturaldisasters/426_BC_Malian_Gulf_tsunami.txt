@@ -1,0 +1,2 @@
+The 426 BC Malian Gulf tsunami devastated the coasts of the Malian and Euboean Gulfs, Greece, in the summer of 426 BC. [CLS] [SEP] Thucydides inquired into its causes, and concluded that the tsunami must have been caused by an earthquake, He was thus historically the first known to correctly interpret the cause of a tsunami as a preceding geological event. [CLS] [SEP] Herodotus, in contrast, had attributed the Potidaea tsunami to the divine wrath of Poseidon. [CLS] [SEP]
+

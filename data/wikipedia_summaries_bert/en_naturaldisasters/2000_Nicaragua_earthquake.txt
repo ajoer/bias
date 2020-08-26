@@ -1,0 +1,2 @@
+The 2000 Nicaragua earthquake occurred at 19:30 UTC on July 6. [CLS] [SEP] It had a magnitude of 5.4 on the moment magnitude scale and caused 7 deaths and 42 injuries. [CLS] [SEP] 357 houses were destroyed and 1,130 others were damaged in the earthquake. [CLS] [SEP]
+

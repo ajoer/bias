@@ -1,0 +1,2 @@
+The 2009 Fiordland earthquake struck the South Island of New Zealand with a magnitude of 7.8 at 9:22 pm (NZST) on 15 July. [CLS] [SEP] The earthquake was centred in the remote region of Fiordland, with the epicentre located 150 km (93 mi) west-north-west of Invercargill near Dusky Sound in Fiordland National Park, at a depth of 12 km (7.5 mi). [CLS] [SEP] It is among the largest New Zealand earthquakes to occur, including the Culverden/Kaikoura earthquake in 2016 and the 1931 Hawke's Bay earthquake, which both had a magnitude of 7.8. [CLS] [SEP]
+

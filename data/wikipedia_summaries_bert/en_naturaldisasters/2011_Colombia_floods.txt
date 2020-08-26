@@ -1,0 +1,2 @@
+A series of floods in Colombia began in late April 2011, coinciding with the country's rainy season. [CLS] [SEP] Torrential rains triggered extensive flooding and landslides that killed at least 111 people and left more than 69,000 homeless. [CLS] [SEP] Estimates have placed damage at US$5 billion. [CLS] [SEP] After September, a second wave of flooding and landslides (coinciding with the year's second rainy season) killed another 81 people, wounded 65 more and affected approximately 289,000 (including 61,000 families). [CLS] [SEP]
+

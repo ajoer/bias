@@ -1,0 +1,2 @@
+Sheena S. [CLS] [SEP] Iyengar is the S.T. [CLS] [SEP] Lee Professor of Business in the Management Department at Columbia Business School, widely and best known as an expert on choice. [CLS] [SEP] Her research focuses on the many facets of decision making, including: why people want choice, what affects how and what we choose, and how we can improve our decision making. [CLS] [SEP] She has presented TED talks on choice and is the author of The Art of Choosing (2010). [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The Great Flood of 1851 occurred after record-setting rainfalls across the U.S. [CLS] [SEP] Midwest and Plains from May to August, 1851. [CLS] [SEP] Hardest hit was the State of Iowa, with significant flooding extending to the Lower Mississippi River basin. [CLS] [SEP] Historical evidence suggest flooding occurred in the eastern Plains, from Nebraska to the Red River basin, but these areas were sparsely settled in 1851. [CLS] [SEP] Heavy rainfall also occurred in the Ohio River basin. [CLS] [SEP]
+

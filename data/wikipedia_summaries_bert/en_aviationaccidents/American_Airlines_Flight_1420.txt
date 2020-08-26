@@ -1,0 +1,2 @@
+American Airlines Flight 1420 was a flight from Dallas/Fort Worth International Airport (DFW) to Little Rock National Airport in the United States. [CLS] [SEP] On June 1, 1999, the McDonnell Douglas MD-82 operating as Flight 1420 overran the runway upon landing in Little Rock and crashed. [CLS] [SEP] Eleven of the 145 people aboard were killed—the captain and ten passengers. [CLS] [SEP]
+

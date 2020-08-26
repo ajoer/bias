@@ -1,0 +1,2 @@
+Helen Miriam Berman is a Board of Governors Professor of Chemistry and Chemical Biology at Rutgers University and a former director of the RCSB Protein Data Bank (one of the member organizations of the Worldwide Protein Data Bank). [CLS] [SEP] A structural biologist, her work includes structural analysis of protein-nucleic acid complexes, and the role of water in molecular interactions. [CLS] [SEP] She is also the founder and director of the Nucleic Acid Database, and leads the Protein Structure Initiative Structural Genomics Knowledgebase. [CLS] [SEP]
+

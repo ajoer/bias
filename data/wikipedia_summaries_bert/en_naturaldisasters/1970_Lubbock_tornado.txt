@@ -1,0 +1,2 @@
+The Lubbock tornado was a tornado event that occurred in Lubbock, Texas, on Monday, May 11, 1970. [CLS] [SEP] It was one of the worst tornadoes in Texas history, and occurred exactly 17 years to the day after the deadly Waco Tornado. [CLS] [SEP] It is also the most recent F5 tornado to have struck a central business district of a large city. [CLS] [SEP]
+

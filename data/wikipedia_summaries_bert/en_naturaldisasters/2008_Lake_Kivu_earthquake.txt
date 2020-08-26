@@ -1,0 +1,2 @@
+The 2008 Lake Kivu earthquake shook several countries in Africa's Great Lakes region at 07:34:12 (GMT) on February 3. [CLS] [SEP] It measured 5.9 on the moment magnitude scale. [CLS] [SEP] The epicentre was 20 kilometres (12 mi) north of Bukavu at Lake Kivu in the Democratic Republic of Congo. [CLS] [SEP]
+

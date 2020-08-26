@@ -1,0 +1,2 @@
+On September 8, 1974, a Boeing 707-331B (registered N8734) operating as TWA Flight 841 from Tel Aviv to New York City via Athens and Rome crashed into the Ionian Sea, killing all aboard. [CLS] [SEP] The National Transportation Safety Board determined that the plane had been destroyed by a bomb hidden in the cargo hold. [CLS] [SEP] The detonation of the bomb destroyed the systems responsible for operating the plane's control surfaces, causing the plane to pitch up until it stalled and dove into the sea. [CLS] [SEP]
+

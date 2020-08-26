@@ -1,0 +1,2 @@
+The 1509 Constantinople earthquake occurred in the Sea of Marmara on 10 September 1509 at about 10 p.m. [CLS] [SEP] The earthquake had an estimated magnitude of 7.2 ± 0.3 on the surface wave magnitude scale. [CLS] [SEP] A tsunami and forty-five days of aftershocks followed the earthquake. [CLS] [SEP] The death toll of this earthquake is poorly known, with estimates in the range of 1,000 to 13,000. [CLS] [SEP]
+

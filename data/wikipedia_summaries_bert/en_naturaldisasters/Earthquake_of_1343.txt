@@ -1,0 +1,2 @@
+The 1343 earthquake struck the Tyrrhenian Sea and Bay of Naples on November 25, 1343. [CLS] [SEP] Underground shocks were felt in Naples and caused significant damage and loss of lives. [CLS] [SEP] Of major note was a tsunami created by the earthquake which destroyed many ships in Naples and destroyed many ports along the Amalfi Coast including Amalfi itself. [CLS] [SEP] The effects of the tsunami were observed by the poet Petrarch, whose ship was forced to return to port, and recorded in the fifth book of his Epistolae familiares. [CLS] [SEP]
+

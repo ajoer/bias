@@ -1,0 +1,2 @@
+The 1869 Cachar earthquake occurred on 10 January with an estimated moment magnitude of 7.4 and a maximum EMS-98 intensity of VII (Damaging). [CLS] [SEP] Two people were killed and damage was considered severe. [CLS] [SEP] The earthquake was felt in Upper Burma, Bihar, Jharkhand, Bengal and Northeast India. [CLS] [SEP] The cause is said to have been from a 20 mile long fissure below the Jaintia Hills, situated north of the Sylhet region. [CLS] [SEP]
+

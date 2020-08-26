@@ -1,0 +1,2 @@
+The 2017 Benue State flooding took place in September 2017 in Central Nigeria. [CLS] [SEP] It displaced 100,000 people, and damaged around 2,000 homes. [CLS] [SEP] Flooding in the area is common due to heavy rains and the Benue River, which runs through the area. [CLS] [SEP]
+

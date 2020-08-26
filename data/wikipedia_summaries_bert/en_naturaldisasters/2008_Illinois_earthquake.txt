@@ -1,0 +1,2 @@
+The 2008 Illinois earthquake was one of the largest earthquakes ever recorded in the Midwest state of Illinois. [CLS] [SEP] This moderate strike-slip shock measured 5.2 on the moment magnitude scale and had a maximum Mercalli intensity of VII (very strong). [CLS] [SEP] It occurred at 04:36:59 local time on April 18 near West Salem and Mount Carmel, Illinois, within the Wabash Valley Seismic Zone. [CLS] [SEP] Earthquakes in this part of the country are often felt at great distances. [CLS] [SEP]
+

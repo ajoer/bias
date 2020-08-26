@@ -1,0 +1,2 @@
+The 1989 Gissar earthquake occurred at 23:02 UTC on 22 January near Gissar in Tajikistan. [CLS] [SEP] The shock had a body wave magnitude of 5.3 and a maximum felt intensity of VII (Very strong) on the Mercalli intensity scale. [CLS] [SEP] The National Geophysical Data Center reported that the death toll from the event amounted to about 274, and the National Earthquake Information Center stated there were many injured. [CLS] [SEP] This was the deadliest earthquake in 1989. [CLS] [SEP]
+

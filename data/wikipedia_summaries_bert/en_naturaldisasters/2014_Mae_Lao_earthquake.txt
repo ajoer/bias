@@ -1,0 +1,2 @@
+The 2014 Mae Lao earthquake occurred at 18:08:43 Indochina Time on May 5. [CLS] [SEP] The epicenter was located at a point 9 km (6 mi) south of Mae Lao District, 27 km (17 mi) southwest of Chiang Rai, Thailand. [CLS] [SEP] One person was killed as a result. [CLS] [SEP]
+

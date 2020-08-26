@@ -1,0 +1,2 @@
+Ileana Streinu is a Romanian-American computer scientist and mathematician, the Charles N. [CLS] [SEP] Clark Professor of Computer Science and Mathematics at Smith College in Massachusetts. [CLS] [SEP] She is known for her research in computational geometry, and in particular for her work on kinematics and structural rigidity. [CLS] [SEP]
+

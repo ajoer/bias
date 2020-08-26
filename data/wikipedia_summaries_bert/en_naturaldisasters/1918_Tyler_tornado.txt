@@ -1,0 +1,2 @@
+The 1918 Tyler tornado was a large and destructive tornado that devastated the town of Tyler, Minnesota on Wednesday, August 21, 1918. [CLS] [SEP] The F4-estimated tornado hit the town at approximately 9:20 pm, killing 36 people and injuring over 100 others. [CLS] [SEP] Debris from Tyler was found up to 23 miles (37 km) away. [CLS] [SEP] It is the fourth-deadliest tornado in Minnesota's history. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1964 Niigata earthquake struck at 13:01 local time (04:01 UTC) on 16 June with a magnitude of either 7.5 or 7.6. [CLS] [SEP] The epicenter was on the continental shelf off the northwest coast of Honshu, Japan in Niigata Prefecture, about 50 kilometres (31 mi) north of the city of Niigata. [CLS] [SEP] The earthquake caused liquefaction over large parts of the city. [CLS] [SEP]
+

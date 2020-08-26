@@ -1,0 +1,2 @@
+In August 2002 a flood caused by over a week of continuous heavy rains ravaged Europe, killing dozens, dispossessing thousands, and causing damage of billions of euros in the Czech Republic, Austria, Germany, Slovakia, Poland, Hungary, Romania and Croatia, as well as in Russia. [CLS] [SEP] The flood was of a magnitude expected to occur roughly once a century. [CLS] [SEP] Unprecedented flood heights were recorded and at least 110 people died. [CLS] [SEP] In December 2002, total economic damage estimates exceeded 15 billion Euro, of which 15% was insured. [CLS] [SEP]
+

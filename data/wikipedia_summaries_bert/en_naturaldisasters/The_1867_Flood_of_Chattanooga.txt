@@ -1,0 +1,2 @@
+The 1867 flood of Chattanooga is the largest flood in the city's recorded history. [CLS] [SEP] The flood followed a period of heavy rain that affected most of the Tennessee Valley and lasted from March 7 to March 11, 1867. [CLS] [SEP] At its highest point, the water of the Tennessee River crested 58 feet (18 metres) above its normal level, and it inundated much of the city. [CLS] [SEP] As a result of the flooding, Chattanooga's residents began to raise the city's street level by about one story. [CLS] [SEP]
+

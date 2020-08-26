@@ -1,0 +1,2 @@
+The 1998 Aiquile earthquake occurred on May 22 at 00:48:53 local time in Bolivia. [CLS] [SEP] This strike-slip earthquake had a moment magnitude of 6.6 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] Damage was severe, with at least 95 deaths, 50–150 injuries, and 6,900 homeless. [CLS] [SEP]
+

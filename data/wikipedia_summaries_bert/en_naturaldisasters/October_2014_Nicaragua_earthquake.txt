@@ -1,0 +1,2 @@
+The October 2014 Nicaragua earthquake occurred at 21:51 local time with a moment magnitude of 7.3 off the coast of Nicaragua, Honduras and El Salvador. [CLS] [SEP] The shock resulted in one death. [CLS] [SEP]
+

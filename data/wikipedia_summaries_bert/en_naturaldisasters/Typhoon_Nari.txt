@@ -1,0 +1,2 @@
+The name Nari has been used to name four tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] The name was contributed by the Republic of Korea and means lily. [CLS] [SEP] Typhoon Nari (2001) (T0116, 20W, Kiko) – approached Okinawa and struck Taiwan and China. [CLS] [SEP] Typhoon Nari (2007) (T0711, 12W, Falcon) – struck South Korea. [CLS] [SEP] Typhoon Nari (2013) (T1325, 24W, Santi) – struck Vietnam and the Philippines as a typhoon. [CLS] [SEP] Tropical Storm Nari (2019) (T1906, 07W)
+

@@ -1,0 +1,2 @@
+Dr. [CLS] [SEP] Myra Wilson is a British computer scientist. [CLS] [SEP] She is a lecturer in computer science at Aberystwyth University. [CLS] [SEP] Her research interests are in the broad area of robotics, and she also teaches in the field. [CLS] [SEP]
+

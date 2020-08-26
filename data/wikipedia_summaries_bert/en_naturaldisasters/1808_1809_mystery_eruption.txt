@@ -1,0 +1,2 @@
+The 1808 mystery eruption was a large volcanic eruption conjectured to have taken place in late 1808, possibly in the southwest Pacific. [CLS] [SEP] A VEI-6 eruption, comparable to the 1883 eruption of Krakatoa, is suspected of having contributed to a period of global cooling that lasted for years, analogous to how the 1815 eruption of Mount Tambora (VEI-7) led to the Year Without a Summer in 1816. [CLS] [SEP]
+

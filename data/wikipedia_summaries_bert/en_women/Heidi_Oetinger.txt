@@ -1,0 +1,2 @@
+The Biermann-Ratjen-Medaille (Biermann Ratjen Medal) is an award of the City of Hamburg, Germany. [CLS] [SEP] It was founded in 1978 by the Senate of the Free and Hanseatic City of Hamburg to commemorate the achievements of the previous senator of culture Hans-Harder Biermann-Ratjen. [CLS] [SEP] The award is given to people, groups and institutions who have made outstanding contributions to the culture of Hamburg. [CLS] [SEP] The Praeses of the Department of Culture decides on the recipients and awards the medal on behalf of the Senate. [CLS] [SEP]
+

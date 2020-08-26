@@ -1,0 +1,2 @@
+The 1531 Lisbon earthquake occurred in the Kingdom of Portugal on the morning of 26 January 1531, between 4 and 5 o'clock. [CLS] [SEP] The earthquake and subsequent tsunami resulted in approximately 30,000 deaths. [CLS] [SEP] Despite its severity, the disaster had been mostly forgotten until the rediscovery of contemporary records in the early 20th-century. [CLS] [SEP]
+

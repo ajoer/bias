@@ -1,0 +1,2 @@
+Katherine St. [CLS] [SEP] John is a Professor at the CUNY Graduate Center Department of Computer Science and at Lehman College Department of Mathematics and Computer Science. [CLS] [SEP] She is a faculty member at the New York Consortium in Evolutionary Primatology. [CLS] [SEP] In 2007 she was selected to be an AWM/MAA Falconer Lecturer where she gave a presentation on "Comparing Evolutionary Trees". [CLS] [SEP]
+

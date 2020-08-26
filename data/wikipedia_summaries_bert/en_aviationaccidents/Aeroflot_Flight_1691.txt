@@ -1,0 +1,2 @@
+Aeroflot Flight 1691 crashed near Moscow Vnukovo Airport on 17 March 1979 killing 58 of the 119 people on board. [CLS] [SEP] The Tupolev Tu-104B operating the flight was overloaded and the crew received a false fire alarm. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1974 Lesser Antilles earthquake occurred at 05:50:58 local time on October 8 with a moment magnitude of 6.9 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] Four people were injured in what the United States' National Geophysical Data Center called a moderately destructive event. [CLS] [SEP]
+

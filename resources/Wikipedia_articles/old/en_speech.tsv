@@ -1,0 +1,164 @@
+# output from https://query.wikidata.org/#SELECT%20%3Ftype%20%3FtypeLabel%20%3Fsubtype%20%3FsubtypeLabel%20%23%28COUNT%28%3Fx%29%20AS%20%3Fcnt%29%0AWHERE%0A%7B%0A%09%3Ftype%20wdt%3AP279%20wd%3AQ1656682%20.%0A%09%3Fsubtype%20wdt%3AP31%20%3Ftype%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%20%7D%0A%20%20%20%20FILTER%20%28%20%3Ftype%20in%20%28%20wd%3AQ189760%2Cwd%3AQ207549%2Cwd%3AQ861911%20%29%20%29%0A%20%20%20%20%3Fsitelink%20schema%3Aabout%20%3Fsubtype%20.%0A%09%3Fsitelink%20schema%3AinLanguage%20%22en%22%20.%0A%20%20%20%20%3Fsitelink%20schema%3AisPartOf%20%5B%20wikibase%3AwikiGroup%20%22wikipedia%22%20%5D%20.%0A%7D
+type	typeLabel	subtype	subtypeLabel
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q443	Ich bin ein Berliner
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q160211	Schuman Declaration
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q8872	2006 Chávez speech at the United Nations
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q117138	On the occasion of the 50th anniversary of the war's end
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q214524	Gettysburg Address
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q192341	I Have a Dream
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q300593	A Time for Choosing
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q477956	Gazimestan speech
+http://www.wikidata.org/entity/Q189760	voting	http://www.wikidata.org/entity/Q343049	Act of Free Choice
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q358614	adlocutio
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q595064	Regensburg lecture
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q560148	Restatement of Policy on Germany
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q570100	Hitler's Obersalzberg Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q570589	Posen speeches
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q656577	Pro Milone
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q749054	Philippic
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q604988	Evil Empire speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q624238	June 29 Declaration
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q665568	De Imperio Cn. Pompei
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q698255	Sportpalast speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3922215	Pro Archia Poeta
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3406173	Pro Marcello
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3887597	Ain't I a Woman?
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3922211	Pro Caecina
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3532336	Tryst with Destiny
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3689204	Against Eratosthenes
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3899542	On the Murder of Eratosthenes
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3406185	Pro Ligario
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3711964	Divinatio in Caecilium
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3569272	Wind of Change
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3922227	Pro Tullio
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3922248	Pro Quinctio
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1107771	Bakerian Lecture
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1224601	Lincoln's House Divided Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q969706	On the Crown
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1165372	On the Cult of Personality and Its Consequences
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1145411	Grito de Dolores
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q757644	Atoms for Peace
+http://www.wikidata.org/entity/Q189760	voting	http://www.wikidata.org/entity/Q1458216	Popular consultation
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1497849	Pericles' Funeral Oration
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1495943	Gaudet Mater Ecclesia
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1567301	The Birds of Heaven
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q2065382	A New Beginning
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1572233	We shall fight on the beaches
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1994106	Tear down this wall!
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q1559179	Pro Caelio
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4780438	Apology of Aristides
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3922258	Pro Roscio Amerino
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4352804	2012 State of the Union Address
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4774689	Antidosis
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4858116	Barack Obama election victory speech, 2008
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5171686	Cornerstone Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4691027	Against Androtion
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4691037	Against Leptines
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4691045	Against Meidias
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4691051	Against Simon
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5256369	Demosthenes' Funeral Oration
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4207621	Bread of Life Discourse
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4310096	Speech and the Following Discussion at the Munich Conference on Security Policy
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4587938	1992 State of the Union Address
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4681388	Address to the Women of America
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4691054	Against Timocrates
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5070741	Chance for Peace speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4681393	Address to Young Men on Greek Literature
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4658364	A More Perfect Union
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q4691094	Against the Sophists
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5096252	Chicken Kiev speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q13132108	Tynged yr Iaith
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16957966	Trayvon Martin could have been me 35 years ago
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q15963807	Crimean speech of President Putin
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16208596	Ceaușescu's speech of 21 August 1968
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q15711702	I Am Prepared to Die
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q14946999	Buddhism, the Fulfilment of Hinduism
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16950968	Congolese Independence Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q17014032	misogyny speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16934424	The Quality of Mercy
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q11982265	Kråkerøy speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q15632256	St Crispin's Day Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16208585	Ceaușescu's final speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16386312	In Toga Candida
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16938778	De nostri temporis studiorum ratione
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16932404	Richard Nixon's resignation speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q16909651	On further improving party ideological work
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3030188	Checkers speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3160794	Never was so much owed by so many to so few
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q2379871	Stalin's alleged speech of 19 August 1939
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q2078515	Appeal of 18 June
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q2375242	This was their finest hour
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q2550165	What is universal history and why does one study it?
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3030207	Rivers of Blood speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q2119069	Dostoyevsky's Pushkin Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3030178	Redfern Park speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q2995964	Against Timarchus
+http://www.wikidata.org/entity/Q207549	abdication	http://www.wikidata.org/entity/Q2821316	Abdications of Bayonne
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3161519	Tenterfield Oration
+http://www.wikidata.org/entity/Q189760	voting	http://www.wikidata.org/entity/Q20688475	2015 Hong Kong electoral reform voting
+http://www.wikidata.org/entity/Q189760	voting	http://www.wikidata.org/entity/Q4763640	Anglo-Irish Treaty Dáil vote
+http://www.wikidata.org/entity/Q189760	voting	http://www.wikidata.org/entity/Q25110629	Sweden's voting at the Eurovision Song Contest
+http://www.wikidata.org/entity/Q207549	abdication	http://www.wikidata.org/entity/Q44023338	abdication of Akihito
+http://www.wikidata.org/entity/Q189760	voting	http://www.wikidata.org/entity/Q4370106	Elections in Kazakhstan
+http://www.wikidata.org/entity/Q207549	abdication	http://www.wikidata.org/entity/Q21187577	abdication of Wilhelm II
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3247561	Cross of Gold speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3203222	Slavery in Massachusetts
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q3331713	I am a Catalan
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5967210	I've Been to the Mountaintop
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091377	On the Halonnesus
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091419	On the Mindless Menace of Violence
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7272639	Quit India speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5453516	First Philippic
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q6288505	Josephus's Discourse to the Greeks concerning Hades
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7443471	Second Philippic
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5681688	Pregón
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q6088381	Atatürk's Address To Turkish Youth
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q6028822	Infamy Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091433	On the Navy
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5476156	Fourth Philippic
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7539246	Slavery and States' Rights
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5395414	Erotic Essay
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q6646617	Third Philippic
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091317	On the Chersonese
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091351	On the False Embassy
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091460	On the Peace
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5467107	For the Megalopolitans
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q6932381	Muhammad Ali Jinnah's 11th August Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7132699	Paper hanger
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5509109	Funeral Oration
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091405	On the Liberty of the Rhodians
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7302242	Rebuttal
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7344187	Robert F. Kennedy's speech on the assassination of Martin Luther King, Jr.
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q5676698	Harveian Oration
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7091256	On a Wound by Premeditation
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7090892	On American Taxation
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7246714	Pro Cluentio
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7549269	So God Made a Farmer
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q19523127	President Obama Delivers Remarks on the 50th Anniversary of the Selma Marches
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q19067653	What to the Slave Is the Fourth of July?
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q18342268	Valdai speech of Vladimir Putin
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q24965447	For Phormion
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q24965301	Against Spudias
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q25327034	Against the Stepmother for Poisoning
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q26963119	I am sorry for my country
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q28854696	Donald Trump speech to joint session of Congress, February 2017
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q22906233	Against Neaera
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q23013731	Mitt Romney's March 3 speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q28000931	Nicolas Sarkozy Dakar address
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q21288716	The Tenth Year Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q10974750	7th March Speech of Bangabandhu
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7603836	State of the Nation Address
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7745674	The Last Days of John Brown
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7603833	State of the Nation
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7777041	The lady's not for turning
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7765168	The Solitude of Latin America
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7733472	Farrer Park address
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7767021	The Strenuous Life
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7811223	To my peoples
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q7942166	Votes for Women (speech)
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q10844030	June 9 Deng Speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q60639597	Never violence!
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q57788611	The American Scholar
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q60788760	Jozef Tiso's speech in Holič
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q94346842	30 January 1939 Reichstag speech
+http://www.wikidata.org/entity/Q861911	speech	http://www.wikidata.org/entity/Q97838507	Communist China and the Free World's Future

@@ -1,0 +1,2 @@
+The 1925 Santa Barbara earthquake hit the area of Santa Barbara, California on June 29, with a moment magnitude between 6.5 and 6.8 and a maximum Mercalli Intensity of IX (Violent). [CLS] [SEP] It resulted in 13 casualties and destroyed the historic center of the city, with damage estimated at $8 million (about $111 million in 2017). [CLS] [SEP]
+

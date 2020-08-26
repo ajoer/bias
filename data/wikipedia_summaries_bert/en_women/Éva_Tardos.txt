@@ -1,0 +1,2 @@
+Éva Tardos (born 1 October 1957) is a Hungarian mathematician and the Jacob Gould Schurman Professor of Computer Science at Cornell University. [CLS] [SEP] Tardos's research interest is algorithms. [CLS] [SEP] Her work focuses on the design and analysis of efficient methods for combinatorial optimization problems on graphs or networks. [CLS] [SEP] She has done some work on network flow algorithms like approximation algorithms for network flows, cut, and clustering problems. [CLS] [SEP] Her recent work focuses on algorithmic game theory and simple auctions. [CLS] [SEP]
+

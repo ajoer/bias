@@ -1,0 +1,2 @@
+The Hotel Sacher is a five-star hotel located in the Innere Stadt first district of Vienna, Austria, facing the Vienna State Opera. [CLS] [SEP] It is famous for the specialty of the house, the Sachertorte, a chocolate cake with apricot filling. [CLS] [SEP] There is also an art gallery in the hotel with works from the 19th century. [CLS] [SEP] The hotel is built near the former residence of Antonio Vivaldi. [CLS] [SEP] Hotel Sacher is a member of The Leading Hotels of the World, a marketing network. [CLS] [SEP]
+

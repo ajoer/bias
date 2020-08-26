@@ -1,0 +1,2 @@
+St. [CLS] [SEP] Lucia's flood (Sint-Luciavloed) was a storm tide that affected the Netherlands and Northern Germany on 14 December 1287 (OS), the day after St. [CLS] [SEP] Lucia Day, killing approximately 50,000 to 80,000 people in one of the largest floods in recorded history. [CLS] [SEP] This disaster was similar to the North Sea flood of 1953, when an intense European windstorm coinciding with a high tide caused a huge storm surge. [CLS] [SEP] The St. [CLS] [SEP] Lucia flood had a major influence on the subsequent history of the Netherlands. [CLS] [SEP]
+

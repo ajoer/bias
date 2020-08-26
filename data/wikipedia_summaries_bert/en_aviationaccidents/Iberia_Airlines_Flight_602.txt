@@ -1,0 +1,2 @@
+On 7 January 1972, Iberia Airlines Flight 602 crashed into a mountain near Ibiza Town, Spain. [CLS] [SEP] The Sud Aviation SE 210 Caravelle operating the flight had taken off from Valencia Airport in Valencia, Spain, destined for Ibiza Airport on the Balearic island of Ibiza, also in Spain. [CLS] [SEP] All 98 passengers and 6 crew died in the crash. [CLS] [SEP]
+

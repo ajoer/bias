@@ -1,0 +1,2 @@
+The 2010 Papua earthquake occurred on June 16 at 12:16 local time (03:16 UTC) in Papua province of Indonesia. [CLS] [SEP] The magnitude 7.0 mainshock was preceded by an Mw 6.2 foreshock 10 minutes earlier, and was followed 42 minutes later by an Mw 6.6 aftershock. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+Continental Airlines Flight 1404 was a Continental Airlines flight from Denver International Airport in Denver, Colorado, United States to George Bush Intercontinental Airport in Houston, Texas. [CLS] [SEP] On the evening of December 20, 2008, the flight crashed while taking off from Denver resulting in two critical injuries, 36 non-critical injuries and a hull loss of the Boeing 737-524 aircraft. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The name Roke has been used by the Japan Meteorological Agency to name three tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] Roke is a male Chamorro name. [CLS] [SEP] Severe Tropical Storm Roke (2005) (T0502, 02W, Auring) – a Category 1 storm that struck the Philippines in March 2005. [CLS] [SEP] Typhoon Roke (2011) (T1115, 18W, Onyok) – a Category 4 storm that struck Japan in September 2011. [CLS] [SEP] Tropical Storm Roke (2017) (T1707, 10W, Fabian) – made landfall in Hong Kong as a tropical depression. [CLS] [SEP]
+

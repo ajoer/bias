@@ -1,0 +1,2 @@
+The 1973 Veracruz earthquake, also known as El Terremoto de Orizaba, occurred at 3:50 a.m. [CLS] [SEP] local time (9:50 GMT) on August 28, with the epicenter located in the vicinity of Serdán in the Mexican state of Puebla. [CLS] [SEP] It registered 7.0 on the Richter magnitude scale and had a maximum perceived intensity of VIII (Severe) on the Mercalli intensity scale. [CLS] [SEP] The effects of the earthquake were felt in the Mexican states of Veracruz and Puebla in southeast Mexico. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+Seaboard World Airlines Flight 253A was a military charter flight carrying 214 American troops bound for South Vietnam. [CLS] [SEP] On July 1, 1968, the plane was intercepted by Soviet jets after it unintentionally violated Soviet airspace. [CLS] [SEP] It was forced to land on one of the Soviet-controlled Kuril Islands with all 238 Americans aboard being detained for two days. [CLS] [SEP]
+

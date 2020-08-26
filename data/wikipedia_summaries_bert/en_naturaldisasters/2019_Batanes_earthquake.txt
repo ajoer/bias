@@ -1,0 +1,2 @@
+The 2019 Batanes earthquake was a magnitude 5.9 magnitude earthquake which struck Batanes, Philippines on July 27, 2019. [CLS] [SEP] It was preceded by a 5.4 magnitude foreshock. [CLS] [SEP] Nine people were killed by the combined effects of the earthquakes. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+During the afternoon of May 22, 2004, a long-track F4 tornado formed during a tornado outbreak and tore through multiple counties in southeast Nebraska. [CLS] [SEP] The tornado damaged many towns along its path, but its most significant destructive effect occurred at the town of Hallam. [CLS] [SEP] The Hallam tornado is recognized by NOAA as the second-largest tornado on record, peaking at 2.5 miles (4.0 km) wide at Hallam. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1972 Königs Wusterhausen air disaster occurred on 14 August when an Interflug Ilyushin Il-62 crashed shortly after take-off from Berlin-Schönefeld Airport in Schönefeld, East Germany, on a holiday charter flight to Burgas, Bulgaria. [CLS] [SEP] The accident was caused by a fire in the aft cargo bay. [CLS] [SEP] All 156 passengers and crew died. [CLS] [SEP] As of 2020, it is the worst aviation accident in Germany. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1968 Sulawesi earthquake struck Indonesia on August 14. [CLS] [SEP] It had a Richter magnitude of 7.4, spawned a large tsunami, and killed roughly 200 people. [CLS] [SEP]
+

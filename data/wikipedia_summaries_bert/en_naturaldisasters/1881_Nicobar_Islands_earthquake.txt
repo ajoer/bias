@@ -1,0 +1,2 @@
+The 1881 Nicobar Islands earthquake occurred at about 07:49 local time (01:49 UTC) on 31 December, with an epicentre beneath Car Nicobar. [CLS] [SEP] It occurred as two separate ruptures, the largest of which had an estimated magnitude of 7.9 on the moment magnitude scale and triggered a tsunami that was observed around the Bay of Bengal. [CLS] [SEP] It is probably the earliest earthquake for which rupture parameters have been estimated instrumentally. [CLS] [SEP]
+

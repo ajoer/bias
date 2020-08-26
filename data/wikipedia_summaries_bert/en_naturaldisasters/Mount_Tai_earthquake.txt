@@ -1,0 +1,2 @@
+Mount Tai earthquake (Chinese: 泰山震) is the first recorded earthquake in history. [CLS] [SEP] It occurred at Mount Tai during the 7th year of the reign of King Fa from the Xia dynasty between circa 2205 and 1600 BCE. [CLS] [SEP] It was mentioned briefly in the Bamboo Annals. [CLS] [SEP] The event has been dated to 1831 or 1731 BCE. [CLS] [SEP]
+

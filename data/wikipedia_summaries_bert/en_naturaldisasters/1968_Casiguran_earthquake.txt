@@ -1,0 +1,2 @@
+The 1968 Casiguran earthquake occurred on 04:19:22 local time on August 2 with a moment magnitude of 7.6 and a maximum Mercalli intensity of IX (Violent). [CLS] [SEP] The thrust earthquake's epicenter was in Casiguran, Quezon (now part of Aurora province). [CLS] [SEP] A small non-destructive tsunami was generated and at least 207 people were killed. [CLS] [SEP] The majority of the deaths occurred in the collapse of a six-story building in Manila. [CLS] [SEP]
+

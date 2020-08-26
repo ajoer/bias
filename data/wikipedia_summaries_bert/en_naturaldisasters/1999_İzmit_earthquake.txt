@@ -1,0 +1,2 @@
+The 1999 İzmit earthquake (also known as the Kocaeli, Gölcük, or Marmara earthquake) occurred on 17 August at 03:01:40 local time in northwestern Turkey. [CLS] [SEP] The shock had a moment magnitude of 7.6 and a maximum Mercalli intensity of IX (Violent). [CLS] [SEP] The event lasted for 37 seconds, killing around 17,000 people and left more than 250,000 people homeless. [CLS] [SEP] The nearby city of İzmit was severely damaged. [CLS] [SEP]
+

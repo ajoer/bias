@@ -1,0 +1,2 @@
+The name Soulik ( SOH-lik) has been used to name four tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] The name was contributed by the Federated States of Micronesia and is the traditional title of chiefs on Pohnpei. [CLS] [SEP] Typhoon Soulik (2000) (T0023, 34W, Welpring) – a December storm that never threatened land. [CLS] [SEP] Typhoon Soulik (2006) (T0618, 21W) – affected the Marianas and Volcano Islands. [CLS] [SEP] Typhoon Soulik (2013) (T1307, 07W, Huaning) – struck Taiwan and China. [CLS] [SEP] Typhoon Soulik (2018) (T1819, 22W)
+

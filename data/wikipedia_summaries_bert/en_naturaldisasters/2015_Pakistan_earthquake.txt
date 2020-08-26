@@ -1,0 +1,2 @@
+Pakistan is one of the most seismically active countries in the world, being crossed by several major faults. [CLS] [SEP] As a result, earthquakes in Pakistan occur often and are destructive. [CLS] [SEP]
+

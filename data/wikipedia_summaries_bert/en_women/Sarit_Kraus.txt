@@ -1,0 +1,2 @@
+Sarit Kraus (Hebrew: שרית קראוס‎; born 1960) is a professor of computer science at the Bar-Ilan University in Israel. [CLS] [SEP] She was named the 2020-2021 ACM Athena Lecturer recognising her contributions to artificial intelligence, notably to multiagent systems, human-agent interaction, autonomous agents and nonmonotonic reasoning, in addition to exemplary service and leadership in these fields, . [CLS] [SEP]
+

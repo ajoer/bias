@@ -1,0 +1,2 @@
+The 1984 Northern Sumatra earthquake occurred with a moment magnitude of 7.2 on November 17 at 06:49 UTC. [CLS] [SEP] The epicentre was located off the coast of Sumatra, near the island of Nias, where building damage was reported. [CLS] [SEP] This earthquake could be strongly felt in parts of Northern Sumatra, including Padang and Medan. [CLS] [SEP] The focal mechanism corresponded to reverse faulting. [CLS] [SEP]
+

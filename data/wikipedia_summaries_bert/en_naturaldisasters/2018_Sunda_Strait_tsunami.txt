@@ -1,0 +1,2 @@
+On 22 December 2018, a tsunami that followed an eruption and partial collapse of the Anak Krakatau volcano in the Sunda Strait struck several coastal regions of Banten in Java and Lampung in Sumatra, Indonesia. [CLS] [SEP] At least 426 people were killed and 14,059 were injured. [CLS] [SEP] The tsunami was caused by an undersea landslide that followed an eruption of Anak Krakatau, the "Child of Krakatoa". [CLS] [SEP] On 23 December, it was found that much of the island of Anak Krakatau had collapsed into the sea. [CLS] [SEP]
+

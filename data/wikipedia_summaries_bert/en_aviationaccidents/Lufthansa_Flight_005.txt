@@ -1,0 +1,2 @@
+Lufthansa Flight 005 was a scheduled flight en route from Frankfurt to Hamburg with a stopover in Bremen. [CLS] [SEP] The aircraft crashed just beyond the runway in Bremen just before 19:00 on January 28, 1966, in a go-around after an aborted landing. [CLS] [SEP] All occupants — 42 passengers and 4 crew members — died in the accident. [CLS] [SEP]
+

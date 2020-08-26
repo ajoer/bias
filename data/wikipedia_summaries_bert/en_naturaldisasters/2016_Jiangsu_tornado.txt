@@ -1,0 +1,2 @@
+On the afternoon of June 23, 2016, a severe thunderstorm produced a large, violent tornado over Jiangsu province, China. [CLS] [SEP] Striking areas along the outskirts of Yancheng around 2:30 p.m. [CLS] [SEP] local time, the tornado killed at least 99 people and injured 846 others (152 critically). [CLS] [SEP] The China Meteorological Administration later ranked the tornado as an EF4 on the Enhanced Fujita scale. [CLS] [SEP]
+

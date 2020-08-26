@@ -1,0 +1,2 @@
+The 1999 Hector Mine earthquake occurred on October 16 at 02:46:50 PDT with a moment magnitude of 7.1 and a maximum Mercalli intensity of VII (Very strong). [CLS] [SEP] The strike-slip earthquake occurred in a remote part of the Mojave Desert, 47 miles (76 km) east-southeast of Barstow, California, inside the Twentynine Palms Marine Corps Base. [CLS] [SEP] Its name comes from a nearby quarry named Hector Mine, which is located 22 kilometers (14 mi) northwest of the epicenter. [CLS] [SEP]
+

@@ -1,0 +1,2 @@
+The 1941 Andaman Islands earthquake struck the Andaman Islands on June 26 with a magnitude of 7.7 to 8.1. [CLS] [SEP] Details of this event are poorly known as much of Southeast Asia was in the turmoil of World War II. [CLS] [SEP] The quake caused severe damage in the Andaman Islands and as many as 8,000 people were killed by the earthquake and tsunami in the Andaman and Nicobar Islands, India, and Sri Lanka. [CLS] [SEP] There may have been damage and deaths in Bangladesh, Myanmar, and Thailand due to the tsunami. [CLS] [SEP]
+

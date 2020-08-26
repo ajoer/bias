@@ -1,0 +1,2 @@
+The name Nuri has been used to name three tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] The name replaced Rusa in 2004 and was contributed by Malaysia and means a parrot. [CLS] [SEP] Typhoon Nuri (2008) (T0812, 13W, Karen) – affected both the Philippines and China during August 2008. [CLS] [SEP] Typhoon Nuri (2014) (T1420, 20W, Paeng) – the third most intense tropical cyclone in 2014. [CLS] [SEP] Tropical Storm Nuri (2020) (T2002, 02W, Butchoy) – made landfall in the Philippines and affected Southern China. [CLS] [SEP]
+

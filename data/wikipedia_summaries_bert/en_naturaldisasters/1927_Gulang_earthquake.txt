@@ -1,0 +1,2 @@
+The 1927 Gulang earthquake occurred at 6:32 a.m. [CLS] [SEP] on 22 May (22:32 UTC on 21 May). [CLS] [SEP] This 7.6 magnitude event had an epicenter near Gulang, Gansu in the Republic of China. [CLS] [SEP] There were more than 40,900 casualties. [CLS] [SEP] It was felt up to 700 km (435 mi) away. [CLS] [SEP]
+

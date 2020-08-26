@@ -1,0 +1,2 @@
+The 1863 Jujuy earthquake took place in the province of Jujuy, Argentina on 14 January at about 11:00 (UTC). [CLS] [SEP] It had an estimated magnitude of 6.4 and its epicenter was at 23°36′S 65°00′W, at a depth of about 50 kilometres (31 mi). [CLS] [SEP] This earthquake had a felt intensity of VIII on the Mercalli intensity scale. [CLS] [SEP] Its magnitude and duration made it exceptionally destructive, causing damage to the cathedral, the cabildo (colonial government house) and precarious homes in San Salvador de Jujuy, the provincial capital. [CLS] [SEP]
+

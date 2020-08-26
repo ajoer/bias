@@ -1,0 +1,2 @@
+On 13 August 1989, two hot air balloons collided near Alice Springs, Northern Territory, Australia, causing one to crash to the ground, killing thirteen people. [CLS] [SEP] It was the world's deadliest ever ballooning disaster until February 2013, when a balloon accident near Luxor, Egypt killed 19 people. [CLS] [SEP] As of July 2016, it remains the deadliest ever ballooning accident in Australia, and the third-deadliest worldwide, surpassed only by the Egypt crash and a balloon accident in Texas in 2016 that left 16 people dead. [CLS] [SEP]
+

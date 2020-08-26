@@ -1,0 +1,2 @@
+The 1997 Ardabil earthquake occurred on 28 February with a moment magnitude of 6.1 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] The strike-slip earthquake occurred in northern Iran near the city of Ardabil. [CLS] [SEP]
+

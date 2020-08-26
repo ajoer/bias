@@ -1,0 +1,2 @@
+Aeroflot Flight 1969 was a passenger flight operated by an Antonov An-10 that crashed during the approach to Luhansk on 31 March 1971, resulting in the death of all 65 people on board. [CLS] [SEP] An investigation revealed that the Antonov's right wing failed structurally during approach to Luhansk International Airport. [CLS] [SEP]
+

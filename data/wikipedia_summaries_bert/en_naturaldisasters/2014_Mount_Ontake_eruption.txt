@@ -1,0 +1,2 @@
+A volcanic eruption of Mount Ontake (御嶽山, Ontake-san) took place on September 27, 2014, killing 63 people. [CLS] [SEP] Mount Ontake is a volcano located on the Japanese island of Honshu around 100 kilometres (62 mi) northeast of Nagoya and around 200 km (120 mi) west of Tokyo. [CLS] [SEP] It was the first fatal volcanic eruption in Japan since the 1991 collapse of a lava dome at Mount Unzen, and the deadliest volcanic eruption in Japan since Torishima killed an estimated 150 people in 1902. [CLS] [SEP]
+

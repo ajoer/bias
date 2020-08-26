@@ -1,0 +1,2 @@
+The 2010 Kaohsiung earthquake, measuring 6.3 Mw, occurred on March 4 at 8:20 a.m. [CLS] [SEP] local time. [CLS] [SEP] The epicenter was located in the mountainous area of Kaohsiung County (now part of Kaohsiung City) of the southwestern Taiwan. [CLS] [SEP] It was the most powerful earthquake in Kaohsiung since 1900. [CLS] [SEP] The earthquake did not cause any deaths, but 96 people were injured. [CLS] [SEP]
+
