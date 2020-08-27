@@ -1,2 +1,2 @@
-José Joaquín Prieto Vial (American Spanish: [xoˈse xo.aˈkim ˈpɾjeto]; August 20, 1786 – November 22, 1854) was a Chilean military and political figure. [CLS] [SEP] He was twice President of Chile between 1831 and 1841. [CLS] [SEP] José Joaquín Prieto was of Spanish and Basque descent. [CLS] [SEP]
+[CLS] José Joaquín Prieto Vial (American Spanish: [xoˈse xo.aˈkim ˈpɾjeto]; August 20, 1786 – November 22, 1854) was a Chilean military and political figure. [SEP] [CLS] He was twice President of Chile between 1831 and 1841. [SEP] [CLS] José Joaquín Prieto was of Spanish and Basque descent. [SEP] [CLS]
 

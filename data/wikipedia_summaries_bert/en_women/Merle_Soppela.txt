@@ -1,2 +1,2 @@
-Merle Soppela (born 1991) is a retired Finnish alpine ski racer. [CLS] [SEP] She competed at the 2015 World Championships in Beaver Creek, USA, in the giant slalom. [CLS] [SEP]
+[CLS] Merle Soppela (born 1991) is a retired Finnish alpine ski racer. [SEP] [CLS] She competed at the 2015 World Championships in Beaver Creek, USA, in the giant slalom. [SEP] [CLS]
 

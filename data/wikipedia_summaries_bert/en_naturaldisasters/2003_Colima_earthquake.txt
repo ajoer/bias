@@ -1,2 +1,2 @@
-The 2003 Colima earthquake occurred on 21 January with a moment magnitude of 7.5 and a maximum Mercalli intensity of VIII (Severe). [CLS] [SEP] The epicenter was located on the Pacific coast in the Mexican state of Colima. [CLS] [SEP] The earthquake was felt as far away as Mexico City and in southern parts of the United States. [CLS] [SEP]
+[CLS] The 2003 Colima earthquake occurred on 21 January with a moment magnitude of 7.5 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] The epicenter was located on the Pacific coast in the Mexican state of Colima. [SEP] [CLS] The earthquake was felt as far away as Mexico City and in southern parts of the United States. [SEP] [CLS]
 

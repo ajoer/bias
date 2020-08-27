@@ -1,2 +1,2 @@
-Philippine Airlines Flight 206 (PR206) was the route designator of a domestic flight from the Manila Domestic Airport, Metro Manila, Philippines to Loakan Airport, Baguio. [CLS] [SEP] On June 26, 1987, the Hawker Siddeley HS 748 crashed onto a mountain en route to Baguio City, killing all 50 persons on board. [CLS] [SEP]
+[CLS] Philippine Airlines Flight 206 (PR206) was the route designator of a domestic flight from the Manila Domestic Airport, Metro Manila, Philippines to Loakan Airport, Baguio. [SEP] [CLS] On June 26, 1987, the Hawker Siddeley HS 748 crashed onto a mountain en route to Baguio City, killing all 50 persons on board. [SEP] [CLS]
 

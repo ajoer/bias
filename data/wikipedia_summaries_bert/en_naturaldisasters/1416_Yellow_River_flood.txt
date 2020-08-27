@@ -1,2 +1,2 @@
-The 1416 Yellow River flood was a natural disaster affecting the area around Kaifeng, China, during the early Ming dynasty. [CLS] [SEP] The flood spilled over into fourteen other counties and seriously disturbed the Huai River. [CLS] [SEP]
+[CLS] The 1416 Yellow River flood was a natural disaster affecting the area around Kaifeng, China, during the early Ming dynasty. [SEP] [CLS] The flood spilled over into fourteen other counties and seriously disturbed the Huai River. [SEP] [CLS]
 

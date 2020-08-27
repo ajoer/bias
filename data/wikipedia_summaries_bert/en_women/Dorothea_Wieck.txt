@@ -1,2 +1,2 @@
-Dorothea Wieck (3 January 1908 in Davos, Switzerland – 19 February 1986 in Berlin, West Germany) was a German theatre and film actress. [CLS] [SEP]
+[CLS] Dorothea Wieck (3 January 1908 in Davos, Switzerland – 19 February 1986 in Berlin, West Germany) was a German theatre and film actress. [SEP] [CLS]
 

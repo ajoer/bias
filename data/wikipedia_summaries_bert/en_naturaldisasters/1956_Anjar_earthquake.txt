@@ -1,2 +1,2 @@
-The 1956 Anjar earthquake occurred at 15:32 UTC on 21 July, causing maximum damage in town of Anjar in Kutch, Gujarat, India. [CLS] [SEP] It had an estimated magnitude of 6.1 on the surface wave magnitude scale and a maximum perceived intensity of IX on the Mercalli intensity scale. [CLS] [SEP]
+[CLS] The 1956 Anjar earthquake occurred at 15:32 UTC on 21 July, causing maximum damage in town of Anjar in Kutch, Gujarat, India. [SEP] [CLS] It had an estimated magnitude of 6.1 on the surface wave magnitude scale and a maximum perceived intensity of IX on the Mercalli intensity scale. [SEP] [CLS]
 

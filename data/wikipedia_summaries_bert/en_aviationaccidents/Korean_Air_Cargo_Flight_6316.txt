@@ -1,2 +1,2 @@
-Korean Air Cargo Flight 6316 (also known as KAL6316 and KE6316) was a scheduled Korean Air Cargo freight flight from Shanghai to Seoul. [CLS] [SEP] On April 15, 1999, the McDonnell Douglas MD-11F operating the route, registered as HL7373, crashed in Xinzhuang, Shanghai shortly after taking off from Hongqiao Airport, killing all 3 crew on board, along with 5 on the ground. [CLS] [SEP]
+[CLS] Korean Air Cargo Flight 6316 (also known as KAL6316 and KE6316) was a scheduled Korean Air Cargo freight flight from Shanghai to Seoul. [SEP] [CLS] On April 15, 1999, the McDonnell Douglas MD-11F operating the route, registered as HL7373, crashed in Xinzhuang, Shanghai shortly after taking off from Hongqiao Airport, killing all 3 crew on board, along with 5 on the ground. [SEP] [CLS]
 

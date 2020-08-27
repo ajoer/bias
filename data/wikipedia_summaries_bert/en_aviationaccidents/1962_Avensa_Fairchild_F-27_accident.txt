@@ -1,2 +1,2 @@
-The Fairchild F-27 and Fairchild Hiller FH-227 were versions of the Fokker F27 Friendship twin-engined turboprop passenger aircraft manufactured under license by Fairchild Hiller in the United States. [CLS] [SEP] The Fairchild F-27 was similar to the standard Fokker F27, while the FH-227 was an independently developed stretched version. [CLS] [SEP]
+[CLS] The Fairchild F-27 and Fairchild Hiller FH-227 were versions of the Fokker F27 Friendship twin-engined turboprop passenger aircraft manufactured under license by Fairchild Hiller in the United States. [SEP] [CLS] The Fairchild F-27 was similar to the standard Fokker F27, while the FH-227 was an independently developed stretched version. [SEP] [CLS]
 

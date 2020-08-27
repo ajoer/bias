@@ -1,2 +1,2 @@
-Rosa Valetti (25 January 1876, Berlin, Germany – 10 December 1937, Vienna, Austria), born Rosa Alice Vallentin, was a German actress, cabaret performer and singer. [CLS] [SEP]
+[CLS] Rosa Valetti (25 January 1876, Berlin, Germany – 10 December 1937, Vienna, Austria), born Rosa Alice Vallentin, was a German actress, cabaret performer and singer. [SEP] [CLS]
 

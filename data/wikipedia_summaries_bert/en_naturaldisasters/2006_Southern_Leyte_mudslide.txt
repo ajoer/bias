@@ -1,2 +1,2 @@
-On February 17, 2006, a massive rock slide-debris avalanche occurred in the Philippine province of Southern Leyte, causing widespread damage and loss of life. [CLS] [SEP] The deadly landslide (or debris flow) followed a 10-day period of heavy rain and a minor earthquake (magnitude 2.6 on the Richter scale). [CLS] [SEP] The official death toll was 1,126. [CLS] [SEP]
+[CLS] On February 17, 2006, a massive rock slide-debris avalanche occurred in the Philippine province of Southern Leyte, causing widespread damage and loss of life. [SEP] [CLS] The deadly landslide (or debris flow) followed a 10-day period of heavy rain and a minor earthquake (magnitude 2.6 on the Richter scale). [SEP] [CLS] The official death toll was 1,126. [SEP] [CLS]
 

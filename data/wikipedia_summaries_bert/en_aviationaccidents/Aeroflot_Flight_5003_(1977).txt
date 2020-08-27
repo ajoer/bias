@@ -1,2 +1,2 @@
-Aeroflot Flight 5003 (Russian: Рейс 5003 Аэрофлота Reys 5003 Aeroflota) was a scheduled passenger flight from Tashkent to Mineralnye Vody with a stopover in Nukus; the Ilyushin 18V operating the route on 15 February 1977 crashed near the district of Mineralnye Vody while climbing after a missed approach. [CLS] [SEP] Of the 98 people on board, 77 perished in the crash. [CLS] [SEP]
+[CLS] Aeroflot Flight 5003 (Russian: Рейс 5003 Аэрофлота Reys 5003 Aeroflota) was a scheduled passenger flight from Tashkent to Mineralnye Vody with a stopover in Nukus; the Ilyushin 18V operating the route on 15 February 1977 crashed near the district of Mineralnye Vody while climbing after a missed approach. [SEP] [CLS] Of the 98 people on board, 77 perished in the crash. [SEP] [CLS]
 

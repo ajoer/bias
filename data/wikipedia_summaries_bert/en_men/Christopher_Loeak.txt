@@ -1,2 +1,2 @@
-Christopher Jorebon Loeak (born 11 November 1952) is a Marshallese politician who was the President of the Marshall Islands from 2012 to 2016. [CLS] [SEP] He was elected by parliament as President in January 2012, following the 2011 general election. [CLS] [SEP]
+[CLS] Christopher Jorebon Loeak (born 11 November 1952) is a Marshallese politician who was the President of the Marshall Islands from 2012 to 2016. [SEP] [CLS] He was elected by parliament as President in January 2012, following the 2011 general election. [SEP] [CLS]
 

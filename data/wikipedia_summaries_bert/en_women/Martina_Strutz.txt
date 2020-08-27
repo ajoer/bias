@@ -1,2 +1,2 @@
-Martina Strutz (born 4 November 1981 in Schwerin) is a German pole vaulter. [CLS] [SEP]
+[CLS] Martina Strutz (born 4 November 1981 in Schwerin) is a German pole vaulter. [SEP] [CLS]
 

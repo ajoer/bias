@@ -1,2 +1,2 @@
-Julia Cohen (born March 23, 1989) is an American former professional tennis player. [CLS] [SEP] In her career, Cohen won five singles and four doubles titles on the ITF Women's Circuit. [CLS] [SEP] On July 30, 2012, she reached her best singles ranking of world No. [CLS] [SEP] 97. [CLS] [SEP] On May 13, 2013, she peaked at world number 121 in the doubles rankings. [CLS] [SEP]
+[CLS] Julia Cohen (born March 23, 1989) is an American former professional tennis player. [SEP] [CLS] In her career, Cohen won five singles and four doubles titles on the ITF Women's Circuit. [SEP] [CLS] On July 30, 2012, she reached her best singles ranking of world No. [SEP] [CLS] 97. [SEP] [CLS] On May 13, 2013, she peaked at world number 121 in the doubles rankings. [SEP] [CLS]
 

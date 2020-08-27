@@ -1,2 +1,2 @@
-Jackson Ryan Hurst (born February 17, 1979) is an American actor. [CLS] [SEP] He is best known for portraying Grayson Kent on the Lifetime comedy series Drop Dead Diva (2009–2014). [CLS] [SEP]
+[CLS] Jackson Ryan Hurst (born February 17, 1979) is an American actor. [SEP] [CLS] He is best known for portraying Grayson Kent on the Lifetime comedy series Drop Dead Diva (2009–2014). [SEP] [CLS]
 

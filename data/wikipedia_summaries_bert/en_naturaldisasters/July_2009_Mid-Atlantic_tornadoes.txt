@@ -1,2 +1,2 @@
-The July 2009 Mid-Atlantic tornadoes were a series of five tornadoes, two of which attained EF2 status, that touched down within one hour and thirty minutes in the Mid-Atlantic region of the United States. [CLS] [SEP]
+[CLS] The July 2009 Mid-Atlantic tornadoes were a series of five tornadoes, two of which attained EF2 status, that touched down within one hour and thirty minutes in the Mid-Atlantic region of the United States. [SEP] [CLS]
 

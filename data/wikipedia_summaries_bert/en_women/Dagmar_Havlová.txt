@@ -1,2 +1,2 @@
-Dagmar Havlová (born Dagmar Veškrnová on 22 March 1953 in Brno, Czechoslovakia) is a Czech actress. [CLS] [SEP] She married Václav Havel, then Czech President, on 4 January 1997. [CLS] [SEP] She has one daughter, Nina Veškrnová (born 1976), from a previous marriage to Radvít Novák (1975–1980). [CLS] [SEP]
+[CLS] Dagmar Havlová (born Dagmar Veškrnová on 22 March 1953 in Brno, Czechoslovakia) is a Czech actress. [SEP] [CLS] She married Václav Havel, then Czech President, on 4 January 1997. [SEP] [CLS] She has one daughter, Nina Veškrnová (born 1976), from a previous marriage to Radvít Novák (1975–1980). [SEP] [CLS]
 

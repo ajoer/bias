@@ -1,2 +1,2 @@
-Lars Hening Joel Ekstrand (born 4 February 1989) is a Swedish former footballer who played as a defender. [CLS] [SEP] He has represented Sweden at senior international level and at various youth levels. [CLS] [SEP]
+[CLS] Lars Hening Joel Ekstrand (born 4 February 1989) is a Swedish former footballer who played as a defender. [SEP] [CLS] He has represented Sweden at senior international level and at various youth levels. [SEP] [CLS]
 

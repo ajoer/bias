@@ -1,2 +1,2 @@
-Sophie Menter (29 July 1846 – 23 February 1918) was a German pianist and composer who became the favorite female student of Franz Liszt. [CLS] [SEP] She was called l'incarnation de Liszt in Paris because of her robust, electrifying playing style and was considered one of the greatest piano virtuosos of her time. [CLS] [SEP] She died at Stockdorf, near Munich. [CLS] [SEP]
+[CLS] Sophie Menter (29 July 1846 – 23 February 1918) was a German pianist and composer who became the favorite female student of Franz Liszt. [SEP] [CLS] She was called l'incarnation de Liszt in Paris because of her robust, electrifying playing style and was considered one of the greatest piano virtuosos of her time. [SEP] [CLS] She died at Stockdorf, near Munich. [SEP] [CLS]
 

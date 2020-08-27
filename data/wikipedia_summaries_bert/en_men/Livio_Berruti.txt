@@ -1,2 +1,2 @@
-Livio Berruti (born 19 May 1939) is an Italian former athlete who was the winner of the 200-meter dash in the 1960 Summer Olympics. [CLS] [SEP] He won five medals, at individual level, and three medals with the national relay team at the International athletics competitions. [CLS] [SEP]
+[CLS] Livio Berruti (born 19 May 1939) is an Italian former athlete who was the winner of the 200-meter dash in the 1960 Summer Olympics. [SEP] [CLS] He won five medals, at individual level, and three medals with the national relay team at the International athletics competitions. [SEP] [CLS]
 

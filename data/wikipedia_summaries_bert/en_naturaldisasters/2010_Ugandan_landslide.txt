@@ -1,2 +1,2 @@
-The 2010 Ugandan landslide occurred in the Bududa District in eastern Uganda on 1 March 2010. [CLS] [SEP] The landslide was triggered by heavy rain between 12 pm and 7 pm that day. [CLS] [SEP] At least 100 people were believed to have been killed, and 94 bodies were found. [CLS] [SEP]
+[CLS] The 2010 Ugandan landslide occurred in the Bududa District in eastern Uganda on 1 March 2010. [SEP] [CLS] The landslide was triggered by heavy rain between 12 pm and 7 pm that day. [SEP] [CLS] At least 100 people were believed to have been killed, and 94 bodies were found. [SEP] [CLS]
 

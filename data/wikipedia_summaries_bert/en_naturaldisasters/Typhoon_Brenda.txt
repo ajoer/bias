@@ -1,2 +1,2 @@
-The name Brenda has been used for nine tropical cyclones worldwide. [CLS] [SEP]
+[CLS] The name Brenda has been used for nine tropical cyclones worldwide. [SEP] [CLS]
 

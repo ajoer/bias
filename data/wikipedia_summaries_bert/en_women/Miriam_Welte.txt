@@ -1,2 +1,2 @@
-Miriam Welte (born 9 December 1986) is a German track cyclist. [CLS] [SEP]
+[CLS] Miriam Welte (born 9 December 1986) is a German track cyclist. [SEP] [CLS]
 

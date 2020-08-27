@@ -1,2 +1,2 @@
-Susanne Albers is a German theoretical computer scientist and professor of computer science at Technische Universität München. [CLS] [SEP] She is a recipient of the Otto Hahn Medal and the Gottfried Wilhelm Leibniz Prize. [CLS] [SEP]
+[CLS] Susanne Albers is a German theoretical computer scientist and professor of computer science at Technische Universität München. [SEP] [CLS] She is a recipient of the Otto Hahn Medal and the Gottfried Wilhelm Leibniz Prize. [SEP] [CLS]
 

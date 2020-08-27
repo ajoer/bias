@@ -1,2 +1,2 @@
-The name Doreen has been used for five tropical cyclones in the Eastern Pacific Ocean. [CLS] [SEP] Hurricane Doreen (1962) Tropical Storm Doreen (1965) Hurricane Doreen (1969) Hurricane Doreen (1973) Hurricane Doreen (1977)
+[CLS] The name Doreen has been used for five tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Hurricane Doreen (1962) Tropical Storm Doreen (1965) Hurricane Doreen (1969) Hurricane Doreen (1973) Hurricane Doreen (1977)
 

@@ -1,2 +1,2 @@
-The Downend air crash occurred on 6 November 1957 when a prototype Bristol Britannia aircraft crashed in woods near Overndale Road in Downend, a suburb of Bristol, England, on its landing approach at Filton airport during a test flight. [CLS] [SEP] All fifteen on board, four crew and 11 technicians, died in the crash. [CLS] [SEP]
+[CLS] The Downend air crash occurred on 6 November 1957 when a prototype Bristol Britannia aircraft crashed in woods near Overndale Road in Downend, a suburb of Bristol, England, on its landing approach at Filton airport during a test flight. [SEP] [CLS] All fifteen on board, four crew and 11 technicians, died in the crash. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The 1927 Mendoza earthquake took place in Mendoza Province, in the Republic of Argentina, on 14 April at 06:23:28 UTC. [CLS] [SEP] It registered a magnitude of 7.1 on the Richter magnitude scale. [CLS] [SEP] The earthquake was located at a depth of 110 kilometres (68 mi). [CLS] [SEP]
+[CLS] The 1927 Mendoza earthquake took place in Mendoza Province, in the Republic of Argentina, on 14 April at 06:23:28 UTC. [SEP] [CLS] It registered a magnitude of 7.1 on the Richter magnitude scale. [SEP] [CLS] The earthquake was located at a depth of 110 kilometres (68 mi). [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The 1906 Swansea earthquake hit near the town of Swansea, Glamorgan, Wales on 27 June. [CLS] [SEP] It was one of the most damaging to hit Britain during the twentieth century, with a small area reaching an intensity of VII on the Medvedev–Sponheuer–Karnik scale. [CLS] [SEP]
+[CLS] The 1906 Swansea earthquake hit near the town of Swansea, Glamorgan, Wales on 27 June. [SEP] [CLS] It was one of the most damaging to hit Britain during the twentieth century, with a small area reaching an intensity of VII on the Medvedev–Sponheuer–Karnik scale. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-On 9 May 2015, an Airbus A400M Atlas cargo plane on a test flight crashed at La Rinconada, Spain, less than 5 kilometres (3.1 mi) from Seville Airport at around 1:00 pm local time, killing 4 of the 6 crew. [CLS] [SEP]
+[CLS] On 9 May 2015, an Airbus A400M Atlas cargo plane on a test flight crashed at La Rinconada, Spain, less than 5 kilometres (3.1 mi) from Seville Airport at around 1:00 pm local time, killing 4 of the 6 crew. [SEP] [CLS]
 

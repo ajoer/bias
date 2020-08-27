@@ -1,2 +1,2 @@
-Following heavy rain in July 2017, the Indian state of Gujarat was affected by severe flooding. [CLS] [SEP] The floods were reported to have caused total 224 deaths between 1 June and 31 July 2017. [CLS] [SEP] 16 people had died in neighbouring Rajasthan state by 31 July. [CLS] [SEP]
+[CLS] Following heavy rain in July 2017, the Indian state of Gujarat was affected by severe flooding. [SEP] [CLS] The floods were reported to have caused total 224 deaths between 1 June and 31 July 2017. [SEP] [CLS] 16 people had died in neighbouring Rajasthan state by 31 July. [SEP] [CLS]
 

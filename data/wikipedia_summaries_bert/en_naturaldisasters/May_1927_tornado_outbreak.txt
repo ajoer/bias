@@ -1,2 +1,2 @@
-The tornado outbreak of May 1927 occurred between May 7–9 in the Midwestern and Southern United States, producing numerous strong tornadoes and killing at least 217 people. [CLS] [SEP]
+[CLS] The tornado outbreak of May 1927 occurred between May 7–9 in the Midwestern and Southern United States, producing numerous strong tornadoes and killing at least 217 people. [SEP] [CLS]
 

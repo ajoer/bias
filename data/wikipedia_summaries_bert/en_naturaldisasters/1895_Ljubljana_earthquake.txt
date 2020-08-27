@@ -1,2 +1,2 @@
-The 1895 Ljubljana earthquake (Slovene: ljubljanski potres) or the Easter earthquake (Slovene: velikonočni potres) struck Ljubljana (the capital and largest city of Carniola, a Crown land of Austria-Hungary and the capital of Slovenia) on Easter Sunday, 14 April. [CLS] [SEP] It was the most, and the last, destructive earthquake in the area. [CLS] [SEP]
+[CLS] The 1895 Ljubljana earthquake (Slovene: ljubljanski potres) or the Easter earthquake (Slovene: velikonočni potres) struck Ljubljana (the capital and largest city of Carniola, a Crown land of Austria-Hungary and the capital of Slovenia) on Easter Sunday, 14 April. [SEP] [CLS] It was the most, and the last, destructive earthquake in the area. [SEP] [CLS]
 

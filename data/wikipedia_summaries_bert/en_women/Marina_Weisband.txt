@@ -1,2 +1,2 @@
-Marina Weisband (born 4 October 1987 in Kiev) is a German politician. [CLS] [SEP] From May 2011 until April 2012 she was Politische Geschäftsführerin ("Political Director") of the Pirate Party Germany. [CLS] [SEP]
+[CLS] Marina Weisband (born 4 October 1987 in Kiev) is a German politician. [SEP] [CLS] From May 2011 until April 2012 she was Politische Geschäftsführerin ("Political Director") of the Pirate Party Germany. [SEP] [CLS]
 

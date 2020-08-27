@@ -1,2 +1,2 @@
-A Mw7.3 earthquake struck the northern coast of Zambales on December 12, 1999. [CLS] [SEP] The earthquake killed six people and injured 40 in Zambales, Pangasinan, and Metro Manila. [CLS] [SEP] The quake also caused power interruptions in the region. [CLS] [SEP]
+[CLS] A Mw7.3 earthquake struck the northern coast of Zambales on December 12, 1999. [SEP] [CLS] The earthquake killed six people and injured 40 in Zambales, Pangasinan, and Metro Manila. [SEP] [CLS] The quake also caused power interruptions in the region. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Anna Hackl (born 1931) is a farmer in Schwertberg. [CLS] [SEP]
+[CLS] Anna Hackl (born 1931) is a farmer in Schwertberg. [SEP] [CLS]
 

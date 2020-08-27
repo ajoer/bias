@@ -1,2 +1,2 @@
-The 1956 London Heathrow Avro Vulcan crash was a military aviation accident that occurred at Heathrow Airport on 1 October 1956 when Avro Vulcan B.1 XA897 crashed while attempting to land in poor weather. [CLS] [SEP] The captain and co-pilot ejected safely but the remaining four crew were killed. [CLS] [SEP]
+[CLS] The 1956 London Heathrow Avro Vulcan crash was a military aviation accident that occurred at Heathrow Airport on 1 October 1956 when Avro Vulcan B.1 XA897 crashed while attempting to land in poor weather. [SEP] [CLS] The captain and co-pilot ejected safely but the remaining four crew were killed. [SEP] [CLS]
 

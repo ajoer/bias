@@ -1,2 +1,2 @@
-Aaron Sopher (1905–1972) was an American artist who is known for his depictions of Baltimore, United States. [CLS] [SEP]
+[CLS] Aaron Sopher (1905–1972) was an American artist who is known for his depictions of Baltimore, United States. [SEP] [CLS]
 

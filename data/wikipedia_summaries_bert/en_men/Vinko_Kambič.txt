@@ -1,2 +1,2 @@
-This list of Slovenian physicians includes notable physicians and surgeons, medical scientists and medical doctors from Slovenia or its territory and of Slovene descent. [CLS] [SEP] Physicians of all specialities may be listed here. [CLS] [SEP]
+[CLS] This list of Slovenian physicians includes notable physicians and surgeons, medical scientists and medical doctors from Slovenia or its territory and of Slovene descent. [SEP] [CLS] Physicians of all specialities may be listed here. [SEP] [CLS]
 

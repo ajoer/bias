@@ -1,2 +1,2 @@
-Eugenio Calabi (born 11 May 1923 in Milan, Italy) is an Italian-born American mathematician and the Thomas A. [CLS] [SEP] Scott Professor of Mathematics, Emeritus, at the University of Pennsylvania, specializing in differential geometry, partial differential equations and their applications. [CLS] [SEP]
+[CLS] Eugenio Calabi (born 11 May 1923 in Milan, Italy) is an Italian-born American mathematician and the Thomas A. [SEP] [CLS] Scott Professor of Mathematics, Emeritus, at the University of Pennsylvania, specializing in differential geometry, partial differential equations and their applications. [SEP] [CLS]
 

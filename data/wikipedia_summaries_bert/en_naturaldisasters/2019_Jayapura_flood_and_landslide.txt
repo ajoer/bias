@@ -1,2 +1,2 @@
-On 16 March 2019, a flash flood struck Jayapura Regency in the province of Papua, Indonesia due to torrential rain, with a separate landslide occurring in the city of Jayapura several hours later. [CLS] [SEP] At least 113 people were killed in the two events. [CLS] [SEP]
+[CLS] On 16 March 2019, a flash flood struck Jayapura Regency in the province of Papua, Indonesia due to torrential rain, with a separate landslide occurring in the city of Jayapura several hours later. [SEP] [CLS] At least 113 people were killed in the two events. [SEP] [CLS]
 

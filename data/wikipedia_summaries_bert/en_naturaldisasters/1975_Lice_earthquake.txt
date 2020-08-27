@@ -1,2 +1,2 @@
-The 1975 Lice earthquake struck the Turkish district of Lice at 12:20 local time (09:20 UTC) on 6 September. [CLS] [SEP] The epicenter of the Ms 6.7 shock was located near the town of Lice and the maximum felt intensity was VIII (Severe) on the Mercalli intensity scale. [CLS] [SEP] More than 2,300 people were killed. [CLS] [SEP]
+[CLS] The 1975 Lice earthquake struck the Turkish district of Lice at 12:20 local time (09:20 UTC) on 6 September. [SEP] [CLS] The epicenter of the Ms 6.7 shock was located near the town of Lice and the maximum felt intensity was VIII (Severe) on the Mercalli intensity scale. [SEP] [CLS] More than 2,300 people were killed. [SEP] [CLS]
 

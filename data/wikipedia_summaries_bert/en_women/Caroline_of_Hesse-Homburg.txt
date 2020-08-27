@@ -1,2 +1,2 @@
-Caroline of Hesse-Homburg (1771 – 1854) was the daughter of Frederick V, Landgrave of Hesse-Homburg and his wife, Caroline of Hesse-Darmstadt. [CLS] [SEP] She married in 1791 to Louis Frederick II, Prince of Schwarzburg-Rudolstadt. [CLS] [SEP] They had seven children together. [CLS] [SEP] Caroline died on 20 June 1854. [CLS] [SEP]
+[CLS] Caroline of Hesse-Homburg (1771 – 1854) was the daughter of Frederick V, Landgrave of Hesse-Homburg and his wife, Caroline of Hesse-Darmstadt. [SEP] [CLS] She married in 1791 to Louis Frederick II, Prince of Schwarzburg-Rudolstadt. [SEP] [CLS] They had seven children together. [SEP] [CLS] Caroline died on 20 June 1854. [SEP] [CLS]
 

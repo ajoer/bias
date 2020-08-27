@@ -1,2 +1,2 @@
-Aeroflot Flight U-45 was a passenger flight operated by an Ilyushin Il-18 that crashed during the approach to Samarkand on Friday, 6 February 1970, resulting in the death of 92 of the 106 people on board. [CLS] [SEP] An investigation revealed the aircraft went below the minimum obstacle clearance altitude (MOCA) during approach to Samarkand International Airport. [CLS] [SEP]
+[CLS] Aeroflot Flight U-45 was a passenger flight operated by an Ilyushin Il-18 that crashed during the approach to Samarkand on Friday, 6 February 1970, resulting in the death of 92 of the 106 people on board. [SEP] [CLS] An investigation revealed the aircraft went below the minimum obstacle clearance altitude (MOCA) during approach to Samarkand International Airport. [SEP] [CLS]
 

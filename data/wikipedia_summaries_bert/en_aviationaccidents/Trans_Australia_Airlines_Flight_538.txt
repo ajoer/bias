@@ -1,2 +1,2 @@
-On 10 June 1960, a Fokker Friendship passenger aircraft operated by Trans Australia Airlines (TAA) was on approach at night to land at Mackay, Queensland, Australia when it crashed into the sea. [CLS] [SEP] All 29 people on board Trans Australia Airlines Flight 538 were killed. [CLS] [SEP]
+[CLS] On 10 June 1960, a Fokker Friendship passenger aircraft operated by Trans Australia Airlines (TAA) was on approach at night to land at Mackay, Queensland, Australia when it crashed into the sea. [SEP] [CLS] All 29 people on board Trans Australia Airlines Flight 538 were killed. [SEP] [CLS]
 

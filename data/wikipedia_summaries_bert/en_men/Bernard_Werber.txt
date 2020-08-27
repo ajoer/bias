@@ -1,2 +1,2 @@
-Bernard Werber (born 1961 in Toulouse) is a French science fiction writer, active since the 1990s. [CLS] [SEP] He is chiefly recognized for having written the trilogy Les Fourmis, the only one of his novels to have been published in English. [CLS] [SEP] This series weaves together philosophy, spirituality, science fiction, thriller, science, mythology and consciousness. [CLS] [SEP]
+[CLS] Bernard Werber (born 1961 in Toulouse) is a French science fiction writer, active since the 1990s. [SEP] [CLS] He is chiefly recognized for having written the trilogy Les Fourmis, the only one of his novels to have been published in English. [SEP] [CLS] This series weaves together philosophy, spirituality, science fiction, thriller, science, mythology and consciousness. [SEP] [CLS]
 

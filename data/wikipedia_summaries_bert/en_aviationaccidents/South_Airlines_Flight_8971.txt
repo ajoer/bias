@@ -1,2 +1,2 @@
-On 13 February 2013, a Ukrainian Antonov An-24 passenger aircraft operating South Airlines flight 8971 crashed on landing at Donetsk International Airport, Ukraine, killing 5 of the 52 people on board. [CLS] [SEP]
+[CLS] On 13 February 2013, a Ukrainian Antonov An-24 passenger aircraft operating South Airlines flight 8971 crashed on landing at Donetsk International Airport, Ukraine, killing 5 of the 52 people on board. [SEP] [CLS]
 

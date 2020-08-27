@@ -1,2 +1,2 @@
-The Neulengbach earthquake of 1590 occurred on 15 September shortly before midnight amidst a long series of much weaker seismic activity starting on 29 June and with aftershocks reported until 12 November. [CLS] [SEP] It was the strongest historically documented earthquake in what today is Northeastern Austria. [CLS] [SEP]
+[CLS] The Neulengbach earthquake of 1590 occurred on 15 September shortly before midnight amidst a long series of much weaker seismic activity starting on 29 June and with aftershocks reported until 12 November. [SEP] [CLS] It was the strongest historically documented earthquake in what today is Northeastern Austria. [SEP] [CLS]
 

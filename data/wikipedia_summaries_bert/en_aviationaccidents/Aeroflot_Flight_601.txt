@@ -1,2 +1,2 @@
-Aeroflot Flight 601 was a scheduled Soviet domestic passenger flight from Arkhangelsk to Leshukonskoye, operated by Aeroflot. [CLS] [SEP] The Antonov An-24RV crashed on 24 December 1983 during approach to Leshukonskoye. [CLS] [SEP] Five out of forty-nine people on board survived the accident. [CLS] [SEP] Pilot error was cited as the cause of the accident. [CLS] [SEP]
+[CLS] Aeroflot Flight 601 was a scheduled Soviet domestic passenger flight from Arkhangelsk to Leshukonskoye, operated by Aeroflot. [SEP] [CLS] The Antonov An-24RV crashed on 24 December 1983 during approach to Leshukonskoye. [SEP] [CLS] Five out of forty-nine people on board survived the accident. [SEP] [CLS] Pilot error was cited as the cause of the accident. [SEP] [CLS]
 

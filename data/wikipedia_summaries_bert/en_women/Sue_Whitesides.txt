@@ -1,2 +1,2 @@
-Sue Hays Whitesides is a Canadian mathematician and computer scientist, a professor emeritus of computer science and the chair of the computer science department at the University of Victoria in British Columbia, Canada. [CLS] [SEP] Her research specializations include computational geometry and graph drawing. [CLS] [SEP]
+[CLS] Sue Hays Whitesides is a Canadian mathematician and computer scientist, a professor emeritus of computer science and the chair of the computer science department at the University of Victoria in British Columbia, Canada. [SEP] [CLS] Her research specializations include computational geometry and graph drawing. [SEP] [CLS]
 

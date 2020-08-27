@@ -1,2 +1,2 @@
-The 2015 Sampson Flat Fire was a bushfire in the Australian state of South Australia, the area affected was predominantly the northern Adelaide Hills and the outer Adelaide metropolitan area. [CLS] [SEP] The fire began on 2 January 2015 during a day of extreme heat and lasted until 9 January 2015; and burnt more than 20,000 hectares (49,000 acres). [CLS] [SEP]
+[CLS] The 2015 Sampson Flat Fire was a bushfire in the Australian state of South Australia, the area affected was predominantly the northern Adelaide Hills and the outer Adelaide metropolitan area. [SEP] [CLS] The fire began on 2 January 2015 during a day of extreme heat and lasted until 9 January 2015; and burnt more than 20,000 hectares (49,000 acres). [SEP] [CLS]
 

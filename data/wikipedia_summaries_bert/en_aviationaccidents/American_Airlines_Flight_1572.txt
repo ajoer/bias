@@ -1,2 +1,2 @@
-American Airlines Flight 1572 was a flight from Chicago O'Hare International Airport to Bradley International Airport on November 12, 1995. [CLS] [SEP] The McDonnell Douglas MD-83 struck trees and an instrument landing system (ILS) antenna during landing, causing $9 million in damage to the aircraft. [CLS] [SEP]
+[CLS] American Airlines Flight 1572 was a flight from Chicago O'Hare International Airport to Bradley International Airport on November 12, 1995. [SEP] [CLS] The McDonnell Douglas MD-83 struck trees and an instrument landing system (ILS) antenna during landing, causing $9 million in damage to the aircraft. [SEP] [CLS]
 

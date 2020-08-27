@@ -1,2 +1,0 @@
-The 1494 Yellow River flood was a natural disaster in China during the Ming dynasty. [CLS] [SEP] Flood relief was directed by the grand eunuch Li Xing, who founded the city of Anping and established temples to the river god there and at Huanglinggan. [CLS] [SEP] He shifted the channel of the Yellow River past Xuzhou and Huaian, limiting the severity of the river's floods over the next few decades and establishing the general course of the river until the floods of the 1850s. [CLS] [SEP]
-

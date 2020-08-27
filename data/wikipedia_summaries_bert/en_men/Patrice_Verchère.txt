@@ -1,2 +1,2 @@
-Patrice Verchère (born December 29, 1973 in Pont-Trambouze) is a member of the National Assembly of France. [CLS] [SEP] He represents the Rhône department, and is a member of the Republicans. [CLS] [SEP]
+[CLS] Patrice Verchère (born December 29, 1973 in Pont-Trambouze) is a member of the National Assembly of France. [SEP] [CLS] He represents the Rhône department, and is a member of the Republicans. [SEP] [CLS]
 

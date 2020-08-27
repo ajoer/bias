@@ -1,2 +1,0 @@
-"Rosalie" is a song by Bligg, a Swiss rapper. [CLS] [SEP] The lyrics were written by Roman Camenzind, Marco Bliggensdorfer (Bligg), Fred Herrmann, and Walter Alder. [CLS] [SEP] "Rosalie" entered the Swiss hit-parade at number 21 on 26.10.2008, and it was at number 5 for two weeks,The song is about a handsome seller of roses, who walks from table to table in a small café and tells lonely girls how pretty they are and how much they deserve a rose until he reveals that they actually cost something. [CLS] [SEP]
-

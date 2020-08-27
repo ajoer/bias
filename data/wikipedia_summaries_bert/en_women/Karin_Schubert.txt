@@ -1,2 +1,2 @@
-Karin Schubert (born 26 November 1944) is a German actress. [CLS] [SEP] She appeared in film roles since 1970 and became a pornographic actress in the 1980s. [CLS] [SEP]
+[CLS] Karin Schubert (born 26 November 1944) is a German actress. [SEP] [CLS] She appeared in film roles since 1970 and became a pornographic actress in the 1980s. [SEP] [CLS]
 

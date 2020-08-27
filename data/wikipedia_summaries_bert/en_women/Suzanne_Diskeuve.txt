@@ -1,2 +1,2 @@
-Suzanne Diskeuve is a Belgian figure skater who competed in pair skating. [CLS] [SEP] With partner Edmond Verbustel, in 1947 she won bronze medals at both the European Figure Skating Championships (in Davos) and the World Figure Skating Championships (in Stockholm). [CLS] [SEP]
+[CLS] Suzanne Diskeuve is a Belgian figure skater who competed in pair skating. [SEP] [CLS] With partner Edmond Verbustel, in 1947 she won bronze medals at both the European Figure Skating Championships (in Davos) and the World Figure Skating Championships (in Stockholm). [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Sidonia von Borcke (1548–1620) was a Pomeranian noblewoman who was tried and executed for witchcraft in the city of Stettin (today Szczecin, Poland). [CLS] [SEP] In posthumous legends, she is depicted as a femme fatale, and she has entered English literature as Sidonia the Sorceress. [CLS] [SEP] She had lived in various towns and villages throughout the country. [CLS] [SEP]
+[CLS] Sidonia von Borcke (1548–1620) was a Pomeranian noblewoman who was tried and executed for witchcraft in the city of Stettin (today Szczecin, Poland). [SEP] [CLS] In posthumous legends, she is depicted as a femme fatale, and she has entered English literature as Sidonia the Sorceress. [SEP] [CLS] She had lived in various towns and villages throughout the country. [SEP] [CLS]
 

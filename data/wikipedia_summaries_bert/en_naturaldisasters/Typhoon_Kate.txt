@@ -1,2 +1,2 @@
-Super Typhoon Kate, known in the Philippines as Typhoon Titang, was the second of two super typhoons to strike the Philippines within a week in October 1970, the first being Super Typhoon Joan. [CLS] [SEP] As a result, Kate produced heavy damage and over 631 casualties. [CLS] [SEP] At the time, Kate was one of the deadliest typhoons to strike the Philippines. [CLS] [SEP]
+[CLS] Super Typhoon Kate, known in the Philippines as Typhoon Titang, was the second of two super typhoons to strike the Philippines within a week in October 1970, the first being Super Typhoon Joan. [SEP] [CLS] As a result, Kate produced heavy damage and over 631 casualties. [SEP] [CLS] At the time, Kate was one of the deadliest typhoons to strike the Philippines. [SEP] [CLS]
 

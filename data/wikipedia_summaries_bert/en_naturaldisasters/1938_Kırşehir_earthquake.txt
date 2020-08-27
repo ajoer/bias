@@ -1,2 +1,2 @@
-The 1938 Kırşehir earthquake occurred at 12:59 local time on 19 April. [CLS] [SEP] It had an estimated surface wave magnitude of 6.7 and a maximum intensity of IX (Violent) on the Mercalli intensity scale, causing 224 casualties. [CLS] [SEP]
+[CLS] The 1938 Kırşehir earthquake occurred at 12:59 local time on 19 April. [SEP] [CLS] It had an estimated surface wave magnitude of 6.7 and a maximum intensity of IX (Violent) on the Mercalli intensity scale, causing 224 casualties. [SEP] [CLS]
 

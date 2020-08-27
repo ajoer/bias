@@ -1,2 +1,2 @@
-Harri Blumén (born 4 February 1958) is a Finnish ski jumper. [CLS] [SEP] He competed in the normal hill and large hill events at the 1976 Winter Olympics. [CLS] [SEP]
+[CLS] Harri Blumén (born 4 February 1958) is a Finnish ski jumper. [SEP] [CLS] He competed in the normal hill and large hill events at the 1976 Winter Olympics. [SEP] [CLS]
 

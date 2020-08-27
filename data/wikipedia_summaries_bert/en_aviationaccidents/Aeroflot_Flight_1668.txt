@@ -1,2 +1,2 @@
-Aeroflot Flight 1668 was a scheduled flight from Yakutsk to Novosibirsk with stopovers at Olekminsk, Lensk, Ust-Kut and Krasnoyarsk that crashed shortly after take-off from Olekminsk on 6 January 1968. [CLS] [SEP] All 45 people onboard died. [CLS] [SEP] The subsequent investigation was unable to determine the root cause of the accident. [CLS] [SEP]
+[CLS] Aeroflot Flight 1668 was a scheduled flight from Yakutsk to Novosibirsk with stopovers at Olekminsk, Lensk, Ust-Kut and Krasnoyarsk that crashed shortly after take-off from Olekminsk on 6 January 1968. [SEP] [CLS] All 45 people onboard died. [SEP] [CLS] The subsequent investigation was unable to determine the root cause of the accident. [SEP] [CLS]
 

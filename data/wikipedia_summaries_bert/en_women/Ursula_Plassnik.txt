@@ -1,2 +1,2 @@
-Ursula Plassnik (born 23 May 1956) is an Austrian diplomat and politician. [CLS] [SEP] She was Foreign Minister of Austria between October 2004 and December 2008. [CLS] [SEP] She is currently Austrian ambassador to Switzerland (2016-). [CLS] [SEP]
+[CLS] Ursula Plassnik (born 23 May 1956) is an Austrian diplomat and politician. [SEP] [CLS] She was Foreign Minister of Austria between October 2004 and December 2008. [SEP] [CLS] She is currently Austrian ambassador to Switzerland (2016-). [SEP] [CLS]
 

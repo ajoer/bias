@@ -1,2 +1,2 @@
-Margit Carstensen (born 29 February 1940) is a German theatre and film actress, best known outside Germany for roles in the works of film director Rainer Werner Fassbinder. [CLS] [SEP]
+[CLS] Margit Carstensen (born 29 February 1940) is a German theatre and film actress, best known outside Germany for roles in the works of film director Rainer Werner Fassbinder. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Mathieu Gorgelin (born 5 August 1990) is a French professional footballer who plays as a goalkeeper for Ligue 2 club Le Havre. [CLS] [SEP]
+[CLS] Mathieu Gorgelin (born 5 August 1990) is a French professional footballer who plays as a goalkeeper for Ligue 2 club Le Havre. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Judith Hermann (born May 15, 1970) is a German author. [CLS] [SEP] She has published several books of short stories and her first novel was published in 2014. [CLS] [SEP] She is a leading figure of the Fräuleinwunder ("girl wonder") of women writers. [CLS] [SEP]
+[CLS] Judith Hermann (born May 15, 1970) is a German author. [SEP] [CLS] She has published several books of short stories and her first novel was published in 2014. [SEP] [CLS] She is a leading figure of the Fräuleinwunder ("girl wonder") of women writers. [SEP] [CLS]
 

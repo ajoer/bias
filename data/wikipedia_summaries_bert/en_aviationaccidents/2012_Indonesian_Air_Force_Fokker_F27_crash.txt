@@ -1,2 +1,2 @@
-On 21 June 2012, a Fokker F27 military transport aircraft of the Indonesian Air Force crashed into a housing complex near Halim Airport in Jakarta, Indonesia, while conducting a training flight. [CLS] [SEP] All seven people on board were killed; four people on the ground were also killed, and 11 more injured. [CLS] [SEP]
+[CLS] On 21 June 2012, a Fokker F27 military transport aircraft of the Indonesian Air Force crashed into a housing complex near Halim Airport in Jakarta, Indonesia, while conducting a training flight. [SEP] [CLS] All seven people on board were killed; four people on the ground were also killed, and 11 more injured. [SEP] [CLS]
 

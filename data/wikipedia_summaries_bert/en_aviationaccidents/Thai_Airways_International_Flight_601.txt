@@ -1,2 +1,2 @@
-Thai Airways International Flight 601 was a Sud Aviation Caravelle that crashed into the sea on landing at the former Kai Tak Airport, Hong Kong, in a typhoon on Friday. [CLS] [SEP] 30 June 1967. [CLS] [SEP]
+[CLS] Thai Airways International Flight 601 was a Sud Aviation Caravelle that crashed into the sea on landing at the former Kai Tak Airport, Hong Kong, in a typhoon on Friday. [SEP] [CLS] 30 June 1967. [SEP] [CLS]
 

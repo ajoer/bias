@@ -1,2 +1,2 @@
-KLM Flight 823 was an air accident in 1961 involving a Lockheed L-188 Electra aircraft that crashed on approach to Cairo International Airport in Egypt after a flight from Rome in Italy. [CLS] [SEP] The crash killed 20 out of 36 passengers and crew on flight 823. [CLS] [SEP]
+[CLS] KLM Flight 823 was an air accident in 1961 involving a Lockheed L-188 Electra aircraft that crashed on approach to Cairo International Airport in Egypt after a flight from Rome in Italy. [SEP] [CLS] The crash killed 20 out of 36 passengers and crew on flight 823. [SEP] [CLS]
 

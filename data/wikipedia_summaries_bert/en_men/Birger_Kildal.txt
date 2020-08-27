@@ -1,2 +1,2 @@
-Birger Kildal (15 April 1849 – 13 December 1913) was a Norwegian attorney and businessman. [CLS] [SEP] He served as politician with the Liberal Party and was appointed District Governor in Romsdal. [CLS] [SEP]
+[CLS] Birger Kildal (15 April 1849 – 13 December 1913) was a Norwegian attorney and businessman. [SEP] [CLS] He served as politician with the Liberal Party and was appointed District Governor in Romsdal. [SEP] [CLS]
 

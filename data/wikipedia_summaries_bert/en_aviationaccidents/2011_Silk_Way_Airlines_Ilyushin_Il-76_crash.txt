@@ -1,2 +1,2 @@
-Silk Way Airlines is an Azerbaijani private cargo airline with its head office and flight operations at Heydar Aliyev International Airport in Baku. [CLS] [SEP] It operates freight services linking Europe and Asia, United States and Africa, as well as services for government and non-governmental organisations. [CLS] [SEP]
+[CLS] Silk Way Airlines is an Azerbaijani private cargo airline with its head office and flight operations at Heydar Aliyev International Airport in Baku. [SEP] [CLS] It operates freight services linking Europe and Asia, United States and Africa, as well as services for government and non-governmental organisations. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-On 12 November 2014, an Armenian Mil Mi-24 attack helicopter (NATO reporting name "Hind") was shot down by Azerbaijani Armed Forces during the Nagorno-Karabakh conflict, killing all three crew members. [CLS] [SEP]
+[CLS] On 12 November 2014, an Armenian Mil Mi-24 attack helicopter (NATO reporting name "Hind") was shot down by Azerbaijani Armed Forces during the Nagorno-Karabakh conflict, killing all three crew members. [SEP] [CLS]
 

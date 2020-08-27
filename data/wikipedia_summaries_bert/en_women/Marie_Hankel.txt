@@ -1,2 +1,2 @@
-Marie Hankel (1844–1929) was a German writer of Esperanto literature. [CLS] [SEP] She is known for founding the Esperantista Literatura Asocio (Esperanto Literature Association) She also advocated for women's suffrage. [CLS] [SEP]
+[CLS] Marie Hankel (1844–1929) was a German writer of Esperanto literature. [SEP] [CLS] She is known for founding the Esperantista Literatura Asocio (Esperanto Literature Association) She also advocated for women's suffrage. [SEP] [CLS]
 

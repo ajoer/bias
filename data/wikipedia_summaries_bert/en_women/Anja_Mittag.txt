@@ -1,2 +1,2 @@
-Anja Mittag (German pronunciation: [ˈʔanja ˈmɪtaːk]; born 16 May 1985) is a German football coach and player who plays as a striker. [CLS] [SEP] Mittag is currently a player-coach for RB Leipzig.In July 2020, Mittag announced that she will end her playing career after the women's Saxony Cup final on 30 August 2020 and become a full-time coach with RB Leipzig. [CLS] [SEP]
+[CLS] Anja Mittag (German pronunciation: [ˈʔanja ˈmɪtaːk]; born 16 May 1985) is a German football coach and player who plays as a striker. [SEP] [CLS] Mittag is currently a player-coach for RB Leipzig.In July 2020, Mittag announced that she will end her playing career after the women's Saxony Cup final on 30 August 2020 and become a full-time coach with RB Leipzig. [SEP] [CLS]
 

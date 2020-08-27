@@ -1,2 +1,2 @@
-On 23 August 2012, a hot air balloon crashed in stormy weather on the Ljubljana Marshes in central Slovenia, killing 6 of the 26 people on board. [CLS] [SEP]
+[CLS] On 23 August 2012, a hot air balloon crashed in stormy weather on the Ljubljana Marshes in central Slovenia, killing 6 of the 26 people on board. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-On November 22–24, 2004, a major tornado outbreak took place in the Southern United States. [CLS] [SEP]
+[CLS] On November 22–24, 2004, a major tornado outbreak took place in the Southern United States. [SEP] [CLS]
 

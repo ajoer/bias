@@ -1,2 +1,2 @@
-Denise Hinrichs (born 7 June 1987 in Rostock, Mecklenburg-Vorpommern) is a German shot putter. [CLS] [SEP] Her personal best is 19.07 metres, achieved in May 2008 in Halle, Saxony-Anhalt. [CLS] [SEP]
+[CLS] Denise Hinrichs (born 7 June 1987 in Rostock, Mecklenburg-Vorpommern) is a German shot putter. [SEP] [CLS] Her personal best is 19.07 metres, achieved in May 2008 in Halle, Saxony-Anhalt. [SEP] [CLS]
 

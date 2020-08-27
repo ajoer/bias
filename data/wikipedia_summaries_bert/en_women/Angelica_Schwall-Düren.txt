@@ -1,2 +1,2 @@
-Ortenberg (pronunciation ) is a municipality in the town of Ortenau, Baden-Württemberg. [CLS] [SEP]
+[CLS] Ortenberg (pronunciation ) is a municipality in the town of Ortenau, Baden-Württemberg. [SEP] [CLS]
 

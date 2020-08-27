@@ -1,2 +1,2 @@
-Philippine Airlines Flight 137 was a scheduled passenger flight from Manila's Ninoy Aquino International Airport to Bacolod City Domestic Airport. [CLS] [SEP]
+[CLS] Philippine Airlines Flight 137 was a scheduled passenger flight from Manila's Ninoy Aquino International Airport to Bacolod City Domestic Airport. [SEP] [CLS]
 

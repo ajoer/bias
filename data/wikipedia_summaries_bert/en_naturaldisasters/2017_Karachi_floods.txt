@@ -1,2 +1,2 @@
-The 2017 Karachi floods in Karachi, have killed at least 23 people, mostly from electrocution. [CLS] [SEP] According to the Pakistan Meteorological Department the flood is caused by the monsoon rain which began on 28-08-2017 Wednesday evening. [CLS] [SEP] As the incident took place the Army and Navy, along with other welfare organizations, started rescuing people. [CLS] [SEP]
+[CLS] The 2017 Karachi floods in Karachi, have killed at least 23 people, mostly from electrocution. [SEP] [CLS] According to the Pakistan Meteorological Department the flood is caused by the monsoon rain which began on 28-08-2017 Wednesday evening. [SEP] [CLS] As the incident took place the Army and Navy, along with other welfare organizations, started rescuing people. [SEP] [CLS]
 

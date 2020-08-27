@@ -1,2 +1,2 @@
-The Akahoya eruption was the strongest known volcanic eruption of the Kikai Caldera in Kyūshū, Japan. [CLS] [SEP] It ejected about 150 cubic kilometres (36 cu mi) of volcanic material, giving it a '7' on the Volcanic Explosivity Index. [CLS] [SEP]
+[CLS] The Akahoya eruption was the strongest known volcanic eruption of the Kikai Caldera in Kyūshū, Japan. [SEP] [CLS] It ejected about 150 cubic kilometres (36 cu mi) of volcanic material, giving it a '7' on the Volcanic Explosivity Index. [SEP] [CLS]
 

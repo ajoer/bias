@@ -1,2 +1,2 @@
-Nancy Davis Griffeth (born October 26, 1945) is an American computer scientist notable for approaches to the feature interaction problem. [CLS] [SEP] In 2014, she is a professor at Lehman College of The City University of New York and is modelling biological systems in computational biology. [CLS] [SEP]
+[CLS] Nancy Davis Griffeth (born October 26, 1945) is an American computer scientist notable for approaches to the feature interaction problem. [SEP] [CLS] In 2014, she is a professor at Lehman College of The City University of New York and is modelling biological systems in computational biology. [SEP] [CLS]
 

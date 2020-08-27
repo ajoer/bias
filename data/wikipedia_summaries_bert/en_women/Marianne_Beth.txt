@@ -1,2 +1,2 @@
-Marianne Beth (March 6, 1889, Vienna – August 19, 1984, New York City) was a Jewish Austrian lawyer and feminist. [CLS] [SEP] In 1921 she was the first Austrian woman to earn a doctorate in law. [CLS] [SEP]
+[CLS] Marianne Beth (March 6, 1889, Vienna – August 19, 1984, New York City) was a Jewish Austrian lawyer and feminist. [SEP] [CLS] In 1921 she was the first Austrian woman to earn a doctorate in law. [SEP] [CLS]
 

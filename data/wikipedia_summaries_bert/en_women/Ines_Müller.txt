@@ -1,2 +1,2 @@
-Ines Müller, née Reichenbach (born 2 January 1959 in Grimma, Muldentalkreis, Saxony), is a German track and field athlete who represented East Germany in the shot put during the 1980s. [CLS] [SEP] Her biggest success was the bronze medal in the 1987 World Championship. [CLS] [SEP]
+[CLS] Ines Müller, née Reichenbach (born 2 January 1959 in Grimma, Muldentalkreis, Saxony), is a German track and field athlete who represented East Germany in the shot put during the 1980s. [SEP] [CLS] Her biggest success was the bronze medal in the 1987 World Championship. [SEP] [CLS]
 

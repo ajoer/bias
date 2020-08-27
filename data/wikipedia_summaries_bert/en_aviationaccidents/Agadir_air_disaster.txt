@@ -1,2 +1,2 @@
-The Agadir air disaster was a chartered Boeing 707 passenger flight on Sunday, August 3, 1975, that crashed into a mountain on approach to Agadir Inezgane Airport, Morocco. [CLS] [SEP] All 188 passengers and crew on board were killed. [CLS] [SEP] It is the deadliest aviation disaster involving a Boeing 707, as well as the deadliest in Morocco. [CLS] [SEP]
+[CLS] The Agadir air disaster was a chartered Boeing 707 passenger flight on Sunday, August 3, 1975, that crashed into a mountain on approach to Agadir Inezgane Airport, Morocco. [SEP] [CLS] All 188 passengers and crew on board were killed. [SEP] [CLS] It is the deadliest aviation disaster involving a Boeing 707, as well as the deadliest in Morocco. [SEP] [CLS]
 

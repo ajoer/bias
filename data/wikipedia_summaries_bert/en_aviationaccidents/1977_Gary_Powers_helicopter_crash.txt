@@ -1,2 +1,2 @@
-On August 1, 1977, a Bell 206 news helicopter piloted by Francis Gary Powers ran out of fuel and crashed into a field near Encino, California, killing Powers and the aircraft's only passenger, cameraman George Spears. [CLS] [SEP]
+[CLS] On August 1, 1977, a Bell 206 news helicopter piloted by Francis Gary Powers ran out of fuel and crashed into a field near Encino, California, killing Powers and the aircraft's only passenger, cameraman George Spears. [SEP] [CLS]
 

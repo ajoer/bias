@@ -1,2 +1,2 @@
-Mary Bebe Anderson (April 3, 1918 – April 6, 2014) was an American actress, who appeared in 31 films and 22 television productions between 1939 and 1965. [CLS] [SEP] She was best known for her small supporting role in the film Gone With the Wind as well as one of the main characters in Alfred Hitchcock's 1944 film Lifeboat. [CLS] [SEP]
+[CLS] Mary Bebe Anderson (April 3, 1918 – April 6, 2014) was an American actress, who appeared in 31 films and 22 television productions between 1939 and 1965. [SEP] [CLS] She was best known for her small supporting role in the film Gone With the Wind as well as one of the main characters in Alfred Hitchcock's 1944 film Lifeboat. [SEP] [CLS]
 

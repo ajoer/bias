@@ -1,2 +1,2 @@
-The 1983 United States drought, also known as the US Drought of 1983, was an extreme drought that was accompanied by heat waves across several portions of the United States. [CLS] [SEP]
+[CLS] The 1983 United States drought, also known as the US Drought of 1983, was an extreme drought that was accompanied by heat waves across several portions of the United States. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Nataliya Zinchenko (Ukrainian: Наталія Зінченко; born 3 October 1979) is a former Ukrainian football player who currently acts as manager for Zvezda Perm. [CLS] [SEP]
+[CLS] Nataliya Zinchenko (Ukrainian: Наталія Зінченко; born 3 October 1979) is a former Ukrainian football player who currently acts as manager for Zvezda Perm. [SEP] [CLS]
 

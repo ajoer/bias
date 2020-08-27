@@ -1,2 +1,2 @@
-Ignazio Porro (25 November 1801 – 8 October 1875) was an Italian inventor of optical instruments. [CLS] [SEP] Porro's name is most closely associated with the prism system which he invented around 1850 and which is used in the construction of Porro prism binoculars. [CLS] [SEP] He also developed a strip camera in 1853 for mapping, which was one of the earliest such. [CLS] [SEP]
+[CLS] Ignazio Porro (25 November 1801 – 8 October 1875) was an Italian inventor of optical instruments. [SEP] [CLS] Porro's name is most closely associated with the prism system which he invented around 1850 and which is used in the construction of Porro prism binoculars. [SEP] [CLS] He also developed a strip camera in 1853 for mapping, which was one of the earliest such. [SEP] [CLS]
 

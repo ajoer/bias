@@ -1,2 +1,2 @@
-Freda Foh Shen (born April 25, 1948) is an American theatre, film, and television actress. [CLS] [SEP]
+[CLS] Freda Foh Shen (born April 25, 1948) is an American theatre, film, and television actress. [SEP] [CLS]
 

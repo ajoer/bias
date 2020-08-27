@@ -1,2 +1,2 @@
-Valeriy Viktorovich Borchin (Russian: Вале́рий Ви́кторович Бо́рчин; born 11 September 1986) is a race walker from Russia who won the 2008 Olympic gold medal and was World champion over the 20 km distance. [CLS] [SEP]
+[CLS] Valeriy Viktorovich Borchin (Russian: Вале́рий Ви́кторович Бо́рчин; born 11 September 1986) is a race walker from Russia who won the 2008 Olympic gold medal and was World champion over the 20 km distance. [SEP] [CLS]
 

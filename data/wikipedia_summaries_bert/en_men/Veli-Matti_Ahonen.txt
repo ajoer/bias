@@ -1,2 +1,2 @@
-Veli-Matti Ahonen is a Finnish former ski jumper. [CLS] [SEP]
+[CLS] Veli-Matti Ahonen is a Finnish former ski jumper. [SEP] [CLS]
 

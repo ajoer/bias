@@ -1,2 +1,2 @@
-Garuda Indonesia Flight 865 (GA/GIA 865) was a scheduled international flight from Fukuoka, Japan, to Jakarta, Indonesia via Bali, Indonesia. [CLS] [SEP] On 13 June 1996, flight 865 crashed on its takeoff from Fukuoka Airport Runway 16. [CLS] [SEP] Three of 275 suffered fatal injuries in the accident. [CLS] [SEP]
+[CLS] Garuda Indonesia Flight 865 (GA/GIA 865) was a scheduled international flight from Fukuoka, Japan, to Jakarta, Indonesia via Bali, Indonesia. [SEP] [CLS] On 13 June 1996, flight 865 crashed on its takeoff from Fukuoka Airport Runway 16. [SEP] [CLS] Three of 275 suffered fatal injuries in the accident. [SEP] [CLS]
 

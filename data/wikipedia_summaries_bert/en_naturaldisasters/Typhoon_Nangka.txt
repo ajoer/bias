@@ -1,2 +1,2 @@
-The name Nangka has been used to name three tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] The name is a jackfruit and was submitted by Malaysia. [CLS] [SEP] Severe Tropical Storm Nangka (2003) (T0305, 06W, Dodong) Tropical Storm Nangka (2009) (T0904, 04W, Feria) Typhoon Nangka (2015) (T1511, 11W)
+[CLS] The name Nangka has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name is a jackfruit and was submitted by Malaysia. [SEP] [CLS] Severe Tropical Storm Nangka (2003) (T0305, 06W, Dodong) Tropical Storm Nangka (2009) (T0904, 04W, Feria) Typhoon Nangka (2015) (T1511, 11W)
 

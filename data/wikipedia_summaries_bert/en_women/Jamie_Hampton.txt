@@ -1,2 +1,2 @@
-Jamie Lee Hampton (born January 8, 1990) is a former American professional tennis player. [CLS] [SEP] On July 29, 2013, she reached her highest singles ranking of world no. [CLS] [SEP] 24. [CLS] [SEP]
+[CLS] Jamie Lee Hampton (born January 8, 1990) is a former American professional tennis player. [SEP] [CLS] On July 29, 2013, she reached her highest singles ranking of world no. [SEP] [CLS] 24. [SEP] [CLS]
 

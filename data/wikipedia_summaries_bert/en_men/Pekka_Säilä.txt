@@ -1,2 +1,2 @@
-Pekka Säilä (20 December 1941 – 7 December 2009) was a tennis player from Finland. [CLS] [SEP]
+[CLS] Pekka Säilä (20 December 1941 – 7 December 2009) was a tennis player from Finland. [SEP] [CLS]
 

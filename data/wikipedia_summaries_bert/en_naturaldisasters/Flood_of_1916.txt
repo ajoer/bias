@@ -1,2 +1,2 @@
-The flood of 1916 or Zuiderzeevloed of 1916 is a flood that took place in the night between 13 and 14 January 1916 in the Netherlands along the dikes of the Zuiderzee caused by a tempest. [CLS] [SEP]
+[CLS] The flood of 1916 or Zuiderzeevloed of 1916 is a flood that took place in the night between 13 and 14 January 1916 in the Netherlands along the dikes of the Zuiderzee caused by a tempest. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-An earthquake measuring 6.4 Mw struck primarily the Hokuriku region centered on Tsuruoka, Yamagata in Japan, on 18 June 2019 at 10:22 p.m. [CLS] [SEP] JST (13:22 UTC). [CLS] [SEP] A tsunami warning was also issued. [CLS] [SEP] The event has been officially called the Yamagata-ken Oki jishin (山形県沖地震, "Yamagata Offshore Earthquake"). [CLS] [SEP]
+[CLS] An earthquake measuring 6.4 Mw struck primarily the Hokuriku region centered on Tsuruoka, Yamagata in Japan, on 18 June 2019 at 10:22 p.m. [SEP] [CLS] JST (13:22 UTC). [SEP] [CLS] A tsunami warning was also issued. [SEP] [CLS] The event has been officially called the Yamagata-ken Oki jishin (山形県沖地震, "Yamagata Offshore Earthquake"). [SEP] [CLS]
 

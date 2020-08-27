@@ -1,2 +1,0 @@
-Josef Schreiner was a German cross country skier who competed in the 1930s. [CLS] [SEP] He won a silver medal in the 4 x 10 km at the 1934 FIS Nordic World Ski Championships in Sollefteå. [CLS] [SEP]
-

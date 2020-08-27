@@ -1,2 +1,2 @@
-The 2013 Bushehr earthquake occurred with a moment magnitude of 6.3 on April 9 in Iran. [CLS] [SEP] The shock's epicenter was in the province of Bushehr, near the city of Khvormuj and the towns of Kaki and Shonbeh. [CLS] [SEP] At least 37 people were killed, mostly from the town of Shonbeh and villages of Shonbeh-Tasuj district, and an estimated 850 people were injured. [CLS] [SEP]
+[CLS] The 2013 Bushehr earthquake occurred with a moment magnitude of 6.3 on April 9 in Iran. [SEP] [CLS] The shock's epicenter was in the province of Bushehr, near the city of Khvormuj and the towns of Kaki and Shonbeh. [SEP] [CLS] At least 37 people were killed, mostly from the town of Shonbeh and villages of Shonbeh-Tasuj district, and an estimated 850 people were injured. [SEP] [CLS]
 

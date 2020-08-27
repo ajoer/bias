@@ -1,2 +1,2 @@
-On 6 September 2011, Aerocon Flight 238, a Fairchild Metro III regional passenger aircraft on a service from Santa Cruz de la Sierra to Trinidad, Bolivia, crashed on approach to Trinidad, killing eight of the nine people on board. [CLS] [SEP]
+[CLS] On 6 September 2011, Aerocon Flight 238, a Fairchild Metro III regional passenger aircraft on a service from Santa Cruz de la Sierra to Trinidad, Bolivia, crashed on approach to Trinidad, killing eight of the nine people on board. [SEP] [CLS]
 

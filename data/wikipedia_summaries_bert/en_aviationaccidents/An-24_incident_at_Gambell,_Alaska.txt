@@ -1,2 +1,2 @@
-Gambell (GAM-bull) (Central Siberian Yupik: Sivuqaq, Russian: Гамбелл) is a city in the Nome Census Area of the U.S. [CLS] [SEP] state of Alaska. [CLS] [SEP] Located on St. [CLS] [SEP] Lawrence Island, it had a population of 681 at the 2010 census, up from 649 in 2000. [CLS] [SEP]
+[CLS] Gambell (GAM-bull) (Central Siberian Yupik: Sivuqaq, Russian: Гамбелл) is a city in the Nome Census Area of the U.S. [SEP] [CLS] state of Alaska. [SEP] [CLS] Located on St. [SEP] [CLS] Lawrence Island, it had a population of 681 at the 2010 census, up from 649 in 2000. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-A Conviasa Boeing 737-291 Advanced (registered as YV-102T) ferry flight from Maiquetia, Venezuela to Latacunga, Ecuador crashed into Illiniza Volcano. [CLS] [SEP] The aircraft had been stored at Caracas and was being ferried to a new owner. [CLS] [SEP] There were 3 crew on board with no passengers. [CLS] [SEP] There were no survivors. [CLS] [SEP]
+[CLS] A Conviasa Boeing 737-291 Advanced (registered as YV-102T) ferry flight from Maiquetia, Venezuela to Latacunga, Ecuador crashed into Illiniza Volcano. [SEP] [CLS] The aircraft had been stored at Caracas and was being ferried to a new owner. [SEP] [CLS] There were 3 crew on board with no passengers. [SEP] [CLS] There were no survivors. [SEP] [CLS]
 

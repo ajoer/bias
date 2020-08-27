@@ -1,2 +1,2 @@
-The 1947 Thames flood was the most severe 20th century flood of the River Thames, affecting much of the Thames Valley as well as elsewhere in England during the middle of March 1947 after a severe winter. [CLS] [SEP] The worst in over 100 years, it was exacerbated by an extremely high tide. [CLS] [SEP]
+[CLS] The 1947 Thames flood was the most severe 20th century flood of the River Thames, affecting much of the Thames Valley as well as elsewhere in England during the middle of March 1947 after a severe winter. [SEP] [CLS] The worst in over 100 years, it was exacerbated by an extremely high tide. [SEP] [CLS]
 

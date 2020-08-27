@@ -1,2 +1,2 @@
-Susan Gerhart is a semi-retired computer scientist. [CLS] [SEP]
+[CLS] Susan Gerhart is a semi-retired computer scientist. [SEP] [CLS]
 

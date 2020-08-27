@@ -1,2 +1,2 @@
-Marianne Koch (German: [ma.ˈʁi̯a.nə kɔx] (listen); born 19 August 1931) is a retired German actress of the 1950s and 1960s, best known for her appearances in spaghetti westerns and adventure films of the 1960s. [CLS] [SEP] She later worked as a television host and as a physician. [CLS] [SEP]
+[CLS] Marianne Koch (German: [ma.ˈʁi̯a.nə kɔx] (listen); born 19 August 1931) is a retired German actress of the 1950s and 1960s, best known for her appearances in spaghetti westerns and adventure films of the 1960s. [SEP] [CLS] She later worked as a television host and as a physician. [SEP] [CLS]
 

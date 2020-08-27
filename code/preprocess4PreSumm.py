@@ -3,7 +3,7 @@ import json
 import os
 #import stanza
 
-input_directory = glob.glob("../data/wikipedia_summaries_raw/*.json")
+input_directory = glob.glob("data/wikipedia_summaries_raw/*.json")
 
 # stanza.download('en', logging_level='WARN')
 # nlp = stanza.Pipeline('en', processors='tokenize')
@@ -23,12 +23,16 @@ for file in input_directory:
 		outfile_name = f"{article_name}.txt"
 		outfile = open(out_directory+outfile_name, "w")
 
-		sentence_split_data = []
+		sentence_split_data = ["[CLS]"]
 		if data[article]["text_length"] < 50: continue
-		for word in data[article]["text"].split():
+
+		len_of_text = len(data[article]["text"].split())
+		for n, word in enumerate(data[article]["text"].split()):
 			sentence_split_data.append(word)
 			if word[-1] in end_punct:
-				sentence_split_data.append("[CLS] [SEP]")
+				sentence_split_data.append("[SEP]")
+				if n != len_of_text: sentence_split_data.append("[CLS]")
+
 
 		outfile.write(" ".join(sent for sent in sentence_split_data)+"\n\n")
 		outfile.close()

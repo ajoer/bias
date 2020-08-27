@@ -1,2 +1,2 @@
-Cyclone Xaver (or Storm Xaver), also known as the North Sea flood or tidal surge of 2013, was a winter storm that affected northern Europe. [CLS] [SEP] Force 12 winds and heavy snowfall were predicted along the storm's path, and there were warnings of a significant risk of storm surge leading to coastal flooding along the coasts of the North and Irish Seas. [CLS] [SEP]
+[CLS] Cyclone Xaver (or Storm Xaver), also known as the North Sea flood or tidal surge of 2013, was a winter storm that affected northern Europe. [SEP] [CLS] Force 12 winds and heavy snowfall were predicted along the storm's path, and there were warnings of a significant risk of storm surge leading to coastal flooding along the coasts of the North and Irish Seas. [SEP] [CLS]
 

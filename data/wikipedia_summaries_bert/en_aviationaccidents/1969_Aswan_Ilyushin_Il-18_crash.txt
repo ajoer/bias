@@ -1,2 +1,2 @@
-On 20 March 1969, a United Arab Airlines Ilyushin Il-18 crashed while attempting to land at Aswan Airport. [CLS] [SEP] 100 of the 105 passengers and crew on board were killed in the crash. [CLS] [SEP]
+[CLS] On 20 March 1969, a United Arab Airlines Ilyushin Il-18 crashed while attempting to land at Aswan Airport. [SEP] [CLS] 100 of the 105 passengers and crew on board were killed in the crash. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Gülşen Degener (born 25 October 1968, in Şanlıurfa) is a female Turkish-born, Germany-resident professional carom billiards player. [CLS] [SEP]
+[CLS] Gülşen Degener (born 25 October 1968, in Şanlıurfa) is a female Turkish-born, Germany-resident professional carom billiards player. [SEP] [CLS]
 

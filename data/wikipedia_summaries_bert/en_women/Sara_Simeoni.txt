@@ -1,2 +1,2 @@
-Sara Simeoni (born 19 April 1953) is an Italian former high jumper, who won a gold medal at the 1980 Summer Olympics and twice set a world record in the women's high jump. [CLS] [SEP]
+[CLS] Sara Simeoni (born 19 April 1953) is an Italian former high jumper, who won a gold medal at the 1980 Summer Olympics and twice set a world record in the women's high jump. [SEP] [CLS]
 

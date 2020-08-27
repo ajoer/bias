@@ -1,2 +1,2 @@
-The 1998 Pymatuning earthquake occurred in the U.S. [CLS] [SEP] state of Pennsylvania on September 25 at 19:52 UTC. [CLS] [SEP] With a magnitude of 5.2 mbLg, it was the largest recorded earthquake in Pennsylvania's history. [CLS] [SEP]
+[CLS] The 1998 Pymatuning earthquake occurred in the U.S. [SEP] [CLS] state of Pennsylvania on September 25 at 19:52 UTC. [SEP] [CLS] With a magnitude of 5.2 mbLg, it was the largest recorded earthquake in Pennsylvania's history. [SEP] [CLS]
 

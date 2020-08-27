@@ -1,2 +1,2 @@
-Mallory Burdette (born January 28, 1991 in Macon, Georgia) is a retired American collegiate and professional tennis player. [CLS] [SEP]
+[CLS] Mallory Burdette (born January 28, 1991 in Macon, Georgia) is a retired American collegiate and professional tennis player. [SEP] [CLS]
 

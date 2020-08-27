@@ -1,2 +1,2 @@
-Christophe Guilloteau (born June 18, 1958 in Lyon) was a member of the National Assembly of France. [CLS] [SEP] He represented Rhône's 10th constituency from 2003 to 2017, as a member of the Union for a Popular Movement. [CLS] [SEP]
+[CLS] Christophe Guilloteau (born June 18, 1958 in Lyon) was a member of the National Assembly of France. [SEP] [CLS] He represented Rhône's 10th constituency from 2003 to 2017, as a member of the Union for a Popular Movement. [SEP] [CLS]
 

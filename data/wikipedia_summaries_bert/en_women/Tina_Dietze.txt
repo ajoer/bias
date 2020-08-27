@@ -1,2 +1,2 @@
-Tina Dietze (born 25 January 1988) is a German sprint canoer who has competed since the late 2000s. [CLS] [SEP] She won the gold medal in K-2 (with Franziska Weber) and the silver medal in K-4 at the 2012 Olympic Games. [CLS] [SEP]
+[CLS] Tina Dietze (born 25 January 1988) is a German sprint canoer who has competed since the late 2000s. [SEP] [CLS] She won the gold medal in K-2 (with Franziska Weber) and the silver medal in K-4 at the 2012 Olympic Games. [SEP] [CLS]
 

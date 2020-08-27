@@ -1,2 +1,2 @@
-The 1992 Görmeç avalanche was an avalanche that occurred on 1 February, 1992, in Görmeç, Şırnak Province in south-east Turkey, killing 97 people. [CLS] [SEP]
+[CLS] The 1992 Görmeç avalanche was an avalanche that occurred on 1 February, 1992, in Görmeç, Şırnak Province in south-east Turkey, killing 97 people. [SEP] [CLS]
 

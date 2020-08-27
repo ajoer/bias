@@ -1,2 +1,2 @@
-The crash of Sabena Flight 503 was an accident involving a Douglas DC-6 of the Belgian airline company Sabena which crashed into Monte Terminillo near Rieti, Italy, 100 km north east of Rome on 13 February 1955, killing all 29 people on board. [CLS] [SEP]
+[CLS] The crash of Sabena Flight 503 was an accident involving a Douglas DC-6 of the Belgian airline company Sabena which crashed into Monte Terminillo near Rieti, Italy, 100 km north east of Rome on 13 February 1955, killing all 29 people on board. [SEP] [CLS]
 

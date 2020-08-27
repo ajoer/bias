@@ -1,2 +1,2 @@
-Rugby Pack is a French rugby programme for beIN Sports. [CLS] [SEP]
+[CLS] Rugby Pack is a French rugby programme for beIN Sports. [SEP] [CLS]
 

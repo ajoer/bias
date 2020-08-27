@@ -1,2 +1,2 @@
-Aeroflot Flight 663 was a Soviet passenger flight from Tbilisi International Airport to Krasnodar International Airport that crashed on 24 August 1963, in the Kutaisi region. [CLS] [SEP] The crash involved an Aeroflot Avia 14. [CLS] [SEP] All 27 passengers and 5 crew on board were killed. [CLS] [SEP]
+[CLS] Aeroflot Flight 663 was a Soviet passenger flight from Tbilisi International Airport to Krasnodar International Airport that crashed on 24 August 1963, in the Kutaisi region. [SEP] [CLS] The crash involved an Aeroflot Avia 14. [SEP] [CLS] All 27 passengers and 5 crew on board were killed. [SEP] [CLS]
 

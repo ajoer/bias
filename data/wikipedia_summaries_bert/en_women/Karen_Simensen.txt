@@ -1,2 +1,2 @@
-Karen Simensen married name Klæboe (26 August 1907, in Oslo – 13 July 1996, in Oslo) was a Norwegian figure skater. [CLS] [SEP] She won a bronze medal at the 1927 World Figure Skating Championships, and competed at the 1928 Summer Olympics where she placed sixteenth. [CLS] [SEP]
+[CLS] Karen Simensen married name Klæboe (26 August 1907, in Oslo – 13 July 1996, in Oslo) was a Norwegian figure skater. [SEP] [CLS] She won a bronze medal at the 1927 World Figure Skating Championships, and competed at the 1928 Summer Olympics where she placed sixteenth. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The name Guillermo has been used for seven tropical cyclones in the Eastern Pacific Ocean. [CLS] [SEP] Hurricane Guillermo (1979) Tropical Storm Guillermo (1985) Hurricane Guillermo (1991) Hurricane Guillermo (1997) Tropical Storm Guillermo (2003) Hurricane Guillermo (2009) Hurricane Guillermo (2015)
+[CLS] The name Guillermo has been used for seven tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Hurricane Guillermo (1979) Tropical Storm Guillermo (1985) Hurricane Guillermo (1991) Hurricane Guillermo (1997) Tropical Storm Guillermo (2003) Hurricane Guillermo (2009) Hurricane Guillermo (2015)
 

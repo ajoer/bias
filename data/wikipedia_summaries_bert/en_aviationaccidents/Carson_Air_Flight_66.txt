@@ -1,2 +1,2 @@
-Carson Air Flight 66 was a Swearingen Metro II turboprop aircraft on a domestic cargo flight from Vancouver to Prince George, both in British Columbia, Canada. [CLS] [SEP] On 13 April 2015, the aircraft crashed into a mountain en route to Prince George Airport, killing both crew members. [CLS] [SEP]
+[CLS] Carson Air Flight 66 was a Swearingen Metro II turboprop aircraft on a domestic cargo flight from Vancouver to Prince George, both in British Columbia, Canada. [SEP] [CLS] On 13 April 2015, the aircraft crashed into a mountain en route to Prince George Airport, killing both crew members. [SEP] [CLS]
 

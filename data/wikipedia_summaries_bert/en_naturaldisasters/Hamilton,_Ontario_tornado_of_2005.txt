@@ -1,2 +1,2 @@
-The Hamilton, Ontario, tornado of 2005 was a tornado that touched down during the late afternoon hours of Wednesday, November 9, 2005, in the city of Hamilton, Ontario. [CLS] [SEP]
+[CLS] The Hamilton, Ontario, tornado of 2005 was a tornado that touched down during the late afternoon hours of Wednesday, November 9, 2005, in the city of Hamilton, Ontario. [SEP] [CLS]
 

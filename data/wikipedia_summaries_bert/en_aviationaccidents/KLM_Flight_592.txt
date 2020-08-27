@@ -1,2 +1,2 @@
-KLM Flight 592, a KLM Douglas DC-6 was a scheduled passenger flight from Roma-Ciampino Airport (CIA/LIRA) to Frankfurt International Airport (FRA/EDDF). [CLS] [SEP] On Saturday 22 March 1952, Flight 582 crashed on final approaching to Frankfurt International around 10:45 AM Local time; 45 of the 47 people aboard the DC-6 were killed. [CLS] [SEP]
+[CLS] KLM Flight 592, a KLM Douglas DC-6 was a scheduled passenger flight from Roma-Ciampino Airport (CIA/LIRA) to Frankfurt International Airport (FRA/EDDF). [SEP] [CLS] On Saturday 22 March 1952, Flight 582 crashed on final approaching to Frankfurt International around 10:45 AM Local time; 45 of the 47 people aboard the DC-6 were killed. [SEP] [CLS]
 

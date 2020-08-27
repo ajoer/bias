@@ -1,2 +1,2 @@
-Monique Angermüller (born 27 January 1984) is a retired German speed skater who represented Germany at the 2010 Winter Olympics. [CLS] [SEP] She participated in the 500, 1000, and 1500 metres distances. [CLS] [SEP] Her specialty is considered to be the 1000 m. [CLS] [SEP]
+[CLS] Monique Angermüller (born 27 January 1984) is a retired German speed skater who represented Germany at the 2010 Winter Olympics. [SEP] [CLS] She participated in the 500, 1000, and 1500 metres distances. [SEP] [CLS] Her specialty is considered to be the 1000 m. [SEP] [CLS]
 

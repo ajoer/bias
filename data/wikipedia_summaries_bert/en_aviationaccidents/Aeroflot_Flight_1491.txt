@@ -1,2 +1,2 @@
-Aeroflot Flight 1491 was a scheduled domestic passenger flight from Moscow-Vnukovo Airport to Kharkiv Airport in the USSR that crashed on 18 May 1972 while descending to land in Kharkiv, killing all 122 passengers and crew aboard the Antonov An-10. [CLS] [SEP]
+[CLS] Aeroflot Flight 1491 was a scheduled domestic passenger flight from Moscow-Vnukovo Airport to Kharkiv Airport in the USSR that crashed on 18 May 1972 while descending to land in Kharkiv, killing all 122 passengers and crew aboard the Antonov An-10. [SEP] [CLS]
 

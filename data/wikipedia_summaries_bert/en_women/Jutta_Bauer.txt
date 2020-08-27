@@ -1,2 +1,2 @@
-Jutta Bauer (born 9 January 1955) is a German writer and illustrator of children's books. [CLS] [SEP] For her "lasting contribution" as a children's illustrator she received the Hans Christian Andersen Medal in 2010. [CLS] [SEP]
+[CLS] Jutta Bauer (born 9 January 1955) is a German writer and illustrator of children's books. [SEP] [CLS] For her "lasting contribution" as a children's illustrator she received the Hans Christian Andersen Medal in 2010. [SEP] [CLS]
 

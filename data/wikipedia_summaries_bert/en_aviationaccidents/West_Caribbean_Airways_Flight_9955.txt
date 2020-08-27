@@ -1,2 +1,2 @@
-West Caribbean Airways Flight 9955 was a scheduled flight between Isla de Providencia and San Andres Island, Colombia that crashed on 25 March 2005, killing 9 of the 14 passengers and crew on board. [CLS] [SEP]
+[CLS] West Caribbean Airways Flight 9955 was a scheduled flight between Isla de Providencia and San Andres Island, Colombia that crashed on 25 March 2005, killing 9 of the 14 passengers and crew on board. [SEP] [CLS]
 

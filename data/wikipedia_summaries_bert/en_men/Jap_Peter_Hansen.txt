@@ -1,2 +1,2 @@
-Frisian literature is works written in the Frisian languages, including that of West Frisian spoken in the province of Friesland in the Netherlands, from which most texts were produced or have survived. [CLS] [SEP] The first texts written in Frisian emerge around the 13th century. [CLS] [SEP]
+[CLS] Frisian literature is works written in the Frisian languages, including that of West Frisian spoken in the province of Friesland in the Netherlands, from which most texts were produced or have survived. [SEP] [CLS] The first texts written in Frisian emerge around the 13th century. [SEP] [CLS]
 

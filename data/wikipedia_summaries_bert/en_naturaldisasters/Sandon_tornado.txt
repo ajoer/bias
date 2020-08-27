@@ -1,2 +1,2 @@
-The Sandon tornado struck the township of Sandon, Victoria, Australia on 13 November 1976. [CLS] [SEP] The tornado is likely to have been an F3 on the Fujita scale. [CLS] [SEP] It killed two people when their parked car was picked up and lifted around 9 metres off the ground and thrown 100 metres into a ditch. [CLS] [SEP]
+[CLS] The Sandon tornado struck the township of Sandon, Victoria, Australia on 13 November 1976. [SEP] [CLS] The tornado is likely to have been an F3 on the Fujita scale. [SEP] [CLS] It killed two people when their parked car was picked up and lifted around 9 metres off the ground and thrown 100 metres into a ditch. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Dana Elvira Cervantes García (born 18 August 1978 in Málaga) is a former Spanish athlete specializing in the pole vault. [CLS] [SEP] She competed at the 2004 Olympic Games in Athens failing to get a valid jump in the final. [CLS] [SEP] Her outdoor personal best is 4.40 metres achieved in 2004 while her indoor best is 4.46 metres from the same year. [CLS] [SEP]
+[CLS] Dana Elvira Cervantes García (born 18 August 1978 in Málaga) is a former Spanish athlete specializing in the pole vault. [SEP] [CLS] She competed at the 2004 Olympic Games in Athens failing to get a valid jump in the final. [SEP] [CLS] Her outdoor personal best is 4.40 metres achieved in 2004 while her indoor best is 4.46 metres from the same year. [SEP] [CLS]
 

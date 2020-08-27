@@ -1,2 +1,2 @@
-The 1948 Lake Mead Boeing B-29 crash occurred 21 July 1948 when a Boeing B-29-100-BW Superfortress, modified into an F-13 reconnaissance platform and performing atmospheric research, crashed into the waters of Lake Mead, Nevada, US. [CLS] [SEP]
+[CLS] The 1948 Lake Mead Boeing B-29 crash occurred 21 July 1948 when a Boeing B-29-100-BW Superfortress, modified into an F-13 reconnaissance platform and performing atmospheric research, crashed into the waters of Lake Mead, Nevada, US. [SEP] [CLS]
 

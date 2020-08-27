@@ -1,2 +1,2 @@
-On 17 March 2019, an earthquake measuring Mw 5.6 struck the island of Lombok in West Nusa Tenggara, Indonesia. [CLS] [SEP] The earthquake triggered a landslide, killing three and injuring more than a hundred. [CLS] [SEP]
+[CLS] On 17 March 2019, an earthquake measuring Mw 5.6 struck the island of Lombok in West Nusa Tenggara, Indonesia. [SEP] [CLS] The earthquake triggered a landslide, killing three and injuring more than a hundred. [SEP] [CLS]
 

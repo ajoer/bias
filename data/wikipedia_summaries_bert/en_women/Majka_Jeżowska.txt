@@ -1,2 +1,2 @@
-Majka Jeżowska (born Maria Jeżowska on May 25, 1960 in Nowy Sącz, Poland), is a Polish singer performing pop and children's music. [CLS] [SEP] She is also a part-time actress. [CLS] [SEP]
+[CLS] Majka Jeżowska (born Maria Jeżowska on May 25, 1960 in Nowy Sącz, Poland), is a Polish singer performing pop and children's music. [SEP] [CLS] She is also a part-time actress. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-At 7:30 am on 29 October 2014, a landslide struck the Sri Lanka district of Badulla, killing at least 16 people and leaving an estimated 200 missing. [CLS] [SEP] The landslide was triggered by monsoon rains, and occurred at about 7:30 AM local time. [CLS] [SEP]
+[CLS] At 7:30 am on 29 October 2014, a landslide struck the Sri Lanka district of Badulla, killing at least 16 people and leaving an estimated 200 missing. [SEP] [CLS] The landslide was triggered by monsoon rains, and occurred at about 7:30 AM local time. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Grace Min (born May 6, 1994) is an American tennis player who won the 2011 US Open girls' singles title. [CLS] [SEP] She also won the 2011 Wimbledon girls' doubles title with Eugenie Bouchard. [CLS] [SEP] Min's highest singles ranking was 97 on 2 March 2015, and she peaked at 308 in the doubles rankings on 17 September 2012. [CLS] [SEP]
+[CLS] Grace Min (born May 6, 1994) is an American tennis player who won the 2011 US Open girls' singles title. [SEP] [CLS] She also won the 2011 Wimbledon girls' doubles title with Eugenie Bouchard. [SEP] [CLS] Min's highest singles ranking was 97 on 2 March 2015, and she peaked at 308 in the doubles rankings on 17 September 2012. [SEP] [CLS]
 

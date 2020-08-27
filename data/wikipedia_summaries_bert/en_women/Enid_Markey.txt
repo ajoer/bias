@@ -1,2 +1,2 @@
-Enid Markey (February 22, 1894 – November 15, 1981) was an American actress of theater, film, and television. [CLS] [SEP] She originated the role of Jane in films, playing the character twice in 1918 (Tarzan of The Apes; The Romance of Tarzan). [CLS] [SEP] Her career extended into the 1960s. [CLS] [SEP]
+[CLS] Enid Markey (February 22, 1894 – November 15, 1981) was an American actress of theater, film, and television. [SEP] [CLS] She originated the role of Jane in films, playing the character twice in 1918 (Tarzan of The Apes; The Romance of Tarzan). [SEP] [CLS] Her career extended into the 1960s. [SEP] [CLS]
 

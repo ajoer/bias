@@ -1,2 +1,2 @@
-The May 1996 Kentucky tornado outbreak was a small outbreak of tornadoes that occurred in Central and northern Kentucky on May 28, 1996. [CLS] [SEP] The outbreak resulted in over $100 million in damages. [CLS] [SEP]
+[CLS] The May 1996 Kentucky tornado outbreak was a small outbreak of tornadoes that occurred in Central and northern Kentucky on May 28, 1996. [SEP] [CLS] The outbreak resulted in over $100 million in damages. [SEP] [CLS]
 

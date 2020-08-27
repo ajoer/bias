@@ -1,2 +1,2 @@
-Sigrid Doris Peyerimhoff (born January 12, 1937, in Rottweil) is a theoretical chemist and Emeritus Professor at the Institute of Physical and Theoretical Chemistry, University of Bonn, Germany. [CLS] [SEP]
+[CLS] Sigrid Doris Peyerimhoff (born January 12, 1937, in Rottweil) is a theoretical chemist and Emeritus Professor at the Institute of Physical and Theoretical Chemistry, University of Bonn, Germany. [SEP] [CLS]
 

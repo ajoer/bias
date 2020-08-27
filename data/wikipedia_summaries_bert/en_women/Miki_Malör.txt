@@ -1,2 +1,2 @@
-Miki Malör (29 August 1957) is an Austrian theatre creator, director and performance artist. [CLS] [SEP]
+[CLS] Miki Malör (29 August 1957) is an Austrian theatre creator, director and performance artist. [SEP] [CLS]
 

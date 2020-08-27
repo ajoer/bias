@@ -1,2 +1,2 @@
-Severe Tropical Cyclone Prema was among the worst tropical cyclones to hit Vanuatu since 1987's Cyclone Uma. [CLS] [SEP] The twenty-third storm of the season, Prema formed early on 26 March 1993 as a weak tropical depression. [CLS] [SEP]
+[CLS] Severe Tropical Cyclone Prema was among the worst tropical cyclones to hit Vanuatu since 1987's Cyclone Uma. [SEP] [CLS] The twenty-third storm of the season, Prema formed early on 26 March 1993 as a weak tropical depression. [SEP] [CLS]
 

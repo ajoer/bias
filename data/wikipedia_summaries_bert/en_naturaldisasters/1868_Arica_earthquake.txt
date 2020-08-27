@@ -1,2 +1,2 @@
-The 1868 Arica earthquake occurred on 13 August 1868, near Arica, then part of Peru, now part of Chile, at 21:30 UTC. [CLS] [SEP] It had an estimated magnitude between 8.5 and 9.0. [CLS] [SEP] A tsunami (or multiple tsunamis) in the Pacific Ocean was produced by the earthquake, which was recorded in Hawaii, Japan, Australia, and New Zealand. [CLS] [SEP]
+[CLS] The 1868 Arica earthquake occurred on 13 August 1868, near Arica, then part of Peru, now part of Chile, at 21:30 UTC. [SEP] [CLS] It had an estimated magnitude between 8.5 and 9.0. [SEP] [CLS] A tsunami (or multiple tsunamis) in the Pacific Ocean was produced by the earthquake, which was recorded in Hawaii, Japan, Australia, and New Zealand. [SEP] [CLS]
 

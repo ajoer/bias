@@ -1,2 +1,2 @@
-Bernard Perrut (born 24 January 1957 in Villefranche-sur-Saône, Rhône) is a member of the National Assembly of France. [CLS] [SEP] He represents the Rhône department, and is a member of the Republicans. [CLS] [SEP] He is the mayor of Villefranche-sur-Saône. [CLS] [SEP]
+[CLS] Bernard Perrut (born 24 January 1957 in Villefranche-sur-Saône, Rhône) is a member of the National Assembly of France. [SEP] [CLS] He represents the Rhône department, and is a member of the Republicans. [SEP] [CLS] He is the mayor of Villefranche-sur-Saône. [SEP] [CLS]
 

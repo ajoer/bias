@@ -1,2 +1,2 @@
-On 23 April 1945, a Boeing B-17G Flying Fortress crashed on North Barrule, a hill in the Isle of Man. [CLS] [SEP] A total of 31 people were killed. [CLS] [SEP] The accident is the deadliest aviation accident to have occurred in the Isle of Man. [CLS] [SEP] It was due to controlled flight into terrain (CFIT). [CLS] [SEP]
+[CLS] On 23 April 1945, a Boeing B-17G Flying Fortress crashed on North Barrule, a hill in the Isle of Man. [SEP] [CLS] A total of 31 people were killed. [SEP] [CLS] The accident is the deadliest aviation accident to have occurred in the Isle of Man. [SEP] [CLS] It was due to controlled flight into terrain (CFIT). [SEP] [CLS]
 

@@ -1,2 +1,0 @@
-The 1303 Crete earthquake occurred at about dawn on 8 August. [CLS] [SEP] It had an estimated magnitude of about 8, a maximum intensity of IX (Violent) on the Mercalli intensity scale, and triggered a major tsunami that caused severe damage and loss of life on Crete and at Alexandria. [CLS] [SEP]
-

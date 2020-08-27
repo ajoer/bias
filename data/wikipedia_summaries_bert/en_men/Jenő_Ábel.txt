@@ -1,2 +1,2 @@
-The Wondrous Voyage of Kornel Esti (Hungarian: Esti Kornél csodálatos utazása) is a 1995 Hungarian drama film directed by József Pacskovszky. [CLS] [SEP] It was entered into the 19th Moscow International Film Festival. [CLS] [SEP]
+[CLS] The Wondrous Voyage of Kornel Esti (Hungarian: Esti Kornél csodálatos utazása) is a 1995 Hungarian drama film directed by József Pacskovszky. [SEP] [CLS] It was entered into the 19th Moscow International Film Festival. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Pacific Western Airlines Flight 501 was a regularly scheduled flight from Calgary to Edmonton, Alberta, Canada. [CLS] [SEP] The aircraft caught fire during takeoff on March 22, 1984. [CLS] [SEP] All 119 passengers and crew members survived, but five people suffered serious injuries while 22 others suffered minor injuries. [CLS] [SEP]
+[CLS] Pacific Western Airlines Flight 501 was a regularly scheduled flight from Calgary to Edmonton, Alberta, Canada. [SEP] [CLS] The aircraft caught fire during takeoff on March 22, 1984. [SEP] [CLS] All 119 passengers and crew members survived, but five people suffered serious injuries while 22 others suffered minor injuries. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Aeroflot Flight 2174 was a scheduled domestic passenger flight operated by an Antonov An-24B that crashed on approach to Saratov Tsentralny Airport on Wednesday 1 December 1971, resulting in the death of all 57 people on board. [CLS] [SEP] An investigation revealed the aircraft entered icing conditions leading to a loss of control. [CLS] [SEP]
+[CLS] Aeroflot Flight 2174 was a scheduled domestic passenger flight operated by an Antonov An-24B that crashed on approach to Saratov Tsentralny Airport on Wednesday 1 December 1971, resulting in the death of all 57 people on board. [SEP] [CLS] An investigation revealed the aircraft entered icing conditions leading to a loss of control. [SEP] [CLS]
 

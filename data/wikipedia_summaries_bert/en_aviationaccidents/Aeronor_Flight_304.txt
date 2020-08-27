@@ -1,2 +1,2 @@
-Aeronor Flight 304 was a Chilean domestic flight between the cities of Santiago and Antofagasta with two intermediate stops. [CLS] [SEP] On December 9, 1982, the Fairchild F-27 operating the flight crashed near La Florida Airport, in the Chilean city of La Serena. [CLS] [SEP] All 46 passengers and crew on board died. [CLS] [SEP]
+[CLS] Aeronor Flight 304 was a Chilean domestic flight between the cities of Santiago and Antofagasta with two intermediate stops. [SEP] [CLS] On December 9, 1982, the Fairchild F-27 operating the flight crashed near La Florida Airport, in the Chilean city of La Serena. [SEP] [CLS] All 46 passengers and crew on board died. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Helga Radtke (born 16 May 1962 in Sanitz, Rostock) is a German track and field athlete. [CLS] [SEP] She competed from 1979 to the 1990s in the long and triple jumps. [CLS] [SEP] Until 1990 she represented East Germany. [CLS] [SEP] She won the bronze medal in the long jump at the 1990 European championship and was successful in many more indoor world and European championships
+[CLS] Helga Radtke (born 16 May 1962 in Sanitz, Rostock) is a German track and field athlete. [SEP] [CLS] She competed from 1979 to the 1990s in the long and triple jumps. [SEP] [CLS] Until 1990 she represented East Germany. [SEP] [CLS] She won the bronze medal in the long jump at the 1990 European championship and was successful in many more indoor world and European championships
 

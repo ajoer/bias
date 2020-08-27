@@ -1,2 +1,2 @@
-Ethiopian Airlines Flight 604 was a scheduled Addis Ababa–Bahir Dar–Asmara flight in which the aircraft caught fire during a belly landing at Bahir Dar Airport, Bahir Dar, Ethiopia, on 15 September 1988. [CLS] [SEP]
+[CLS] Ethiopian Airlines Flight 604 was a scheduled Addis Ababa–Bahir Dar–Asmara flight in which the aircraft caught fire during a belly landing at Bahir Dar Airport, Bahir Dar, Ethiopia, on 15 September 1988. [SEP] [CLS]
 

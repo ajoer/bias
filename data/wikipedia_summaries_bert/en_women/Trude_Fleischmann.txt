@@ -1,2 +1,2 @@
-Trude Fleischmann (1895–1990) was an Austrian-born American photographer. [CLS] [SEP] After becoming a notable society photographer in Vienna in the 1920s, she re-established her business in New York in 1940. [CLS] [SEP]
+[CLS] Trude Fleischmann (1895–1990) was an Austrian-born American photographer. [SEP] [CLS] After becoming a notable society photographer in Vienna in the 1920s, she re-established her business in New York in 1940. [SEP] [CLS]
 

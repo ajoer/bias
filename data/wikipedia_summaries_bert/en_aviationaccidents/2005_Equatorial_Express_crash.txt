@@ -1,2 +1,2 @@
-The 2005 Equatorial Express Airlines An-24 crash, also known as the 2005 Baney plane crash occurred on 16 July 2005 after an Equatorial Express Airlines Antonov An-24 crashed into a side of a mountain near Baney, Equatorial Guinea. [CLS] [SEP] The accident killed all 60 passengers and crew on board the flight. [CLS] [SEP]
+[CLS] The 2005 Equatorial Express Airlines An-24 crash, also known as the 2005 Baney plane crash occurred on 16 July 2005 after an Equatorial Express Airlines Antonov An-24 crashed into a side of a mountain near Baney, Equatorial Guinea. [SEP] [CLS] The accident killed all 60 passengers and crew on board the flight. [SEP] [CLS]
 

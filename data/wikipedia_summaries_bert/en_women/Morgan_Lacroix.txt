@@ -1,2 +1,2 @@
-Mandragora Scream is a gothic metal band from Italy. [CLS] [SEP]
+[CLS] Mandragora Scream is a gothic metal band from Italy. [SEP] [CLS]
 

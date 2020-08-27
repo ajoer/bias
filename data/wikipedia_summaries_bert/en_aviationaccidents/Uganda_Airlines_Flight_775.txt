@@ -1,2 +1,2 @@
-Uganda Airlines Flight 775 was a Boeing 707-338C, registration 5X-UBC, that crashed while attempting to land at Rome-Fiumicino Airport in Rome, Italy on 17 October 1988. [CLS] [SEP] Thirty-three of the 52 occupants on board were killed. [CLS] [SEP]
+[CLS] Uganda Airlines Flight 775 was a Boeing 707-338C, registration 5X-UBC, that crashed while attempting to land at Rome-Fiumicino Airport in Rome, Italy on 17 October 1988. [SEP] [CLS] Thirty-three of the 52 occupants on board were killed. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-LOT Polish Airlines Flight 703 was a plane that crash-landed about 1 kilometre (0.62 mi) north of Rogóżno railway station, on 2 November 1988. [CLS] [SEP] In the accident one person was killed and several were seriously injured. [CLS] [SEP]
+[CLS] LOT Polish Airlines Flight 703 was a plane that crash-landed about 1 kilometre (0.62 mi) north of Rogóżno railway station, on 2 November 1988. [SEP] [CLS] In the accident one person was killed and several were seriously injured. [SEP] [CLS]
 

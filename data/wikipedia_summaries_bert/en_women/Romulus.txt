@@ -1,2 +1,0 @@
-Romulus was the legendary founder and first king of Rome. [CLS] [SEP] Various traditions attribute the establishment of many of Rome's oldest legal, political, religious, and social institutions to Romulus and his contemporaries. [CLS] [SEP] Although many of these traditions incorporate elements of folklore, and it is not clear to what extent a historical figure underlies the mythical Romulus, the events and institutions ascribed to him were central to the myths surrounding Rome's origins and cultural traditions. [CLS] [SEP]
-

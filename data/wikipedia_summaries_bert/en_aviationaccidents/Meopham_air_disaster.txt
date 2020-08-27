@@ -1,2 +1,2 @@
-The Meopham Air Disaster occurred on 21 July 1930 when a Junkers F.13ge flying from Le Touquet to Croydon with two crew and four passengers crashed near Meopham, Kent with the loss of all on board. [CLS] [SEP] The report of the inquiry into the accident was made public, the first time in the United Kingdom that an accident report was published. [CLS] [SEP]
+[CLS] The Meopham Air Disaster occurred on 21 July 1930 when a Junkers F.13ge flying from Le Touquet to Croydon with two crew and four passengers crashed near Meopham, Kent with the loss of all on board. [SEP] [CLS] The report of the inquiry into the accident was made public, the first time in the United Kingdom that an accident report was published. [SEP] [CLS]
 

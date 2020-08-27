@@ -1,2 +1,2 @@
-Sir John Barrow, 1st Baronet, (19 June 1764 – 23 November 1848) was an English civil servant, geographer, linguist and writer. [CLS] [SEP]
+[CLS] Sir John Barrow, 1st Baronet, (19 June 1764 – 23 November 1848) was an English civil servant, geographer, linguist and writer. [SEP] [CLS]
 

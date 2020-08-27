@@ -1,2 +1,2 @@
-Michael Leutert (born 8 August 1974) is a German politician. [CLS] [SEP] Born in Bad Schlema, Saxony, he represents The Left. [CLS] [SEP] Michael Leutert has served as a member of the Bundestag from the state of Saxony since 2005. [CLS] [SEP]
+[CLS] Michael Leutert (born 8 August 1974) is a German politician. [SEP] [CLS] Born in Bad Schlema, Saxony, he represents The Left. [SEP] [CLS] Michael Leutert has served as a member of the Bundestag from the state of Saxony since 2005. [SEP] [CLS]
 

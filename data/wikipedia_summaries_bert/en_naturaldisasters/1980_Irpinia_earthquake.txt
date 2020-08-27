@@ -1,2 +1,2 @@
-The 1980 Irpinia earthquake (Italian: Terremoto dell'Irpinia) took place in Southern Italy on November 23 with a moment magnitude of 6.9 and a maximum Mercalli intensity of X (Extreme). [CLS] [SEP] The shock was centered on the village of Conza and left at least 2,483 people dead, at least 7,700 injured, and 250,000 homeless. [CLS] [SEP]
+[CLS] The 1980 Irpinia earthquake (Italian: Terremoto dell'Irpinia) took place in Southern Italy on November 23 with a moment magnitude of 6.9 and a maximum Mercalli intensity of X (Extreme). [SEP] [CLS] The shock was centered on the village of Conza and left at least 2,483 people dead, at least 7,700 injured, and 250,000 homeless. [SEP] [CLS]
 

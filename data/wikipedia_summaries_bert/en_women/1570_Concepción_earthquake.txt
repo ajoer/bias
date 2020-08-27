@@ -1,2 +1,0 @@
-The 1570 Concepción earthquake occurred at 9:00, on February 8, 1570. [CLS] [SEP] The strong earthquake destroyed Concepción, Chile. [CLS] [SEP] It was accompanied by a tsunami, and aftershocks were felt for months. [CLS] [SEP] According to NOAA at least 2000 lives were lost and every house was destroyed. [CLS] [SEP] Because of a delay between the earthquake and the tsunami, much of the population was able to escape to higher ground. [CLS] [SEP] The earthquake's magnitude was 8.3 Ms, located at 36°48′S 73°00′W. [CLS] [SEP]
-

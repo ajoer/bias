@@ -1,2 +1,2 @@
-Lena Möller (born 17 April 1957) is a Swedish sprinter. [CLS] [SEP] She competed in the women's 4 × 100 metres relay at the 1980 Summer Olympics. [CLS] [SEP]
+[CLS] Lena Möller (born 17 April 1957) is a Swedish sprinter. [SEP] [CLS] She competed in the women's 4 × 100 metres relay at the 1980 Summer Olympics. [SEP] [CLS]
 

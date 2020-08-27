@@ -1,2 +1,2 @@
-Pierre Bouguer (French: [buˈge]) (16 February 1698, Croisic – 15 August 1758, Paris) was a French mathematician, geophysicist, geodesist, and astronomer. [CLS] [SEP] He is also known as "the father of naval architecture". [CLS] [SEP]
+[CLS] Pierre Bouguer (French: [buˈge]) (16 February 1698, Croisic – 15 August 1758, Paris) was a French mathematician, geophysicist, geodesist, and astronomer. [SEP] [CLS] He is also known as "the father of naval architecture". [SEP] [CLS]
 

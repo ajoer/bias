@@ -1,2 +1,2 @@
-The 1902 Goliad, Texas, tornado was a F4 tornado that struck the town of Goliad, Texas, on Sunday, May 18, 1902. [CLS] [SEP] A total of 114 people died, 250 were injured, and $125,000 damage occurred. [CLS] [SEP] Inflation adjusted puts it at $3.4 million. [CLS] [SEP]
+[CLS] The 1902 Goliad, Texas, tornado was a F4 tornado that struck the town of Goliad, Texas, on Sunday, May 18, 1902. [SEP] [CLS] A total of 114 people died, 250 were injured, and $125,000 damage occurred. [SEP] [CLS] Inflation adjusted puts it at $3.4 million. [SEP] [CLS]
 

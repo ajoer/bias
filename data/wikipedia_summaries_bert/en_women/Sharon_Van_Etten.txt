@@ -1,2 +1,2 @@
-Sharon Katharine Van Etten (born February 26, 1981) is an American singer-songwriter and actress. [CLS] [SEP] She has released five studio albums, the latest of which is Remind Me Tomorrow (2019). [CLS] [SEP]
+[CLS] Sharon Katharine Van Etten (born February 26, 1981) is an American singer-songwriter and actress. [SEP] [CLS] She has released five studio albums, the latest of which is Remind Me Tomorrow (2019). [SEP] [CLS]
 

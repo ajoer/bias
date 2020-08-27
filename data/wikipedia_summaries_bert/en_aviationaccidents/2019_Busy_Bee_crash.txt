@@ -1,2 +1,2 @@
-On 24 November 2019, a Dornier Do 228 twin turboprop aircraft operated by local carrier Busy Bee Congo crashed shortly after takeoff from Goma International Airport in a densely populated section of the city, killing 20 of the 21 on board and 6 on the ground. [CLS] [SEP] It is the deadliest accident involving the Dornier Do 228. [CLS] [SEP]
+[CLS] On 24 November 2019, a Dornier Do 228 twin turboprop aircraft operated by local carrier Busy Bee Congo crashed shortly after takeoff from Goma International Airport in a densely populated section of the city, killing 20 of the 21 on board and 6 on the ground. [SEP] [CLS] It is the deadliest accident involving the Dornier Do 228. [SEP] [CLS]
 

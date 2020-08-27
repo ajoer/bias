@@ -1,2 +1,2 @@
-Ville Valtteri Kantee (born 8 December 1978) is a Finnish former ski jumper. [CLS] [SEP]
+[CLS] Ville Valtteri Kantee (born 8 December 1978) is a Finnish former ski jumper. [SEP] [CLS]
 

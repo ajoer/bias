@@ -1,2 +1,0 @@
-The 1638 New Hampshire earthquake struck central New England on June 1 (Julian calendar). [CLS] [SEP] It was the first major earthquake in New England after the start of European colonization. [CLS] [SEP] Modern analysis places its epicenter somewhere near central New Hampshire, and it probably measured between magnitude 6.5 and 7.0 on the Richter magnitude scale, making it the largest earthquake on record in New Hampshire and one of the strongest in the region's history (the 1663 Charlevoix earthquake was probably stronger). [CLS] [SEP]
-

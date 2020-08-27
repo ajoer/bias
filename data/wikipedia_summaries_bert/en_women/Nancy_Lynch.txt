@@ -1,2 +1,2 @@
-Nancy Ann Lynch (born January 19, 1948) is a mathematician, a theorist, and a professor at the Massachusetts Institute of Technology. [CLS] [SEP] She is the NEC Professor of Software Science and Engineering in the EECS department and heads the "Theory of Distributed Systems" research group at MIT's Computer Science and Artificial Intelligence Laboratory. [CLS] [SEP]
+[CLS] Nancy Ann Lynch (born January 19, 1948) is a mathematician, a theorist, and a professor at the Massachusetts Institute of Technology. [SEP] [CLS] She is the NEC Professor of Software Science and Engineering in the EECS department and heads the "Theory of Distributed Systems" research group at MIT's Computer Science and Artificial Intelligence Laboratory. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Mary (Missy) Cummings (born ca 1966) is a Professor at Duke University and director of Duke's Humans and Autonomy Laboratory. [CLS] [SEP] She was one of the United States Navy's first female fighter pilots. [CLS] [SEP]
+[CLS] Mary (Missy) Cummings (born ca 1966) is a Professor at Duke University and director of Duke's Humans and Autonomy Laboratory. [SEP] [CLS] She was one of the United States Navy's first female fighter pilots. [SEP] [CLS]
 

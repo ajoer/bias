@@ -1,2 +1,0 @@
-John C. [CLS] [SEP] Gaeta (born 1965) is a designer and inventor best known for his work on the Matrix film trilogy, where he advanced methods and formats known as Bullet Time, Volumetric Cinematography and Universal Capture (UCAP). [CLS] [SEP] He is also known for exploring emergent and expressive new media platforms such as Photo Anime, NUI, HoloCinema and the Magicverse. [CLS] [SEP]
-

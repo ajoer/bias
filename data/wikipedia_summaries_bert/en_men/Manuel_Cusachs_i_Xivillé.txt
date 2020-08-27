@@ -1,2 +1,2 @@
-List of people and institutions rewarded with the Creu de Sant Jordi Award, the second-highest civil distinction awarded in Catalonia (Spain). [CLS] [SEP]
+[CLS] List of people and institutions rewarded with the Creu de Sant Jordi Award, the second-highest civil distinction awarded in Catalonia (Spain). [SEP] [CLS]
 

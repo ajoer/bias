@@ -1,2 +1,2 @@
-On July 6, 2017, a 6.5 magnitude earthquake hit Leyte, causing at least 4 deaths and 100 injuries. [CLS] [SEP] The quake also caused power interruptions in the whole of Eastern Visayas and nearby Bohol. [CLS] [SEP] The Philippine archipelago is located in the Pacific Ring of Fire, where earthquakes and volcanic activity are common. [CLS] [SEP]
+[CLS] On July 6, 2017, a 6.5 magnitude earthquake hit Leyte, causing at least 4 deaths and 100 injuries. [SEP] [CLS] The quake also caused power interruptions in the whole of Eastern Visayas and nearby Bohol. [SEP] [CLS] The Philippine archipelago is located in the Pacific Ring of Fire, where earthquakes and volcanic activity are common. [SEP] [CLS]
 

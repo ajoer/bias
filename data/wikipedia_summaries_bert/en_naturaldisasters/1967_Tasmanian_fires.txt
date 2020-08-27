@@ -1,2 +1,2 @@
-The 1967 Tasmanian fires were an Australian natural disaster which occurred on 7 February 1967, an event which came to be known as the Black Tuesday bushfires. [CLS] [SEP] They were the most deadly bushfires that Tasmania has ever experienced, leaving 62 people dead, 900 injured and over seven thousand homeless. [CLS] [SEP]
+[CLS] The 1967 Tasmanian fires were an Australian natural disaster which occurred on 7 February 1967, an event which came to be known as the Black Tuesday bushfires. [SEP] [CLS] They were the most deadly bushfires that Tasmania has ever experienced, leaving 62 people dead, 900 injured and over seven thousand homeless. [SEP] [CLS]
 

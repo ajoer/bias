@@ -1,2 +1,2 @@
-The Altai flood refers to the cataclysmic flood(s) that, according to some geomorphologists, swept along the Katun River in the Altai Republic at the end of the last ice age. [CLS] [SEP] These glacial lake outburst floods were the result of periodic sudden ruptures of ice dams like those triggering the Missoula floods. [CLS] [SEP]
+[CLS] The Altai flood refers to the cataclysmic flood(s) that, according to some geomorphologists, swept along the Katun River in the Altai Republic at the end of the last ice age. [SEP] [CLS] These glacial lake outburst floods were the result of periodic sudden ruptures of ice dams like those triggering the Missoula floods. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-CAAC Flight 301, a Hawker Siddeley Trident operated by CAAC Airlines from Guangzhou Baiyun to Hong Kong Kai Tak, ran off the runway in Hong Kong on 31 August 1988 after clipping approach lights. [CLS] [SEP] Six crew members and one passenger perished in the accident. [CLS] [SEP] The crash shut down Kai Tak Airport for more than six hours after the accident. [CLS] [SEP]
+[CLS] CAAC Flight 301, a Hawker Siddeley Trident operated by CAAC Airlines from Guangzhou Baiyun to Hong Kong Kai Tak, ran off the runway in Hong Kong on 31 August 1988 after clipping approach lights. [SEP] [CLS] Six crew members and one passenger perished in the accident. [SEP] [CLS] The crash shut down Kai Tak Airport for more than six hours after the accident. [SEP] [CLS]
 

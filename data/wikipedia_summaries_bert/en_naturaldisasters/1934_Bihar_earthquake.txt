@@ -1,2 +1,2 @@
-The 1934 Bihar earthquake or 1934 Bihar–Nepal earthquake was one of the worst earthquakes in India's history. [CLS] [SEP] The towns of Munger and Muzaffarpur were completely destroyed. [CLS] [SEP] This 8.0 magnitude earthquake occurred on 15 January at around 2:13 PM IST (08:43 UTC) and caused widespread damage in northern Bihar and in Nepal. [CLS] [SEP]
+[CLS] The 1934 Bihar earthquake or 1934 Bihar–Nepal earthquake was one of the worst earthquakes in India's history. [SEP] [CLS] The towns of Munger and Muzaffarpur were completely destroyed. [SEP] [CLS] This 8.0 magnitude earthquake occurred on 15 January at around 2:13 PM IST (08:43 UTC) and caused widespread damage in northern Bihar and in Nepal. [SEP] [CLS]
 

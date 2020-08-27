@@ -1,2 +1,2 @@
-The 1943 RAF Hudson crash was an aerial accident that killed two people. [CLS] [SEP] The aircraft crashed in a forced landing attempt near RAF St Eval, Cornwall, England, following engine failure. [CLS] [SEP]
+[CLS] The 1943 RAF Hudson crash was an aerial accident that killed two people. [SEP] [CLS] The aircraft crashed in a forced landing attempt near RAF St Eval, Cornwall, England, following engine failure. [SEP] [CLS]
 

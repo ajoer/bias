@@ -1,2 +1,2 @@
-Following heavy rain, Gujarat state of India was affected by the flood in July 2015. [CLS] [SEP] The flood resulted in at least 72 deaths. [CLS] [SEP]
+[CLS] Following heavy rain, Gujarat state of India was affected by the flood in July 2015. [SEP] [CLS] The flood resulted in at least 72 deaths. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Sandy Lerner, (born 1955) is an American businesswoman and philanthropist. [CLS] [SEP] She co-founded Cisco Systems, and used the money from its sale to pursue interests in animal welfare and women's writing. [CLS] [SEP] One of her main projects, Chawton House, is in England, but most of her work remains in the United States. [CLS] [SEP]
+[CLS] Sandy Lerner, (born 1955) is an American businesswoman and philanthropist. [SEP] [CLS] She co-founded Cisco Systems, and used the money from its sale to pursue interests in animal welfare and women's writing. [SEP] [CLS] One of her main projects, Chawton House, is in England, but most of her work remains in the United States. [SEP] [CLS]
 

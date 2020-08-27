@@ -1,2 +1,2 @@
-Aviateca Flight 901 was a Boeing 737-200 (registration N125GU) that crashed into the San Vicente volcano in El Salvador on approach to the airport on 9 August 1995. [CLS] [SEP] The accident killed all 65 passengers and crew on board. [CLS] [SEP] It was the deadliest aviation disaster to occur in El Salvador. [CLS] [SEP]
+[CLS] Aviateca Flight 901 was a Boeing 737-200 (registration N125GU) that crashed into the San Vicente volcano in El Salvador on approach to the airport on 9 August 1995. [SEP] [CLS] The accident killed all 65 passengers and crew on board. [SEP] [CLS] It was the deadliest aviation disaster to occur in El Salvador. [SEP] [CLS]
 

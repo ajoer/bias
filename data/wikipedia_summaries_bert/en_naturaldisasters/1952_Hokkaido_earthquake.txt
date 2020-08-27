@@ -1,2 +1,2 @@
-The 1952 Hokkaido earthquake, which occurred at 10:22:41 local time on 4 March in the sea near Tokachi District, Hokkaidō, had a magnitude of 8.1 on the moment magnitude scale. [CLS] [SEP]
+[CLS] The 1952 Hokkaido earthquake, which occurred at 10:22:41 local time on 4 March in the sea near Tokachi District, Hokkaidō, had a magnitude of 8.1 on the moment magnitude scale. [SEP] [CLS]
 

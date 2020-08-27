@@ -1,2 +1,2 @@
-M. [CLS] [SEP] Christina White is a professor of chemistry at the University of Illinois at Urbana-Champaign. [CLS] [SEP] Her research in the field of organometallic catalysis focuses on developing highly selective carbon–hydrogen bond activation methods to streamline the process of complex molecule synthesis. [CLS] [SEP]
+[CLS] M. [SEP] [CLS] Christina White is a professor of chemistry at the University of Illinois at Urbana-Champaign. [SEP] [CLS] Her research in the field of organometallic catalysis focuses on developing highly selective carbon–hydrogen bond activation methods to streamline the process of complex molecule synthesis. [SEP] [CLS]
 

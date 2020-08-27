@@ -1,2 +1,2 @@
-Ola Delight Lloyd Smith (January 21, 1880 – December 5, 1958) was an American telegrapher, journalist, and labor activist. [CLS] [SEP]
+[CLS] Ola Delight Lloyd Smith (January 21, 1880 – December 5, 1958) was an American telegrapher, journalist, and labor activist. [SEP] [CLS]
 

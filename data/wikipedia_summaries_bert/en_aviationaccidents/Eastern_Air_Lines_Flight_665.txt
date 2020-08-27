@@ -1,2 +1,2 @@
-Eastern Air Lines Flight 665 was a domestic airline flight, on January 12, 1947, using a Douglas C-49-DO, which deviated from its course during a rainstorm, struck high ground a few miles west of Galax, Virginia, and burned, killing all but one of the 19 aboard. [CLS] [SEP]
+[CLS] Eastern Air Lines Flight 665 was a domestic airline flight, on January 12, 1947, using a Douglas C-49-DO, which deviated from its course during a rainstorm, struck high ground a few miles west of Galax, Virginia, and burned, killing all but one of the 19 aboard. [SEP] [CLS]
 

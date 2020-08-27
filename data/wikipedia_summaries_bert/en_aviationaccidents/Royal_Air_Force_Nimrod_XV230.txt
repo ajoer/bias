@@ -1,2 +1,2 @@
-On 2 September 2006, a Royal Air Force Hawker Siddeley Nimrod suffered an in-flight fire and subsequently crashed in Kandahar, Afghanistan, killing all fourteen crew members on board. [CLS] [SEP] The crash, which occurred during a reconnaissance flight, was the biggest single loss of life suffered by the British military since the Falklands War. [CLS] [SEP]
+[CLS] On 2 September 2006, a Royal Air Force Hawker Siddeley Nimrod suffered an in-flight fire and subsequently crashed in Kandahar, Afghanistan, killing all fourteen crew members on board. [SEP] [CLS] The crash, which occurred during a reconnaissance flight, was the biggest single loss of life suffered by the British military since the Falklands War. [SEP] [CLS]
 

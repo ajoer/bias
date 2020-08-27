@@ -1,2 +1,2 @@
-On 12 February 2012, a Katanga Express Gulfstream IV business jet carrying several Congolese government officials overran the runway and crashed on landing at Kavumu Airport near Bukavu, Democratic Republic of the Congo. [CLS] [SEP] Two crew members and two passengers were killed, along with two people on the ground. [CLS] [SEP]
+[CLS] On 12 February 2012, a Katanga Express Gulfstream IV business jet carrying several Congolese government officials overran the runway and crashed on landing at Kavumu Airport near Bukavu, Democratic Republic of the Congo. [SEP] [CLS] Two crew members and two passengers were killed, along with two people on the ground. [SEP] [CLS]
 

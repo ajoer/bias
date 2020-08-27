@@ -1,2 +1,2 @@
-John Rhys Davies (born John Rees Davies, 1890-1953) was a Welsh Anglican priest of the Church in Wales, he served as Archdeacon of Merioneth from 1952 until his sudden death in January 1953. [CLS] [SEP]
+[CLS] John Rhys Davies (born John Rees Davies, 1890-1953) was a Welsh Anglican priest of the Church in Wales, he served as Archdeacon of Merioneth from 1952 until his sudden death in January 1953. [SEP] [CLS]
 

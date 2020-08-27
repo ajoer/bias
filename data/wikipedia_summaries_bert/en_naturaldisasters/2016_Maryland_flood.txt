@@ -1,2 +1,2 @@
-The 2016 Maryland flood was a natural disaster in the United States that took place on July 30, 2016. [CLS] [SEP] The flooding, which occurred in the Baltimore area, affected low-lying areas of the Patapsco and Jones Falls valleys. [CLS] [SEP] The storm caused significant damage to the historic downtown area of Ellicott City, Maryland. [CLS] [SEP]
+[CLS] The 2016 Maryland flood was a natural disaster in the United States that took place on July 30, 2016. [SEP] [CLS] The flooding, which occurred in the Baltimore area, affected low-lying areas of the Patapsco and Jones Falls valleys. [SEP] [CLS] The storm caused significant damage to the historic downtown area of Ellicott City, Maryland. [SEP] [CLS]
 

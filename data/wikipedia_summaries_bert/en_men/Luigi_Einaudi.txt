@@ -1,2 +1,2 @@
-Luigi Einaudi, (Italian: [luˈiːdʒi eiˈnaudi]; 24 March 1874 – 30 October 1961) was an Italian politician and economist. [CLS] [SEP] He served as the second President of Italy from 1948 to 1955. [CLS] [SEP]
+[CLS] Luigi Einaudi, (Italian: [luˈiːdʒi eiˈnaudi]; 24 March 1874 – 30 October 1961) was an Italian politician and economist. [SEP] [CLS] He served as the second President of Italy from 1948 to 1955. [SEP] [CLS]
 

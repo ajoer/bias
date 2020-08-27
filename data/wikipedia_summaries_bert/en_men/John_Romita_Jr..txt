@@ -1,2 +1,2 @@
-John Salvatore Romita, professionally known as John Romita Jr. [CLS] [SEP] (; born August 17, 1956), is an American comics artist best known for his extensive work for Marvel Comics from the 1970s to the 2010s. [CLS] [SEP] He is the son of award-winning artist John Romita Sr. [CLS] [SEP]
+[CLS] John Salvatore Romita, professionally known as John Romita Jr. [SEP] [CLS] (; born August 17, 1956), is an American comics artist best known for his extensive work for Marvel Comics from the 1970s to the 2010s. [SEP] [CLS] He is the son of award-winning artist John Romita Sr. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Mathilde Sussin (21 September 1876 – 2 August 1943) was an Austrian actress. [CLS] [SEP] Sussin was born in Vienna into a Jewish family and died in 1943 at Theresienstadt concentration camp in Czechoslovakia. [CLS] [SEP]
+[CLS] Mathilde Sussin (21 September 1876 – 2 August 1943) was an Austrian actress. [SEP] [CLS] Sussin was born in Vienna into a Jewish family and died in 1943 at Theresienstadt concentration camp in Czechoslovakia. [SEP] [CLS]
 

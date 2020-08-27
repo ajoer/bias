@@ -1,2 +1,2 @@
-Hilde Hofherr (born 20 April 1930) is an Austrian alpine skier. [CLS] [SEP] She competed at the 1956 Winter Olympics and the 1960 Winter Olympics. [CLS] [SEP]
+[CLS] Hilde Hofherr (born 20 April 1930) is an Austrian alpine skier. [SEP] [CLS] She competed at the 1956 Winter Olympics and the 1960 Winter Olympics. [SEP] [CLS]
 

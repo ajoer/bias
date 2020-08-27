@@ -1,2 +1,2 @@
-Aeroflot Flight 120 was an international Soviet passenger flight from Kabul International Airport in Afghanistan to Tashkent International Airport in the Uzbek SSR. [CLS] [SEP] On 13 December 1959 the Aeroflot Ilyushin Il-14P operating the flight crashed in the Boysun District killing all 25 passengers and 5 crew on board. [CLS] [SEP]
+[CLS] Aeroflot Flight 120 was an international Soviet passenger flight from Kabul International Airport in Afghanistan to Tashkent International Airport in the Uzbek SSR. [SEP] [CLS] On 13 December 1959 the Aeroflot Ilyushin Il-14P operating the flight crashed in the Boysun District killing all 25 passengers and 5 crew on board. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The 2007 Africa One Antonov An-26 crash occurred when a twin engine Antonov An-26, belonging to the Congolese air carrier Africa One, crashed and burned shortly after takeoff from N'djili Airport in Kinshasa, Democratic Republic of the Congo on October 4, 2007. [CLS] [SEP] The flight left N'djili at 10:43 local time bound for Tshikapa, a distance of 650 km to the east. [CLS] [SEP]
+[CLS] The 2007 Africa One Antonov An-26 crash occurred when a twin engine Antonov An-26, belonging to the Congolese air carrier Africa One, crashed and burned shortly after takeoff from N'djili Airport in Kinshasa, Democratic Republic of the Congo on October 4, 2007. [SEP] [CLS] The flight left N'djili at 10:43 local time bound for Tshikapa, a distance of 650 km to the east. [SEP] [CLS]
 

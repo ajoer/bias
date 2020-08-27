@@ -1,2 +1,2 @@
-Evelyn Regner (born 24 January 1966) is an Austrian politician and Member of the European Parliament from Austria. [CLS] [SEP] She is a member of the Social Democratic Party of Austria, part of the Progressive Alliance of Socialists and Democrats. [CLS] [SEP]
+[CLS] Evelyn Regner (born 24 January 1966) is an Austrian politician and Member of the European Parliament from Austria. [SEP] [CLS] She is a member of the Social Democratic Party of Austria, part of the Progressive Alliance of Socialists and Democrats. [SEP] [CLS]
 

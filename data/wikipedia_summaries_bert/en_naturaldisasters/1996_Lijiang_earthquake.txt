@@ -1,2 +1,2 @@
-The 1996 Lijiang earthquake occurred at 19:14 on 3 February near Lijiang City, Yunnan in southwestern China. [CLS] [SEP] The shock measured 6.6 on the moment magnitude scale and had a maximum Mercalli intensity of X (Extreme). [CLS] [SEP]
+[CLS] The 1996 Lijiang earthquake occurred at 19:14 on 3 February near Lijiang City, Yunnan in southwestern China. [SEP] [CLS] The shock measured 6.6 on the moment magnitude scale and had a maximum Mercalli intensity of X (Extreme). [SEP] [CLS]
 

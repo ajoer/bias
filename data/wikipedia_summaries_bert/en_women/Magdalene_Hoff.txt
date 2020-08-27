@@ -1,2 +1,2 @@
-This is a list of the 81 members of the European Parliament for West Germany in the 1989 to 1994 session. [CLS] [SEP]
+[CLS] This is a list of the 81 members of the European Parliament for West Germany in the 1989 to 1994 session. [SEP] [CLS]
 

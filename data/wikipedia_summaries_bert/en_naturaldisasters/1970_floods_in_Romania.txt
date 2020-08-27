@@ -1,2 +1,2 @@
-The 1970 floods in Romania, brought on by river swelling caused by torrential rains, high winds and a heat wave that melted snow in the Carpathian Mountains, were the worst in modern Romanian history in loss of life, and caused the most damage up to the 2006 floods: at least $500 million; perhaps over $1 billion. [CLS] [SEP]
+[CLS] The 1970 floods in Romania, brought on by river swelling caused by torrential rains, high winds and a heat wave that melted snow in the Carpathian Mountains, were the worst in modern Romanian history in loss of life, and caused the most damage up to the 2006 floods: at least $500 million; perhaps over $1 billion. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Eudoxia Muller Woodward (June 14, 1919 – January 20, 2008) was an American artist and chemistry researcher. [CLS] [SEP] She was known for her work with Edwin H. [CLS] [SEP] Land at the Polaroid Corporation, where her research helped produce the Vectograph and the earliest forms of Polaroid instant photography. [CLS] [SEP]
+[CLS] Eudoxia Muller Woodward (June 14, 1919 – January 20, 2008) was an American artist and chemistry researcher. [SEP] [CLS] She was known for her work with Edwin H. [SEP] [CLS] Land at the Polaroid Corporation, where her research helped produce the Vectograph and the earliest forms of Polaroid instant photography. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The name Sonca has been used to name three tropical cyclones in the northwestern Pacific Ocean. [CLS] [SEP] The name was contributed by Vietnam and means a singing bird. [CLS] [SEP] Typhoon Sonca (2005) (T0503, 03W, Bising) Typhoon Sonca (2011) (T1116, 19W) Tropical Storm Sonca (2017) (T1708, 08W) - impacted Thailand. [CLS] [SEP]
+[CLS] The name Sonca has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was contributed by Vietnam and means a singing bird. [SEP] [CLS] Typhoon Sonca (2005) (T0503, 03W, Bising) Typhoon Sonca (2011) (T1116, 19W) Tropical Storm Sonca (2017) (T1708, 08W) - impacted Thailand. [SEP] [CLS]
 

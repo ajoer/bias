@@ -1,2 +1,2 @@
-Uni Air Flight 873 was a Taiwanese domestic passenger flight between Taipei and Hualien that went up in flames following an explosion after landing at Hualien Airport, Taiwan, on 24 August 1999, resulting in 27 injuries and one death. [CLS] [SEP]
+[CLS] Uni Air Flight 873 was a Taiwanese domestic passenger flight between Taipei and Hualien that went up in flames following an explosion after landing at Hualien Airport, Taiwan, on 24 August 1999, resulting in 27 injuries and one death. [SEP] [CLS]
 

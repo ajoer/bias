@@ -1,2 +1,2 @@
-The July 2016 North China cyclone was a devastating extratropical cyclone which produced torrential precipitation and caused widespread flash floods over North China and portions of nearby regions, resulting in at least 184 deaths and ¥33.19 billion (US$4.96 billion) of damage in China. [CLS] [SEP]
+[CLS] The July 2016 North China cyclone was a devastating extratropical cyclone which produced torrential precipitation and caused widespread flash floods over North China and portions of nearby regions, resulting in at least 184 deaths and ¥33.19 billion (US$4.96 billion) of damage in China. [SEP] [CLS]
 

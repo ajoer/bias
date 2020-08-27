@@ -1,2 +1,2 @@
-Carolyn Talcott (born June 14, 1941) is an American computer scientist known for work in formal reasoning, especially as it relates to computers, cryptanalysis and systems biology. [CLS] [SEP] She is currently the program director of the Symbolic Systems Biology group at SRI International.She is currently the co-editor-in-chief of Higher-Order and Symbolic Computation. [CLS] [SEP]
+[CLS] Carolyn Talcott (born June 14, 1941) is an American computer scientist known for work in formal reasoning, especially as it relates to computers, cryptanalysis and systems biology. [SEP] [CLS] She is currently the program director of the Symbolic Systems Biology group at SRI International.She is currently the co-editor-in-chief of Higher-Order and Symbolic Computation. [SEP] [CLS]
 

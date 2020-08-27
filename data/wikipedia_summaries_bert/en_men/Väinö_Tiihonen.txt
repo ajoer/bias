@@ -1,2 +1,2 @@
-Väinö Tiihonen (28 November 1912 – 27 July 1957) was a Finnish ski jumper. [CLS] [SEP] He competed in the individual event at the 1936 Winter Olympics. [CLS] [SEP]
+[CLS] Väinö Tiihonen (28 November 1912 – 27 July 1957) was a Finnish ski jumper. [SEP] [CLS] He competed in the individual event at the 1936 Winter Olympics. [SEP] [CLS]
 

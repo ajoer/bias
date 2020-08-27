@@ -1,2 +1,2 @@
-Northwest Orient Airlines Flight 705 was a scheduled passenger flight operated on February 12, 1963, that broke up in midair and crashed into the Florida Everglades shortly after takeoff from Miami International Airport in a severe thunderstorm. [CLS] [SEP] The plane was destined for Portland, Oregon, via Chicago, Spokane, and Seattle. [CLS] [SEP]
+[CLS] Northwest Orient Airlines Flight 705 was a scheduled passenger flight operated on February 12, 1963, that broke up in midair and crashed into the Florida Everglades shortly after takeoff from Miami International Airport in a severe thunderstorm. [SEP] [CLS] The plane was destined for Portland, Oregon, via Chicago, Spokane, and Seattle. [SEP] [CLS]
 

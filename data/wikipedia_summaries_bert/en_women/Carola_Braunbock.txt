@@ -1,2 +1,2 @@
-Carola Braunbock (1924–1978) was a Czech-born East German stage, television and film actress. [CLS] [SEP] She was born to an ethnically German family in the newly created Czechoslovakia. [CLS] [SEP]
+[CLS] Carola Braunbock (1924–1978) was a Czech-born East German stage, television and film actress. [SEP] [CLS] She was born to an ethnically German family in the newly created Czechoslovakia. [SEP] [CLS]
 

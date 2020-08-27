@@ -1,2 +1,2 @@
-The Enola earthquake swarm was a series of earthquakes in 2001 that centered on Central Arkansas. [CLS] [SEP] It follows the earthquake swarms of Arkansas in the 1980s, and predates the Guy-Greenbrier earthquake swarm that started in 2010. [CLS] [SEP]
+[CLS] The Enola earthquake swarm was a series of earthquakes in 2001 that centered on Central Arkansas. [SEP] [CLS] It follows the earthquake swarms of Arkansas in the 1980s, and predates the Guy-Greenbrier earthquake swarm that started in 2010. [SEP] [CLS]
 

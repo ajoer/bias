@@ -1,2 +1,2 @@
-The disappearance of a Douglas DST airliner, registered NC16002, occurred on the night of 28 December 1948 near the end of a scheduled flight from San Juan, Puerto Rico to Miami, Florida. [CLS] [SEP] The aircraft carried 29 passengers and 3 crew members. [CLS] [SEP] No probable cause for the loss was determined by the official investigation and it remains unsolved. [CLS] [SEP]
+[CLS] The disappearance of a Douglas DST airliner, registered NC16002, occurred on the night of 28 December 1948 near the end of a scheduled flight from San Juan, Puerto Rico to Miami, Florida. [SEP] [CLS] The aircraft carried 29 passengers and 3 crew members. [SEP] [CLS] No probable cause for the loss was determined by the official investigation and it remains unsolved. [SEP] [CLS]
 

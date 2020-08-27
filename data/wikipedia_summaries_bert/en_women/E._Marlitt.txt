@@ -1,2 +1,2 @@
-E. [CLS] [SEP] Marlitt is the pseudonym of Eugenie John (December 5, 1825 – 1887), a popular German novelist. [CLS] [SEP]
+[CLS] E. [SEP] [CLS] Marlitt is the pseudonym of Eugenie John (December 5, 1825 – 1887), a popular German novelist. [SEP] [CLS]
 

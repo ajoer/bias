@@ -1,2 +1,2 @@
-Aeroflot Flight 3843 was a Soviet Union commercial flight that crashed on January 13, 1977, after a left engine fire near Almaty Airport. [CLS] [SEP] All 90 people on board perished in the crash. [CLS] [SEP]
+[CLS] Aeroflot Flight 3843 was a Soviet Union commercial flight that crashed on January 13, 1977, after a left engine fire near Almaty Airport. [SEP] [CLS] All 90 people on board perished in the crash. [SEP] [CLS]
 

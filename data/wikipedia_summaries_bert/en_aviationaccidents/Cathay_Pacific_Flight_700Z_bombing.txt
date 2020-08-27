@@ -1,2 +1,2 @@
-Cathay Pacific Flight 700Z was a flight flown and operated by Hong Kong's Cathay Pacific that crashed on the afternoon of 15 June 1972. [CLS] [SEP]
+[CLS] Cathay Pacific Flight 700Z was a flight flown and operated by Hong Kong's Cathay Pacific that crashed on the afternoon of 15 June 1972. [SEP] [CLS]
 

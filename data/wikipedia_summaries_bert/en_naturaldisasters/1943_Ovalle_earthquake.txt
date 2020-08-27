@@ -1,2 +1,2 @@
-The Coquimbo Region of Chile was affected by a major earthquake on 6 April 1943 at 12:07 local time (16:07 UTC). [CLS] [SEP] It had a magnitude of between 7.9 and 8.2 on the moment magnitude scale. [CLS] [SEP] It triggered a minor tsunami that caused local damage along the coast. [CLS] [SEP] A total of 11 people were killed, including a group of five miners. [CLS] [SEP]
+[CLS] The Coquimbo Region of Chile was affected by a major earthquake on 6 April 1943 at 12:07 local time (16:07 UTC). [SEP] [CLS] It had a magnitude of between 7.9 and 8.2 on the moment magnitude scale. [SEP] [CLS] It triggered a minor tsunami that caused local damage along the coast. [SEP] [CLS] A total of 11 people were killed, including a group of five miners. [SEP] [CLS]
 

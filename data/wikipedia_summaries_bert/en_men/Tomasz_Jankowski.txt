@@ -1,2 +1,2 @@
-The rosters of the top basketball teams in each season's European-wide professional club competitions (tiers 1-4):
+[CLS] The rosters of the top basketball teams in each season's European-wide professional club competitions (tiers 1-4):
 

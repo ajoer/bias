@@ -1,2 +1,2 @@
-The 2009 Karonga earthquakes occurred near Karonga, Malawi in December 2009 near the northern tip of Lake Malawi in southeast Africa. [CLS] [SEP]
+[CLS] The 2009 Karonga earthquakes occurred near Karonga, Malawi in December 2009 near the northern tip of Lake Malawi in southeast Africa. [SEP] [CLS]
 

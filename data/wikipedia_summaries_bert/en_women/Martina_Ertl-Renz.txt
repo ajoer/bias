@@ -1,2 +1,2 @@
-Martina Maria Ertl-Renz (born 12 September 1973) is a German former alpine skier. [CLS] [SEP] She was two times world champion and also won several medals at Olympic Winter Games and World Championships. [CLS] [SEP]
+[CLS] Martina Maria Ertl-Renz (born 12 September 1973) is a German former alpine skier. [SEP] [CLS] She was two times world champion and also won several medals at Olympic Winter Games and World Championships. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The name Kent has been used for two tropical cyclones in the northwest Pacific Ocean. [CLS] [SEP] Typhoon Kent (1992) (T9211, 11W) – struck Japan. [CLS] [SEP] Typhoon Kent (1995) (T9508, 12W, Gening) – made landfall on China near Hong Kong. [CLS] [SEP]
+[CLS] The name Kent has been used for two tropical cyclones in the northwest Pacific Ocean. [SEP] [CLS] Typhoon Kent (1992) (T9211, 11W) – struck Japan. [SEP] [CLS] Typhoon Kent (1995) (T9508, 12W, Gening) – made landfall on China near Hong Kong. [SEP] [CLS]
 

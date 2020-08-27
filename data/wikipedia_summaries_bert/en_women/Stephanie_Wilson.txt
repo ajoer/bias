@@ -1,2 +1,2 @@
-Stephanie Diana Wilson (born September 27, 1966) is an American engineer and a NASA astronaut. [CLS] [SEP] She flew to space onboard three Space Shuttle missions, and is the second African American woman to go into space, after Mae Jemison. [CLS] [SEP] Her 42 days in space are the most of any African American astronaut, male or female. [CLS] [SEP]
+[CLS] Stephanie Diana Wilson (born September 27, 1966) is an American engineer and a NASA astronaut. [SEP] [CLS] She flew to space onboard three Space Shuttle missions, and is the second African American woman to go into space, after Mae Jemison. [SEP] [CLS] Her 42 days in space are the most of any African American astronaut, male or female. [SEP] [CLS]
 

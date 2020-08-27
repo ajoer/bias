@@ -1,2 +1,2 @@
-Arlette Yvonne Laguiller (born 18 March 1940) is a French politician. [CLS] [SEP] From 1973 to 2008, she was the spokeswoman and the best known leader and presidential nominee of Lutte Ouvrière (LO), Trotskyist political party. [CLS] [SEP]
+[CLS] Arlette Yvonne Laguiller (born 18 March 1940) is a French politician. [SEP] [CLS] From 1973 to 2008, she was the spokeswoman and the best known leader and presidential nominee of Lutte Ouvrière (LO), Trotskyist political party. [SEP] [CLS]
 

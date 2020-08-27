@@ -1,2 +1,2 @@
-The 1886 eruption of Mount Tarawera occurred in the early hours of 10 June 1886 in the North Island near Rotorua then extended to Waimangu, New Zealand. [CLS] [SEP] It is the deadliest eruption in New Zealand since the arrival of Europeans. [CLS] [SEP] Around 120 people were killed, and many settlements were destroyed or buried. [CLS] [SEP]
+[CLS] The 1886 eruption of Mount Tarawera occurred in the early hours of 10 June 1886 in the North Island near Rotorua then extended to Waimangu, New Zealand. [SEP] [CLS] It is the deadliest eruption in New Zealand since the arrival of Europeans. [SEP] [CLS] Around 120 people were killed, and many settlements were destroyed or buried. [SEP] [CLS]
 

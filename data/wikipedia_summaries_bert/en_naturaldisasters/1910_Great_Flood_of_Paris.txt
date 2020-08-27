@@ -1,2 +1,2 @@
-The 1910 Great Flood of Paris (French: Crue de la Seine de 1910) was a catastrophe in which the Seine River, carrying winter rains from its tributaries, flooded the Paris conurbation, France. [CLS] [SEP] The Seine water level rose eight metres above the ordinary level. [CLS] [SEP]
+[CLS] The 1910 Great Flood of Paris (French: Crue de la Seine de 1910) was a catastrophe in which the Seine River, carrying winter rains from its tributaries, flooded the Paris conurbation, France. [SEP] [CLS] The Seine water level rose eight metres above the ordinary level. [SEP] [CLS]
 

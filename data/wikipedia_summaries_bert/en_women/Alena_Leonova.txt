@@ -1,2 +1,2 @@
-Alena Igorevna Leonova (Russian: Алёна Игоревна Леонова; born 23 November 1990) is a Russian figure skater. [CLS] [SEP] She is the 2012 World silver medalist, the 2011 Grand Prix Final bronze medalist, the 2009 World Junior champion, and a three-time (2010–2012) Russian national medalist. [CLS] [SEP] She is also the 2014–15 ISU Challenger Series runner-up. [CLS] [SEP]
+[CLS] Alena Igorevna Leonova (Russian: Алёна Игоревна Леонова; born 23 November 1990) is a Russian figure skater. [SEP] [CLS] She is the 2012 World silver medalist, the 2011 Grand Prix Final bronze medalist, the 2009 World Junior champion, and a three-time (2010–2012) Russian national medalist. [SEP] [CLS] She is also the 2014–15 ISU Challenger Series runner-up. [SEP] [CLS]
 

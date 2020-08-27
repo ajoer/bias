@@ -1,2 +1,2 @@
-Françoise Dolto (French: [dɔlto]; 1908–1988), was a French pediatrician and psychoanalyst. [CLS] [SEP]
+[CLS] Françoise Dolto (French: [dɔlto]; 1908–1988), was a French pediatrician and psychoanalyst. [SEP] [CLS]
 

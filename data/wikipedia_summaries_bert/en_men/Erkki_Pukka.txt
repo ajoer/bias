@@ -1,2 +1,2 @@
-Erkki Pukka (born May 22, 1940) is a Finnish former ski jumper who competed from 1964 to 1967. [CLS] [SEP] His lone victory was at Garmisch-Partenkirchen during the 1964-65 Four Hills Tournament. [CLS] [SEP]
+[CLS] Erkki Pukka (born May 22, 1940) is a Finnish former ski jumper who competed from 1964 to 1967. [SEP] [CLS] His lone victory was at Garmisch-Partenkirchen during the 1964-65 Four Hills Tournament. [SEP] [CLS]
 

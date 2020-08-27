@@ -1,2 +1,2 @@
-Marion Becker (born Marion Steiner January 21, 1950 in Hamburg) is a German athlete who competed mainly in the javelin throw. [CLS] [SEP]
+[CLS] Marion Becker (born Marion Steiner January 21, 1950 in Hamburg) is a German athlete who competed mainly in the javelin throw. [SEP] [CLS]
 

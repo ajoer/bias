@@ -1,2 +1,2 @@
-Aeroflot Flight 909 was a scheduled domestic flight overnight on 5/6 March 1976 flown by Ilyushin Il-18E registered CCCP-74508. [CLS] [SEP] The aircraft lost control following an electrical failure and crashed near Voronezh in the Soviet Union. [CLS] [SEP] All 111 on board were killed. [CLS] [SEP]
+[CLS] Aeroflot Flight 909 was a scheduled domestic flight overnight on 5/6 March 1976 flown by Ilyushin Il-18E registered CCCP-74508. [SEP] [CLS] The aircraft lost control following an electrical failure and crashed near Voronezh in the Soviet Union. [SEP] [CLS] All 111 on board were killed. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Jana Šenková Napolitano (born (1982-11-07)7 November 1982) is a retired Czech female volleyball player. [CLS] [SEP] She was part of the Czech Republic women's national volleyball team. [CLS] [SEP] She participated at the 2002 FIVB Volleyball Women's World Championship in Germany. [CLS] [SEP] On club level she played with SK UP Olomouc. [CLS] [SEP]
+[CLS] Jana Šenková Napolitano (born (1982-11-07)7 November 1982) is a retired Czech female volleyball player. [SEP] [CLS] She was part of the Czech Republic women's national volleyball team. [SEP] [CLS] She participated at the 2002 FIVB Volleyball Women's World Championship in Germany. [SEP] [CLS] On club level she played with SK UP Olomouc. [SEP] [CLS]
 

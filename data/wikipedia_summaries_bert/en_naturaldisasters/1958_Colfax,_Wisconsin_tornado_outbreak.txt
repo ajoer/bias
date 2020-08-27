@@ -1,2 +1,2 @@
-The Tornado outbreak of June 4, 1958, also known as the 1958 Colfax, Wisconsin, tornado outbreak, was the deadliest tornado outbreak in the U.S. [CLS] [SEP] state of Wisconsin since records began in 1950. [CLS] [SEP] The outbreak, which initiated in Central Minnesota, killed at least 28 people, all of whom perished in Northwestern Wisconsin. [CLS] [SEP]
+[CLS] The Tornado outbreak of June 4, 1958, also known as the 1958 Colfax, Wisconsin, tornado outbreak, was the deadliest tornado outbreak in the U.S. [SEP] [CLS] state of Wisconsin since records began in 1950. [SEP] [CLS] The outbreak, which initiated in Central Minnesota, killed at least 28 people, all of whom perished in Northwestern Wisconsin. [SEP] [CLS]
 

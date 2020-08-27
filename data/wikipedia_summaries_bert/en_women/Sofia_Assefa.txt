@@ -1,2 +1,2 @@
-Sofia Assefa (Amharic: ሶፍአ አሠፋ; born 14 November 1987 in Tenta, South Wollo) is an Ethiopian long-distance runner who specializes in the 3000 metres steeplechase. [CLS] [SEP] She was the silver medalist at the 2012 Summer Olympics. [CLS] [SEP]
+[CLS] Sofia Assefa (Amharic: ሶፍአ አሠፋ; born 14 November 1987 in Tenta, South Wollo) is an Ethiopian long-distance runner who specializes in the 3000 metres steeplechase. [SEP] [CLS] She was the silver medalist at the 2012 Summer Olympics. [SEP] [CLS]
 

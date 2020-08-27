@@ -1,2 +1,2 @@
-Lorenzo di Credi (c. [CLS] [SEP] 1459 – January 12, 1537) was an Italian Renaissance painter and sculptor, known for his paintings on religious subjects. [CLS] [SEP] He first influenced Leonardo da Vinci and then in turn was greatly influenced by him. [CLS] [SEP]
+[CLS] Lorenzo di Credi (c. [SEP] [CLS] 1459 – January 12, 1537) was an Italian Renaissance painter and sculptor, known for his paintings on religious subjects. [SEP] [CLS] He first influenced Leonardo da Vinci and then in turn was greatly influenced by him. [SEP] [CLS]
 

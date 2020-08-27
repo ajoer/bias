@@ -1,2 +1,2 @@
-Tropical Storm Mujigae, known in the Philippines as Tropical Depression Maring, formed as a tropical disturbance during September 8, to the northwest of Manila in the Philippines it rapidly consolidated and was designated as Tropical Depression Maring later that day. [CLS] [SEP]
+[CLS] Tropical Storm Mujigae, known in the Philippines as Tropical Depression Maring, formed as a tropical disturbance during September 8, to the northwest of Manila in the Philippines it rapidly consolidated and was designated as Tropical Depression Maring later that day. [SEP] [CLS]
 

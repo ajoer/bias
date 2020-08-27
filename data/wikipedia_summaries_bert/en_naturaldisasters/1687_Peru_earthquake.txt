@@ -1,2 +1,2 @@
-The 1687 Peru earthquake occurred at 11:30 UTC on 20 October. [CLS] [SEP] It had an estimated magnitude of 8.4–8.7 and caused severe damage to Lima, Callao and Ica. [CLS] [SEP] It triggered a tsunami and overall about 5,000 people died. [CLS] [SEP]
+[CLS] The 1687 Peru earthquake occurred at 11:30 UTC on 20 October. [SEP] [CLS] It had an estimated magnitude of 8.4–8.7 and caused severe damage to Lima, Callao and Ica. [SEP] [CLS] It triggered a tsunami and overall about 5,000 people died. [SEP] [CLS]
 

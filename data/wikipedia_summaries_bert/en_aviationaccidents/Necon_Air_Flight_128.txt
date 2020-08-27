@@ -1,2 +1,2 @@
-Necon Air Flight 128 (3Z 128/NEC 128) was a scheduled domestic flight from Pokhara Airport to Kathmandu Airport in Nepal on 5 September 1999. [CLS] [SEP] The Hawker Siddeley HS 748 crashed when it hit a telecommunications tower. [CLS] [SEP]
+[CLS] Necon Air Flight 128 (3Z 128/NEC 128) was a scheduled domestic flight from Pokhara Airport to Kathmandu Airport in Nepal on 5 September 1999. [SEP] [CLS] The Hawker Siddeley HS 748 crashed when it hit a telecommunications tower. [SEP] [CLS]
 

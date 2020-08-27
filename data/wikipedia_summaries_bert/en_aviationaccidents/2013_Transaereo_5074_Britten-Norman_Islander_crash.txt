@@ -1,2 +1,2 @@
-On 4 January 2013, a Britten-Norman Islander light passenger aircraft operated by Transaereo 5074 crashed during a domestic flight from Los Roques Airport, on the Los Roques archipelago, to Caracas, Venezuela, killing all six people on board. [CLS] [SEP] Among the victims was Italian fashion entrepreneur Vittorio Missoni. [CLS] [SEP]
+[CLS] On 4 January 2013, a Britten-Norman Islander light passenger aircraft operated by Transaereo 5074 crashed during a domestic flight from Los Roques Airport, on the Los Roques archipelago, to Caracas, Venezuela, killing all six people on board. [SEP] [CLS] Among the victims was Italian fashion entrepreneur Vittorio Missoni. [SEP] [CLS]
 

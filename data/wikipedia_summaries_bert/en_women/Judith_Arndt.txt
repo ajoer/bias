@@ -1,2 +1,2 @@
-Judith Arndt (born 23 July 1976) is a retired German professional cyclist, who last rode for the GreenEDGE-AIS cycling team. [CLS] [SEP] She won the bronze medal in the 3000 m pursuit event at the 1996 Summer Olympics when she was 20. [CLS] [SEP] In 2004, she won the world road race championship and came second in the Olympic road race. [CLS] [SEP]
+[CLS] Judith Arndt (born 23 July 1976) is a retired German professional cyclist, who last rode for the GreenEDGE-AIS cycling team. [SEP] [CLS] She won the bronze medal in the 3000 m pursuit event at the 1996 Summer Olympics when she was 20. [SEP] [CLS] In 2004, she won the world road race championship and came second in the Olympic road race. [SEP] [CLS]
 

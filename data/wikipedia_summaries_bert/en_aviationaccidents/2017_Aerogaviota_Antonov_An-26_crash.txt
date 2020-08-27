@@ -1,2 +1,2 @@
-On 29 April 2017, an Antonov An-26 of Aerogaviota crashed northeast of the city of San Cristobal in the Loma de la Pimienta Mountain Range in the area near Las Terrazas, Cuba, killing all 8 people on board. [CLS] [SEP] The aircraft departed Baracoa Airport and at the time of the accident there were no adverse weather conditions prevailing. [CLS] [SEP]
+[CLS] On 29 April 2017, an Antonov An-26 of Aerogaviota crashed northeast of the city of San Cristobal in the Loma de la Pimienta Mountain Range in the area near Las Terrazas, Cuba, killing all 8 people on board. [SEP] [CLS] The aircraft departed Baracoa Airport and at the time of the accident there were no adverse weather conditions prevailing. [SEP] [CLS]
 

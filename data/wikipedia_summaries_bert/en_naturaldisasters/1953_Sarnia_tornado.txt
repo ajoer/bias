@@ -1,2 +1,2 @@
-A powerful F4 tornado struck the city of Sarnia, Ontario, Canada, on the afternoon of Thursday, May 21, 1953. [CLS] [SEP] It formed off the heels of two other intense tornadoes that formed in Iowa the day before. [CLS] [SEP] Seven people were killed, at least 68 others were injured, and damages were estimated $17.6 million (1953 USD). [CLS] [SEP]
+[CLS] A powerful F4 tornado struck the city of Sarnia, Ontario, Canada, on the afternoon of Thursday, May 21, 1953. [SEP] [CLS] It formed off the heels of two other intense tornadoes that formed in Iowa the day before. [SEP] [CLS] Seven people were killed, at least 68 others were injured, and damages were estimated $17.6 million (1953 USD). [SEP] [CLS]
 

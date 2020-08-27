@@ -1,2 +1,2 @@
-Typhoon Sepat, known in the Philippines as Typhoon Egay, was the eighth tropical storm of the 2007 Pacific typhoon season that affected the Philippines and made landfall in Taiwan and Fujian. [CLS] [SEP]
+[CLS] Typhoon Sepat, known in the Philippines as Typhoon Egay, was the eighth tropical storm of the 2007 Pacific typhoon season that affected the Philippines and made landfall in Taiwan and Fujian. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The name Caitlin has been used for two tropical cyclones in the western north Pacific Ocean. [CLS] [SEP] Typhoon Caitlin (1991) (T9109, 09W, Ising), relieved a drought on Okinawa and killed 18 in Korea and the Philippines Tropical Storm Caitlin (1994) (T9412, 16W, Pasing), strong tropical storm that killed 8 people in China, with 9 missing
+[CLS] The name Caitlin has been used for two tropical cyclones in the western north Pacific Ocean. [SEP] [CLS] Typhoon Caitlin (1991) (T9109, 09W, Ising), relieved a drought on Okinawa and killed 18 in Korea and the Philippines Tropical Storm Caitlin (1994) (T9412, 16W, Pasing), strong tropical storm that killed 8 people in China, with 9 missing
 

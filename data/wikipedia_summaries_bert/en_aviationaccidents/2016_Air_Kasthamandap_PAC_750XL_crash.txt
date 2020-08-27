@@ -1,2 +1,2 @@
-On 26 February 2016, an Air Kasthamandap PAC 750XL passenger aircraft with eleven people on board crashed at Chilkhaya in Kalikot district, Nepal, killing the two crew members and injuring all nine passengers on board. [CLS] [SEP] The accident occurred just two days after Tara Air Flight 193. [CLS] [SEP]
+[CLS] On 26 February 2016, an Air Kasthamandap PAC 750XL passenger aircraft with eleven people on board crashed at Chilkhaya in Kalikot district, Nepal, killing the two crew members and injuring all nine passengers on board. [SEP] [CLS] The accident occurred just two days after Tara Air Flight 193. [SEP] [CLS]
 

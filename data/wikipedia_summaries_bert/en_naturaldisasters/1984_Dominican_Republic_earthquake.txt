@@ -1,2 +1,2 @@
-The 1984 San Pedro Basin earthquake occurred on June 24 at 07:17:14 local time with a moment magnitude of 6.7 and a maximum Mercalli intensity of VII (Very strong). [CLS] [SEP] The event occurred off the southern coast of the Dominican Republic and resulted in an estimated five fatalities. [CLS] [SEP]
+[CLS] The 1984 San Pedro Basin earthquake occurred on June 24 at 07:17:14 local time with a moment magnitude of 6.7 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] The event occurred off the southern coast of the Dominican Republic and resulted in an estimated five fatalities. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Olivia Lum Ooi Lin is a Singaporean businesswoman. [CLS] [SEP] She is best known for being the founder, group chief executive officer, and president of the Singapore-based Hyflux Group. [CLS] [SEP] She also heads the Research and Development function. [CLS] [SEP]
+[CLS] Olivia Lum Ooi Lin is a Singaporean businesswoman. [SEP] [CLS] She is best known for being the founder, group chief executive officer, and president of the Singapore-based Hyflux Group. [SEP] [CLS] She also heads the Research and Development function. [SEP] [CLS]
 

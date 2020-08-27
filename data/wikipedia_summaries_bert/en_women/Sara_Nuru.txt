@@ -1,2 +1,2 @@
-Sara Nuru (born August 19, 1989) is a German fashion model. [CLS] [SEP] She was the winner of the fourth cycle of Germany's Next Top Model. [CLS] [SEP]
+[CLS] Sara Nuru (born August 19, 1989) is a German fashion model. [SEP] [CLS] She was the winner of the fourth cycle of Germany's Next Top Model. [SEP] [CLS]
 

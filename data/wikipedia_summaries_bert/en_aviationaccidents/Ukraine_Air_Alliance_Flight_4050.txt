@@ -1,2 +1,2 @@
-On 4 October 2019, Ukraine Air Alliance Flight 4050 crashed due to fuel exhaustion on approach to Lviv International Airport, during a flight from Vigo, Spain to Istanbul, Turkey via Lviv, Ukraine, killing five people, and three people were seriously injured. [CLS] [SEP] The aircraft was an Antonov An-12. [CLS] [SEP] The crash is currently under investigation. [CLS] [SEP]
+[CLS] On 4 October 2019, Ukraine Air Alliance Flight 4050 crashed due to fuel exhaustion on approach to Lviv International Airport, during a flight from Vigo, Spain to Istanbul, Turkey via Lviv, Ukraine, killing five people, and three people were seriously injured. [SEP] [CLS] The aircraft was an Antonov An-12. [SEP] [CLS] The crash is currently under investigation. [SEP] [CLS]
 

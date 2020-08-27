@@ -1,2 +1,0 @@
-The 1627 Gargano earthquake struck Gargano, southern Italy, at about mid-day on 30 July 1627. [CLS] [SEP] A "very large earthquake" caused a major tsunami, the largest seismic event ever recorded in the Gargano region, which "produced severe damage in the whole promontory", killing about 5000 people. [CLS] [SEP] Four aftershocks were documented. [CLS] [SEP] The most extensive damage was noted between San Severo and Lesina. [CLS] [SEP] Some sources describe a large 1626 Naples earthquake, but other have argued that these are misreports of the 1627 event. [CLS] [SEP]
-

@@ -1,2 +1,2 @@
-Elisabeth Reichart (born 1953, Steyregg, Upper Austria) is an Austrian author. [CLS] [SEP]
+[CLS] Elisabeth Reichart (born 1953, Steyregg, Upper Austria) is an Austrian author. [SEP] [CLS]
 

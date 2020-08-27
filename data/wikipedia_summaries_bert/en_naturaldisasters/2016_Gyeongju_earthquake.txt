@@ -1,2 +1,2 @@
-The 2016 Gyeongju earthquake occurred on September 12 near Gyeongju, South Korea. [CLS] [SEP] Measuring 5.8 on the local magnitude scale (5.4 Mw), it was the strongest earthquake in the country. [CLS] [SEP]
+[CLS] The 2016 Gyeongju earthquake occurred on September 12 near Gyeongju, South Korea. [SEP] [CLS] Measuring 5.8 on the local magnitude scale (5.4 Mw), it was the strongest earthquake in the country. [SEP] [CLS]
 

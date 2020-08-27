@@ -1,2 +1,2 @@
-The name Abe has been used for two tropical cyclones in the Northwestern Pacific Ocean. [CLS] [SEP] Typhoon Abe (1990), a Category 2 typhoon that brought heavy rain to the Philippines and Taiwan before making landfall in China Typhoon Abe (1993), a Category 3 typhoon that made landfall in southern China
+[CLS] The name Abe has been used for two tropical cyclones in the Northwestern Pacific Ocean. [SEP] [CLS] Typhoon Abe (1990), a Category 2 typhoon that brought heavy rain to the Philippines and Taiwan before making landfall in China Typhoon Abe (1993), a Category 3 typhoon that made landfall in southern China
 

@@ -1,2 +1,2 @@
-The Mil Mi-17 (NATO reporting name: Hip) is a Soviet/Russian helicopter in production at two factories in Kazan and Ulan-Ude. [CLS] [SEP] It is known as the Mi-8M series in Russian service. [CLS] [SEP] It is a medium twin-turbine transport helicopter. [CLS] [SEP] There are also armed gunship versions. [CLS] [SEP]
+[CLS] The Mil Mi-17 (NATO reporting name: Hip) is a Soviet/Russian helicopter in production at two factories in Kazan and Ulan-Ude. [SEP] [CLS] It is known as the Mi-8M series in Russian service. [SEP] [CLS] It is a medium twin-turbine transport helicopter. [SEP] [CLS] There are also armed gunship versions. [SEP] [CLS]
 

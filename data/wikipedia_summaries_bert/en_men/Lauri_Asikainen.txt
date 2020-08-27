@@ -1,2 +1,2 @@
-Lauri Asikainen (born 28 May 1989) is a Finnish Nordic combined athlete. [CLS] [SEP] He was born in Savonlinna, and made his senior Nordic combined debut in 2009, at the world championships in Liberec. [CLS] [SEP] He was previously a ski jumper, winning team bronze in 2007 at the World Junior Championships in Tarvisio. [CLS] [SEP]
+[CLS] Lauri Asikainen (born 28 May 1989) is a Finnish Nordic combined athlete. [SEP] [CLS] He was born in Savonlinna, and made his senior Nordic combined debut in 2009, at the world championships in Liberec. [SEP] [CLS] He was previously a ski jumper, winning team bronze in 2007 at the World Junior Championships in Tarvisio. [SEP] [CLS]
 

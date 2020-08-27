@@ -1,2 +1,2 @@
-Birgit Rockmeier (born 29 November 1973 in Moosburg) is a former German sprinter who specialised in the 200 metres. [CLS] [SEP] Rockmeier's personal best time is 22.90 seconds, achieved in July 2001 in Stuttgart. [CLS] [SEP] She represented the sports club LG Olympia Dortmund and is the twin sister of Gabi Rockmeier. [CLS] [SEP]
+[CLS] Birgit Rockmeier (born 29 November 1973 in Moosburg) is a former German sprinter who specialised in the 200 metres. [SEP] [CLS] Rockmeier's personal best time is 22.90 seconds, achieved in July 2001 in Stuttgart. [SEP] [CLS] She represented the sports club LG Olympia Dortmund and is the twin sister of Gabi Rockmeier. [SEP] [CLS]
 

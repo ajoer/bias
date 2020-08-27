@@ -1,2 +1,2 @@
-The 1983 Rhein-Main Starfighter crash happened on 22 May 1983, in connection with an air show at the Rhein-Main Air Base. [CLS] [SEP] A Canadian Armed Forces Canadair CF-104 Starfighter crashed on a nearby highway, killing six. [CLS] [SEP]
+[CLS] The 1983 Rhein-Main Starfighter crash happened on 22 May 1983, in connection with an air show at the Rhein-Main Air Base. [SEP] [CLS] A Canadian Armed Forces Canadair CF-104 Starfighter crashed on a nearby highway, killing six. [SEP] [CLS]
 

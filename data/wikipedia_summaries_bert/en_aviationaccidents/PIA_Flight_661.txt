@@ -1,2 +1,2 @@
-On 7 December 2016, Pakistan International Airlines Flight 661, a domestic passenger flight from Chitral to Islamabad, Pakistan, operated by an ATR 42-500 twin-turboprop, crashed near Havelian. [CLS] [SEP] All 47 people on board died, including singer-turned-preacher and entrepreneur Junaid Jamshed, and the Deputy Commissioner of the District of Chitral. [CLS] [SEP]
+[CLS] On 7 December 2016, Pakistan International Airlines Flight 661, a domestic passenger flight from Chitral to Islamabad, Pakistan, operated by an ATR 42-500 twin-turboprop, crashed near Havelian. [SEP] [CLS] All 47 people on board died, including singer-turned-preacher and entrepreneur Junaid Jamshed, and the Deputy Commissioner of the District of Chitral. [SEP] [CLS]
 

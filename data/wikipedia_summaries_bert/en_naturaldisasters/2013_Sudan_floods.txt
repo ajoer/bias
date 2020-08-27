@@ -1,2 +1,2 @@
-Continuous and heavy rains in much of Sudan, starting in early August 2013, resulted in flood damage in at least 14 of 18 Sudanese states. [CLS] [SEP] Over 300,000 people are reported to have been affected, with over 25,000 homes reported destroyed. [CLS] [SEP] Government agencies report that nearly 50 people have been killed. [CLS] [SEP]
+[CLS] Continuous and heavy rains in much of Sudan, starting in early August 2013, resulted in flood damage in at least 14 of 18 Sudanese states. [SEP] [CLS] Over 300,000 people are reported to have been affected, with over 25,000 homes reported destroyed. [SEP] [CLS] Government agencies report that nearly 50 people have been killed. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Aria Air Flight 1525 was a scheduled Iranian domestic flight which crashed on landing at Mashhad International Airport, Mashhad, Iran, on 24 July 2009. [CLS] [SEP]
+[CLS] Aria Air Flight 1525 was a scheduled Iranian domestic flight which crashed on landing at Mashhad International Airport, Mashhad, Iran, on 24 July 2009. [SEP] [CLS]
 

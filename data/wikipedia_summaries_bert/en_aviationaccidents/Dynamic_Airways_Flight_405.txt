@@ -1,2 +1,2 @@
-On October 29, 2015, Dynamic Airways Flight 405, a Boeing 767 on a scheduled passenger service from Fort Lauderdale, Florida, to Caracas, Venezuela, suffered a fire while taxiing for departure. [CLS] [SEP] All 101 passengers and crew evacuated the aircraft and survived, but twenty-two of them were injured. [CLS] [SEP]
+[CLS] On October 29, 2015, Dynamic Airways Flight 405, a Boeing 767 on a scheduled passenger service from Fort Lauderdale, Florida, to Caracas, Venezuela, suffered a fire while taxiing for departure. [SEP] [CLS] All 101 passengers and crew evacuated the aircraft and survived, but twenty-two of them were injured. [SEP] [CLS]
 

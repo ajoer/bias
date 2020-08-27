@@ -1,2 +1,2 @@
-Delta Air Lines Flight 1141 was a scheduled domestic passenger flight between Dallas/Fort Worth, Texas and Salt Lake City, Utah. [CLS] [SEP] On August 31, 1988, the flight, utilizing a Boeing 727-200 series aircraft, crashed during takeoff, killing 14 of the 108 people on board and injuring 76 others. [CLS] [SEP]
+[CLS] Delta Air Lines Flight 1141 was a scheduled domestic passenger flight between Dallas/Fort Worth, Texas and Salt Lake City, Utah. [SEP] [CLS] On August 31, 1988, the flight, utilizing a Boeing 727-200 series aircraft, crashed during takeoff, killing 14 of the 108 people on board and injuring 76 others. [SEP] [CLS]
 

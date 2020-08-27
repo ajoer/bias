@@ -1,2 +1,2 @@
-Jon Avery Abrahams (born October 29, 1977) is an American film and television actor. [CLS] [SEP] His most notable roles are Bobby in Scary Movie, Denny Byrnes in the comedy Meet the Parents, and Dalton Chapman in the horror movie House of Wax. [CLS] [SEP]
+[CLS] Jon Avery Abrahams (born October 29, 1977) is an American film and television actor. [SEP] [CLS] His most notable roles are Bobby in Scary Movie, Denny Byrnes in the comedy Meet the Parents, and Dalton Chapman in the horror movie House of Wax. [SEP] [CLS]
 

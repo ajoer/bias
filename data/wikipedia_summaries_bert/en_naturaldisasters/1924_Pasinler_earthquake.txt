@@ -1,2 +1,2 @@
-The 1924 Pasinler earthquake occurred at 16:34 local time on 13 September in Pasinler, Erzurum, Eastern Anatolia Region of Turkey. [CLS] [SEP] It had a surface wave magnitude of 6.8 and reached a maximum felt intensity of IX (Violent) on the Mercalli intensity scale, causing 60 casualties. [CLS] [SEP]
+[CLS] The 1924 Pasinler earthquake occurred at 16:34 local time on 13 September in Pasinler, Erzurum, Eastern Anatolia Region of Turkey. [SEP] [CLS] It had a surface wave magnitude of 6.8 and reached a maximum felt intensity of IX (Violent) on the Mercalli intensity scale, causing 60 casualties. [SEP] [CLS]
 

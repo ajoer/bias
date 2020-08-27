@@ -1,2 +1,2 @@
-Tim Matavž (born 13 January 1989) is a Slovenian football player who plays for Al Wahda as a forward. [CLS] [SEP]
+[CLS] Tim Matavž (born 13 January 1989) is a Slovenian football player who plays for Al Wahda as a forward. [SEP] [CLS]
 

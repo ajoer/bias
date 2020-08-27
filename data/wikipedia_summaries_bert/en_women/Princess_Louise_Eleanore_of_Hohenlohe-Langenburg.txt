@@ -1,2 +1,2 @@
-Princess Luise Eleonore of Hohenlohe-Langenburg (11 August 1763, in Langenburg – 30 April 1837, in Meiningen) was a German regent. [CLS] [SEP] She was duchess of Saxe-Meiningen by marriage to George I, Duke of Saxe-Meiningen, and Regent of Saxe-Meiningen during the minority of her son from 1803 to 1821. [CLS] [SEP]
+[CLS] Princess Luise Eleonore of Hohenlohe-Langenburg (11 August 1763, in Langenburg – 30 April 1837, in Meiningen) was a German regent. [SEP] [CLS] She was duchess of Saxe-Meiningen by marriage to George I, Duke of Saxe-Meiningen, and Regent of Saxe-Meiningen during the minority of her son from 1803 to 1821. [SEP] [CLS]
 

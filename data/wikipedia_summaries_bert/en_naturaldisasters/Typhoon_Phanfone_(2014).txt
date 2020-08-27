@@ -1,2 +1,2 @@
-Typhoon Phanfone, known in the Philippines as Typhoon Neneng, was a powerful tropical cyclone which affected Japan in early October 2014. [CLS] [SEP] It was the eighteenth named storm and the eighth typhoon of the 2014 Pacific typhoon season. [CLS] [SEP]
+[CLS] Typhoon Phanfone, known in the Philippines as Typhoon Neneng, was a powerful tropical cyclone which affected Japan in early October 2014. [SEP] [CLS] It was the eighteenth named storm and the eighth typhoon of the 2014 Pacific typhoon season. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The 2005 Chennai floods were some of the worst floods to have hit the city of Chennai, India. [CLS] [SEP] The floods occurred during the North-East monsoon season (November-December 2005) as a result of heavy rain. [CLS] [SEP] Over 50 people were killed in two incidents of stampede for food and money in relief camps. [CLS] [SEP]
+[CLS] The 2005 Chennai floods were some of the worst floods to have hit the city of Chennai, India. [SEP] [CLS] The floods occurred during the North-East monsoon season (November-December 2005) as a result of heavy rain. [SEP] [CLS] Over 50 people were killed in two incidents of stampede for food and money in relief camps. [SEP] [CLS]
 

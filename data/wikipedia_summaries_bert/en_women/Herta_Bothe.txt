@@ -1,2 +1,2 @@
-Herta Bothe (3 January 1921 – 16 March 2000) was a German concentration camp guard during World War II. [CLS] [SEP] She was imprisoned for war crimes after the defeat of Nazi Germany, and was subsequently released early from prison on 22 December 1951 as an act of leniency by the British government. [CLS] [SEP]
+[CLS] Herta Bothe (3 January 1921 – 16 March 2000) was a German concentration camp guard during World War II. [SEP] [CLS] She was imprisoned for war crimes after the defeat of Nazi Germany, and was subsequently released early from prison on 22 December 1951 as an act of leniency by the British government. [SEP] [CLS]
 

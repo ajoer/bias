@@ -1,2 +1,2 @@
-Lois Mitchell Haibt (born 1934) is an American computer scientist best known for being a member of the ten-person team at IBM that developed FORTRAN, the first successful high-level programming language. [CLS] [SEP] She is known as an early pioneer in computer science. [CLS] [SEP]
+[CLS] Lois Mitchell Haibt (born 1934) is an American computer scientist best known for being a member of the ten-person team at IBM that developed FORTRAN, the first successful high-level programming language. [SEP] [CLS] She is known as an early pioneer in computer science. [SEP] [CLS]
 

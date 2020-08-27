@@ -1,2 +1,2 @@
-The 1927 Kita Tango earthquake occurred in Kyoto Prefecture on 7 March with a moment magnitude of 7.0. [CLS] [SEP] Up to 2,956 people were killed and 7,806 were injured. [CLS] [SEP] Almost all the houses in Mineyama (now part of Kyōtango) were destroyed as a result. [CLS] [SEP] The earthquake was felt as far away as Tokyo and Kagoshima. [CLS] [SEP]
+[CLS] The 1927 Kita Tango earthquake occurred in Kyoto Prefecture on 7 March with a moment magnitude of 7.0. [SEP] [CLS] Up to 2,956 people were killed and 7,806 were injured. [SEP] [CLS] Almost all the houses in Mineyama (now part of Kyōtango) were destroyed as a result. [SEP] [CLS] The earthquake was felt as far away as Tokyo and Kagoshima. [SEP] [CLS]
 

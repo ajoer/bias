@@ -1,2 +1,2 @@
-On Sunday 3 August 1969 an Antonov An-24 operating Aeroflot Flight 826 (Russian: Рейс 826 Аэрофлота Reys 826 Aeroflota) crashed resulting in the death of all 55 people on board. [CLS] [SEP] An investigation revealed the cause of the accident was an in flight failure of the propeller attached to "No. [CLS] [SEP] 1" (left) engine. [CLS] [SEP]
+[CLS] On Sunday 3 August 1969 an Antonov An-24 operating Aeroflot Flight 826 (Russian: Рейс 826 Аэрофлота Reys 826 Aeroflota) crashed resulting in the death of all 55 people on board. [SEP] [CLS] An investigation revealed the cause of the accident was an in flight failure of the propeller attached to "No. [SEP] [CLS] 1" (left) engine. [SEP] [CLS]
 

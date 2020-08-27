@@ -1,2 +1,2 @@
-On 15 March 2016, an IAI Arava transport aircraft of the Ecuadorian Army crashed in the eastern part of the country. [CLS] [SEP] The accident is the deadliest involving an IAI Arava, and the single deadliest incident suffered by the Ecuadorian military. [CLS] [SEP]
+[CLS] On 15 March 2016, an IAI Arava transport aircraft of the Ecuadorian Army crashed in the eastern part of the country. [SEP] [CLS] The accident is the deadliest involving an IAI Arava, and the single deadliest incident suffered by the Ecuadorian military. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Francis Coventry (1725–1759) was an English cleric and novelist, best known for The History of Pompey the Little. [CLS] [SEP]
+[CLS] Francis Coventry (1725–1759) was an English cleric and novelist, best known for The History of Pompey the Little. [SEP] [CLS]
 

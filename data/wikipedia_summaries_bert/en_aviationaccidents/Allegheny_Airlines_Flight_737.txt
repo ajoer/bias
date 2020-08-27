@@ -1,2 +1,2 @@
-. [CLS] [SEP] Allegheny Airlines Flight 737 was a Convair CV-580 (aircraft registration N5825), that crashed while attempting to land at Bradford Regional Airport in Bradford, Pennsylvania on January 6, 1969. [CLS] [SEP] Eleven of the 28 occupants on board were killed. [CLS] [SEP]
+[CLS] . [SEP] [CLS] Allegheny Airlines Flight 737 was a Convair CV-580 (aircraft registration N5825), that crashed while attempting to land at Bradford Regional Airport in Bradford, Pennsylvania on January 6, 1969. [SEP] [CLS] Eleven of the 28 occupants on board were killed. [SEP] [CLS]
 

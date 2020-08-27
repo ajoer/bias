@@ -1,2 +1,2 @@
-Pakistan International Airlines Flight 268 was an Airbus A300, registration AP-BCP, which crashed on approach to Kathmandu's Tribhuvan International Airport on 28 September 1992. [CLS] [SEP] All 167 people on board were killed. [CLS] [SEP] It is the deadliest aviation crash to occur on Nepalese soil. [CLS] [SEP]
+[CLS] Pakistan International Airlines Flight 268 was an Airbus A300, registration AP-BCP, which crashed on approach to Kathmandu's Tribhuvan International Airport on 28 September 1992. [SEP] [CLS] All 167 people on board were killed. [SEP] [CLS] It is the deadliest aviation crash to occur on Nepalese soil. [SEP] [CLS]
 

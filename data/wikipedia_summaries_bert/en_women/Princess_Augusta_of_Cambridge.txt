@@ -1,2 +1,2 @@
-Princess Augusta of Cambridge (19 July 1822 – 5 December 1916) was a member of the British Royal Family, a granddaughter of George III. [CLS] [SEP] She married into the Grand Ducal House of Mecklenburg-Strelitz and became the Grand Duchess of Mecklenburg-Strelitz. [CLS] [SEP]
+[CLS] Princess Augusta of Cambridge (19 July 1822 – 5 December 1916) was a member of the British Royal Family, a granddaughter of George III. [SEP] [CLS] She married into the Grand Ducal House of Mecklenburg-Strelitz and became the Grand Duchess of Mecklenburg-Strelitz. [SEP] [CLS]
 

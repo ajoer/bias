@@ -1,2 +1,2 @@
-Swissair Flight SR306, a Sud Aviation SE-210 Caravelle III, named Schaffhausen, was a scheduled international flight from Zürich to Rome, via Geneva. [CLS] [SEP] It crashed near Dürrenäsch, Aargau, on September 4, 1963, shortly after take-off, killing all 80 people on board. [CLS] [SEP]
+[CLS] Swissair Flight SR306, a Sud Aviation SE-210 Caravelle III, named Schaffhausen, was a scheduled international flight from Zürich to Rome, via Geneva. [SEP] [CLS] It crashed near Dürrenäsch, Aargau, on September 4, 1963, shortly after take-off, killing all 80 people on board. [SEP] [CLS]
 

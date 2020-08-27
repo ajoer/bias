@@ -1,2 +1,2 @@
-The 1971 Canberra flood was a flash flood that occurred on 26 January 1971, in the Woden Valley district of Canberra, Australia. [CLS] [SEP]
+[CLS] The 1971 Canberra flood was a flash flood that occurred on 26 January 1971, in the Woden Valley district of Canberra, Australia. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The 2011 Assiniboine River flood was caused by above average precipitation in Western Manitoba and Saskatchewan. [CLS] [SEP] This was a 1 in 300 year flood that affected much of Western Manitoba. [CLS] [SEP] The flooding in Manitoba was expected to mostly involve the 2011 Red River Flood but instead the more severe flooding was found on the Assiniboine in the west. [CLS] [SEP]
+[CLS] The 2011 Assiniboine River flood was caused by above average precipitation in Western Manitoba and Saskatchewan. [SEP] [CLS] This was a 1 in 300 year flood that affected much of Western Manitoba. [SEP] [CLS] The flooding in Manitoba was expected to mostly involve the 2011 Red River Flood but instead the more severe flooding was found on the Assiniboine in the west. [SEP] [CLS]
 

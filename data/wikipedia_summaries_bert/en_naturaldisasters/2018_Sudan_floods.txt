@@ -1,2 +1,2 @@
-From July to November 2018, Sudan experienced extensive flooding due to extreme rainfall. [CLS] [SEP] The most affected states were Kassala, West Kordofan, and Khartoum. [CLS] [SEP] By August 16, at least 23 people had been killed and over 60 injured. [CLS] [SEP] By November 5, over 19,640 homes had been destroyed, and an estimated 222,275 people had been affected. [CLS] [SEP]
+[CLS] From July to November 2018, Sudan experienced extensive flooding due to extreme rainfall. [SEP] [CLS] The most affected states were Kassala, West Kordofan, and Khartoum. [SEP] [CLS] By August 16, at least 23 people had been killed and over 60 injured. [SEP] [CLS] By November 5, over 19,640 homes had been destroyed, and an estimated 222,275 people had been affected. [SEP] [CLS]
 

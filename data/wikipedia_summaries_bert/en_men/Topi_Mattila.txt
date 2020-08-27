@@ -1,2 +1,2 @@
-Topi Mattila (born 29 March 1946 in Helsinki) is a Finnish former ski jumper who competed from 1964 to 1969. [CLS] [SEP] He finished fifth in the individual normal hill event at the 1968 Winter Olympics in Grenoble, which was Mattila's best career finish as well. [CLS] [SEP]
+[CLS] Topi Mattila (born 29 March 1946 in Helsinki) is a Finnish former ski jumper who competed from 1964 to 1969. [SEP] [CLS] He finished fifth in the individual normal hill event at the 1968 Winter Olympics in Grenoble, which was Mattila's best career finish as well. [SEP] [CLS]
 

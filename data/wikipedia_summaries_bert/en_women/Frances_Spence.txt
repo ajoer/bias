@@ -1,2 +1,2 @@
-Frances V. [CLS] [SEP] Spence (née Bilas; March 2, 1922 – July 18, 2012) was one of the original programmers for the ENIAC (the first electronic digital computer). [CLS] [SEP] She is considered one of the first computer programmers in history.The other five ENIAC programmers were Betty Holberton, Ruth Teitelbaum, Kathleen Antonelli, Marlyn Meltzer, and Jean Bartik. [CLS] [SEP]
+[CLS] Frances V. [SEP] [CLS] Spence (née Bilas; March 2, 1922 – July 18, 2012) was one of the original programmers for the ENIAC (the first electronic digital computer). [SEP] [CLS] She is considered one of the first computer programmers in history.The other five ENIAC programmers were Betty Holberton, Ruth Teitelbaum, Kathleen Antonelli, Marlyn Meltzer, and Jean Bartik. [SEP] [CLS]
 

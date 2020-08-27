@@ -1,2 +1,2 @@
-Sabine Bau (born 19 July 1969) is a German fencer. [CLS] [SEP]
+[CLS] Sabine Bau (born 19 July 1969) is a German fencer. [SEP] [CLS]
 

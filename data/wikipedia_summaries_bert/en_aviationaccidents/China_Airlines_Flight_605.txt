@@ -1,2 +1,2 @@
-China Airlines Flight 605 (callsign "Dynasty 605") was a daily non-stop flight departing from Taipei at 6:30 a.m. [CLS] [SEP] and arriving at Kai Tak Airport in Hong Kong at 7:00 a.m. [CLS] [SEP] local time. [CLS] [SEP] On November 4, 1993, the plane went off the runway while landing during a storm. [CLS] [SEP] It was the first hull loss of a Boeing 747-400. [CLS] [SEP]
+[CLS] China Airlines Flight 605 (callsign "Dynasty 605") was a daily non-stop flight departing from Taipei at 6:30 a.m. [SEP] [CLS] and arriving at Kai Tak Airport in Hong Kong at 7:00 a.m. [SEP] [CLS] local time. [SEP] [CLS] On November 4, 1993, the plane went off the runway while landing during a storm. [SEP] [CLS] It was the first hull loss of a Boeing 747-400. [SEP] [CLS]
 

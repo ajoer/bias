@@ -1,2 +1,2 @@
-The 1910 Rogers Pass Avalanche killed 62 men clearing a railroad line near the summit of Rogers Pass through the Selkirk Mountains in British Columbia on March 4, 1910. [CLS] [SEP] It is Canada's worst avalanche disaster. [CLS] [SEP]
+[CLS] The 1910 Rogers Pass Avalanche killed 62 men clearing a railroad line near the summit of Rogers Pass through the Selkirk Mountains in British Columbia on March 4, 1910. [SEP] [CLS] It is Canada's worst avalanche disaster. [SEP] [CLS]
 

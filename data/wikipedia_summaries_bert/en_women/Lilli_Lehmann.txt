@@ -1,2 +1,2 @@
-Lilli Lehmann, born Elisabeth Maria Lehmann, later Elisabeth Maria Lehmann-Kalisch (24 November 1848 – 17 May 1929) was a German operatic soprano. [CLS] [SEP] She was also a voice teacher. [CLS] [SEP]
+[CLS] Lilli Lehmann, born Elisabeth Maria Lehmann, later Elisabeth Maria Lehmann-Kalisch (24 November 1848 – 17 May 1929) was a German operatic soprano. [SEP] [CLS] She was also a voice teacher. [SEP] [CLS]
 

@@ -1,2 +1,0 @@
-The 1611 Sanriku earthquake (慶長三陸地震, Keichō Sanriku Jishin) occurred on December 2, 1611, with an epicenter off the Sanriku coast in Iwate Prefecture. [CLS] [SEP] The magnitude of the earthquake was 8.1Ms. [CLS] [SEP] It triggered a devastating tsunami. [CLS] [SEP] A description of this event in an official diary from 1612 is probably the first recorded use of the term 'tsunami'. [CLS] [SEP]
-

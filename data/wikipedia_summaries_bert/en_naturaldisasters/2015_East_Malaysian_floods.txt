@@ -1,2 +1,2 @@
-High intensity rainfall since 17 January 2015 caused major flooding across several parts of Sarawak and Sabah. [CLS] [SEP] Around 13,878 people had been evacuated with one teenage girl became the only casualty. [CLS] [SEP]
+[CLS] High intensity rainfall since 17 January 2015 caused major flooding across several parts of Sarawak and Sabah. [SEP] [CLS] Around 13,878 people had been evacuated with one teenage girl became the only casualty. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Strand Frisian was a dialect of the North Frisian language which was originally spoken on Strand island, Duchy of Schleswig. [CLS] [SEP] Strand was destroyed in the Burchardi flood of 1634 with its remnants forming the islands Pellworm and Nordstrand which are now part of Germany. [CLS] [SEP] Strand Frisian is counted among the mainland group of North Frisian dialects. [CLS] [SEP]
+[CLS] Strand Frisian was a dialect of the North Frisian language which was originally spoken on Strand island, Duchy of Schleswig. [SEP] [CLS] Strand was destroyed in the Burchardi flood of 1634 with its remnants forming the islands Pellworm and Nordstrand which are now part of Germany. [SEP] [CLS] Strand Frisian is counted among the mainland group of North Frisian dialects. [SEP] [CLS]
 

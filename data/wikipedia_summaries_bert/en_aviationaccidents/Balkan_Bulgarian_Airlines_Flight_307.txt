@@ -1,2 +1,2 @@
-Balkan Bulgarian Airlines Flight 307 was a scheduled international passenger flight from Sofia to Moscow that crashed on its final approach to the Sheremetyevo Airport in Moscow on March 3, 1973. [CLS] [SEP] All 25 passengers and crew on board were killed in the crash. [CLS] [SEP]
+[CLS] Balkan Bulgarian Airlines Flight 307 was a scheduled international passenger flight from Sofia to Moscow that crashed on its final approach to the Sheremetyevo Airport in Moscow on March 3, 1973. [SEP] [CLS] All 25 passengers and crew on board were killed in the crash. [SEP] [CLS]
 

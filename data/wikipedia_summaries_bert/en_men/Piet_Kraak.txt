@@ -1,2 +1,2 @@
-Piet Kraak (20 August 1928, Velsen - 27 April 1984, Copenhagen) was a Dutch football goalkeeper and football manager. [CLS] [SEP]
+[CLS] Piet Kraak (20 August 1928, Velsen - 27 April 1984, Copenhagen) was a Dutch football goalkeeper and football manager. [SEP] [CLS]
 

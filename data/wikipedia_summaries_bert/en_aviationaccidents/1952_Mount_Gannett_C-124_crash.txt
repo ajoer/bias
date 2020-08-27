@@ -1,2 +1,2 @@
-The 1952 Mount Gannett C-124 crash was an accident in which a Douglas C-124 Globemaster II military transport aircraft of the United States Air Force crashed into Mount Gannett, a peak in the Chugach Mountains in the American state of Alaska, on November 22, 1952. [CLS] [SEP] All of the 52 people on board were killed. [CLS] [SEP]
+[CLS] The 1952 Mount Gannett C-124 crash was an accident in which a Douglas C-124 Globemaster II military transport aircraft of the United States Air Force crashed into Mount Gannett, a peak in the Chugach Mountains in the American state of Alaska, on November 22, 1952. [SEP] [CLS] All of the 52 people on board were killed. [SEP] [CLS]
 

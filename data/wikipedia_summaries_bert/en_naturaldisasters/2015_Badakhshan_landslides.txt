@@ -1,2 +1,2 @@
-On 23 April 2015, a landslide occurred in the Khawahan district of Badakhshan Province in Afghanistan. [CLS] [SEP] Around 100 houses were destroyed and 52 people were killed by the landslide. [CLS] [SEP] A second landslide occurred on 26 April, displacing 120 families. [CLS] [SEP]
+[CLS] On 23 April 2015, a landslide occurred in the Khawahan district of Badakhshan Province in Afghanistan. [SEP] [CLS] Around 100 houses were destroyed and 52 people were killed by the landslide. [SEP] [CLS] A second landslide occurred on 26 April, displacing 120 families. [SEP] [CLS]
 

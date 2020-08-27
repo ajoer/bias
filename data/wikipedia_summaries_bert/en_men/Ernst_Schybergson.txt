@@ -1,2 +1,2 @@
-Ernst Schybergson (29 January 1891 – 17 March 1966) was a Finnish tennis player. [CLS] [SEP] He competed in the men's singles and doubles events at the 1924 Summer Olympics.He also played football as a forward. [CLS] [SEP] He made one appearance for the Finland national team in 1911. [CLS] [SEP]
+[CLS] Ernst Schybergson (29 January 1891 – 17 March 1966) was a Finnish tennis player. [SEP] [CLS] He competed in the men's singles and doubles events at the 1924 Summer Olympics.He also played football as a forward. [SEP] [CLS] He made one appearance for the Finland national team in 1911. [SEP] [CLS]
 

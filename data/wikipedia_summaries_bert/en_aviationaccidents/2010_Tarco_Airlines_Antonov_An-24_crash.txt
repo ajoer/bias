@@ -1,2 +1,2 @@
-On 11 November 2010, an Antonov An-24 passenger aircraft of Tarco Airlines on a domestic service from Khartoum to Zalingei, Sudan, crashed on landing at Zalingei Airport, bursting into flames on the runway. [CLS] [SEP] Two passengers died, although reports on the number of fatalities varied from one to six. [CLS] [SEP]
+[CLS] On 11 November 2010, an Antonov An-24 passenger aircraft of Tarco Airlines on a domestic service from Khartoum to Zalingei, Sudan, crashed on landing at Zalingei Airport, bursting into flames on the runway. [SEP] [CLS] Two passengers died, although reports on the number of fatalities varied from one to six. [SEP] [CLS]
 

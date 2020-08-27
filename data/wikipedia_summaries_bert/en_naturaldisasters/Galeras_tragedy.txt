@@ -1,2 +1,2 @@
-The Galeras tragedy occurred when six scientists and three tourists were killed as a result of the January 1993 eruption of the Galeras stratovolcano in Colombia. [CLS] [SEP] Geologist Stanley Williams and six others on the volcano survived. [CLS] [SEP]
+[CLS] The Galeras tragedy occurred when six scientists and three tourists were killed as a result of the January 1993 eruption of the Galeras stratovolcano in Colombia. [SEP] [CLS] Geologist Stanley Williams and six others on the volcano survived. [SEP] [CLS]
 

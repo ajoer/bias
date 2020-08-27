@@ -1,2 +1,2 @@
-Lotte Lang (11 January 1900 – 13 February 1985) was an Austrian actress. [CLS] [SEP] She appeared in more than 80 films and television shows between 1932 and 1979. [CLS] [SEP]
+[CLS] Lotte Lang (11 January 1900 – 13 February 1985) was an Austrian actress. [SEP] [CLS] She appeared in more than 80 films and television shows between 1932 and 1979. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-The Southern New England ice storm of 1973 was a winter storm that caused considerable damage to trees and power lines in parts of Connecticut, Massachusetts, and Rhode Island. [CLS] [SEP] It also affected New York State. [CLS] [SEP]
+[CLS] The Southern New England ice storm of 1973 was a winter storm that caused considerable damage to trees and power lines in parts of Connecticut, Massachusetts, and Rhode Island. [SEP] [CLS] It also affected New York State. [SEP] [CLS]
 

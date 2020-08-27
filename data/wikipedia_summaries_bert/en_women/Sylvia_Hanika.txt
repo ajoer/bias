@@ -1,2 +1,2 @@
-Sylvia Hanika (born 30 November 1959) is a former professional tennis player from Germany. [CLS] [SEP] She is best remembered for finishing runner-up at the French Open in 1981, and for winning the Year End Championships in 1982. [CLS] [SEP] She was ranked as high as No. [CLS] [SEP] 5 in the world and played left-handed. [CLS] [SEP]
+[CLS] Sylvia Hanika (born 30 November 1959) is a former professional tennis player from Germany. [SEP] [CLS] She is best remembered for finishing runner-up at the French Open in 1981, and for winning the Year End Championships in 1982. [SEP] [CLS] She was ranked as high as No. [SEP] [CLS] 5 in the world and played left-handed. [SEP] [CLS]
 

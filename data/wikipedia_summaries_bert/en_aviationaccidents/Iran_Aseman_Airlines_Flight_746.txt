@@ -1,2 +1,2 @@
-Iran Aseman Airlines (Persian: هواپیمایی آسمان‎) is the third-largest Iranian airline headquartered in Tehran. [CLS] [SEP] It operates scheduled domestic passenger services and regional international services. [CLS] [SEP]
+[CLS] Iran Aseman Airlines (Persian: هواپیمایی آسمان‎) is the third-largest Iranian airline headquartered in Tehran. [SEP] [CLS] It operates scheduled domestic passenger services and regional international services. [SEP] [CLS]
 

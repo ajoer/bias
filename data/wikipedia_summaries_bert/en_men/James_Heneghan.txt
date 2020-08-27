@@ -1,2 +1,2 @@
-James Heneghan (born 1930) is a British–Canadian author of children's and young adult novels. [CLS] [SEP] Heneghan grew up Liverpool, England, and lives in Vancouver, British Columbia. [CLS] [SEP] He earned Canadian citizenship in 1963. [CLS] [SEP]
+[CLS] James Heneghan (born 1930) is a British–Canadian author of children's and young adult novels. [SEP] [CLS] Heneghan grew up Liverpool, England, and lives in Vancouver, British Columbia. [SEP] [CLS] He earned Canadian citizenship in 1963. [SEP] [CLS]
 

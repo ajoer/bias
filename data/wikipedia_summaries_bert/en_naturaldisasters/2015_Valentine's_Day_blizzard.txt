@@ -1,2 +1,2 @@
-From February 14–15, 2015, a potent blizzard occurred in the Northeast United States. [CLS] [SEP] The storm dropped up to 25 inches (64 cm) of snow in the regions already hit hard with snow from the past 2 weeks. [CLS] [SEP] The storm system also brought some of the most coldest temperatures to the Northeast in its wake. [CLS] [SEP]
+[CLS] From February 14–15, 2015, a potent blizzard occurred in the Northeast United States. [SEP] [CLS] The storm dropped up to 25 inches (64 cm) of snow in the regions already hit hard with snow from the past 2 weeks. [SEP] [CLS] The storm system also brought some of the most coldest temperatures to the Northeast in its wake. [SEP] [CLS]
 

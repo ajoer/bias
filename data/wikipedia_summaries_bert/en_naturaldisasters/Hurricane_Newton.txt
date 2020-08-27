@@ -1,2 +1,2 @@
-The name Newton has been used for four tropical cyclones in the Eastern Pacific Ocean. [CLS] [SEP] Tropical Storm Newton (1980) Hurricane Newton (1986) Tropical Storm Newton (1992) Hurricane Newton (2016)
+[CLS] The name Newton has been used for four tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Newton (1980) Hurricane Newton (1986) Tropical Storm Newton (1992) Hurricane Newton (2016)
 

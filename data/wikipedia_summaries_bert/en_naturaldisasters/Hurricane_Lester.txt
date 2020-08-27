@@ -1,2 +1,2 @@
-The name Lester has been used for six tropical cyclones in the Eastern Pacific Ocean. [CLS] [SEP] Tropical Storm Lester (1980) Tropical Storm Lester (1986) Hurricane Lester (1992) Hurricane Lester (1998) Tropical Storm Lester (2004) Hurricane Lester (2016)
+[CLS] The name Lester has been used for six tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Lester (1980) Tropical Storm Lester (1986) Hurricane Lester (1992) Hurricane Lester (1998) Tropical Storm Lester (2004) Hurricane Lester (2016)
 

@@ -1,2 +1,2 @@
-The South Valley Surprise of 2002 was a Pacific Northwest windstorm that affected the U.S. [CLS] [SEP] states of Oregon, Washington, California, Nevada, and Idaho on February 7, 2002. [CLS] [SEP]
+[CLS] The South Valley Surprise of 2002 was a Pacific Northwest windstorm that affected the U.S. [SEP] [CLS] states of Oregon, Washington, California, Nevada, and Idaho on February 7, 2002. [SEP] [CLS]
 

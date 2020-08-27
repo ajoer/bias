@@ -1,2 +1,2 @@
-Dorothea Friederike von Schlegel (née Brendel Mendelssohn; October 24, 1764 – August 3, 1839) was a German novelist and translator. [CLS] [SEP]
+[CLS] Dorothea Friederike von Schlegel (née Brendel Mendelssohn; October 24, 1764 – August 3, 1839) was a German novelist and translator. [SEP] [CLS]
 

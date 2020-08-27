@@ -1,2 +1,2 @@
-Amalie Auguste Melitta Bentz (31 January 1873 – 29 June 1950), born Amalie Auguste Melitta Liebscher, was a German entrepreneur who invented the paper coffee filter brewing system in 1908. [CLS] [SEP] She founded the namesake company Melitta, which still operates under family control. [CLS] [SEP]
+[CLS] Amalie Auguste Melitta Bentz (31 January 1873 – 29 June 1950), born Amalie Auguste Melitta Liebscher, was a German entrepreneur who invented the paper coffee filter brewing system in 1908. [SEP] [CLS] She founded the namesake company Melitta, which still operates under family control. [SEP] [CLS]
 

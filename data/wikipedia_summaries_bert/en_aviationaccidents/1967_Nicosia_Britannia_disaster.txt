@@ -1,2 +1,2 @@
-The Nicosia Britannia disaster was the death of 126 passengers and crew on a Bristol Britannia of the Swiss airline Globe Air when it flew into the ground 3.5 kilometres (2.2 mi) south of Nicosia Airport, in Cyprus. [CLS] [SEP]
+[CLS] The Nicosia Britannia disaster was the death of 126 passengers and crew on a Bristol Britannia of the Swiss airline Globe Air when it flew into the ground 3.5 kilometres (2.2 mi) south of Nicosia Airport, in Cyprus. [SEP] [CLS]
 

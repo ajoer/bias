@@ -1,2 +1,2 @@
-Elias Magnus Fries FRS FRSE FLS RAS (15 August 1794 – 8 February 1878) was a Swedish mycologist and botanist. [CLS] [SEP]
+[CLS] Elias Magnus Fries FRS FRSE FLS RAS (15 August 1794 – 8 February 1878) was a Swedish mycologist and botanist. [SEP] [CLS]
 

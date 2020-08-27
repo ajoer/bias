@@ -1,2 +1,2 @@
-The following is a list of reality television show franchises that have become franchises with production of local versions around the world, from H through Z. [CLS] [SEP]
+[CLS] The following is a list of reality television show franchises that have become franchises with production of local versions around the world, from H through Z. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Aries Merritt (born July 24, 1985) is an American track and field athlete who specializes in the 110 metre hurdles, and currently holds the world record in that event with a time of 12.80 s set on September 7, 2012. [CLS] [SEP] He won the gold medal in the 110 metre hurdles at the 2012 Summer Olympics in London. [CLS] [SEP]
+[CLS] Aries Merritt (born July 24, 1985) is an American track and field athlete who specializes in the 110 metre hurdles, and currently holds the world record in that event with a time of 12.80 s set on September 7, 2012. [SEP] [CLS] He won the gold medal in the 110 metre hurdles at the 2012 Summer Olympics in London. [SEP] [CLS]
 

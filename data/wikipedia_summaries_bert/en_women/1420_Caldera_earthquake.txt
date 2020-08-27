@@ -1,2 +1,0 @@
-The 1420 Caldera earthquake shook the southern portion of Atacama Desert on September 1 and caused tsunamis in Chile as well as Hawaii and the towns of Japan. [CLS] [SEP] The earthquake is thought to have had a size of 8.8–9.4 Mw. [CLS] [SEP] Historical records of the tsunami exists for the Japanese harbours of Kawarago and Aiga where confused residents saw the water recede in the morning of September 1, without any sign of an earthquake. [CLS] [SEP] In Chile landslides occurred in the coast as well. [CLS] [SEP]
-

@@ -1,2 +1,2 @@
-Empire Airlines Flight 8284 was a cargo flight operated by Empire Airlines for FedEx Feeder between Fort Worth Alliance Airport and Lubbock Preston Smith International Airport, Texas. [CLS] [SEP] On January 27, 2009, it crashed on final approach to its destination. [CLS] [SEP] Both crew members survived with minor injuries but the aircraft was written off. [CLS] [SEP]
+[CLS] Empire Airlines Flight 8284 was a cargo flight operated by Empire Airlines for FedEx Feeder between Fort Worth Alliance Airport and Lubbock Preston Smith International Airport, Texas. [SEP] [CLS] On January 27, 2009, it crashed on final approach to its destination. [SEP] [CLS] Both crew members survived with minor injuries but the aircraft was written off. [SEP] [CLS]
 

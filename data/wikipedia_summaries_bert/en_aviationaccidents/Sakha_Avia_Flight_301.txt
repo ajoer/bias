@@ -1,2 +1,2 @@
-Sakha Avia Flight 301 was a scheduled domestic passenger flight from Kutana to Aldan via Uchur in Russia. [CLS] [SEP] On 26 August 1993 the Let L-410 Turbolet operating the flight crashed on approach to Aldan airport, killing all 24 people on board. [CLS] [SEP] It is the deadliest aviation disaster involving the Let L-410 Turbolet. [CLS] [SEP]
+[CLS] Sakha Avia Flight 301 was a scheduled domestic passenger flight from Kutana to Aldan via Uchur in Russia. [SEP] [CLS] On 26 August 1993 the Let L-410 Turbolet operating the flight crashed on approach to Aldan airport, killing all 24 people on board. [SEP] [CLS] It is the deadliest aviation disaster involving the Let L-410 Turbolet. [SEP] [CLS]
 

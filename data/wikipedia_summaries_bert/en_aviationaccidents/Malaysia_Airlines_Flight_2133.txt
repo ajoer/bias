@@ -1,2 +1,2 @@
-Malaysia Airlines Flight 2133 (MH2133/MAS2133) was a scheduled domestic passenger flight from Kota Kinabalu to Tawau which crashed due to pilot error on 15 September 1995, taking the lives of 32 of the 49 passengers and 2 of the 4 crew on board. [CLS] [SEP] The plane crashed during approach after a failed go-around. [CLS] [SEP] This was the first hull loss of a Fokker 50. [CLS] [SEP]
+[CLS] Malaysia Airlines Flight 2133 (MH2133/MAS2133) was a scheduled domestic passenger flight from Kota Kinabalu to Tawau which crashed due to pilot error on 15 September 1995, taking the lives of 32 of the 49 passengers and 2 of the 4 crew on board. [SEP] [CLS] The plane crashed during approach after a failed go-around. [SEP] [CLS] This was the first hull loss of a Fokker 50. [SEP] [CLS]
 

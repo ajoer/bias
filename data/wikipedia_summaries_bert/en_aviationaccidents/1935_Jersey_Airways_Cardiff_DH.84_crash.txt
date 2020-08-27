@@ -1,2 +1,2 @@
-The de Havilland DH.84 Dragon is a successful small commercial aircraft that was designed and built by the de Havilland company. [CLS] [SEP]
+[CLS] The de Havilland DH.84 Dragon is a successful small commercial aircraft that was designed and built by the de Havilland company. [SEP] [CLS]
 

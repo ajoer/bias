@@ -1,2 +1,2 @@
-Élisabeth Lamure (born 20 November 1947) is a French politician and a member of the Senate of France. [CLS] [SEP] She represents the Rhône department and is a member of the Union for a Popular Movement Party. [CLS] [SEP]
+[CLS] Élisabeth Lamure (born 20 November 1947) is a French politician and a member of the Senate of France. [SEP] [CLS] She represents the Rhône department and is a member of the Union for a Popular Movement Party. [SEP] [CLS]
 

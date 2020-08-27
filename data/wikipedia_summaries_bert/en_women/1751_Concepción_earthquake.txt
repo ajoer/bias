@@ -1,2 +1,0 @@
-The 1751 Concepción earthquake was one of the strongest and most destructive recorded quakes in Chilean history. [CLS] [SEP] It struck the Central Valley of the country, destroying the cities of Concepción, Chillán, Cauquenes, Curicó and Talca, probably on May 24, 1751, although there is currently a debate among scholars as to the exact date of the earthquake (see also "Other dates"). [CLS] [SEP]
-

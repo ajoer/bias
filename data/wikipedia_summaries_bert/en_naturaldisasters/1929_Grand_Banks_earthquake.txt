@@ -1,2 +1,2 @@
-The 1929 Grand Banks earthquake (also called the Laurentian Slope earthquake and the South Shore Disaster) occurred on November 18. [CLS] [SEP] The shock had a moment magnitude of 7.2 and a maximum Rossi–Forel intensity of VI (Strong tremor) and was centered in the Atlantic Ocean off the south coast of Newfoundland in the Laurentian Slope Seismic Zone. [CLS] [SEP]
+[CLS] The 1929 Grand Banks earthquake (also called the Laurentian Slope earthquake and the South Shore Disaster) occurred on November 18. [SEP] [CLS] The shock had a moment magnitude of 7.2 and a maximum Rossi–Forel intensity of VI (Strong tremor) and was centered in the Atlantic Ocean off the south coast of Newfoundland in the Laurentian Slope Seismic Zone. [SEP] [CLS]
 

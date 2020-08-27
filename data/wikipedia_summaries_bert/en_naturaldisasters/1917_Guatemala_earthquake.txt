@@ -1,2 +1,2 @@
-The 1917 Guatemala earthquake was a sequence of tremors that lasted from 17 November 1917 through 24 January 1918. [CLS] [SEP] They gradually increased in intensity until they almost completely destroyed Guatemala City and severely damaged the ruins in Antigua Guatemala that had survived the 1773 Guatemala earthquakes. [CLS] [SEP]
+[CLS] The 1917 Guatemala earthquake was a sequence of tremors that lasted from 17 November 1917 through 24 January 1918. [SEP] [CLS] They gradually increased in intensity until they almost completely destroyed Guatemala City and severely damaged the ruins in Antigua Guatemala that had survived the 1773 Guatemala earthquakes. [SEP] [CLS]
 

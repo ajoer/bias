@@ -1,2 +1,2 @@
-Qin Er Shi (Chinese: 秦二世; lit.: 'Second Generation of the Qin'; Mandarin: [tɕʰǐn ɑ̂ɻ ʂɨ̂]; 229 – October 207 BCE) was the son of Qin Shi Huang and the second emperor of China's Qin dynasty. [CLS] [SEP] He ruled from 210 to 207 BCE. [CLS] [SEP]
+[CLS] Qin Er Shi (Chinese: 秦二世; lit.: 'Second Generation of the Qin'; Mandarin: [tɕʰǐn ɑ̂ɻ ʂɨ̂]; 229 – October 207 BCE) was the son of Qin Shi Huang and the second emperor of China's Qin dynasty. [SEP] [CLS] He ruled from 210 to 207 BCE. [SEP] [CLS]
 

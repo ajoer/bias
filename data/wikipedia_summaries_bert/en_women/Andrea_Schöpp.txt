@@ -1,2 +1,2 @@
-Andrea Schöpp (born February 27, 1965) is a German curler from Garmisch-Partenkirchen. [CLS] [SEP] She lectures part-time in statistics at the University of Munich. [CLS] [SEP]
+[CLS] Andrea Schöpp (born February 27, 1965) is a German curler from Garmisch-Partenkirchen. [SEP] [CLS] She lectures part-time in statistics at the University of Munich. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Bettina Bunge (born 13 June 1963) is a retired German tennis player. [CLS] [SEP] Born in Adliswil, Switzerland, she was part of a large group of successful German players in the 1980s, which also included Steffi Graf, Claudia Kohde-Kilsch, Sylvia Hanika, and Eva Pfaff. [CLS] [SEP]
+[CLS] Bettina Bunge (born 13 June 1963) is a retired German tennis player. [SEP] [CLS] Born in Adliswil, Switzerland, she was part of a large group of successful German players in the 1980s, which also included Steffi Graf, Claudia Kohde-Kilsch, Sylvia Hanika, and Eva Pfaff. [SEP] [CLS]
 

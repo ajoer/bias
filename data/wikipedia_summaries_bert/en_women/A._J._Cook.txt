@@ -1,2 +1,2 @@
-Andrea Joy Cook (born July 22, 1978) is a Canadian actress. [CLS] [SEP] She is best known for her role as Supervisory Special Agent Jennifer "JJ" Jareau on the CBS crime drama Criminal Minds (2005-2020). [CLS] [SEP] She has also appeared in The Virgin Suicides (1999), Higher Ground (2000), Ripper (2001), Out Cold (2001), and Final Destination 2 (2003). [CLS] [SEP]
+[CLS] Andrea Joy Cook (born July 22, 1978) is a Canadian actress. [SEP] [CLS] She is best known for her role as Supervisory Special Agent Jennifer "JJ" Jareau on the CBS crime drama Criminal Minds (2005-2020). [SEP] [CLS] She has also appeared in The Virgin Suicides (1999), Higher Ground (2000), Ripper (2001), Out Cold (2001), and Final Destination 2 (2003). [SEP] [CLS]
 

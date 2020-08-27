@@ -1,2 +1,2 @@
-The 1185 East Midlands earthquake happened in England. [CLS] [SEP] It is the first earthquake in England for which there are reliable reports indicating damage. [CLS] [SEP] The moment magnitude of the shock was estimated to be above 5.0 and its intensity was placed at VII (Damaging) on the European macroseismic scale. [CLS] [SEP]
+[CLS] The 1185 East Midlands earthquake happened in England. [SEP] [CLS] It is the first earthquake in England for which there are reliable reports indicating damage. [SEP] [CLS] The moment magnitude of the shock was estimated to be above 5.0 and its intensity was placed at VII (Damaging) on the European macroseismic scale. [SEP] [CLS]
 

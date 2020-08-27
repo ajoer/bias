@@ -1,2 +1,2 @@
-Julia Franck (born 20 February 1970, in East Berlin) is a German writer. [CLS] [SEP]
+[CLS] Julia Franck (born 20 February 1970, in East Berlin) is a German writer. [SEP] [CLS]
 

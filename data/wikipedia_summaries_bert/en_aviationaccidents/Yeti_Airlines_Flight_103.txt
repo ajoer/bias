@@ -1,2 +1,2 @@
-Yeti Airlines Flight 103 was a domestic flight in Nepal, that crashed on final approach to Tenzing-Hillary Airport in the town of Lukla in eastern Nepal on 8 October 2008. [CLS] [SEP] The De Havilland Canada DHC-6 Twin Otter Series 300 registered as 9N-AFE originated from Tribhuvan International Airport in Kathmandu. [CLS] [SEP]
+[CLS] Yeti Airlines Flight 103 was a domestic flight in Nepal, that crashed on final approach to Tenzing-Hillary Airport in the town of Lukla in eastern Nepal on 8 October 2008. [SEP] [CLS] The De Havilland Canada DHC-6 Twin Otter Series 300 registered as 9N-AFE originated from Tribhuvan International Airport in Kathmandu. [SEP] [CLS]
 

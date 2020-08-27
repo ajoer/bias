@@ -1,2 +1,2 @@
-Pál Turán (Hungarian: [ˈpaːl ˈturaːn]; 18 August 1910 – 26 September 1976) also known as Paul Turán, was a Hungarian mathematician who worked primarily in number theory. [CLS] [SEP] He had a long collaboration with fellow Hungarian mathematician Paul Erdős, lasting 46 years and resulting in 28 joint papers. [CLS] [SEP]
+[CLS] Pál Turán (Hungarian: [ˈpaːl ˈturaːn]; 18 August 1910 – 26 September 1976) also known as Paul Turán, was a Hungarian mathematician who worked primarily in number theory. [SEP] [CLS] He had a long collaboration with fellow Hungarian mathematician Paul Erdős, lasting 46 years and resulting in 28 joint papers. [SEP] [CLS]
 

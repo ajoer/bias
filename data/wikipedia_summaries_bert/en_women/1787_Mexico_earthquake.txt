@@ -1,2 +1,0 @@
-The 1787 New Spain earthquake, also known as the San Sixto earthquake, occurred on 28 March at 11:30 local time (17:30 UTC). [CLS] [SEP] It caused a large tsunami that affected the coast of the Puebla Intendancy (includes the current state of Guerrero) and the Oaxaca Intendancy (currently Oaxaca) in Southwestern New Spain (in currently boundary of Mexico). [CLS] [SEP] With an estimated magnitude of 8.6 on the moment magnitude scale, it was more powerful than any instrumentally recorded Mexican earthquake. [CLS] [SEP]
-

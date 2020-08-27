@@ -1,2 +1,2 @@
-Regina Burchardt (born (1983-07-01)1 July 1983) is a German female former volleyball player, playing as a right side hitter. [CLS] [SEP] She was part of the Germany women's national volleyball team. [CLS] [SEP] She competed at the 2011 Women's European Volleyball Championship. [CLS] [SEP] On club level she played for VC Wiesbaden. [CLS] [SEP]
+[CLS] Regina Burchardt (born (1983-07-01)1 July 1983) is a German female former volleyball player, playing as a right side hitter. [SEP] [CLS] She was part of the Germany women's national volleyball team. [SEP] [CLS] She competed at the 2011 Women's European Volleyball Championship. [SEP] [CLS] On club level she played for VC Wiesbaden. [SEP] [CLS]
 

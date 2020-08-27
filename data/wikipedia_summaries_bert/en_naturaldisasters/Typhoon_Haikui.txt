@@ -1,2 +1,2 @@
-Typhoon Haikui was the third tropical cyclone in the span of a week to impact Mainland China during late July and early August 2012. [CLS] [SEP] The name Haikui, which replaces Longwang, means sea anemone in Chinese. [CLS] [SEP]
+[CLS] Typhoon Haikui was the third tropical cyclone in the span of a week to impact Mainland China during late July and early August 2012. [SEP] [CLS] The name Haikui, which replaces Longwang, means sea anemone in Chinese. [SEP] [CLS]
 

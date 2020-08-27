@@ -1,2 +1,2 @@
-The 1961 Derby Aviation crash refers to the fatal crash of a Douglas Dakota IV, registration G-AMSW, operated by Derby Aviation, the forerunner of British Midland Airways, on the mountain of Canigou, France, on 7 October 1961. [CLS] [SEP] All 34 on board (31 passengers, pilot, co-pilot and stewardess) were killed. [CLS] [SEP]
+[CLS] The 1961 Derby Aviation crash refers to the fatal crash of a Douglas Dakota IV, registration G-AMSW, operated by Derby Aviation, the forerunner of British Midland Airways, on the mountain of Canigou, France, on 7 October 1961. [SEP] [CLS] All 34 on board (31 passengers, pilot, co-pilot and stewardess) were killed. [SEP] [CLS]
 

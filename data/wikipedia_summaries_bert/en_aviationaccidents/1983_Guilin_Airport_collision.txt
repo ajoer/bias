@@ -1,2 +1,2 @@
-The 1983 Guilin Airport collision was a ground collision between a People's Liberation Army Air Force (PLAAF) Harbin H-5 bomber and a CAAC Hawker-Siddeley Trident at the military – civilian Guilin Qifengling Airport, killing 11 passengers. [CLS] [SEP]
+[CLS] The 1983 Guilin Airport collision was a ground collision between a People's Liberation Army Air Force (PLAAF) Harbin H-5 bomber and a CAAC Hawker-Siddeley Trident at the military – civilian Guilin Qifengling Airport, killing 11 passengers. [SEP] [CLS]
 

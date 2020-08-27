@@ -1,2 +1,2 @@
-Katja von Garnier (born 15 December 1966 in Wiesbaden) is a German film director. [CLS] [SEP]
+[CLS] Katja von Garnier (born 15 December 1966 in Wiesbaden) is a German film director. [SEP] [CLS]
 

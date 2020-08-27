@@ -1,2 +1,2 @@
-The London Vickers Viking accident occurred on 2 September 1958 when an Independent Air Travel Vickers VC.1 Viking (registration G-AIJE) with three crew members aboard and loaded with two Bristol Proteus turboprop engines as cargo attempted a flight from London Heathrow Airport to Tel Aviv via Nice, Brindisi and Athens. [CLS] [SEP]
+[CLS] The London Vickers Viking accident occurred on 2 September 1958 when an Independent Air Travel Vickers VC.1 Viking (registration G-AIJE) with three crew members aboard and loaded with two Bristol Proteus turboprop engines as cargo attempted a flight from London Heathrow Airport to Tel Aviv via Nice, Brindisi and Athens. [SEP] [CLS]
 

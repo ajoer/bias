@@ -1,2 +1,2 @@
-The 1904 Douliu earthquake (Chinese: 1904年斗六地震; pinyin: 1904 nián Dǒuliù dìzhèn) struck central Taiwan with a magnitude of 6.1 at 04:25 on November 6. [CLS] [SEP] The quake caused widespread damage and killed 145 people, making it the fifth deadliest earthquake of the 20th century in Taiwan. [CLS] [SEP]
+[CLS] The 1904 Douliu earthquake (Chinese: 1904年斗六地震; pinyin: 1904 nián Dǒuliù dìzhèn) struck central Taiwan with a magnitude of 6.1 at 04:25 on November 6. [SEP] [CLS] The quake caused widespread damage and killed 145 people, making it the fifth deadliest earthquake of the 20th century in Taiwan. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-On April 9, 1990, Atlantic Southeast Airlines Flight 2254, a scheduled passenger flight from Muscle Shoals, Alabama to Gadsden, Alabama to Atlanta, Georgia, was involved in a mid-air collision with a Cessna 172 over Gadsden. [CLS] [SEP] The collision resulted in the death of the pilot and passenger of the Cessna 172. [CLS] [SEP]
+[CLS] On April 9, 1990, Atlantic Southeast Airlines Flight 2254, a scheduled passenger flight from Muscle Shoals, Alabama to Gadsden, Alabama to Atlanta, Georgia, was involved in a mid-air collision with a Cessna 172 over Gadsden. [SEP] [CLS] The collision resulted in the death of the pilot and passenger of the Cessna 172. [SEP] [CLS]
 

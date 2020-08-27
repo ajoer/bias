@@ -1,2 +1,2 @@
-Guido of Siena, was an Italian painter, active during the 13th-century in Siena, and painting in a Byzantine style. [CLS] [SEP]
+[CLS] Guido of Siena, was an Italian painter, active during the 13th-century in Siena, and painting in a Byzantine style. [SEP] [CLS]
 

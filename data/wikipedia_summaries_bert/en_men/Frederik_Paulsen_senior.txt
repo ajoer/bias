@@ -1,2 +1,2 @@
-Prof Dr Frederik Paulsen OBE is a Swedish billionaire businessman, explorer, philanthropist and non-executive chairman of Ferring Pharmaceuticals. [CLS] [SEP]
+[CLS] Prof Dr Frederik Paulsen OBE is a Swedish billionaire businessman, explorer, philanthropist and non-executive chairman of Ferring Pharmaceuticals. [SEP] [CLS]
 

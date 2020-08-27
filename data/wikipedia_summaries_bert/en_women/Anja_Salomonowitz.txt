@@ -1,2 +1,2 @@
-Anja Salomonowitz (born in Vienna) is an Austrian film director and screenwriter, specialised on documentary films with political or social background. [CLS] [SEP]
+[CLS] Anja Salomonowitz (born in Vienna) is an Austrian film director and screenwriter, specialised on documentary films with political or social background. [SEP] [CLS]
 

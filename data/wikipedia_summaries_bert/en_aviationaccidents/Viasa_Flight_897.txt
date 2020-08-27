@@ -1,2 +1,2 @@
-Viasa Flight 897 refers to an international scheduled Rome–Madrid–Lisbon–Santa Maria–Caracas passenger service that crashed into the Atlantic Ocean off the coast of Portugal on 30 May 1961, shortly after takeoff from Portela Airport. [CLS] [SEP] There were no survivors among the 61 occupants of the aircraft. [CLS] [SEP]
+[CLS] Viasa Flight 897 refers to an international scheduled Rome–Madrid–Lisbon–Santa Maria–Caracas passenger service that crashed into the Atlantic Ocean off the coast of Portugal on 30 May 1961, shortly after takeoff from Portela Airport. [SEP] [CLS] There were no survivors among the 61 occupants of the aircraft. [SEP] [CLS]
 

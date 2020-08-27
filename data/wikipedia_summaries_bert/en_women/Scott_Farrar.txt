@@ -1,2 +1,0 @@
-Scott Farrar is an American visual effects supervisor. [CLS] [SEP] He is known for being the lead visual effects supervisor of the Transformers film series. [CLS] [SEP] He has been nominated for an Academy Award six times, winning once for Cocoon. [CLS] [SEP] His other nominations include Backdraft, A.I. [CLS] [SEP] Artificial Intelligence, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Transformers and Transformers: Dark of the Moon. [CLS] [SEP]
-

@@ -1,2 +1,2 @@
-Yelena Migunova (born January 4, 1984 in Kazan) is a Russian sprint athlete. [CLS] [SEP] She won the silver medal in the 4 × 400 m relay at the 2008 Summer Olympics. [CLS] [SEP] Her teammates included Natalya Nazarova and Tatyana Levina
+[CLS] Yelena Migunova (born January 4, 1984 in Kazan) is a Russian sprint athlete. [SEP] [CLS] She won the silver medal in the 4 × 400 m relay at the 2008 Summer Olympics. [SEP] [CLS] Her teammates included Natalya Nazarova and Tatyana Levina
 

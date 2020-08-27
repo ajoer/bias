@@ -1,2 +1,2 @@
-An earthquake measuring Mw 8.0 struck Peru and the surrounding areas on 26 May 2019 at 02:41 local time. [CLS] [SEP] It had a maximum perceived intensity of VIII (Severe) on the Modified Mercalli intensity scale. [CLS] [SEP] Two people died and a further 30 were injured. [CLS] [SEP] It was the strongest earthquake in 2019 by magnitude. [CLS] [SEP]
+[CLS] An earthquake measuring Mw 8.0 struck Peru and the surrounding areas on 26 May 2019 at 02:41 local time. [SEP] [CLS] It had a maximum perceived intensity of VIII (Severe) on the Modified Mercalli intensity scale. [SEP] [CLS] Two people died and a further 30 were injured. [SEP] [CLS] It was the strongest earthquake in 2019 by magnitude. [SEP] [CLS]
 

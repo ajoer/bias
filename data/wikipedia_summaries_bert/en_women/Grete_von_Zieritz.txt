@@ -1,2 +1,2 @@
-Grete von Zieritz (10 March 1899 – 26 November 2001) was an Austrian-German composer and pianist. [CLS] [SEP]
+[CLS] Grete von Zieritz (10 March 1899 – 26 November 2001) was an Austrian-German composer and pianist. [SEP] [CLS]
 

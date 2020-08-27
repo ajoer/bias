@@ -1,2 +1,2 @@
-Gilles de Corbeil (Latin: Egidius de Corbolio or Egidius Corboliensis; also Aegidius) was a French royal physician, teacher, and poet. [CLS] [SEP] He was born in approximately 1140 in Corbeil and died in the first quarter of the 13th century. [CLS] [SEP] He is the author of four medical poems and a scathing anti-clerical satire, all in Latin dactylic hexameters. [CLS] [SEP]
+[CLS] Gilles de Corbeil (Latin: Egidius de Corbolio or Egidius Corboliensis; also Aegidius) was a French royal physician, teacher, and poet. [SEP] [CLS] He was born in approximately 1140 in Corbeil and died in the first quarter of the 13th century. [SEP] [CLS] He is the author of four medical poems and a scathing anti-clerical satire, all in Latin dactylic hexameters. [SEP] [CLS]
 

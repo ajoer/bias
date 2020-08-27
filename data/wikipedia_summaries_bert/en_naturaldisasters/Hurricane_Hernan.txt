@@ -1,2 +1,2 @@
-The name Hernan has been used for six tropical cyclones in the Eastern Pacific Ocean. [CLS] [SEP] Tropical Storm Hernan (1984) Hurricane Hernan (1990) Hurricane Hernan (1996) Hurricane Hernan (2002) – affected California. [CLS] [SEP] Hurricane Hernan (2008) – remained out over open waters. [CLS] [SEP] Hurricane Hernan (2014)
+[CLS] The name Hernan has been used for six tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Hernan (1984) Hurricane Hernan (1990) Hurricane Hernan (1996) Hurricane Hernan (2002) – affected California. [SEP] [CLS] Hurricane Hernan (2008) – remained out over open waters. [SEP] [CLS] Hurricane Hernan (2014)
 

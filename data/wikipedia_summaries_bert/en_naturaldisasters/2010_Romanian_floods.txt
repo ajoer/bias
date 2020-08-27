@@ -1,2 +1,2 @@
-The 2010 Romanian floods (Romanian: Inundațiile din iunie 2010 din România) were the result of an extreme weather event that struck Romania in late June 2010. [CLS] [SEP] Currently, at least 21 people died. [CLS] [SEP] The north-east of the country, especially Suceava County was most affected. [CLS] [SEP] Also affected was the Chernivtsi Oblast in neighbouring Ukraine. [CLS] [SEP]
+[CLS] The 2010 Romanian floods (Romanian: Inundațiile din iunie 2010 din România) were the result of an extreme weather event that struck Romania in late June 2010. [SEP] [CLS] Currently, at least 21 people died. [SEP] [CLS] The north-east of the country, especially Suceava County was most affected. [SEP] [CLS] Also affected was the Chernivtsi Oblast in neighbouring Ukraine. [SEP] [CLS]
 

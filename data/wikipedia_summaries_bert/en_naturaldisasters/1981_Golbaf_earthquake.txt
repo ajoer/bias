@@ -1,2 +1,2 @@
-The 1981 Golbaf earthquake occurred on June 11 at 10:54:25 local time with a moment magnitude of 6.6 and a maximum Mercalli intensity of VIII+ (Severe). [CLS] [SEP] Total damage was considered moderate and amounted to $5 million in financial losses, with many injured, and 1,400–3,000 killed. [CLS] [SEP]
+[CLS] The 1981 Golbaf earthquake occurred on June 11 at 10:54:25 local time with a moment magnitude of 6.6 and a maximum Mercalli intensity of VIII+ (Severe). [SEP] [CLS] Total damage was considered moderate and amounted to $5 million in financial losses, with many injured, and 1,400–3,000 killed. [SEP] [CLS]
 

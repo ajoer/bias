@@ -1,2 +1,2 @@
-Cyclone Andrea was an intense European windstorm that affected western and central Europe in early January 2012. [CLS] [SEP]
+[CLS] Cyclone Andrea was an intense European windstorm that affected western and central Europe in early January 2012. [SEP] [CLS]
 

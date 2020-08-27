@@ -1,2 +1,2 @@
-At 14:11 PST (06:11 UTC) on December 15, 2019, the province of Davao del Sur on the island of Mindanao in the Philippines was struck by an earthquake measuring 6.8 Mw. [CLS] [SEP] It had a maximum perceived intensity of VII (Very strong) on the Modified Mercalli Intensity Scale. [CLS] [SEP] At least 13 people were killed and another 210 injured. [CLS] [SEP]
+[CLS] At 14:11 PST (06:11 UTC) on December 15, 2019, the province of Davao del Sur on the island of Mindanao in the Philippines was struck by an earthquake measuring 6.8 Mw. [SEP] [CLS] It had a maximum perceived intensity of VII (Very strong) on the Modified Mercalli Intensity Scale. [SEP] [CLS] At least 13 people were killed and another 210 injured. [SEP] [CLS]
 

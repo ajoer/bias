@@ -1,2 +1,2 @@
-The CASA C-212 Aviocar is a turboprop-powered STOL medium cargo aircraft designed and built by CASA in Spain for civil and military use. [CLS] [SEP]
+[CLS] The CASA C-212 Aviocar is a turboprop-powered STOL medium cargo aircraft designed and built by CASA in Spain for civil and military use. [SEP] [CLS]
 

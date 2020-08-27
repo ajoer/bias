@@ -1,2 +1,2 @@
-Maria Holaus (born December 19, 1983) is a professional alpine skier from Austria. [CLS] [SEP] Her specialities are the Downhill and the Super-G. [CLS] [SEP]
+[CLS] Maria Holaus (born December 19, 1983) is a professional alpine skier from Austria. [SEP] [CLS] Her specialities are the Downhill and the Super-G. [SEP] [CLS]
 

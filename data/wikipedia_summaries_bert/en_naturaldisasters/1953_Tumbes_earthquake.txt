@@ -1,2 +1,2 @@
-The 1953 Tumbes earthquake occurred on December 12 at 12:31:29 local time near the border between Peru and Ecuador. [CLS] [SEP] The shock had a moment magnitude of 7.5, a maximum Mercalli Intensity of VIII (Severe), and occurred in the northwestern offshore area of Tumbes, Peru. [CLS] [SEP]
+[CLS] The 1953 Tumbes earthquake occurred on December 12 at 12:31:29 local time near the border between Peru and Ecuador. [SEP] [CLS] The shock had a moment magnitude of 7.5, a maximum Mercalli Intensity of VIII (Severe), and occurred in the northwestern offshore area of Tumbes, Peru. [SEP] [CLS]
 

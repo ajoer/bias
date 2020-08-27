@@ -1,2 +1,2 @@
-Aeroflot Flight 630 was a Soviet domestic passenger flight from Dushanbe to Moscow via Leninabad (now Khujand in Tajikistan) that crashed on 24 February 1973, killing all 79 people on board, including five children. [CLS] [SEP] The accident has been attributed to the loss of control. [CLS] [SEP]
+[CLS] Aeroflot Flight 630 was a Soviet domestic passenger flight from Dushanbe to Moscow via Leninabad (now Khujand in Tajikistan) that crashed on 24 February 1973, killing all 79 people on board, including five children. [SEP] [CLS] The accident has been attributed to the loss of control. [SEP] [CLS]
 

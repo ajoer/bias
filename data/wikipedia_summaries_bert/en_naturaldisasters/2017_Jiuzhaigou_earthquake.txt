@@ -1,2 +1,2 @@
-The 2017 Jiuzhaigou earthquake occurred on 8 August 2017, in Zhangzha Town, Jiuzhaigou County, Ngawa Prefecture, Sichuan Province, China. [CLS] [SEP] The earthquake was registered at Ms 7.0 and killed at least 25 people in the mountainous region of northern Sichuan. [CLS] [SEP]
+[CLS] The 2017 Jiuzhaigou earthquake occurred on 8 August 2017, in Zhangzha Town, Jiuzhaigou County, Ngawa Prefecture, Sichuan Province, China. [SEP] [CLS] The earthquake was registered at Ms 7.0 and killed at least 25 people in the mountainous region of northern Sichuan. [SEP] [CLS]
 

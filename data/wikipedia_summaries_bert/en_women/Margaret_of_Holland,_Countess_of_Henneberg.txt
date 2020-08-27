@@ -1,2 +1,2 @@
-Margaret of Henneberg (1234 – 26 March 1276) was a Dutch countess, known for a famous medieval legend. [CLS] [SEP] She was a daughter of Count Floris IV of Holland and his wife, Matilda of Brabant. [CLS] [SEP]
+[CLS] Margaret of Henneberg (1234 – 26 March 1276) was a Dutch countess, known for a famous medieval legend. [SEP] [CLS] She was a daughter of Count Floris IV of Holland and his wife, Matilda of Brabant. [SEP] [CLS]
 

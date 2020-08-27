@@ -1,2 +1,2 @@
-The Great Chesapeake Bay Hurricane of 1769 was a major hurricane to hit the mid-Atlantic coast from North Carolina north to New England on September 7–8, 1769. [CLS] [SEP] It is believed to have been one of the worst storms of the century. [CLS] [SEP]
+[CLS] The Great Chesapeake Bay Hurricane of 1769 was a major hurricane to hit the mid-Atlantic coast from North Carolina north to New England on September 7–8, 1769. [SEP] [CLS] It is believed to have been one of the worst storms of the century. [SEP] [CLS]
 

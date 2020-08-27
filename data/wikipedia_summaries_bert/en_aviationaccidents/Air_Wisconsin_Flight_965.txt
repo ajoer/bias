@@ -1,2 +1,2 @@
-Air Wisconsin Flight 965 (registration N650S) was a flight operated by Air Wisconsin that crashed near Valley, Nebraska, on June 12, 1980. [CLS] [SEP] The crash was caused by poor weather conditions making the engines fail and failure to recontrol the aircraft. [CLS] [SEP]
+[CLS] Air Wisconsin Flight 965 (registration N650S) was a flight operated by Air Wisconsin that crashed near Valley, Nebraska, on June 12, 1980. [SEP] [CLS] The crash was caused by poor weather conditions making the engines fail and failure to recontrol the aircraft. [SEP] [CLS]
 

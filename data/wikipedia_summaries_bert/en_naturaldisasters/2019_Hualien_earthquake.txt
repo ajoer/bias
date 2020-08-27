@@ -1,2 +1,2 @@
-The 2019 Hualien earthquake struck Hualien County, Taiwan with a moment magnitude of 6.1 on 18 April at 13:01 local time (05:01 UTC). [CLS] [SEP]
+[CLS] The 2019 Hualien earthquake struck Hualien County, Taiwan with a moment magnitude of 6.1 on 18 April at 13:01 local time (05:01 UTC). [SEP] [CLS]
 

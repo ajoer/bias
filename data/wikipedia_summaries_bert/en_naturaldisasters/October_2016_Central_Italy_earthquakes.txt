@@ -1,2 +1,2 @@
-A series of major earthquakes struck Central Italy between the Marche and Umbria regions in October 2016. [CLS] [SEP] The third quake on 30 October was the largest in Italy in 36 years, since the 1980 Irpinia earthquake. [CLS] [SEP]
+[CLS] A series of major earthquakes struck Central Italy between the Marche and Umbria regions in October 2016. [SEP] [CLS] The third quake on 30 October was the largest in Italy in 36 years, since the 1980 Irpinia earthquake. [SEP] [CLS]
 

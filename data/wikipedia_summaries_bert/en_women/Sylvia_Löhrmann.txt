@@ -1,2 +1,2 @@
-Sylvia Löhrmann (born 1 March 1957, Essen, Germany) is a German politician of the Green Party. [CLS] [SEP]
+[CLS] Sylvia Löhrmann (born 1 March 1957, Essen, Germany) is a German politician of the Green Party. [SEP] [CLS]
 

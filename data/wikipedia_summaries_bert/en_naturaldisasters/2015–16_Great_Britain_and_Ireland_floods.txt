@@ -1,2 +1,2 @@
-The 2015–16 Great Britain and Ireland floods were a series of heavy rainfall events which led to flooding during the winter of late 2015 and early 2016. [CLS] [SEP]
+[CLS] The 2015–16 Great Britain and Ireland floods were a series of heavy rainfall events which led to flooding during the winter of late 2015 and early 2016. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Elena Anatolyevna Lashmanova (Russian: Елена Анатольевна Лашманова, born April 9, 1992 in Saransk, Mordovia) is a Russian race walker. [CLS] [SEP] She was the 2012 Olympic Champion in the 20 km walk. [CLS] [SEP] She received a two-year ban for a doping violation along with a similar penalty for the majority of her training partners shortly thereafter. [CLS] [SEP]
+[CLS] Elena Anatolyevna Lashmanova (Russian: Елена Анатольевна Лашманова, born April 9, 1992 in Saransk, Mordovia) is a Russian race walker. [SEP] [CLS] She was the 2012 Olympic Champion in the 20 km walk. [SEP] [CLS] She received a two-year ban for a doping violation along with a similar penalty for the majority of her training partners shortly thereafter. [SEP] [CLS]
 

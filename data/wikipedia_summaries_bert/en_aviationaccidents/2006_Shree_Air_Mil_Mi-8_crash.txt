@@ -1,2 +1,2 @@
-On 23 September 2006, a Shree Air Mil Mi-8 helicopter crashed on a chartered flight from Phungling to Ghunsa in Eastern Nepal. [CLS] [SEP] The accident killed all 24 passengers and crew on board, including an expedition of World Wide Fund for Nature. [CLS] [SEP]
+[CLS] On 23 September 2006, a Shree Air Mil Mi-8 helicopter crashed on a chartered flight from Phungling to Ghunsa in Eastern Nepal. [SEP] [CLS] The accident killed all 24 passengers and crew on board, including an expedition of World Wide Fund for Nature. [SEP] [CLS]
 

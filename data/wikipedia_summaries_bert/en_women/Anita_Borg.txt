@@ -1,2 +1,2 @@
-Anita Borg (January 17, 1949 – April 6, 2003) was an American computer scientist. [CLS] [SEP] She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing. [CLS] [SEP]
+[CLS] Anita Borg (January 17, 1949 – April 6, 2003) was an American computer scientist. [SEP] [CLS] She founded the Institute for Women and Technology and the Grace Hopper Celebration of Women in Computing. [SEP] [CLS]
 

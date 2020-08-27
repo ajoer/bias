@@ -1,2 +1,2 @@
-Baldur Ragnarsson (25 August 1930 – 25 December 2018) was an Icelandic poet and author of Esperanto works. [CLS] [SEP] He was a teacher and a superintendent of schools in Iceland. [CLS] [SEP]
+[CLS] Baldur Ragnarsson (25 August 1930 – 25 December 2018) was an Icelandic poet and author of Esperanto works. [SEP] [CLS] He was a teacher and a superintendent of schools in Iceland. [SEP] [CLS]
 

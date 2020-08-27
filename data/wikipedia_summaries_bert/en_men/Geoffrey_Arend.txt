@@ -1,2 +1,2 @@
-Geoffrey Arend (born February 28, 1978) is an American film, television, voice and theater actor. [CLS] [SEP] He is best known for his role as Ethan Gross on the ABC drama series Body of Proof and Matt Mahoney on the CBS political drama series Madam Secretary. [CLS] [SEP]
+[CLS] Geoffrey Arend (born February 28, 1978) is an American film, television, voice and theater actor. [SEP] [CLS] He is best known for his role as Ethan Gross on the ABC drama series Body of Proof and Matt Mahoney on the CBS political drama series Madam Secretary. [SEP] [CLS]
 

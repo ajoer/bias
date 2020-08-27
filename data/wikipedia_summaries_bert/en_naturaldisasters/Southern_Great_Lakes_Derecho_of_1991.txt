@@ -1,2 +1,2 @@
-The Southern Great Lakes Derecho of 1991 is the derecho event that occurred on July 7 and 8, 1991. [CLS] [SEP] It lasted 17 hours and raced from South Dakota through southern Michigan before dying out over Western Pennsylvania. [CLS] [SEP]
+[CLS] The Southern Great Lakes Derecho of 1991 is the derecho event that occurred on July 7 and 8, 1991. [SEP] [CLS] It lasted 17 hours and raced from South Dakota through southern Michigan before dying out over Western Pennsylvania. [SEP] [CLS]
 

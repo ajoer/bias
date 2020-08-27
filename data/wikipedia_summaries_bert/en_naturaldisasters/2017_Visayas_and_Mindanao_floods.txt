@@ -1,2 +1,2 @@
-The 2017 Visayas and Mindanao floods was an event that caused extreme flooding within parts of the Philippines, caused by several low-pressure systems. [CLS] [SEP] In mid-January 2017, several parts of Visayas and Mindanao experienced flooding as a result of a low-pressure area, combined with the tail-end of a cold front. [CLS] [SEP]
+[CLS] The 2017 Visayas and Mindanao floods was an event that caused extreme flooding within parts of the Philippines, caused by several low-pressure systems. [SEP] [CLS] In mid-January 2017, several parts of Visayas and Mindanao experienced flooding as a result of a low-pressure area, combined with the tail-end of a cold front. [SEP] [CLS]
 

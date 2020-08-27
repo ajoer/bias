@@ -1,2 +1,2 @@
-The Chenghua Emperor (Chinese: 成化; pinyin: Chénghuà; 9 December 1447 – 9 September 1487), born Zhu Jianshen, was the ninth Emperor of the Ming dynasty, reigned from 1464 to 1487. [CLS] [SEP] His era name "Chenghua" means "accomplished change". [CLS] [SEP]
+[CLS] The Chenghua Emperor (Chinese: 成化; pinyin: Chénghuà; 9 December 1447 – 9 September 1487), born Zhu Jianshen, was the ninth Emperor of the Ming dynasty, reigned from 1464 to 1487. [SEP] [CLS] His era name "Chenghua" means "accomplished change". [SEP] [CLS]
 

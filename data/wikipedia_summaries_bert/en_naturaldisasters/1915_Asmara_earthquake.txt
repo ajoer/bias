@@ -1,2 +1,2 @@
-The 1915 Asmara earthquake took place outside Asmara, Eritrea on September 23 with an Mw of 6.2 and a maximum perceived intensity of VI (Strong) on the Mercalli intensity scale. [CLS] [SEP]
+[CLS] The 1915 Asmara earthquake took place outside Asmara, Eritrea on September 23 with an Mw of 6.2 and a maximum perceived intensity of VI (Strong) on the Mercalli intensity scale. [SEP] [CLS]
 

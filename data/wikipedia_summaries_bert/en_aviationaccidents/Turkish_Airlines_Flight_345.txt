@@ -1,2 +1,2 @@
-Turkish Airlines Flight 345 was a scheduled domestic passenger flight operated by a Fokker F28-1000 Fellowship from Izmir Cumaovası Airport to Istanbul Yeşilköy Airport that crashed into the Sea of Marmara on 30 January 1975 during approach. [CLS] [SEP] It was the second worst accident involving a Fokker F28 and third deadliest aviation accident in Turkey at that time. [CLS] [SEP]
+[CLS] Turkish Airlines Flight 345 was a scheduled domestic passenger flight operated by a Fokker F28-1000 Fellowship from Izmir Cumaovası Airport to Istanbul Yeşilköy Airport that crashed into the Sea of Marmara on 30 January 1975 during approach. [SEP] [CLS] It was the second worst accident involving a Fokker F28 and third deadliest aviation accident in Turkey at that time. [SEP] [CLS]
 

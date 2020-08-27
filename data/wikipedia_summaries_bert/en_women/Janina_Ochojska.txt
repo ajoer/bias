@@ -1,2 +1,2 @@
-Janina Maria Ochojska-Okońska (born 12 March 1955) is a Polish astronomer, humanitarian and social activist, who served as a Member of the European Parliament (2019–present). [CLS] [SEP] She is founder and director of the Polish Humanitarian Action (1992–present). [CLS] [SEP]
+[CLS] Janina Maria Ochojska-Okońska (born 12 March 1955) is a Polish astronomer, humanitarian and social activist, who served as a Member of the European Parliament (2019–present). [SEP] [CLS] She is founder and director of the Polish Humanitarian Action (1992–present). [SEP] [CLS]
 

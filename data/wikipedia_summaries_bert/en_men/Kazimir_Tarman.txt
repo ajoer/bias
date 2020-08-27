@@ -1,2 +1,2 @@
-Kazimir Tarman (born 4 March 1930) is a Slovene professor of Animal Ecology, author of many scientific and popular science books on ecology.In 1975, he won the Levstik Award for his book Zakaj, zato v ekologiji (Questions and Answers in Ecology). [CLS] [SEP]
+[CLS] Kazimir Tarman (born 4 March 1930) is a Slovene professor of Animal Ecology, author of many scientific and popular science books on ecology.In 1975, he won the Levstik Award for his book Zakaj, zato v ekologiji (Questions and Answers in Ecology). [SEP] [CLS]
 

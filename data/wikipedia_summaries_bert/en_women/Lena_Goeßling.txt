@@ -1,2 +1,2 @@
-Lena Goeßling (also spelled Goessling, born 8 March 1986) is a German footballer. [CLS] [SEP] She plays as a midfielder for VfL Wolfsburg. [CLS] [SEP]
+[CLS] Lena Goeßling (also spelled Goessling, born 8 March 1986) is a German footballer. [SEP] [CLS] She plays as a midfielder for VfL Wolfsburg. [SEP] [CLS]
 

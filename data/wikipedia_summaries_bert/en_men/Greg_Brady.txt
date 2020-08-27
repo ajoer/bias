@@ -1,2 +1,2 @@
-The following is a list and description of the primary characters from the classic American television series The Brady Bunch, that was broadcast from September 1969 to March 1974. [CLS] [SEP] The characters also appeared in all subsequent reunions, remakes, and theatrical/TV films. [CLS] [SEP]
+[CLS] The following is a list and description of the primary characters from the classic American television series The Brady Bunch, that was broadcast from September 1969 to March 1974. [SEP] [CLS] The characters also appeared in all subsequent reunions, remakes, and theatrical/TV films. [SEP] [CLS]
 

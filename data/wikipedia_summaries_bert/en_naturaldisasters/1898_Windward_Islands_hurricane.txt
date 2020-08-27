@@ -1,2 +1,2 @@
-The Windward Islands Hurricane was a strong, destructive hurricane that raged through the eastern Caribbean islands in the early part of September during the 1898 Atlantic hurricane season. [CLS] [SEP] Between 300 and 400 people are believed to have died in the storm. [CLS] [SEP] Damage on Barbados and St. [CLS] [SEP] Vincent was catastrophic. [CLS] [SEP]
+[CLS] The Windward Islands Hurricane was a strong, destructive hurricane that raged through the eastern Caribbean islands in the early part of September during the 1898 Atlantic hurricane season. [SEP] [CLS] Between 300 and 400 people are believed to have died in the storm. [SEP] [CLS] Damage on Barbados and St. [SEP] [CLS] Vincent was catastrophic. [SEP] [CLS]
 

@@ -1,2 +1,2 @@
-Q or q is the 17th letter of the modern English alphabet and the ISO basic Latin alphabet. [CLS] [SEP] Its name in English is cue (pronounced ), plural cues. [CLS] [SEP]
+[CLS] Q or q is the 17th letter of the modern English alphabet and the ISO basic Latin alphabet. [SEP] [CLS] Its name in English is cue (pronounced ), plural cues. [SEP] [CLS]
 

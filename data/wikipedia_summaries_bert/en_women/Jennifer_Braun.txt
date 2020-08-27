@@ -1,2 +1,2 @@
-Jennifer Braun (born 28 April 1991) is a German singer. [CLS] [SEP] She was runner-up at the talent show Unser Star für Oslo, Germany's national pre-selection show for the Eurovision Song Contest 2010. [CLS] [SEP] Her first music single was "I Care for You". [CLS] [SEP]
+[CLS] Jennifer Braun (born 28 April 1991) is a German singer. [SEP] [CLS] She was runner-up at the talent show Unser Star für Oslo, Germany's national pre-selection show for the Eurovision Song Contest 2010. [SEP] [CLS] Her first music single was "I Care for You". [SEP] [CLS]
 

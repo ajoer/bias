@@ -1,2 +1,2 @@
-Pan Am Flight 292 was operated by a Boeing 707-120B that flew into Chances Peak on the island of Montserrat on 17 September 1965 while on a flight from Fort-de-France - Le Lamentin Airport in Martinique to Coolidge International Airport in Antigua and Barbuda. [CLS] [SEP] The aircraft was destroyed, there were no survivors among the 30 passengers and crew on board. [CLS] [SEP]
+[CLS] Pan Am Flight 292 was operated by a Boeing 707-120B that flew into Chances Peak on the island of Montserrat on 17 September 1965 while on a flight from Fort-de-France - Le Lamentin Airport in Martinique to Coolidge International Airport in Antigua and Barbuda. [SEP] [CLS] The aircraft was destroyed, there were no survivors among the 30 passengers and crew on board. [SEP] [CLS]
 

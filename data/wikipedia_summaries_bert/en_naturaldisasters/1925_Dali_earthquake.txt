@@ -1,2 +1,2 @@
-The 1925 Dali earthquake occurred at 14:42 UTC on 16 March. [CLS] [SEP] It had an estimated magnitude of 7.0 on the surface wave magnitude scale and a maximum perceived intensity of at least IX (Violent) on the Mercalli intensity scale. [CLS] [SEP] It had an epicenter in the province of Yunnan in southern China and killed an estimated 5,000 people. [CLS] [SEP]
+[CLS] The 1925 Dali earthquake occurred at 14:42 UTC on 16 March. [SEP] [CLS] It had an estimated magnitude of 7.0 on the surface wave magnitude scale and a maximum perceived intensity of at least IX (Violent) on the Mercalli intensity scale. [SEP] [CLS] It had an epicenter in the province of Yunnan in southern China and killed an estimated 5,000 people. [SEP] [CLS]
 

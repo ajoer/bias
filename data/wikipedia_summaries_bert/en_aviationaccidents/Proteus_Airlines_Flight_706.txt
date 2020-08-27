@@ -1,2 +1,2 @@
-Proteus Airlines Flight 706 was a scheduled commuter flight from Lyon, France to Lorient, France. [CLS] [SEP] On July 30, 1998 the Beechcraft 1900D operating the flight collided in mid-air with a light aircraft over Quiberon Bay. [CLS] [SEP] This accident was known as Quiberon Bay plane crash. [CLS] [SEP] Both aircraft crashed in the sea, killing fifteen people. [CLS] [SEP]
+[CLS] Proteus Airlines Flight 706 was a scheduled commuter flight from Lyon, France to Lorient, France. [SEP] [CLS] On July 30, 1998 the Beechcraft 1900D operating the flight collided in mid-air with a light aircraft over Quiberon Bay. [SEP] [CLS] This accident was known as Quiberon Bay plane crash. [SEP] [CLS] Both aircraft crashed in the sea, killing fifteen people. [SEP] [CLS]
 

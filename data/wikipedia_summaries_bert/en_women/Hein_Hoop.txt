@@ -1,2 +1,0 @@
-This page is a list of British Academy Award nominees and winners. [CLS] [SEP] This list details the filmmakers, actors, actresses, and others born and working in the United Kingdom who have been nominated for or have won an Academy Award. [CLS] [SEP]
-
