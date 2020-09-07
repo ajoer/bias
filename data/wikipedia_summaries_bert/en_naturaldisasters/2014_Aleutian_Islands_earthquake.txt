@@ -1,2 +1,0 @@
-[CLS] The 2014 Aleutian Islands earthquake occurred on 23 June at 11:53 HDT (UTC-9) with a moment magnitude of 7.9 and a maximum Mercalli intensity of VI (Strong). [SEP] [CLS] The shock occurred in the Aleutian Islands – part of the US state of Alaska – 19 miles (31 km) southeast of Little Sitkin Island. [SEP] [CLS]
-

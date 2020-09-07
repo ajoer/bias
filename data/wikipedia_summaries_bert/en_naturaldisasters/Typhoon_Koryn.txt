@@ -1,2 +1,0 @@
-[CLS] The name Koryn has been used for two tropical cyclones in the northwest Pacific Ocean. [SEP] [CLS] Typhoon Koryn (1990) (T9001, 01W) Typhoon Koryn (1993) (T9302, 06W) – struck the Philippines and China. [SEP] [CLS]
-

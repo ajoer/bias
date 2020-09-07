@@ -1,2 +1,0 @@
-[CLS] Corporate Airlines Flight 5966 was a scheduled passenger flight from St. [SEP] [CLS] Louis, Missouri to Kirksville, Missouri. [SEP] [CLS] On October 19, 2004, the Jetstream 32 operating the flight crashed on approach to Kirksville Regional Airport due to pilot error. [SEP] [CLS] Thirteen people were killed. [SEP] [CLS]
-

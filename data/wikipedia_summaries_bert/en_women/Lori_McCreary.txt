@@ -1,2 +1,0 @@
-[CLS] Lori McCreary (born in Antioch, California) is an American motion picture producer and computer scientist. [SEP] [CLS] She is CEO of the production company Revelations Entertainment, which she co-founded with actor Morgan Freeman. [SEP] [CLS]
-

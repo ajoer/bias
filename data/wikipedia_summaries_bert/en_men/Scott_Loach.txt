@@ -1,2 +1,0 @@
-[CLS] Scott James Loach (born 27 May 1988) is an English professional footballer who plays as a goalkeeper for National League club Barnet. [SEP] [CLS] Loach previously played for Ipswich Town, Watford and Hartlepool United. [SEP] [CLS] He has also spent loan spells with non-League Stafford Rangers and York City, and Football League clubs Morecambe, Bradford City, Bury, Peterborough United, Yeovil Town and Notts County. [SEP] [CLS] He played for England at under-21 level and in August 2010 was called up to the senior squad for the first time. [SEP] [CLS]
-

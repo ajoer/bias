@@ -1,2 +1,0 @@
-[CLS] On 9 August 2013, an Antonov An-12 operated by the Ethiopian Air Force crashed while attempting to land at Aden Abdulle International Airport in Mogadishu, Somalia. [SEP] [CLS] There were six crew on board, of which four perished and two survived with injuries. [SEP] [CLS]
-

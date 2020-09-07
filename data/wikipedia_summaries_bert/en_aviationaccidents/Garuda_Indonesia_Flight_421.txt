@@ -1,2 +1,0 @@
-[CLS] Garuda Indonesia Flight 421 was a scheduled domestic flight operated by Indonesian flag carrier Garuda Indonesia travelling about 625 km (388 mi; 337 nmi) from Ampenan to Yogyakarta. [SEP] [CLS] On January 16, 2002, the flight encountered severe thunderstorm activity during approach to its destination, suffered flameout in both engines, and ditched in a shallow river, resulting in one fatality and several injuries. [SEP] [CLS]
-

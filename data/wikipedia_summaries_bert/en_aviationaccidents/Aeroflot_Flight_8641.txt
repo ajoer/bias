@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 8641 was a Yakovlev Yak-42 airliner on a domestic scheduled passenger flight from Leningrad to Kiev. [SEP] [CLS] On 28 June 1982, the flight crashed south of Mozyr, Belorussian SSR, killing all 132 people on board. [SEP] [CLS] The accident was both the first and deadliest crash of a Yakovlev Yak-42, and remains the deadliest aviation accident in Belarus.The cause was a failure of the jackscrew controlling the horizontal stabilizer due to a design flaw. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The name Muifa has been used for three tropical cyclones to name in the western north Pacific Ocean. [SEP] [CLS] The name was submitted by Macau, and was taken from the ume blossom. [SEP] [CLS] Typhoon Muifa (2004) (T0425, 29W, Unding) – struck the Philippines and Vietnam. [SEP] [CLS] Typhoon Muifa (2011) (T1109, 11W, Kabayan) – approached Japan, China and Korea. [SEP] [CLS] Tropical Storm Muifa (2017) (T1701, 01W, Dante)
-

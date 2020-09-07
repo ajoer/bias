@@ -1,2 +1,0 @@
-[CLS] The 1628 Camarines earthquake struck Camarines, in the Philippines in 1628. [SEP] [CLS] Fourteen different shocks were recorded. [SEP] [CLS] The date is unknown. [SEP] [CLS] The United States' National Geophysical Data Center describes the damage as "severe" and the total number of homes damaged as "many". [SEP] [CLS]
-

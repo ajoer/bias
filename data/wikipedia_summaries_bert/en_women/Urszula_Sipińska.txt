@@ -1,2 +1,0 @@
-[CLS] Urszula Sipińska (born September 19, 1947) is Polish singer-songwriter, architect and writer. [SEP] [CLS] Within twenty years of her musical career she earned numerous hits in Poland, including "Zapomniałam", "To był świat w zupełnie starym stylu", "Są takie dni w tygodniu", "Chcę wyjechać na wieś" and "Mam cudownych rodziców". [SEP] [CLS] She has won many awards and performed in Poland and abroad. [SEP] [CLS] At the turn of the 1980s and 1990s, Sipińska ended her singing career, focusing on architecture and writing. [SEP] [CLS]
-

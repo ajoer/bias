@@ -1,2 +1,0 @@
-[CLS] The 2009 Yunnan earthquake occurred with a moment magnitude of 5.7 in Yunnan province, People's Republic of China on 9 July. [SEP] [CLS] At least one person died and over 300 were injured, with over 50 of these sustaining serious injuries. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] On 11 February 2019, a Bell 206B helicopter crashed while trying to land on the Rodoanel Mário Covas highway, following an unspecified malfunction. [SEP] [CLS] Among the victims was journalist Ricardo Boechat. [SEP] [CLS] The pilot, Ronaldo Quatrucci, was also killed and one person on the ground was injured. [SEP] [CLS] The aircraft crashed around 12:15 pm (UTC−02:00) and the journalist and pilot were pronounced dead shortly after. [SEP] [CLS] The helicopter was owned by RQ Serviços Aéreo Especializados Ltda. [SEP] [CLS]
-

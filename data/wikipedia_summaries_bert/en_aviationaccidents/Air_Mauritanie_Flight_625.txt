@@ -1,2 +1,0 @@
-[CLS] Air Mauritanie Flight 625 was a Fokker F28 Fellowship 4000 which crashed on landing at Tidjikja Airport, Mauritania on 1 July 1994 in sandstorm conditions. [SEP] [CLS] All four crew and 76 of the 89 passengers were killed in the crash. [SEP] [CLS] It remains the deadliest crash involving a Fokker 28 and the deadliest one in Mauritania. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1972 Puerto Rico DC-7 crash was an aviation accident that occurred on December 31, 1972, in Carolina, Puerto Rico. [SEP] [CLS] It is most notable for killing Pittsburgh Pirates star Roberto Clemente. [SEP] [CLS] As a result of inadequate maintenance, the aircraft's No. [SEP] [CLS] 2 engine failed after takeoff. [SEP] [CLS] After initiating a turn to return to the airport, the aircraft eventually descended into, or attempted to ditch into, the ocean a mile offshore. [SEP] [CLS] All five people on board died. [SEP] [CLS]
-

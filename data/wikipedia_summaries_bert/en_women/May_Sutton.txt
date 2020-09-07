@@ -1,2 +1,0 @@
-[CLS] May Godfrey Sutton (September 25, 1886 – October 4, 1975) was an American tennis player who was active during the first decades of the 20th century. [SEP] [CLS] At age 17 she won the singles title at the U.S. [SEP] [CLS] National Championships and in 1905 she became the first American player to win the singles title at Wimbledon. [SEP] [CLS]
-

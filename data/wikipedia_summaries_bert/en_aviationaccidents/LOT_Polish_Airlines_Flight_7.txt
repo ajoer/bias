@@ -1,2 +1,0 @@
-[CLS] LOT Flight 7 was an Ilyushin Il-62 that crashed near Okęcie Airport in Warsaw, Poland, on 14 March 1980, as the crew aborted a landing and attempted to go-around. [SEP] [CLS] All 87 crew and passengers died. [SEP] [CLS] It was caused by the disintegration of one of the turbine discs in one of the plane's engines, leading to uncontained engine failure. [SEP] [CLS] The turbine disc was later found to have manufacturing faults. [SEP] [CLS]
-

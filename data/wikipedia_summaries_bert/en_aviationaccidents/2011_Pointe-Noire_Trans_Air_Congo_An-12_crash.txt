@@ -1,2 +1,0 @@
-[CLS] On 21 March 2011, a non-airworthy Antonov An-12 transport aircraft of Trans Air Congo crashed into a densely populated neighbourhood of Pointe Noire, Republic of the Congo, while on final approach to land. [SEP] [CLS] All four occupants of the aircraft and 19 people on the ground were killed. [SEP] [CLS] Fourteen more people on the ground were injured. [SEP] [CLS]
-

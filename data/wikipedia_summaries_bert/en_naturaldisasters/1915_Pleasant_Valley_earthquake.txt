@@ -1,2 +1,0 @@
-[CLS] The 1915 Pleasant Valley earthquake occurred at 22:53:21 on October 2 in north-central Nevada. [SEP] [CLS] With a moment magnitude of 6.8 and a maximum Mercalli intensity of X (Extreme), it was the strongest earthquake ever recorded in the state. [SEP] [CLS]
-

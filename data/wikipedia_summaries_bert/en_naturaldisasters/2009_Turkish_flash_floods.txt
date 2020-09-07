@@ -1,2 +1,0 @@
-[CLS] The 2009 Turkish flash floods were a series of flash floods that occurred on 9 September 2009 in and around Istanbul, Tekirdağ, and the rest of the Marmara Region of Turkey. [SEP] [CLS] The floods led to the death of at least 31 people and the cost of damage has been estimated as being in excess of $70 million. [SEP] [CLS]
-

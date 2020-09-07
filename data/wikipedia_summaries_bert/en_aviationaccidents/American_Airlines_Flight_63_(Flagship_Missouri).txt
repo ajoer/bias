@@ -1,2 +1,0 @@
-[CLS] American Airlines Flight 63 was an American Airlines DC-3 nicknamed the Flagship Missouri that crashed on October 15, 1943, near Centerville, Tennessee, after ice formed on its wings and propeller. [SEP] [CLS] All eight passengers and three crewmembers perished. [SEP] [CLS] This was the second fatal crash of an aircraft designated Flight 63, occurring two-and-a-half months after the crash of the Flagship Missouri’s sister ship, the Flagship Ohio. [SEP] [CLS]
-

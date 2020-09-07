@@ -1,2 +1,0 @@
-[CLS] Ursula "Ulla" Schmidt (born 13 June 1949) is a German politician of the Social Democratic Party of Germany (SPD). [SEP] [CLS] From 2001 to 2009 she was Federal Minister of Health in the German Government. [SEP] [CLS] Between 2013 and 2017, she served as Vice-President of the German Bundestag. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Pamir Airways Flight 112 was a scheduled passenger flight from Kunduz Airport, Kunduz to Kabul International Airport in Kabul, Afghanistan. [SEP] [CLS] On 17 May 2010, the flight was operated by an Antonov An-24 carrying 39 passengers and 5 crew when it crashed onto terrain. [SEP] [CLS] No one onboard made it out alive. [SEP] [CLS]
-

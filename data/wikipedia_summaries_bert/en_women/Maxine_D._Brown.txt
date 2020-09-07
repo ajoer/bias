@@ -1,2 +1,0 @@
-[CLS] Maxine D. [SEP] [CLS] Brown is an American computer scientist and director of the Electronic Visualization Laboratory (EVL) at the University of Illinois at Chicago (UIC). [SEP] [CLS] Along with Tom DeFanti and Bruce McCormick, she co-edited the 1987 NSF report, Visualization in Scientific Computing, which defined the field of scientific visualization. [SEP] [CLS]
-

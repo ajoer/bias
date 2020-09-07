@@ -1,2 +1,0 @@
-[CLS] The 1930 Pyu earthquake occurred on December 4 at 01:21 local time. [SEP] [CLS] The epicenter was located north to Bago, Burma, then part of British India. [SEP] [CLS] The magnitude of the earthquake was estimated at Mw 7.3, or Ms 7.3. [SEP] [CLS]
-

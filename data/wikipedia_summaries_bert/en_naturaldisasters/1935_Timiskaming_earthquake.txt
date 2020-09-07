@@ -1,2 +1,0 @@
-[CLS] The 1935 Temiskamingue earthquake occurred on November 1 with a moment magnitude of 6.1 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] The event took place in the Western Quebec Seismic Zone in the Abitibi-Témiscamingue region of Quebec. [SEP] [CLS]
-

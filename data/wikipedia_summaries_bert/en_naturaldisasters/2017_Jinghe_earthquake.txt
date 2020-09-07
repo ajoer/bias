@@ -1,2 +1,0 @@
-[CLS] The 2017 Jinghe earthquake occurred at 07:27 China Standard Time (CST, UTC+8) on 9 August 2017, in Jinghe County, Bortala Mongol Autonomous Prefecture, Xinjiang Uyghur Autonomous Region, China, with magnitude 6.6 and depth 11 kilometres. [SEP] [CLS] The epicentre was 44.27°N 82.89°E﻿ / 44.27; 82.89. [SEP] [CLS] Most cities in northern Xinjiang felt the quake. [SEP] [CLS] This earthquake occurred on the Tian Shan seismic zone. [SEP] [CLS] There was no direct relationship to the 2017 Jiuzhaigou earthquake that occurred dozens of hours before. [SEP] [CLS]
-

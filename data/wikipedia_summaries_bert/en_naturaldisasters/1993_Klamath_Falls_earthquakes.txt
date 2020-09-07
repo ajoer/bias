@@ -1,2 +1,0 @@
-[CLS] The 1993 Klamath Falls earthquakes took place in Klamath Falls, Oregon, beginning on Monday, 20 September at 8:28 p.m. [SEP] [CLS] The doublet earthquake registered respective magnitudes of 6.0 and 5.9 on the moment magnitude scale. [SEP] [CLS] The earthquakes were located at a depth of 5.6 miles (9 km) and tremors continued to be felt more than three months after the initial shocks. [SEP] [CLS]
-

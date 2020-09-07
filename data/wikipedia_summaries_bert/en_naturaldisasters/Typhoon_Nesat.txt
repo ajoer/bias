@@ -1,2 +1,0 @@
-[CLS] The name Nesat has been used to name three tropical cyclones in the western north Pacific The name was submitted by Cambodia and means fishing. [SEP] [CLS] Typhoon Nesat (2005) (T0504, 04W, Dante) – approached Japan. [SEP] [CLS] Typhoon Nesat (2011) (T1117, 20W, Pedring) Typhoon Nesat (2017) (T1709, 11W, Gorio) — impacted Taiwan and East China. [SEP] [CLS]
-

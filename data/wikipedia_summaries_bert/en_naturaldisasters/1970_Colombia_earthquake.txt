@@ -1,2 +1,0 @@
-[CLS] The 1970 Colombia earthquake occurred in Colombia on July 31. [SEP] [CLS]
-

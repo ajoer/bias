@@ -1,2 +1,0 @@
-[CLS] The 1068 Near East earthquake occurred on the morning of March 18 in the Near East along the southern portion of the Dead Sea Transform (DST) fault system. [SEP] [CLS] The event was responsible for an estimated 20,000 deaths and caused damage in Greater Syria including Palestine, in Egypt, the Arabian Peninsula, and other areas east of the Mediterranean Sea. [SEP] [CLS] Other strong earthquakes that have occurred on the same southern portion of the DST have also impacted the region. [SEP] [CLS]
-

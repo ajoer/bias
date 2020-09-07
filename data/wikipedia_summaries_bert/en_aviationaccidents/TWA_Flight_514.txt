@@ -1,2 +1,0 @@
-[CLS] Trans World Airlines Flight 514, registration N54328, was a Boeing 727-231 en route from Indianapolis, Indiana, and Columbus, Ohio, to Washington Dulles International that crashed into Mount Weather, Virginia, on Sunday, December 1, 1974. [SEP] [CLS] All 92 aboard, 85 passengers and seven crew members, were killed. [SEP] [CLS] In stormy conditions late in the morning, the aircraft was in controlled flight and impacted a low mountain about thirty miles (50 km) northwest of its revised destination. [SEP] [CLS]
-

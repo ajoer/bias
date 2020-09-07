@@ -1,2 +1,0 @@
-[CLS] Hilde Zach (August 25, 1942 – January 15, 2011) was the mayor of Innsbruck, Austria. [SEP] [CLS] She was elected in 2002 by the city council, becoming the city's first woman mayor. [SEP] [CLS] She resigned due to poor health in February 2010. [SEP] [CLS] Zach came from a business background, having run a business that had previously been run by her parents. [SEP] [CLS]
-

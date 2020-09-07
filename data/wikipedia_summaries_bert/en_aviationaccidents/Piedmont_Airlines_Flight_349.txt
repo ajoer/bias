@@ -1,2 +1,0 @@
-[CLS] On October 30, 1959, Piedmont Airlines Flight 349, a Douglas DC-3, crashed on Bucks Elbow Mountain near Crozet, Virginia, killing the crew of three and all but one of its twenty-four passengers. [SEP] [CLS] The sole survivor, 33-year-old Ernest P. [SEP] [CLS] "Phil" Bradley, was seriously injured and lay on the ground near the wreckage, still strapped in his seat. [SEP] [CLS]
-

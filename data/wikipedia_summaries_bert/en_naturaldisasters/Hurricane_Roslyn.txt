@@ -1,2 +1,0 @@
-[CLS] The name Roslyn has been used for four tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Roslyn (1964) – caused no damage or fatalities. [SEP] [CLS] Hurricane Roslyn (1986) – made landfall near Manzanillo. [SEP] [CLS] Hurricane Roslyn (1992) – developed in the open ocean, causing no damage or deaths. [SEP] [CLS] Tropical Storm Roslyn (2016) – never threatened land. [SEP] [CLS]
-

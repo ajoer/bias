@@ -1,2 +1,0 @@
-[CLS] Alitalia Flight 771 was a multi-leg Douglas DC-8-43 international scheduled flight from Sydney via Darwin, Bangkok, Bombay, Karachi, and Tehran to Rome with 94 on board. [SEP] [CLS] On July 7, 1962 18:40 UTC (July 8, 1962, 00:10 local) it crashed into a hill about 84 kilometres (52 mi) north-east of Bombay while on approach. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1410 Yellow River flood was a natural disaster affecting the area around Kaifeng, China, during the early Ming dynasty. [SEP] [CLS] It struck during the early years of the reign of the usurping Yongle Emperor, damaging thousands of acres of farmland and killing more than 14,000 families. [SEP] [CLS]
-

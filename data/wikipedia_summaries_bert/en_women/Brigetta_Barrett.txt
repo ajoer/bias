@@ -1,2 +1,0 @@
-[CLS] Brigetta LaShea Barrett (born December 24, 1990 in Westchester County, New York) is a former high jumper from the United States. [SEP] [CLS] Her biggest success is winning the silver medal at the 2012 Olympic Games in London. [SEP] [CLS] She retired in 2016 at the age of 25 before coming back in 2017. [SEP] [CLS]
-

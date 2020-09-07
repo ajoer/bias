@@ -1,2 +1,0 @@
-[CLS] The name Fay has been used for four tropical cyclones in the Atlantic Ocean since Fran was retired in the spring of 1997. [SEP] [CLS] Of them, only one has reached hurricane strength. [SEP] [CLS] Another storm, Faye, was active in 1975. [SEP] [CLS]
-

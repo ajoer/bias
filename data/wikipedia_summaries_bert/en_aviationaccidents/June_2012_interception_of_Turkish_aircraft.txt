@@ -1,2 +1,0 @@
-[CLS] On 22 June 2012, a Turkish F-4 Phantom reconnaissance jet was intercepted and shot down by the Syrian Army in international airspace, after having violated Syrian airspace. [SEP] [CLS] The jet's pilots were killed; both Turkish and Syrian forces searched for them before recovering their bodies in early July. [SEP] [CLS] The incident was part of a series of incidents between Turkey and Syria since the beginning of the Syrian Civil War and greatly escalated the tensions between the two countries. [SEP] [CLS]
-

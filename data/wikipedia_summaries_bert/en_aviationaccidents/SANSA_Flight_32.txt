@@ -1,2 +1,0 @@
-[CLS] SANSA Flight 32, a CASA C-212 Aviocar on its way to Palmar Sur Airport crashed into the Cerro Cedral, a mountain in Costa Rica after takeoff from Juan Santamaria International Airport in San Jose on January 15, 1990. [SEP] [CLS] All 20 passengers and 3 crew on board died in the crash. [SEP] [CLS] Pilot fatigue was determined to be the cause. [SEP] [CLS] At the time, it was the worst accident involving a CASA C-212 Aviocar and is currently the fifth worst accident. [SEP] [CLS] It is also currently the second worst accident in Costa Rica. [SEP] [CLS]
-

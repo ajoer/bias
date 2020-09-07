@@ -1,2 +1,0 @@
-[CLS] SATA Air Açores is a Portuguese airline based in São Sebastião, Ponta Delgada in the Azores, Portugal. [SEP] [CLS] It operates scheduled passenger, cargo and mail services around the Azores. [SEP] [CLS] It provides its own maintenance and handling services and manages four regional airports. [SEP] [CLS] Its main base is at João Paulo II Airport, Ponta Delgada. [SEP] [CLS] It also maintains a subsidiary for mid- and long-haul flights, Azores Airlines, the former SATA International. [SEP] [CLS]
-

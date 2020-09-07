@@ -1,2 +1,0 @@
-[CLS] The 1939 Chillán earthquake occurred in south-central Chile on 24 January with a surface wave magnitude of 8.3 and a maximum Mercalli intensity of X (Extreme). [SEP] [CLS] With a death toll of around 28,000, compared to the 2,231–6,000 (official estimates vary greatly) of the Great Chilean earthquake of 1960, it is the single deadliest earthquake in Chile. [SEP] [CLS]
-

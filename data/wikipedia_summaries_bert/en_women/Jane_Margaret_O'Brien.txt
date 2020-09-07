@@ -1,2 +1,0 @@
-[CLS] Jane Margaret O'Brien is a professor of chemistry and president emerita of St. [SEP] [CLS] Mary's College of Maryland. [SEP] [CLS] She served as president from 1996-2009. [SEP] [CLS] "Maggie", as she was called by students at St. [SEP] [CLS] Mary's, received her B.S. [SEP] [CLS] in biochemistry at Vassar College in 1975, and her Ph.D. [SEP] [CLS] in Chemistry at the University of Delaware in 1981. [SEP] [CLS]
-

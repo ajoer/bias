@@ -1,2 +1,0 @@
-[CLS] The 1448 Yellow River flood was a major natural disaster affecting over 2000 li (about 700 miles) of the Yellow River. [SEP] [CLS] The flood threatened to destroy the Grand Canal port of Linqing and led to the Ming dynasty constructing major public works in Shawan to prevent a recurrence. [SEP] [CLS] The banks and dikes only lasted four years until the 1452 flood. [SEP] [CLS]
-

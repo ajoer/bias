@@ -1,2 +1,0 @@
-[CLS] China Northern Airlines Flight 6901 (CJ6901) was a McDonnell Douglas MD-82 airliner from Beijing's Capital International Airport to Ürümqi Diwopu International Airport in Xinjiang, China. [SEP] [CLS] On November 13, 1993, it crashed on approach to Ürümqi Airport. [SEP] [CLS] Twelve of the 102 passengers and crew on board were killed. [SEP] [CLS] The accident has been attributed to pilot error. [SEP] [CLS]
-

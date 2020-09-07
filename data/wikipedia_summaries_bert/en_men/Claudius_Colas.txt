@@ -1,2 +1,0 @@
-[CLS] Claudius Colas, also known as Profesoro V. [SEP] [CLS] Esperema, was a French Esperantist who lived from 1884 to 1914. [SEP] [CLS] In 1910, he created the constructed language Adjuvilo, which was a complete language that was never meant to be spoken but instead an effort to help create dissent in the then-growing Ido movement. [SEP] [CLS] In 1910, he co-founded IKUE, the foremost organization of Catholic Esperantists in the world. [SEP] [CLS] He died during the early days of World War I. [SEP] [CLS]
-

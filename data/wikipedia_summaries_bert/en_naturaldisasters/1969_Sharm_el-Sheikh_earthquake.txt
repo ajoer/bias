@@ -1,2 +1,0 @@
-[CLS] The 1969 Sharm El Sheikh earthquake occurred on March 31 off the southern Sinai peninsula in northeastern Egypt. [SEP] [CLS] The epicenter was located near Shadwan island, southwest of the city of Sharm El Sheikh, at the confluence of the Red Sea and the Gulf of Suez. [SEP] [CLS] This normal-slip shock measured 6.6 on the moment magnitude scale, had a maximum reported intensity of VII (Very strong) on the Mercalli intensity scale, and was responsible for several deaths and injuries. [SEP] [CLS]
-

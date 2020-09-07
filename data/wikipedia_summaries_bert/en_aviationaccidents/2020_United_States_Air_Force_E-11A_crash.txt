@@ -1,2 +1,0 @@
-[CLS] On 27 January 2020, a United States Air Force Bombardier Global Express E-11A aircraft crashed in Afghanistan's Dih Yak District, Ghazni Province. [SEP] [CLS] Two people on board were killed, the whole crew according to US military sources. [SEP] [CLS] The Taliban claimed to have shot the aircraft down. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Shenay Perry (born July 6, 1984 in Washington, D.C.) is a retired tennis player from the U.S. [SEP] [CLS] She is the current coach of professional tennis player Kristie Ahn. [SEP] [CLS] Shenay's career-high singles ranking of No. [SEP] [CLS] 40 she reached on August 28, 2006. [SEP] [CLS] Her career-high doubles ranking of No. [SEP] [CLS] 97, she set on December 8, 2003. [SEP] [CLS] Shenay won nine singles and seven doubles ITF titles in her career. [SEP] [CLS] She retired from professional tennis in September 2010. [SEP] [CLS]
-

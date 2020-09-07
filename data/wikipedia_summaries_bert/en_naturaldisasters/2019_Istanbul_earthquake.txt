@@ -1,2 +1,0 @@
-[CLS] 2019 Istanbul earthquake was a 5.8 magnitude earthquake that rocked the south-west of Istanbul on 26 September 2019 at 13:59 local time.One person died due to a heart attack and 43 people were injured. [SEP] [CLS] The earthquake was felt in Istanbul, Tekirdağ, Kırklareli, Kocaeli and Sakarya. [SEP] [CLS]
-

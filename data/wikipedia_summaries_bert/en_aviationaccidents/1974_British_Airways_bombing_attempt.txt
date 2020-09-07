@@ -1,2 +1,0 @@
-[CLS] On 23 July 1974, a small bomb was found aboard a British Airways flight from Aldergrove Airport, near Belfast, to London, following a telephoned warning. [SEP] [CLS] The flight made an emergency landing at Manchester Airport. [SEP] [CLS] The Provisional Irish Republican Army (IRA) claimed it had planted the bomb as a symbolic act, and that it had not been set to explode. [SEP] [CLS] It is the only time that the IRA has planted a bomb aboard an aircraft, and was the second terrorist incident involving a bomb aboard an aircraft in the United Kingdom. [SEP] [CLS]
-

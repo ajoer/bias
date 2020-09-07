@@ -1,2 +1,0 @@
-[CLS] On 4 April 1975, a Lockheed C-5A Galaxy participating in the first mission of Operation Babylift crashed on approach during an emergency landing at Tan Son Nhut Air Base, South Vietnam. [SEP] [CLS] The cause was ascribed to loss of flight control due to explosive decompression and structural failure. [SEP] [CLS] The accident marked the second operational loss and first fatal crash for the C-5 Galaxy fleet, and is the third deadliest accident involving a U.S. [SEP] [CLS] military aircraft after the 1968 Kham Duc C-130 shootdown and Arrow Air Flight 1285. [SEP] [CLS]
-

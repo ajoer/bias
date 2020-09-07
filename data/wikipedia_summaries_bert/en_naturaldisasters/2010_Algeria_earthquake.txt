@@ -1,2 +1,0 @@
-[CLS] Earthquakes in Algeria occur in the north part of the country, usually north of 35° N. [SEP] [CLS] latitude, and occasionally as submarine earthquakes in the Mediterranean Sea. [SEP] [CLS] On at least one occasion, this type of event has generated a destructive tsunami. [SEP] [CLS]
-

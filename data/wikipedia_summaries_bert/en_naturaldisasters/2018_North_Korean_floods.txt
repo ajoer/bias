@@ -1,2 +1,0 @@
-[CLS] The 2018 North Korean floods began on 28 August 2018, killing at least 76 people, leaving around 75 more missing, destroying more than 800 buildings, and causing about 10,700 people to become homeless.The most affected area were the North and South Hwanghae provinces, where volunteers from the national Red Cross conducted search and rescue operations. [SEP] [CLS] Landslides also occurred after the floods, and thousands of people were in need of health services, shelter, food, safe drinking water and sanitation. [SEP] [CLS]
-

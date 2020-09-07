@@ -1,2 +1,0 @@
-[CLS] Pan Am Flight 1-10 was a passenger flight from London to Shannon Airport, during a flight round the world from San Francisco, California to New York City. [SEP] [CLS] On 15 April 1948 it crashed 725 meters (2,379 ft) short of runway 23. [SEP] [CLS] 10 flight crew and 20 passengers died in the crash; 1 passenger survived with minor injuries. [SEP] [CLS]
-

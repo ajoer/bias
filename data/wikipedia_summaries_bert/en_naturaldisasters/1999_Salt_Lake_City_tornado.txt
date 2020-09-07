@@ -1,2 +1,0 @@
-[CLS] The 1999 Salt Lake City tornado was a relatively rare tornado that occurred in Salt Lake City, Utah on August 11, 1999. [SEP] [CLS] It was among the most notable tornadoes to hit west of the Great Plains in the 20th century and the second tornado to hit in Utah that resulted in a fatality (the other occurring in 1884). [SEP] [CLS] This was the sixth significant tornado in Utah since June 1963, and one of only two F2 tornadoes to have hit Salt Lake County since 1950 (the other occurring on February 9, 1965 in Magna). [SEP] [CLS]
-

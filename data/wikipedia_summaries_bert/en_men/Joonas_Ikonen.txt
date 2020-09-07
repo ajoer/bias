@@ -1,2 +1,0 @@
-[CLS] Ilves (Finnish for "Lynx", [ˈilʋes]) is a Finnish ice hockey team. [SEP] [CLS] They play in the Liiga at the Hakametsä. [SEP] [CLS] The colors of Ilves, green, yellow, and black, were taken from what was then the coat of arms of the city of Tampere. [SEP] [CLS]
-

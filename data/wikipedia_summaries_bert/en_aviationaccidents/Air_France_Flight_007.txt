@@ -1,2 +1,0 @@
-[CLS] Air France Flight 007 crashed on 3 June 1962 while on take-off from Orly Airport. [SEP] [CLS] The only survivors of the disaster were two flight attendants; the rest of the flight crew, and all 122 passengers on board the Boeing 707, were killed. [SEP] [CLS] The crash was at the time the worst single-aircraft disaster and the first single civilian jet airliner disaster with more than 100 deaths. [SEP] [CLS]
-

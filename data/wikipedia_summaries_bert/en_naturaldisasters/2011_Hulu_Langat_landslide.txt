@@ -1,2 +1,0 @@
-[CLS] The 2011 Hulu Langat landslide was a landslide that occurred on 21 May 2011, in Hulu Langat, Selangor, Malaysia. [SEP] [CLS] 16 people—15 children and a caretaker of an orphanage—were killed in the landslide which was caused by heavy rains at the Children's Hidayah Madrasah Al-Taqwa orphanage in Kampung Sosrowijayan (FELCRA Semungkis), Hulu Langat, Selangor, southeast of Kuala Lumpur. [SEP] [CLS] The landslide occurred at about 2:30 pm MST. [SEP] [CLS]
-

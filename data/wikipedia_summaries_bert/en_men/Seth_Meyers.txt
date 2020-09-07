@@ -1,2 +1,0 @@
-[CLS] Seth Adam Meyers (born December 28, 1973) is an American comedian, writer, producer, actor, and television host. [SEP] [CLS] He hosts Late Night with Seth Meyers, a late-night talk show on NBC. [SEP] [CLS] Prior to that, he was a cast member and head writer for NBC's Saturday Night Live (2001–2014) and hosted the show's news parody segment, Weekend Update. [SEP] [CLS]
-

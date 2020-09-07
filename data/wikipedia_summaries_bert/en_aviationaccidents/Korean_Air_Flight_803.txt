@@ -1,2 +1,0 @@
-[CLS] On 27 July 1989, a Korean Air DC-10 crashed while attempting to land in Tripoli, Libya. [SEP] [CLS] 75 of the 199 passengers and crew on board plus 4 people on the ground were killed in the crash. [SEP] [CLS] The crash was the deadliest aviation disaster to occur in Libya at the time. [SEP] [CLS]
-

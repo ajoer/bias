@@ -1,2 +1,0 @@
-[CLS] The 2017 Botswana earthquake is a magnitude 6.5 earthquake which occurred in the Central District of Botswana. [SEP] [CLS] It is the second largest earthquake recorded in Botswana next to the 6.7 magnitude earthquake in Maun which occurred in 1952. [SEP] [CLS]
-

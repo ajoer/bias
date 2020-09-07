@@ -1,2 +1,0 @@
-[CLS] British United Airways Flight 1030X crashed on 14 April 1965 on Jersey in the Channel Islands. [SEP] [CLS] Poor visibility and low cloud cover resulted in an aborted landing attempt, leading to a second attempt which ended with the Douglas C-47B hitting the outermost pole of the approach lighting system before crashing into a field and catching fire. [SEP] [CLS] The crash killed all 23 passengers and three of the crew on board; a flight attendant was the only survivor of the accident. [SEP] [CLS]
-

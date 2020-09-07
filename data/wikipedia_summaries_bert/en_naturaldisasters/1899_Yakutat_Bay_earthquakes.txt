@@ -1,2 +1,0 @@
-[CLS] During September 1899 there was a series of severe earthquakes in the region around Yakutat Bay in Alaska. [SEP] [CLS] The most powerful of these occurred on September 10 at about noon, local time. [SEP] [CLS] The area was sparsely populated and no fatalities were recorded, but the earthquakes were notable for the degree of elevation recorded, up to 47 feet, and for the effects on the glaciers in the region. [SEP] [CLS] Fieldwork on the effects of the earthquake was carried out between 1905 and 1910, and a summary report was published in 1912
-

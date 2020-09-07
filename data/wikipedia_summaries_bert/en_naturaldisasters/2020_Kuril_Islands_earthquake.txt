@@ -1,2 +1,0 @@
-[CLS] This is a list of earthquakes in 2020. [SEP] [CLS] Only earthquakes of magnitude 6 or above are included, unless they result in damage and/or casualties, or are notable for other reasons. [SEP] [CLS] All dates are listed according to UTC time. [SEP] [CLS] Maximum intensities are indicated on the Modified Mercalli intensity scale and are sourced from United States Geological Survey (USGS) ShakeMap data. [SEP] [CLS]
-

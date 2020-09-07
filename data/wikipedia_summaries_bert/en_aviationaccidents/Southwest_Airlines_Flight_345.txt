@@ -1,2 +1,0 @@
-[CLS] Southwest Airlines Flight 345 was a scheduled flight from Nashville International Airport, Tennessee, to New York City's LaGuardia Airport. [SEP] [CLS] On July 22, 2013, the Boeing 737 operating the route suffered a front landing gear collapse while landing at LaGuardia Airport, injuring 9 people on board. [SEP] [CLS] The aircraft, which was worth an estimated $15.5 million at the time, was written off and scrapped as a result of the accident. [SEP] [CLS]
-

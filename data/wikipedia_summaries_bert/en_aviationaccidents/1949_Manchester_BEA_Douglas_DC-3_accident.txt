@@ -1,2 +1,0 @@
-[CLS] The 1949 Manchester BEA Douglas DC-3 accident occurred when a twin-engined British European Airways Douglas DC-3 (registration: G-AHCY) crashed on Saddleworth Moor in the Pennines near Oldham, Lancashire, after a flight from Belfast. [SEP] [CLS] The accident killed 24 of the passengers and crew on board. [SEP] [CLS] The aircraft had first flown in 1944, and was captained by F. [SEP] [CLS] W. [SEP] [CLS] Pinkerton, a former RAF serviceman who, as a sergeant, had been posted missing during World War II. [SEP] [CLS] The airline was government-owned. [SEP] [CLS]
-

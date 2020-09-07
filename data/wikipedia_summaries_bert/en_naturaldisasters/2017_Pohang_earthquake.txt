@@ -1,2 +1,0 @@
-[CLS] The 2017 Pohang earthquake, measuring magnitude 5.4 on the moment magnitude scale, struck Heunghae, Pohang, North Gyeongsang Province, South Korea on November 15 2017. [SEP] [CLS] It is tied with the 2016 Gyeongju earthquake as the country's strongest earthquake in modern history. [SEP] [CLS]
-

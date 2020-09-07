@@ -1,2 +1,0 @@
-[CLS] The name Matmo has been used to name three tropical cyclones in the Western North Pacific Ocean. [SEP] [CLS] It means "heavy rain" in the Chamorro language. [SEP] [CLS] Matmo replaced Chataan after the damaging 2002 typhoon. [SEP] [CLS] Tropical Storm Matmo (2008) (T0803, 04W, Dindo) Typhoon Matmo (2014) (T1410, 10W, Henry) Severe Tropical Storm Matmo (2019) (T1422, 23W)
-

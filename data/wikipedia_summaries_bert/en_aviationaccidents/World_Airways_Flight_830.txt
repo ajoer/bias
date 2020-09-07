@@ -1,2 +1,0 @@
-[CLS] World Airways Flight 830 was a domestic nonscheduled passenger flight from Clark Air Force Base to Travis Air Force Base. [SEP] [CLS] On 19 September 1960, the DC-6, carrying American service members and dependents, collided with Mount Barrigada during the second leg of the flight, killing 80 of the 94 people on board. [SEP] [CLS] The disaster was Guam's deadliest aviation accident until Korean Air Flight 801 crashed on Nimitz Hill in 1997. [SEP] [CLS]
-

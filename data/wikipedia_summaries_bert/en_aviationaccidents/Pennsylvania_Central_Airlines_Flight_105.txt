@@ -1,2 +1,0 @@
-[CLS] Pennsylvania Central Airlines Flight 105 was a regularly scheduled commercial flight between New York City and Birmingham, Alabama which crashed in the pre-dawn hours of January 6, 1946 while landing at Birmingham Municipal Airport, resulting in three fatalities. [SEP] [CLS]
-

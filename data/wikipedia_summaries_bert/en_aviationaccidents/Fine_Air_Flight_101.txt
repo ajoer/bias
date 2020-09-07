@@ -1,2 +1,0 @@
-[CLS] Fine Air Flight 101 was a scheduled cargo flight from Miami International Airport to Las Américas International Airport, operated by McDonnell Douglas DC-8-61F N27UA, that crashed after take-off on August 7, 1997, at Miami International Airport. [SEP] [CLS] All 4 people on board and one person on the ground were killed. [SEP] [CLS]
-

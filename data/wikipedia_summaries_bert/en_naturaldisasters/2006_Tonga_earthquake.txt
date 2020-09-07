@@ -1,2 +1,0 @@
-[CLS] The 2006 Tonga earthquake occurred on 4 May at 04:26:35 local time with a moment magnitude of 8.0 and a maximum Mercalli intensity of VII (very strong). [SEP] [CLS] One injury occurred and a non-destructive tsunami was observed. [SEP] [CLS]
-

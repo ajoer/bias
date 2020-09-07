@@ -1,2 +1,0 @@
-[CLS] KLM Flight 633 was a passenger flight from Amsterdam to New York City. [SEP] [CLS] On 5 September 1954, immediately after takeoff from Shannon Airport, the Super Constellation Triton ditched on a mudbank in the River Shannon. [SEP] [CLS] 28 people were killed in the accident. [SEP] [CLS] It was caused by an unexpected re-extension of the landing gear, possibly compounded by pilot error. [SEP] [CLS]
-

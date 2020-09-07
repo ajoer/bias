@@ -1,2 +1,0 @@
-[CLS] On 21 January 2019, a Piper PA-46 Malibu light aircraft transporting Argentine football player Emiliano Sala crashed in the English Channel off Alderney, Channel Islands. [SEP] [CLS] The aircraft was travelling from Nantes, France, to Cardiff, Wales. [SEP] [CLS] The wreckage of the aircraft was found thirteen days later on the seabed at a depth of 220 feet (67 m). [SEP] [CLS] On 7 February, Sala's body was recovered from the wreckage. [SEP] [CLS] No trace of the pilot has been found. [SEP] [CLS]
-

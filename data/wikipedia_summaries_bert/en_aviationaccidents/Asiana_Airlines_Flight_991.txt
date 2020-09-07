@@ -1,2 +1,0 @@
-[CLS] On 28 July 2011, Asiana Airlines Flight 991, a Boeing 747-400F cargo aircraft on a flight from Seoul, South Korea, to Shanghai, China, crashed into the sea off Jeju Island after suffering a main deck fire. [SEP] [CLS] Both pilots, the only two people on board, were killed.The accident marked the second loss of a 747 freighter due to cargo hold fire in less than a year, following the crash of UPS Airlines Flight 6 in Dubai in September 2010. [SEP] [CLS]
-

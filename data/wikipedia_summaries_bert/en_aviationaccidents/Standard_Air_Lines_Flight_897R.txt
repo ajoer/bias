@@ -1,2 +1,0 @@
-[CLS] Standard Air Lines Flight 897R was a domestic passenger flight between Albuquerque, New Mexico and Burbank, California. [SEP] [CLS] At 7:43am on July 12, 1949, the flight, operated by a Curtiss C-46E (registered N79978), crashed in Chatsworth, California, upon approach to Burbank, killing 35 of the 48 passengers and crew on board. [SEP] [CLS]
-

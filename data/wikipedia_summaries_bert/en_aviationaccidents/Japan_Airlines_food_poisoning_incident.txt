@@ -1,2 +1,0 @@
-[CLS] On February 3, 1975, 197 people fell ill aboard a Japan Airlines Boeing 747 en route from Anchorage, Alaska to Copenhagen, Denmark after consuming an in-flight meal contaminated with Staphylococci. [SEP] [CLS] 144 people needed hospitalization, making it the largest food poisoning incident aboard a commercial airliner. [SEP] [CLS]
-

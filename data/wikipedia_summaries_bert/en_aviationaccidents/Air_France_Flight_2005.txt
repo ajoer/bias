@@ -1,2 +1,0 @@
-[CLS] Air France Flight 2005 of 12 September 1961 was a scheduled international passenger flight from Paris-Orly Airport to Casablanca Airport with a stop at Rabat-Salé Airport. [SEP] [CLS] The Sud Aviation Caravelle aircraft crashed that day at 21:09 GMT near a place called Douar Doum 8.4 km from the threshold of runway 04 and 1.4 km to the left of the extended centreline at a height of 87.5m above sea level, killing all 77 people on board, including 6 crew members. [SEP] [CLS] The weather was foggy and unfavourable for landing. [SEP] [CLS]
-

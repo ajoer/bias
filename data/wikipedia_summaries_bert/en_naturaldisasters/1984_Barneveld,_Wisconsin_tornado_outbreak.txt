@@ -1,2 +1,0 @@
-[CLS] The 1984 Barneveld, Wisconsin, tornado outbreak is a significant severe weather and tornado event that took place across the central United States from North Dakota to Kansas on June 7–8, 1984. [SEP] [CLS] The tornado outbreak produced several significant tornadoes including an F5 tornado which traveled through Barneveld, Wisconsin, in the early hours of June 8, 1984. [SEP] [CLS] The entire outbreak killed at least 13 people across three states including 9 in Barneveld alone. [SEP] [CLS]
-

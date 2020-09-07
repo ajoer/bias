@@ -1,2 +1,0 @@
-[CLS] Many notable human fatalities have resulted from aviation accidents and incidents. [SEP] [CLS] Those killed as part of a sporting, political or musical group who flew together when the accident took place are usually only listed under the group sections; however, some are also listed as individuals. [SEP] [CLS]
-

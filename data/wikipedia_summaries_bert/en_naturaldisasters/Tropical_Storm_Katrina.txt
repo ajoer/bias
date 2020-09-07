@@ -1,2 +1,0 @@
-[CLS] The name Katrina has been used for three tropical cyclones in the Atlantic Ocean, three tropical cyclones in the Eastern Pacific Ocean and one tropical cyclone in the South Pacific. [SEP] [CLS] It was used in the Pacific on the old four-year lists. [SEP] [CLS] The name is not to be confused with Karina, which is on the Pacific hurricane lists today. [SEP] [CLS] The name was retired in the North Atlantic after the 2005 season for its devastating damage, and was replaced by Katia for the 2011 season. [SEP] [CLS]
-

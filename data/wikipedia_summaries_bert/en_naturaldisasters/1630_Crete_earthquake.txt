@@ -1,2 +1,0 @@
-[CLS] The 1630 Crete earthquake reportedly occurred at around 09:00 on 9 March 1630 in the Kythira Strait, off the coast of Crete. [SEP] [CLS] Until the mid 1990s, the earthquake had traditionally been referred to as the 1629 Crete earthquake, which had been documented to have occurred at about 10:00 on Saturday 27 February 1629. [SEP] [CLS] Extensive research by several experts on the subject since the late 1980s has revealed that a calculation error mis-dated the occurrence by several days and a year. [SEP] [CLS]
-

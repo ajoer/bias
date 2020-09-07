@@ -1,2 +1,0 @@
-[CLS] Caterine Ibargüen Mena ODB (born 12 February 1984) is a Colombian athlete competing in high jump, long jump and triple jump. [SEP] [CLS] Her notable achievements include a gold medal at the 2016 Summer Olympics, silver medal in the 2012 Summer Olympics, two gold medals in the IAAF World Championships in Athletics, and two gold medals in the 2011 Pan American Games and 2015 Pan American Games. [SEP] [CLS]
-

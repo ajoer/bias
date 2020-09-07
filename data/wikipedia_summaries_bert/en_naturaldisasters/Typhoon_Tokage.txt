@@ -1,2 +1,0 @@
-[CLS] The name Tokage has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was contributed by Japan and is the Japanese word for Lacerta or lizard. [SEP] [CLS] Typhoon Tokage (2004) (T0423, 27W, Siony) – struck Japan. [SEP] [CLS] Tropical Storm Tokage (2011) (T1107, 09W, Hanna) Severe Tropical Storm Tokage (2016) (T1625, 29W, Marce)
-

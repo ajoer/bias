@@ -1,2 +1,0 @@
-[CLS] The 1931 Oaxaca earthquake affected portions of southern Mexico on January 14 at 18:50 MST. [SEP] [CLS] It registered a magnitude of 8.0 on the surface wave magnitude scale and had a maximum perceived intensity of X (Extreme) on the Mercalli intensity scale. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 964 was a flight operated by Aeroflot from Kutaisi Airport, Georgia to Domodedovo Airport, Moscow, Russian SFSR. [SEP] [CLS] On 13 October 1973 the Tupolev Tu-104 operating on the route crashed during its approach to Moscow, killing all 122 passengers and crew on board. [SEP] [CLS] It remains the deadliest accident involving a Tupolev Tu-104. [SEP] [CLS]
-

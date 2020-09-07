@@ -1,2 +1,0 @@
-[CLS] Bérénice Lim Marlohe (born 19 May 1979) is a French actress. [SEP] [CLS] She played anti-heroine Bond girl Sévérine in the twenty-third James Bond film Skyfall. [SEP] [CLS] Her television credits include Père et Maire, Femmes de loi, and Equipe médicale d’urgence. [SEP] [CLS] She had an uncredited role in the French comedy Happiness Never Comes Alone with Sophie Marceau. [SEP] [CLS] She is also a brand ambassador for Omega Watches. [SEP] [CLS]
-

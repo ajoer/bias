@@ -1,2 +1,0 @@
-[CLS] The 1996 Belgian Air Force Hercules accident is an aviation accident that occurred on 15 July 1996 at Eindhoven Airport, the Netherlands. [SEP] [CLS] The disaster involved a Belgian Lockheed C-130 Hercules aircraft and resulted in the death of 34 passengers. [SEP] [CLS] The incident is known as the "Hercules disaster" (Dutch: Herculesramp) in the Netherlands and Belgium. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Amy Johnson (1 July 1903 – 5 January 1941) was a pioneering English pilot who was the first woman to fly solo from London to Australia. [SEP] [CLS] Flying solo or with her husband, Jim Mollison, she set many long-distance records during the 1930s. [SEP] [CLS] She flew in the Second World War as a part of the Air Transport Auxiliary and died during a ferry flight. [SEP] [CLS]
-

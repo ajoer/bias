@@ -1,2 +1,0 @@
-[CLS] Natalia Málaga (born 26 January 1964) is a volleyball player and coach from Peru. [SEP] [CLS] She participated in four Summer Olympics with the Peru women's national volleyball team. [SEP] [CLS] She placed sixth in 1980, fourth in 1984, won a silver medal at the 1988 Seoul Summer Olympics, and placed 11th in 2000.. [SEP] [CLS] She was a member of the Peruvian team that won second place in the World Championship in 1982, and the third place in the World Championship in 1986. [SEP] [CLS]
-

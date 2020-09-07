@@ -1,2 +1,0 @@
-[CLS] La Jana is a municipality in the comarca of Baix Maestrat in the Valencian Community, Spain. [SEP] [CLS] The Cervera Mountains rise just east of the town extending southwards. [SEP] [CLS] It is an agricultural town located west of the Muntanyes de Cervera surrounded by cultivated plots, mainly almond, carob and olive trees, as well as some cereal fields. [SEP] [CLS] La Jana is part of the Taula del Sénia free association of municipalities. [SEP] [CLS]
-

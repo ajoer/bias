@@ -1,2 +1,0 @@
-[CLS] The 2003 Altai earthquake, or 2003 Chuya earthquake, occurred on September 27 at 18:33:26 local time with a moment magnitude of 7.3 and a maximum Mercalli intensity of X (Extreme). [SEP] [CLS] The epicenter of this oblique-slip shock was in Altai Republic, Russia near the borders of Mongolia, China, and Kazakhstan. [SEP] [CLS] Three deaths and five injuries were reported and the total damage was listed as $10.6–33 million. [SEP] [CLS]
-

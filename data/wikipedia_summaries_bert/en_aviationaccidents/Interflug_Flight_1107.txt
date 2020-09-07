@@ -1,2 +1,0 @@
-[CLS] Interflug Flight 1107 was a flight operated by East German airline Interflug from Stuttgart in West Germany to Leipzig in East Germany. [SEP] [CLS] On 1 September 1975 a Tupolev Tu-134 operating on the route crashed during its approach to Leipzig, killing 27 of the 34 passengers and crew on board. [SEP] [CLS]
-

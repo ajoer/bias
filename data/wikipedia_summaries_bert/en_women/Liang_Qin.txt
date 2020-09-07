@@ -1,2 +1,0 @@
-[CLS] Liang Qin (born 28 July 1972) is a Chinese fencer. [SEP] [CLS] She won a bronze medal in the women's team épée event at the 2000 Summer Olympics. [SEP] [CLS]
-

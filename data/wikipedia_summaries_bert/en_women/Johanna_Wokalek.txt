@@ -1,2 +1,0 @@
-[CLS] Johanna Wokalek (born March 3, 1975) is a German stage and film actress. [SEP] [CLS] A student of Klaus Maria Brandauer, she received critical recognition and three newcomer awards for her performance in the play Rose Bernd. [SEP] [CLS] Wokalek is best known for her award-winning appearances in the German films Hierankl, Barfuss, and The Baader Meinhof Complex. [SEP] [CLS] She received the Bambi award for her portrayal of the Red Army Faction member Gudrun Ensslin in 2008. [SEP] [CLS] She played the lead role in the film Pope Joan in 2009. [SEP] [CLS]
-

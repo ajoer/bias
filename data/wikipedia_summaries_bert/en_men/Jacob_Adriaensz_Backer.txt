@@ -1,2 +1,0 @@
-[CLS] Jacob Adriaensz Backer (1609 – 27 August 1651) was a Dutch Golden Age painter. [SEP] [CLS] He produced about 140 paintings in twenty years, including portraits, religious subjects, and mythological paintings. [SEP] [CLS] In his style he was influenced by Wybrand de Geest, Rubens and Abraham Bloemaert. [SEP] [CLS] He is also noted for his drawings of male and female nudes. [SEP] [CLS]
-

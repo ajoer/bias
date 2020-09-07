@@ -1,2 +1,0 @@
-[CLS] Tropical Cyclone Dineo was one of the deadliest tropical cyclones on record in the South-West Indian Ocean and Southern Hemisphere as a whole. [SEP] [CLS] It was the first tropical cyclone to hit Mozambique since Cyclone Jokwe in 2008. [SEP] [CLS]
-

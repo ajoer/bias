@@ -1,2 +1,0 @@
-[CLS] Rio de Janeiro-Santos Dumont Airport (IATA: SDU, ICAO: SBRJ) is the second major airport serving Rio de Janeiro, Brazil. [SEP] [CLS] It is named after the Brazilian aviation pioneer Alberto Santos Dumont (1873–1932). [SEP] [CLS] It is operated by Infraero. [SEP] [CLS] Santos Dumont has slot restrictions operating with a maximum of 19 operations/hour, being one of the five airports with such restrictions in Brazil. [SEP] [CLS]
-

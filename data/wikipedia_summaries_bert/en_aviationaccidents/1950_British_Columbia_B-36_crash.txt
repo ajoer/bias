@@ -1,2 +1,0 @@
-[CLS] On 14 February 1950, a Convair B-36, Air Force Serial Number 44-92075 assigned to the 7th Bomb Wing at Carswell Air Force Base, crashed in northern British Columbia on Mount Kologet after jettisoning a Mark 4 nuclear bomb. [SEP] [CLS] This was the first such nuclear weapon loss in history. [SEP] [CLS] The B-36 had been en route from Eielson Air Force Base near Fairbanks, Alaska to Carswell AFB in Fort Worth, Texas, more than 3,000 miles south-east, on a mission that included a simulated nuclear attack on San Francisco. [SEP] [CLS]
-

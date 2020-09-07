@@ -1,2 +1,0 @@
-[CLS] On 2 July 1949 a Douglas DC-3 aircraft departed from Perth, Western Australia for a night flight of 441 nautical miles (817 km) to Carnarvon. [SEP] [CLS] The aircraft climbed to a height of about 500 feet (150 m) and then spiralled almost vertically to the ground, killing all 18 people on board. [SEP] [CLS] It crashed about a mile north of Perth airport and burned for over an hour. [SEP] [CLS] At the time, it was the worst civil aviation accident in Western Australia. [SEP] [CLS]
-

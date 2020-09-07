@@ -1,2 +1,0 @@
-[CLS] On 21 March 2013, two helicopters of the German Federal Police collided while landing in front of Berlin Olympic Stadium, Germany, in whiteout conditions. [SEP] [CLS] One crew member was killed and nine other people, both on board the helicopters and on the ground, were injured. [SEP] [CLS]
-

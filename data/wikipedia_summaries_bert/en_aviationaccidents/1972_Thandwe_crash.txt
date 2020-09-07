@@ -1,2 +1,0 @@
-[CLS] The 1972 Thandwe crash occurred on 16 August in Burma. [SEP] [CLS] Shortly after the flight departed Thandwe Airport on its initial climb, the scheduled passenger flight for Burma Airways carrying 27 passengers and four crew suddenly fell from the sky and crashed into the sea, killing all four crew and all but three passengers. [SEP] [CLS] It was the first fatal accident for Burma Airways. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] TWA Flight 891 was a Lockheed L-1649A Starliner that crashed not long after taking off from Milan Malpensa Airport on 26 June 1959. [SEP] [CLS] All 68 passengers and crew on board were killed. [SEP] [CLS]
-

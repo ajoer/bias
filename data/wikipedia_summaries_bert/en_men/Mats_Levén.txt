@@ -1,2 +1,0 @@
-[CLS] Mats Leven is a singer, songwriter and producer. [SEP] [CLS] Some of his most notable collaborations have been with guitar legend Yngwie Malmsteen, symphonic metallers Therion and doom metallers Candlemass. [SEP] [CLS] Mats also started touring with Trans-Siberian Orchestra in 2016. [SEP] [CLS] In 2019 Mats releases his first solo album under the name Skyblood. [SEP] [CLS]
-

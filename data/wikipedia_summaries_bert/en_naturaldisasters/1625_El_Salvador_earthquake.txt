@@ -1,2 +1,0 @@
-[CLS] The 1625 El Salvador earthquake struck El Salvador in 1625. [SEP] [CLS] Described as a "violent earthquake that caused serious damage", it affected the city of San Salvador, and left it in ruins. [SEP] [CLS] Surrounding pueblos were also affected. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The January 1995 United Kingdom Blizzard was a period of extremely heavy snowfall that effected Northern England from the 25th-26th of January 1995. [SEP] [CLS] The snow hit the major cities during the rush hour, earlier than expected, and brought chaos to the cities of Sheffield and Leeds , leaving thousands stranded overnight. [SEP] [CLS] The city of Leeds received over 45 cm (18 in) in just the first 3 hours of the storm. [SEP] [CLS]
-

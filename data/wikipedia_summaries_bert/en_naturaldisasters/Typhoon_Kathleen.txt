@@ -1,2 +1,0 @@
-[CLS] Typhoon Kathleen was a typhoon approached Japan in September 1947. [SEP] [CLS] Kathleen brings record heavy rain, causing major damage mainly in the Kanto region Brought in. [SEP] [CLS]
-

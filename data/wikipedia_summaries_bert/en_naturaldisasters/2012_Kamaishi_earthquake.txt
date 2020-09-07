@@ -1,2 +1,0 @@
-[CLS] The 2012 Kamaishi earthquake occurred near the city of Kamaishi, Japan, on December 7. [SEP] [CLS] The magnitude 7.3 shock generated a small tsunami, with waves up to 1 m high, that hit Ishinomaki in Miyagi Prefecture. [SEP] [CLS] It occurred at a depth of 36 km within the Pacific Plate and was the result of reverse faulting, about 20 kilometres (12 mi) east of the Japan Trench. [SEP] [CLS]
-

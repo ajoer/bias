@@ -1,2 +1,0 @@
-[CLS] The 2007 Gisborne earthquake occurred under the Pacific Ocean about 50 kilometres (31 mi) off the eastern coast of New Zealand's North Island at 8:55 pm NZDT on 20 December. [SEP] [CLS] The tremor had a moment magnitude of 6.7 and maximum Mercalli intensity of VIII (Severe), and affected the city of Gisborne, but was felt widely across the country from Auckland in the north to Dunedin in the south. [SEP] [CLS]
-

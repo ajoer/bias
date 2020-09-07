@@ -1,2 +1,0 @@
-[CLS] The 2002 Molise earthquakes hit the Italian regions of Molise and Apulia on 31 October at 10:32:58 (UTC) and 1 November at 15:09:00 (UTC). [SEP] [CLS] The shocks had magnitudes of 5.9 and 5.8 Mw respectively. [SEP] [CLS] Most of the victims were killed and injured when a school collapsed in the town of San Giuliano di Puglia: 26 of the 51 schoolchildren died, together with one of their teachers. [SEP] [CLS] In particular, none of the nine children in the school's 4th Year (mostly born in 1996) survived. [SEP] [CLS]
-

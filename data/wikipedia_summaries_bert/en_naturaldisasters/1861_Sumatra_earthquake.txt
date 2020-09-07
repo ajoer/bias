@@ -1,2 +1,0 @@
-[CLS] The 1861 Sumatra earthquake occurred on February 16 and was the last in a sequences of earthquakes that ruptured adjacent parts of the Sumatran segment of the Sunda megathrust. [SEP] [CLS] It caused a devastating tsunami which led to several thousand fatalities. [SEP] [CLS] The earthquake was felt as far away as the Malay peninsula and the eastern part of Java. [SEP] [CLS] The rupture area for the 2005 Nias–Simeulue earthquake is similar to that estimated for the 1861 event. [SEP] [CLS]
-

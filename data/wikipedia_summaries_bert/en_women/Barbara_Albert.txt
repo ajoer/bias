@@ -1,2 +1,0 @@
-[CLS] Barbara Albert (born 1970 in Vienna) is an Austrian writer, film-producer and film-director. [SEP] [CLS] She studied filmmaking at the Wiener Filmakademie. [SEP] [CLS] Her first film to become known to a larger audience was Nordrand, which describes the reality of life of Yugoslavian children in Vienna. [SEP] [CLS] She heads the production company Coop 99 with Jessica Hausner and Antonin Svoboda, among others. [SEP] [CLS]
-

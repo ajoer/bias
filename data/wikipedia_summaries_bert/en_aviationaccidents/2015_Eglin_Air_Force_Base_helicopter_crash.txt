@@ -1,2 +1,0 @@
-[CLS] On March 10, 2015, a Sikorsky UH-60 Black Hawk helicopter of the United States Army crashed off the coast of the Florida Panhandle during a training exercise at Eglin Air Force Base, killing all eleven people on board. [SEP] [CLS] The helicopter was reported missing during foggy conditions at 8:30 PM. [SEP] [CLS] The helicopter was assigned to the 1-244th Assault Helicopter Battalion in Hammond, Louisiana. [SEP] [CLS]
-

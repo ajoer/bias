@@ -1,2 +1,0 @@
-[CLS] Malaysian Airline System Flight 684 was an international flight from Singapore Changi Airport, Singapore to Subang International Airport, Kuala Lumpur, Malaysia. [SEP] [CLS] On 18 December 1983 the Airbus A300 operating the flight crashed 2 km short of the runway at Kuala Lumpur Airport, Malaysia with no fatalities among the 247 passengers and crew. [SEP] [CLS]
-

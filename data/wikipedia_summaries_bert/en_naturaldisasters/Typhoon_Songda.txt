@@ -1,2 +1,0 @@
-[CLS] The name Songda has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was contributed by Vietnam, and is a river in northwestern Vietnam. [SEP] [CLS] Typhoon Songda (2004) (T0418, 22W, Nina) – struck Japan. [SEP] [CLS] Typhoon Songda (2011) (T1102, 04W, Chedeng) – approached Japan. [SEP] [CLS] Typhoon Songda (2016) (T1620, 23W)- approached Canada as a post tropical storm. [SEP] [CLS]
-

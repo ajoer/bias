@@ -1,2 +1,0 @@
-[CLS] The 1999 Armenia, Colombia earthquake occurred on 25 January at 13:19 with an epicenter 40 kilometers (25 mi) west south west of Ibagué, Colombia. [SEP] [CLS] The shock heavily affected the city of Armenia, Colombia in the Quindío department, and about 18 other towns and 28 additional villages in the Colombian Coffee-Growers Axis region departments, and to a lesser degree, the cities of Pereira and Manizales. [SEP] [CLS] The earthquake had a magnitude of 6.2 on the moment magnitude scale and was the strongest earthquake to strike Colombia for 16 years. [SEP] [CLS]
-

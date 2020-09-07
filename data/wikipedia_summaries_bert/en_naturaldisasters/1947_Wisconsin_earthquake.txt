@@ -1,2 +1,0 @@
-[CLS] The 1947 Wisconsin earthquake took place on May 6, immediately south of Milwaukee at 15:25 (CST). [SEP] [CLS] It was the largest tremor to be historically documented in Wisconsin, but it was not recorded by seismographs. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1972 Qir earthquake occurred at 05:36 local time (02:06 UTC) on April 10, 1972. [SEP] [CLS] It had a magnitude of 6.7 on the moment magnitude scale and a maximum perceived intensity of IX (Violent) on the Mercalli intensity scale. [SEP] [CLS] The epicentre was in the province of Fars in southern Iran. [SEP] [CLS] The earthquake caused the destruction of Qir and serious damage to towns and villages in the surrounding area. [SEP] [CLS] The estimated number of deaths is 5,374, with a further 1,710 injured. [SEP] [CLS]
-

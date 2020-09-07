@@ -1,2 +1,0 @@
-[CLS] Sudan Airways Flight 109 was an international scheduled Amman–Damascus–Khartoum passenger flight, operated with an Airbus A310, that crashed on landing at Khartoum International Airport on 10 June 2008 at approximately 17:00 UTC, killing 30 of 214 occupants on board. [SEP] [CLS]
-

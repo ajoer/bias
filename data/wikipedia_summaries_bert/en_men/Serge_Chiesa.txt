@@ -1,2 +1,0 @@
-[CLS] Serge Chiesa (born 25 December 1950 in Casablanca) is a former professional footballer. [SEP] [CLS] He is a historic player of Olympique Lyonnais, an excellent dribbler whose skill was comparable to Michel Platini. [SEP] [CLS] In 1975–76, he was voted 'best attacking midfielder' of the season by France Football. [SEP] [CLS]
-

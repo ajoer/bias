@@ -1,2 +1,0 @@
-[CLS] The 2016 Sumatra earthquake was a 7.8 magnitude earthquake which struck on 2 March 2016 in the Indian Ocean, approximately 800 kilometers (500 miles) southwest of Sumatra in Indonesia. [SEP] [CLS] Tsunami warnings were issued for Indonesia and Australia, but were withdrawn two hours later. [SEP] [CLS] Heronimus Guru, the National Meteorological Agency's deputy head of operations, initially stated that "there are some who have died", without citing an official death toll; however, it is now known that there were no deaths directly related to the earthquake. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Turkish Airlines Flight 1878 was an international passenger flight from Milan–Malpensa Airport, Italy to Atatürk Airport, Istanbul, Turkey. [SEP] [CLS] On 25 April 2015, the aircraft rolled sharply just before landing causing a very hard touchdown resulting in substantial damage to the starboard wing and a fire. [SEP] [CLS] A go-around was initiated and the aircraft positioned for a second approach attempt but veered off the runway on the second landing. [SEP] [CLS] All 102 passengers and crew survived unharmed. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Galaxy Airlines Flight 203 was a Lockheed L-188 Electra 4-engine turboprop, registration N5532, operating as a non-scheduled charter flight from Reno, Nevada to Minneapolis, Minnesota, which crashed on January 21, 1985 shortly after takeoff. [SEP] [CLS] All but one of the 71 on board died. [SEP] [CLS]
-

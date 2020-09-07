@@ -1,2 +1,0 @@
-[CLS] LH Aviation is a French aircraft manufacturing company, founded in 2004 and located in Melun-Villaroche. [SEP] [CLS] It is the developer of the LH-10 Ellipse. [SEP] [CLS]
-

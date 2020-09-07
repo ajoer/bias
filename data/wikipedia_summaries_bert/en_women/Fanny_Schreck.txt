@@ -1,2 +1,0 @@
-[CLS] Fanny Schreck (1877–1951), also known as Fanny Schreck-Normann, was a German actress. [SEP] [CLS] She was married to actor Max Schreck. [SEP] [CLS] Both husband and wife acted in their most well-known film, Nosferatu, with Fanny Schreck uncredited as the nurse and Max Schreck as the vampire Count Orlok. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Olli Rahnasto (born 28 December 1965) is a retired professional tennis player from Finland. [SEP] [CLS] Rahnasto turned pro in 1982. [SEP] [CLS] During his career, he won two ATP Tour doubles titles and reached a career high doubles ranking of No. [SEP] [CLS] 79 in 1986. [SEP] [CLS] He was a member of the Finland Davis Cup team, and led the team to the World Group Qualifying round in 1990. [SEP] [CLS] He retired in 1995. [SEP] [CLS]
-

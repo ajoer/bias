@@ -1,2 +1,0 @@
-[CLS] United Airlines Flight 811 was a regularly scheduled airline flight from Los Angeles to Sydney, with intermediate stops at Honolulu and Auckland. [SEP] [CLS] On February 24, 1989, the Boeing 747–122 serving the flight experienced a cargo door failure in flight shortly after leaving Honolulu. [SEP] [CLS] The resulting explosive decompression blew out several rows of seats, resulting in the deaths of nine passengers. [SEP] [CLS] It returned to Honolulu, where it landed without further loss of life. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 2009 Tonga undersea volcanic eruption began on March 16, 2009, near the island of Hunga Tonga, approximately 11 kilometres (6.8 mi) from the Tongan capital of Tongatapu. [SEP] [CLS] The volcano is in a highly active volcanic region that represents a portion of the Pacific Ring of Fire. [SEP] [CLS] It is estimated that there are up to 36 undersea volcanoes clustered together in the area. [SEP] [CLS]
-

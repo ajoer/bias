@@ -1,2 +1,0 @@
-[CLS] The 2014–15 eruption of Fogo began on 23 November 2014, continuing until 8 February 2015. [SEP] [CLS] It was the first eruption of Pico do Fogo in 19 years, and the longest since its 1857 eruption. [SEP] [CLS] It had a Volcanic Explosivity Index of 3, making it the largest eruption of the volcano since records began. [SEP] [CLS]
-

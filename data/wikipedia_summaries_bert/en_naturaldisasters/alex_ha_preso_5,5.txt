@@ -1,2 +1,0 @@
-[CLS] The 2016–17 season is the 83rd season in Associazione Calcio Milan's history and their 34th in the top-flight of Italian football. [SEP] [CLS] Milan is competing in Serie A, Supercoppa (as finalist of 2015–16 Coppa Italia) and in the Coppa Italia. [SEP] [CLS]
-

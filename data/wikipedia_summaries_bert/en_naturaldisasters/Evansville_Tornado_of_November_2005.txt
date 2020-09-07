@@ -1,2 +1,0 @@
-[CLS] A destructive outbreak of nine tornadoes struck the Mississippi Valley and the Midwest during the overnight hours of November 5–6, 2005. [SEP] [CLS] The worst event was an F3 tornado that formed early in the morning of November 6, 2005, outside of Evansville, Indiana, United States. [SEP] [CLS] It was the first of several tornado events that November. [SEP] [CLS] The tornado resulted in 24 confirmed fatalities across the region, making it the deadliest and most destructive November tornado in Indiana's history. [SEP] [CLS]
-

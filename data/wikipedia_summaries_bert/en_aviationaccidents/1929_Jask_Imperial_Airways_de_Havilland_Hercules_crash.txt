@@ -1,2 +1,0 @@
-[CLS] On 6 September 1929 a de Havilland Hercules three-engined biplane of Imperial Airways crashed on landing at Jask Airport, near the town of Jask in Iran on the Gulf of Oman. [SEP] [CLS] The aircraft was carrying mail from the United Kingdom to India. [SEP] [CLS] The pilot, a mechanic and a passenger were killed. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The US State of North Dakota experienced significant flooding in its major river basins in 2009, following abnormally heavy winter snows atop saturated and frozen ground. [SEP] [CLS]
-

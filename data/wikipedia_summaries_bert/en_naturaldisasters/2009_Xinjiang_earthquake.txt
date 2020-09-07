@@ -1,2 +1,0 @@
-[CLS] The 2009 Xinjiang earthquake occurred in the Xinjiang Uygur Autonomous Region of the People's Republic of China. [SEP] [CLS] It occurred at 9:47 a.m in Qapqal on January 25, 2009. [SEP] [CLS]
-

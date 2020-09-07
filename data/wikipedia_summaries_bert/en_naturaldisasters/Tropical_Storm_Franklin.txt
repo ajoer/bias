@@ -1,2 +1,0 @@
-[CLS] The name Franklin has been used for three tropical cyclones in the Atlantic Ocean. [SEP] [CLS] Tropical Storm Franklin (2005) - Formed over the Bahamas, then moved erratically in the open ocean, never affecting land directly. [SEP] [CLS] Twice approached hurricane status. [SEP] [CLS] Tropical Storm Franklin (2011) - Weak tropical storm that never threatened land. [SEP] [CLS] Hurricane Franklin (2017) - Made landfall on the Yucatan Peninsula as a moderate tropical storm, then made a second landfall in Veracruz, Mexico as a Category 1 hurricane. [SEP] [CLS]
-

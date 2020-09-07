@@ -1,2 +1,0 @@
-[CLS] Thai Airways Flight 365 was a Thai Airways Company Boeing 737-2P5 with registration number HS-TBC. [SEP] [CLS] Flight 365 was on a scheduled flight from Hat Yai International Airport to Phuket International Airport (both in Thailand) that crashed on 31 August 1987, killing all 83 people on board: 74 passengers and 9 crew. [SEP] [CLS]
-

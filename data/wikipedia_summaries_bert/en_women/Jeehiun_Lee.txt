@@ -1,2 +1,0 @@
-[CLS] Jeehiun Katherine Lee is an organic chemist and a Professor in the Department of Chemistry at Rutgers University. [SEP] [CLS] She currently runs a research lab on the New Brunswick campus. [SEP] [CLS] Although she is an organic chemist by training, she has expanded her research field to biological chemistry, using mass spectrometry, computer modeling and other methods to characterize reactivity and catalysis. [SEP] [CLS]
-

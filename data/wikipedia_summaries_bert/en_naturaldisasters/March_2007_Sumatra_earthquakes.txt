@@ -1,2 +1,0 @@
-[CLS] The March 2007 Sumatra earthquakes occurred near the northern end of Lake Singkarak in Sumatra, Indonesia, on March 6. [SEP] [CLS] The first shock in this earthquake doublet struck with a maximum Mercalli intensity of VIII (Severe) and the second shock that arrived two hours later had a maximum Mercalli intensity of VI (Strong). [SEP] [CLS]
-

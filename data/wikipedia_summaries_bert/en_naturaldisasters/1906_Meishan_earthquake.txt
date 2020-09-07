@@ -1,2 +1,0 @@
-[CLS] The 1906 Meishan earthquake (Chinese: 1906年梅山地震; pinyin: 1906 nián Měishān Dìzhèn) was centered on Moe'akhe (Chinese: 梅仔坑; Pe̍h-ōe-jī: Môe-á-kheⁿ), Kagi-cho, Japanese Taiwan (modern-day Meishan, Chiayi County, Taiwan) and occurred on March 17. [SEP] [CLS] Referred to at the time as the Great Kagi earthquake (Chinese: 嘉義大地震; pinyin: Jiāyì Dà Dìzhèn), it is the third-deadliest earthquake in Taiwan's recorded history, claiming around 1,260 lives. [SEP] [CLS] The shock had a surface wave magnitude of 6.8 and a Mercalli intensity of IX (Violent). [SEP] [CLS]
-

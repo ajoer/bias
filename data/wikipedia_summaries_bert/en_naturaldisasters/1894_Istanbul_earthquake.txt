@@ -1,2 +1,0 @@
-[CLS] The 1894 Istanbul earthquake occurred in the Çınarcık Basin or Gulf of Izmit in the Sea of Marmara on 10 July at 12:24pm. [SEP] [CLS] The earthquake had an estimated Ms magnitude of 7.0. [SEP] [CLS] At least an estimated 1,349 people were killed in towns around the Gulf of Izmit such as Yalova, Sapanca and Adapazarı, and in the nearby city of Constantinople (now known in English under its Turkish name, Istanbul). [SEP] [CLS] The main shock caused a tsunami 1.5 metres (4.9 ft) high. [SEP] [CLS]
-

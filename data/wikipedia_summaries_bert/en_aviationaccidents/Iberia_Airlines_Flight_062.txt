@@ -1,2 +1,0 @@
-[CLS] Iberia Airlines Flight 062 was a twin-engined Sud Aviation Caravelle registered EC-BDD operating a scheduled flight from Málaga Airport, Spain, to London Heathrow Airport. [SEP] [CLS] While on approach to Heathrow on 4 November 1967, the Caravelle descended far below the flight level assigned to it and flew into the southern slope of Blackdown Hill in West Sussex, killing all 37 on board. [SEP] [CLS]
-

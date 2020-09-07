@@ -1,2 +1,0 @@
-[CLS] The Great Natchez Tornado hit Natchez, Mississippi, on Thursday, May 7, 1840. [SEP] [CLS] This tornado was the second deadliest tornado in United States history; at least 317 people were killed and at least 109 were injured. [SEP] [CLS]
-

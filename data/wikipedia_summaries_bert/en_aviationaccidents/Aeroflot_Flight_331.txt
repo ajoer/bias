@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 331 was an international passenger flight] operated by an Ilyushin Il-62M that crashed approximately 1 km (0.62 mi) from José Martí International Airport, in Havana, Cuba, on 27 May 1977. [SEP] [CLS] The accident occurred after the aircraft hit power lines on its final approach to the airport during poor weather. [SEP] [CLS] The aircraft was attempting an emergency landing due to a fire in one of its engines. [SEP] [CLS] Only two of the 70 occupants on board survived.The cause of the crash was ruled to be pilot error. [SEP] [CLS]
-

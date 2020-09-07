@@ -1,2 +1,0 @@
-[CLS] The Kyeema airline crash occurred on 25 October 1938 when the Australian National Airways Douglas DC-2 Kyeema, tail number VH-UYC, flying from Adelaide to Melbourne, commenced final approach to Essendon Airport through heavy fog and crashed into the western slopes of Mount Dandenong, also known as Mount Corhanwarrabul, killing all 18 on board instantly. [SEP] [CLS]
-

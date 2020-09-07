@@ -1,2 +1,0 @@
-[CLS] USAir Flight 5050 was a passenger flight that crashed on takeoff from LaGuardia Airport in Queens, New York. [SEP] [CLS] As the plane took off from LaGuardia's runway 31, the plane drifted to the left. [SEP] [CLS] After hearing a loud bang, the pilots attempted to abort the takeoff, but were unable to stop the plane short of the end of the runway. [SEP] [CLS] The plane continued past the end of the runway and plunged into Bowery Bay. [SEP] [CLS] Two passengers were killed. [SEP] [CLS]
-

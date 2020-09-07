@@ -1,2 +1,0 @@
-[CLS] On 8 February 1989, Independent Air Flight 1851, a Boeing 707 on an American charter flight from Bergamo, Italy to Punta Cana, Dominican Republic, struck Pico Alto while on approach to Santa Maria Airport in the Azores for a scheduled stopover. [SEP] [CLS] The aircraft was destroyed, with the loss of all 144 on board, resulting in the deadliest plane crash in Portugal's history. [SEP] [CLS] Due to the large number of tourists from Italy that perished in this tragedy, it is known in Italian as “Il disastro delle Azorre" ("The disaster of the Azores"). [SEP] [CLS]
-

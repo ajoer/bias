@@ -1,2 +1,0 @@
-[CLS] The 2014 Brisbane hailstorm struck Brisbane, the capital city of Queensland, Australia on 27 November 2014. [SEP] [CLS] The storm caused severe damage to many buildings and cars in the city. [SEP] [CLS] Around 40 people were injured. [SEP] [CLS] Wind speeds of 141 km/h (88 mph) were recorded with multiple reports of hail in the city and surrounding areas. [SEP] [CLS]
-

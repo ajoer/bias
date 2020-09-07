@@ -1,2 +1,0 @@
-[CLS] Helios Airways Flight 522 was a scheduled passenger flight from Larnaca, Cyprus to Prague, Czech Republic with a stopover to Athens, Greece, that crashed on 14 August 2005, killing all 121 passengers and crew on board. [SEP] [CLS] A loss of cabin pressurization incapacitated the crew, leaving the aircraft flying on autopilot until it ran out of fuel and crashed near Grammatiko, Greece. [SEP] [CLS] It was the deadliest aviation accident in Greek history. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] KLM Flight 608 was an international scheduled passenger flight from New York City to Amsterdam. [SEP] [CLS] On 23 August 1954, the aircraft crashed in the North Sea off IJmuiden during the Shannon-Amsterdam leg of the flight. [SEP] [CLS] The crash killed all 21 passengers and crew on board. [SEP] [CLS]
-

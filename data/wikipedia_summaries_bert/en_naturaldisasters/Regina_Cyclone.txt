@@ -1,2 +1,0 @@
-[CLS] The Regina Cyclone, or Regina tornado of 1912, was a tornado that devastated the city of Regina, Saskatchewan, Canada, on Sunday, June 30, 1912. [SEP] [CLS] It remains the deadliest tornado in Canadian history with a total of 28 fatalities. [SEP] [CLS] At about 4:50 p.m., green funnel clouds formed and touched down south of the city, tearing through the residential area between Wascana Lake and Victoria Avenue, and continuing through the downtown business district, rail yards, warehouse district, and northern residential area. [SEP] [CLS]
-

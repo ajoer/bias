@@ -1,2 +1,0 @@
-[CLS] On 7 February 1981, a Tupolev Tu-104 passenger jet crashed during take off from Pushkin Airport near Leningrad (today's Saint Petersburg), Russia, resulting in the death of all 50 people on board, including 28 high-ranking Soviet military personnel. [SEP] [CLS] The official investigation concluded that the aircraft was improperly loaded. [SEP] [CLS]
-

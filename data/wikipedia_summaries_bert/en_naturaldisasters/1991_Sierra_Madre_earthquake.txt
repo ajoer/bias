@@ -1,2 +1,0 @@
-[CLS] The 1991 Sierra Madre earthquake occurred on June 28 at 07:43:55 local time with a moment magnitude of 5.6 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] The thrust earthquake resulted in two deaths, around 100 injuries, and damage estimated at $33.5–40 million. [SEP] [CLS] The event occurred beneath the San Gabriel Mountains on the Clamshell–Sawpit Fault, which is a part of the Sierra Madre–Cucamonga Fault System. [SEP] [CLS] Instruments captured the event at a number of strong motion stations in Southern California. [SEP] [CLS]
-

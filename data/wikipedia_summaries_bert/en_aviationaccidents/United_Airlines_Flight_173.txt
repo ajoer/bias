@@ -1,2 +1,0 @@
-[CLS] United Airlines Flight 173 was a scheduled flight from John F. [SEP] [CLS] Kennedy International Airport in New York City to Portland International Airport in Portland, Oregon, with a scheduled stop in Denver, Colorado. [SEP] [CLS] On December 28, 1978, the aircraft flying this route ran out of fuel while troubleshooting a landing gear problem and crashed in a suburban Portland neighborhood near NE 157th Avenue and East Burnside Street, killing ten on board. [SEP] [CLS]
-

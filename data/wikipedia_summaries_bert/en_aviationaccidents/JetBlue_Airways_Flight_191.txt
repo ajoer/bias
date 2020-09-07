@@ -1,2 +1,0 @@
-[CLS] JetBlue Flight 191 was a scheduled domestic commercial passenger flight from New York to Las Vegas, United States. [SEP] [CLS] On March 27, 2012, the Airbus A320 serving the route diverted to Amarillo, Texas, after the captain, suffering from an apparent mental breakdown, started behaving erratically and was restrained by passengers. [SEP] [CLS] There were no fatalities. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 415 (Russian: Рейс 415 Аэрофлота Reys 415 Aeroflota) was a domestic scheduled passenger flight operated by Aeroflot from Lviv to Sochi with a stopover in Simferopol. [SEP] [CLS] On 28 July 1962 the Antonov An-10 operating the route crashed near Gagra, Abkhaz ASSR, Georgian SSR, killing all 81 passengers and crew on board. [SEP] [CLS]
-

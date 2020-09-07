@@ -1,2 +1,0 @@
-[CLS] The 1933 Imperial Airways Ruysselede crash occurred on 30 December 1933 when an Imperial Airways Avro Ten collided with one of the radio mast of Belradio at Ruysselede, West Flanders, Belgium and crashed killing all ten people on board. [SEP] [CLS] The aircraft was operating an international scheduled passenger flight from Cologne, Germany to London, England via Brussels, Belgium. [SEP] [CLS]
-

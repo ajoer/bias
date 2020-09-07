@@ -1,2 +1,0 @@
-[CLS] The 1961 Kurenivka mudslide occurred on March 13 in Kiev, capital city of the Ukraine, which was then part of the Soviet Union. [SEP] [CLS] The mudslide started at the edge of the Babi Yar mass murder site and dumped mud, water, and human remains into the streets of Kiev. [SEP] [CLS] The Soviet authorities suppressed information about the disaster, and claimed 145 people were killed, while forbidding any memorial events for the victims. [SEP] [CLS] A 2012 study in Ukraine estimates that the number of victims was closer to 1,500. [SEP] [CLS]
-

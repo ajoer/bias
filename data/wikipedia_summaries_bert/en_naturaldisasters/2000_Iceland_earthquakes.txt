@@ -1,2 +1,0 @@
-[CLS] The 2000 Iceland earthquakes struck southern Iceland on June 17 and 21. [SEP] [CLS] There were no fatalities but one person was injured and there was considerable damage to infrastructure. [SEP] [CLS] The two earthquakes were the first major seismic activity in Iceland for 88 years. [SEP] [CLS] The recorded magnitude of both of the main quakes was 6.5 Mwc. [SEP] [CLS]
-

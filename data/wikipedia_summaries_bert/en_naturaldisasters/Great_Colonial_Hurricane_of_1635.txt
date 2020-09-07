@@ -1,2 +1,0 @@
-[CLS] The Great Colonial Hurricane of 1635 was a severe hurricane which brushed Virginia and then passed over southeastern New England in August. [SEP] [CLS] Accounts of the storm are very limited, but it was likely the most intense hurricane to hit New England since European colonization. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1931 Valentine earthquake occurred on August 16 of that year with a moment magnitude of 6.5 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] Though no casualties were reported, the quake caused damage to many homes and buildings in the town of Valentine. [SEP] [CLS] It remains the most powerful earthquake ever recorded in Texas history. [SEP] [CLS]
-

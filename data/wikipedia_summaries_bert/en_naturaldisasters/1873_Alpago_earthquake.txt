@@ -1,2 +1,0 @@
-[CLS] The 1873 Alpago earthquake occurred near the Italian city of Belluno on June 29 in the geologically active Alpago Valley of the Veneto region; the zone is rated as two on a four-degree risk scale (one being the highest). [SEP] [CLS] The 6.3 magnitude quake was rated as IX–X (Violent–Extreme) on the Mercalli intensity scale. [SEP] [CLS] Intensities greater than VII (Very strong) were confined to the provinces of Belluno, Treviso and Pordenone. [SEP] [CLS]
-

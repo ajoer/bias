@@ -1,2 +1,0 @@
-[CLS] The 1963 Marj earthquake occurred on February 21 in northern Libya. [SEP] [CLS] The earthquake occurred at 18:14:36 local time with a moment magnitude of 5.6 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] Financial losses totaled $5 million USD, with 290–375 deaths, 375–500 injuries, and 12,000 homeless. [SEP] [CLS]
-

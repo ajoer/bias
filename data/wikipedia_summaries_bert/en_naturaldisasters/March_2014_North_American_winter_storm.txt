@@ -1,2 +1,0 @@
-[CLS] The March 2014 North American winter storm, also known as Winter Storm Titan, was an extremely powerful Winter storm that affected much of the United States and portions of Canada. [SEP] [CLS] It was one of the most severe winter storms of the 2013–14 North American winter storm season, storm affecting most of the Western Seaboard (especially California), and various parts of the Eastern United States, bringing damaging winds, flash floods, blizzard conditions, icy conditions. [SEP] [CLS]
-

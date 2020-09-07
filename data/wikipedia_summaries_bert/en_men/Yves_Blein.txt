@@ -1,2 +1,0 @@
-[CLS] Yves Blein is a French politician representing La République En Marche! [SEP] [CLS] He was elected to the French National Assembly on 18 June 2017, representing the department of Rhône. [SEP] [CLS]
-

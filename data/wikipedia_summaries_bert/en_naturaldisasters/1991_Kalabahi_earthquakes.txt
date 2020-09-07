@@ -1,2 +1,0 @@
-[CLS] The 1991 Kalabahi earthquakes struck the sea adjacent to Timor on July 4, leaving twenty three people dead and injuring 181. [SEP] [CLS] The two quakes, which took place two-and-a-half seconds apart, measured 6.9 on the Mw scale. [SEP] [CLS]
-

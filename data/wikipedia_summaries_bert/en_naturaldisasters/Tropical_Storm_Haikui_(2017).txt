@@ -1,2 +1,0 @@
-[CLS] Tropical Storm Haikui, known in the Philippines as Tropical Storm Salome, was a weak tropical cyclone that affected the Philippine archipelagos of Luzon and Visayas. [SEP] [CLS] Forming as the twenty-fourth named storm of the 2017 typhoon season, Haikui developed as a tropical depression to the east of Samar on November 9. [SEP] [CLS] Traversing some Philippine islands, the system gradually intensified into a named tropical storm by November 10. [SEP] [CLS] In that same day, Haikui emerged to the South China Sea. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The Kano air disaster was a chartered Boeing 707 passenger flight on 22 January 1973 that crashed while attempting to land at Kano International Airport. [SEP] [CLS] It is the deadliest aviation disaster ever to take place in Nigeria, as 176 passengers and crew perished in the crash. [SEP] [CLS] There were 26 survivors. [SEP] [CLS]
-

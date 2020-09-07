@@ -1,2 +1,0 @@
-[CLS] Marlies Askamp (born August 7, 1970 in Dorsten, Recklinghausen, North Rhine-Westphalia) is a German professional basketball player. [SEP] [CLS] She was one of the original players to play in the U.S. [SEP] [CLS] Women's National Basketball Association (WNBA). [SEP] [CLS]
-

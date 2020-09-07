@@ -1,2 +1,0 @@
-[CLS] The 1905 Tsetserleg earthquake occurred in or near the Tsetserleg Sum of Khövsgöl Province in Mongolia on 9 July 1905. [SEP] [CLS] The earthquake has been estimated at 7.9 to 8.3 on the moment magnitude scale. [SEP] [CLS]
-

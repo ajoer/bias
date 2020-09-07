@@ -1,2 +1,0 @@
-[CLS] The 1688 Smyrna earthquake occurred at 11:45 on 10 July. [SEP] [CLS] It had an epicenter close to Izmir, Turkey. [SEP] [CLS] It had an estimated magnitude of 7.0 Ms, with a maximum felt intensity of X (Extreme) on the Mercalli intensity scale, and caused about 16,000 casualties. [SEP] [CLS]
-

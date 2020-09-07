@@ -1,2 +1,0 @@
-[CLS] Jean-Baptiste Joseph Fourier (; French: [fuʁje]; 21 March 1768 – 16 May 1830) was a French mathematician and physicist born in Auxerre and best known for initiating the investigation of Fourier series, which eventually developed into Fourier analysis and harmonic analysis, and their applications to problems of heat transfer and vibrations. [SEP] [CLS] The Fourier transform and Fourier's law of conduction are also named in his honour. [SEP] [CLS] Fourier is also generally credited with the discovery of the greenhouse effect. [SEP] [CLS]
-

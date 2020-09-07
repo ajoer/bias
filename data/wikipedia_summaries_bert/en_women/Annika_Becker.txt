@@ -1,2 +1,0 @@
-[CLS] Annika Becker (born 12 November 1981) is a retired German pole vaulter. [SEP] [CLS] Becker was born in Rotenburg an der Fulda. [SEP] [CLS] Her personal best is 4.77 metres, achieved in July 2002 in Wattenscheid. [SEP] [CLS] This was the German national record until 12 July 2011. [SEP] [CLS]
-

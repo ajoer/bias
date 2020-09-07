@@ -1,2 +1,0 @@
-[CLS] In August 2016, several rainstorms hit the western and northwestern parts of the Republic of Macedonia. [SEP] [CLS] On 6 August 2016, a storm with strong winds and flooding hit Skopje and the western parts of the country, leaving at least 21 people dead and dozens injured or missing. [SEP] [CLS]
-

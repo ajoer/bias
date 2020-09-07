@@ -1,2 +1,0 @@
-[CLS] Partnair Flight 394 was a chartered flight which crashed on 8 September 1989 off the coast of Denmark, 18 km (11 mi) north of Hirtshals. [SEP] [CLS] All 50 passengers and 5 crew members on board the aircraft died, and it is the deadliest aviation disaster in Denmark. [SEP] [CLS] The crash was caused by use of counterfeit aircraft parts in repairs and maintenance. [SEP] [CLS]
-

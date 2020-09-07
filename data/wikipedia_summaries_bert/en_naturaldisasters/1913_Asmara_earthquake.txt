@@ -1,2 +1,0 @@
-[CLS] The 1913 Asmara earthquake took place outside Asmara, Eritrea on 27 February. [SEP] [CLS] The data as to the magnitude of the earthquake is imprecise due to the frequency and magnitude of aftershocks, but a maximum felt intensity of VI (Strong) on the Mercalli intensity scale was recorded at Asmara. [SEP] [CLS] The "felt" area of the earthquake extended into Northern Ethiopia as well as Kassala in Sudan. [SEP] [CLS] The earthquake caused significant damage in Asmara (VI), Keren (IV), Massawa (V) and Adi Ugri (V). [SEP] [CLS]
-

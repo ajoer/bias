@@ -1,2 +1,0 @@
-[CLS] On October 3, 1946, an American Overseas Airlines (AOA) Douglas DC-4 aircraft named Flagship New England crashed soon after take-off from Stephenville, Newfoundland, killing all 39 people on board. [SEP] [CLS] It was, at the time, the deadliest aircraft crash on Canadian soil. [SEP] [CLS]
-

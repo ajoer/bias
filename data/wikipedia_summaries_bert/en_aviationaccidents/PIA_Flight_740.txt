@@ -1,2 +1,0 @@
-[CLS] Pakistan International Airlines Flight 740 was a Hajj pilgrimage flight from Kano, Nigeria to Karachi, Pakistan with an intermediate stopover in Jeddah, Saudi Arabia. [SEP] [CLS] Operated by Pakistan International Airlines, on 26 November 1979, the Boeing 707-340C serving the route crashed shortly after takeoff from Jeddah International Airport. [SEP] [CLS] All 156 people on board were killed. [SEP] [CLS]
-

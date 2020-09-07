@@ -1,2 +1,0 @@
-[CLS] On 10 December 2011, a twin-engine Beechcraft Queen Air light aircraft crashed into a slum and burst into flames in Parañaque, Metropolitan Manila, Philippines, killing all three people on board and eleven on the ground. [SEP] [CLS] Twenty more people on the ground were injured.The subsequent investigation found that an engine failure at take-off was not properly handled by the crew, which lost control of the aircraft at low altitude, without the possibility to recover before striking the ground. [SEP] [CLS]
-

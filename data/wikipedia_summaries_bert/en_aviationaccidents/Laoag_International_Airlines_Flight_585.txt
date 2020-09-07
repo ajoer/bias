@@ -1,2 +1,0 @@
-[CLS] Laoag International Airlines Flight 585 was a scheduled flight operated by Laoag International Airlines from Manila to Laoag, Philippines. [SEP] [CLS] On November 11, 2002, the Fokker F-27 Friendship crashed into Manila Bay shortly after takeoff from Ninoy Aquino International Airport. [SEP] [CLS] Of the 34 passengers and crew on board, 15 survived. [SEP] [CLS]
-

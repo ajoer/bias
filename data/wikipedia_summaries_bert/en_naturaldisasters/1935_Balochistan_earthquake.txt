@@ -1,2 +1,0 @@
-[CLS] The 1935 Quetta earthquake (Urdu: بلوچستان زلزلہ‎) occurred on 31 May between 2:33 am and 3:40 am at Quetta, Balochistan, British India (now part of Pakistan). [SEP] [CLS] The earthquake had a magnitude of 7.7 Mw and anywhere between 30,000 and 60,000 people died from the impact. [SEP] [CLS] This ranked as the deadliest earthquake that hit South Asia until the 2005 Kashmir earthquake. [SEP] [CLS] The quake was centred 4 km south-west of Ali Jaan, Balochistan, British India. [SEP] [CLS]
-

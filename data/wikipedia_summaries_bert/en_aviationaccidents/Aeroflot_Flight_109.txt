@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 109 (Russian: Рейс 109 Аэрофлота Reys 109 Aeroflota) was a scheduled domestic passenger flight from Moscow to Chita with stopovers in Chelyabinsk, Novosibirsk, and Irkutsk. [SEP] [CLS] On the final leg of the route on 18 May 1973 a terrorist hijacked the aircraft, demanding to be flown to China; the terrorist's bomb detonated in flight after he was shot by the air marshal. [SEP] [CLS]
-

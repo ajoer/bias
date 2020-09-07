@@ -1,2 +1,0 @@
-[CLS] Roman Jerala (born 1962) is a Slovenian biochemist and synthetic biologist, internationally best known as the leader of Slovenian teams that won the Grand prize at the International Genetically Engineered Machine competition several times. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Christa Luft (born Christa Hecht: 22 February 1938) is a German economist and politician of the SED/PDS. [SEP] [CLS] Luft joined the SED in 1958. [SEP] [CLS] From 18 November 1989 to 18 March 1990 she was economy minister in the Modrow government. [SEP] [CLS] From 1994 to 2002 she was member of the Bundestag for the PDS. [SEP] [CLS] From 1963 to 1971 Luft was registered as a Stasi informant under the code name IM Gisela. [SEP] [CLS]
-

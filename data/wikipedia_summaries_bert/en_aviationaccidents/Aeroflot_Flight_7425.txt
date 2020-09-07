@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 7425 was a domestic scheduled Karshi–Ufa–Leningrad passenger flight that crashed near Uchkuduk, Uzbek SSR, Soviet Union on 10 July 1985. [SEP] [CLS] The crash killed all 200 occupants (148 adults, including 9 crewmembers, and 52 children) on board. [SEP] [CLS] Investigators determined that crew fatigue was a factor in the accident. [SEP] [CLS]
-

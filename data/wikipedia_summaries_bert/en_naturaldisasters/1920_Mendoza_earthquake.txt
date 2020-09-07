@@ -1,2 +1,0 @@
-[CLS] The 1920 Mendoza earthquake took place in the province of Mendoza, Argentina, on 17 December at 6:59:49 p.m. [SEP] [CLS] It measured magnitude 6.0, and its epicenter was at 32°42′S 68°24′W, with a depth of 40 km. [SEP] [CLS] The earthquake was felt with grade VIII (Severe) on the Mercalli intensity scale. [SEP] [CLS] It affected the provincial capital Mendoza, and caused material damage and numerous fatalities in several towns 30 km (19 mi) to the northeast. [SEP] [CLS]
-

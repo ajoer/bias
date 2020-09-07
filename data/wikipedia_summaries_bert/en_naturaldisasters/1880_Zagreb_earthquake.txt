@@ -1,2 +1,0 @@
-[CLS] The 1880 earthquake which struck Zagreb, and is also known as The Great Zagreb earthquake, occurred with a moment magnitude of 6.3 on 9 November 1880. [SEP] [CLS] Its epicenter was in the Medvednica mountain north of Zagreb. [SEP] [CLS] Although only one person was killed in the earthquake, it destroyed or damaged many buildings. [SEP] [CLS]
-

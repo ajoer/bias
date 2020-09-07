@@ -1,2 +1,0 @@
-[CLS] The 1973 Point Mugu earthquake occurred at 06:45:57 local time on February 21 in the Point Mugu area of southeastern Ventura County of southern California. [SEP] [CLS] It had a moment magnitude of 5.8 and a maximum Mercalli Intensity of VII (Very strong). [SEP] [CLS] This oblique-slip shock resulted in several injuries and $1 million in damage. [SEP] [CLS] The epicenter was near the Oxnard Plain and the northern terminus of the Santa Monica Mountains, in the California South Coast region. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1954 Adelaide earthquake had its epicentre at Darlington, a suburb of the city of Adelaide in South Australia, some 12 km (7.5 mi) to the south of the Adelaide city centre. [SEP] [CLS] The quake took place at 3:40 am in the early morning of 1 March 1954 and had a reported magnitude of 5.6. [SEP] [CLS] An area of more than 700 km² sustained an intensity greater than V on the Mercalli intensity scale. [SEP] [CLS]
-

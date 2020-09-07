@@ -1,2 +1,0 @@
-[CLS] Kish Air Flight 7170 was a scheduled international passenger flight, operated by an Ektaban-based Iranian airlines Kish Air from Kish Island in Iran to Sharjah, United Arab Emirates (UAE). [SEP] [CLS] On 10 February 2004, the aircraft serving the route, a Fokker 50, crashed while approaching to land at Sharjah International Airport killing 43 of the 46 occupants. [SEP] [CLS] The final report, conducted by Emirates General Civil Aviation Authority, concluded that pilot error was the cause of the accident. [SEP] [CLS]
-

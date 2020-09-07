@@ -1,2 +1,0 @@
-[CLS] On April 18, 2002, at 17:48 (local time), a Rockwell Commander 112 crashed into the upper floors of the Pirelli Tower in Milan, Italy, for reasons still unclear. [SEP] [CLS] The crash killed the pilot and two others in the building. [SEP] [CLS] Sixty more people sustained injuries in the building and on the ground. [SEP] [CLS] The crash raised fears of a terrorist attack because of the similarities with the September 11 attacks, which had occurred seven months earlier. [SEP] [CLS] A subsequent investigation ruled out terrorism as a motive. [SEP] [CLS]
-

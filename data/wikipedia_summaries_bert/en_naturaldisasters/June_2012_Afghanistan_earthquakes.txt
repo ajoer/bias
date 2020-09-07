@@ -1,2 +1,0 @@
-[CLS] On 11 June 2012, two moderate earthquakes struck northern Afghanistan, causing a large landslide. [SEP] [CLS] The landslide buried the town of Sayi Hazara, trapping 71 people. [SEP] [CLS] After four days of digging, only five bodies were recovered and the search was called off. [SEP] [CLS] Overall, 75 people were killed and 13 others were injured. [SEP] [CLS]
-

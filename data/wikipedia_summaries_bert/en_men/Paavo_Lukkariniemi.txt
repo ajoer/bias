@@ -1,2 +1,0 @@
-[CLS] Paavo Lukkariniemi (born April 14, 1941 in Ylitornio) is a Finnish former ski jumper who competed in the mid-1960s. [SEP] [CLS] He won a bronze medal in the individual normal hill at the 1966 FIS Nordic World Ski Championships in Oslo. [SEP] [CLS] Lukkariniemi's lone victory was in the normal hill event at Garmisch-Partenkirchen in 1966. [SEP] [CLS]
-

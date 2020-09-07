@@ -1,2 +1,0 @@
-[CLS] Ruth Charlotte Cohn (born 27 August 1912 in Berlin, died 30 January 2010 in Düsseldorf) was a psychotherapist, educator, and poet. [SEP] [CLS] She is best known as the creator of a method for learning in groups called theme-centered interaction (TCI). [SEP] [CLS] She was the founder of the Workshop Institute for Living Learning (WILL), which is known today as the Ruth Cohn Institute for TCI. [SEP] [CLS]
-

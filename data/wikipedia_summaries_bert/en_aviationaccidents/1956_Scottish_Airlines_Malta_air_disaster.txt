@@ -1,2 +1,0 @@
-[CLS] The 1956 Scottish Airlines Malta air disaster was an air accident that happened on 18 February 1956. [SEP] [CLS] A Scottish Airlines Avro York crashed after takeoff from RAF Luqa in Malta on a trooping flight from the Suez Canal Zone to London Stansted Airport. [SEP] [CLS] The disaster killed all 50 passengers and crew on board the aircraft; all passengers except one (a British Army private) were Royal Air Force personnel. [SEP] [CLS]
-

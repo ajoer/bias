@@ -1,2 +1,0 @@
-[CLS] The 1993 Llyn Padarn helicopter crash occurred on 12 August 1993, when an RAF Westland Wessex helicopter, serial number XR524, with 3 crew and 4 passengers (all of them Air Training Corps cadets) on board suffered a catastrophic tail rotor failure and plunged into Llyn Padarn, a lake in North Wales. [SEP] [CLS] Three passengers perished. [SEP] [CLS]
-

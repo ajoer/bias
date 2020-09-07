@@ -1,2 +1,0 @@
-[CLS] Ernst Mielck (24 October 1877 – 22 October 1899) was a Finnish composer. [SEP] [CLS] Mielck was born in Vyborg. [SEP] [CLS] He started piano lessons at the age of ten; in 1891 he was sent to Berlin, where he studied under Max Bruch, one of the leading composers of the period. [SEP] [CLS] Bruch said of Mielck that he had "an easy, felicitous, and remarkable flair for invention." Mielck returned to Finland in 1896. [SEP] [CLS] Three years later he died of tuberculosis in Switzerland, just two days before his 22nd birthday. [SEP] [CLS]
-

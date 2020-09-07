@@ -1,2 +1,0 @@
-[CLS] The Antonov An-72 (NATO reporting name: Coaler) is a Soviet/Ukrainian transport aircraft, developed by Antonov. [SEP] [CLS] It was designed as an STOL transport and intended as a replacement for the Antonov An-26, but variants have found success as commercial freighters. [SEP] [CLS] The An-72 and the related An-74 get their nickname, Cheburashka, from the large engine intake ducts, which resemble the oversized ears of the popular Soviet animated character of the same name. [SEP] [CLS]
-

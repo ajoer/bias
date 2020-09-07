@@ -1,2 +1,0 @@
-[CLS] On 30 July 2014, a landslide occurred in the village of Malin in the Ambegaon taluka of the Pune district in Maharashtra, India. [SEP] [CLS] The landslide, which hit early in the morning while residents were asleep, was believed to have been caused by a burst of heavy rainfall, and killed at least (151) people. [SEP] [CLS] Rains continued after the landslide making rescue efforts difficult. [SEP] [CLS]
-

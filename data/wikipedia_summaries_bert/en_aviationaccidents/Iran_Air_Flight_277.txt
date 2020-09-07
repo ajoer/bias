@@ -1,2 +1,0 @@
-[CLS] On January 9, 2011, Iran Air Flight 277, a Boeing 727 on a scheduled domestic service from Tehran to Urmia, Iran, crashed after aborting its approach into Urmia Airport in poor weather. [SEP] [CLS] Seventy-eight of the 105 people on board were killed. [SEP] [CLS] The official investigation concluded that icing conditions and incorrect engine management by the crew led to a double engine flame-out, loss of altitude and impact with the ground. [SEP] [CLS]
-

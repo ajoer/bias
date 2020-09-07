@@ -1,2 +1,0 @@
-[CLS] The 2016 Chiloé earthquake with a magnitude of Mww 7.6 struck 225 kilometres (140 mi) south-west of Puerto Montt in southern Chile at 11:22 local time, 25 December. [SEP] [CLS] The earthquake triggered a tsunami warning on coasts located up to 1,000 kilometres (620 mi) from the quake's epicentre, generating massive evacuation across the Greater Chiloé Island, after advice from the Chilean government. [SEP] [CLS] Although there was damage in some parts of the island, the government reported no casualties. [SEP] [CLS]
-

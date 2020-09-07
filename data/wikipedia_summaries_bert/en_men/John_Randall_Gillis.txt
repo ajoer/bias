@@ -1,2 +1,0 @@
-[CLS] Among the Shadows is a 2019 American supernatural horror thriller film directed by Tiago Mesquita and written by Mark Morgan. [SEP] [CLS] It stars Charlotte Beckett, Lindsay Lohan, Gianni Capaldi, Dominik Madani, Reynald Bialès, Barry Jay Minoff, and Kristoffel Verdonck. [SEP] [CLS] The film was released via video on demand on March 5, 2019. [SEP] [CLS]
-

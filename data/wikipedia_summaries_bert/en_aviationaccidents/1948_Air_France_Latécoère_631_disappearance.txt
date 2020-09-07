@@ -1,2 +1,0 @@
-[CLS] On 1 August 1948, Air France Flight 072 went missing over the Atlantic Ocean, killing all 52 people on board. [SEP] [CLS] The accident led to the withdrawal of the Latécoère 631 from service by Air France. [SEP] [CLS] It was the deadliest aircraft accident in the Atlantic Ocean at the time and also the deadliest suffered by that type of aircraft. [SEP] [CLS]
-

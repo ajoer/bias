@@ -1,2 +1,0 @@
-[CLS] The Wingfoot Air Express was a dirigible that crashed into the Illinois Trust and Savings Building in Chicago on Monday July 21, 1919. [SEP] [CLS] The Type FD dirigible, owned by the Goodyear Tire and Rubber Company, was transporting people from Grant Park to the White City amusement park. [SEP] [CLS] One crew member, two passengers and ten bank employees were killed in what was, up to that point, the worst dirigible disaster in United States history. [SEP] [CLS]
-

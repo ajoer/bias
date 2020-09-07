@@ -1,2 +1,0 @@
-[CLS] Ivan Dirkie de Veenboer (died October 10, 1620 near Cartagena ) was a 17th-century Dutch corsair. [SEP] [CLS] A privateer during the Eighty Years' War, he later turned to piracy and became an officer under Simon the Dancer. [SEP] [CLS] He later converted to Islam, becoming known as Süleyman Reis (also spelled Sulayman, Soliman or Slemen Reis), and had a highly successful career as an Ottoman captain and Barbary corsair commanding the Algiers corsair fleet during his later years. [SEP] [CLS]
-

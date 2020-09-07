@@ -1,2 +1,0 @@
-[CLS] The Early January 2014 nor'easter was a major winter storm that affected much of the East Coast with snow, and frigid temperatures following the storm. [SEP] [CLS] The storm had dumped up to 2 ft (0.61 m) of snow in some areas, especially around Boston, Massachusetts. [SEP] [CLS]
-

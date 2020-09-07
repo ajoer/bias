@@ -1,2 +1,0 @@
-[CLS] Cornelia Hanisch (born 12 June 1952) is a retired German fencer. [SEP] [CLS] She won a gold medal in the team foil and a silver in the individual foil at the 1984 Summer Olympics. [SEP] [CLS] Between 1977 and 1985 she won ten medals in the foil at world championships, including four gold medals.In 1980, she received Silbernes Lorbeerblatt. [SEP] [CLS]
-

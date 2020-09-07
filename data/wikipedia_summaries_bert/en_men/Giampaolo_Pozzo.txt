@@ -1,2 +1,0 @@
-[CLS] Giampaolo Pozzo (born 21 May 1941) is an Italian businessman, currently the owner of Udinese Calcio in Italy. [SEP] [CLS] His son Gino is the owner of Watford FC in England. [SEP] [CLS] Pozzo sold the family business, tool maker Freud, to Robert Bosch in 2008. [SEP] [CLS]
-

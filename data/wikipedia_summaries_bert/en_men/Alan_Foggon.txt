@@ -1,2 +1,0 @@
-[CLS] Alan Foggon (born 23 February 1950) is an English former professional footballer. [SEP] [CLS] His regular position was as a forward. [SEP] [CLS]
-

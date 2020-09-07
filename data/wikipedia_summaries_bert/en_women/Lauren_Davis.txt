@@ -1,2 +1,0 @@
-[CLS] Lauren Davis (born October 9, 1993) is an American professional tennis player. [SEP] [CLS] Known for her aggressive backhand, quickness, and clay-court ability, she won her first title on the WTA Tour at the ASB Classic in Auckland and reached her career-high singles ranking of world No. [SEP] [CLS] 26 in May 2017. [SEP] [CLS] Davis has also won eight singles titles on the ITF Women's Circuit. [SEP] [CLS]
-

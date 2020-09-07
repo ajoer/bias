@@ -1,2 +1,0 @@
-[CLS] The Jérôme R. [SEP] [CLS] Lohez 9/11 Scholarship Foundation was launched in November 2005, in memory of Jérôme R. [SEP] [CLS] Lohez, a Frenchman who was lost in the North Tower of the World Trade Center during the September 11, 2001 terrorist attacks on New York City. [SEP] [CLS] The foundation is, according to its mission statement, "the only charitable organization established after the 9/11 tragedy that is dedicated specifically to promoting educational and cultural exchange among the U.S., France and China."
-

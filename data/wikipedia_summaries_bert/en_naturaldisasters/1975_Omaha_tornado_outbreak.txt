@@ -1,2 +1,0 @@
-[CLS] The 1975 Omaha tornado was a violent tornado that hit the Omaha metropolitan area in the U.S. [SEP] [CLS] state of Nebraska. [SEP] [CLS] It was part of a two-day outbreak that struck the Midwest and Southern United States on May 6–7, 1975, ending in the very early hours of May 8 across Louisiana. [SEP] [CLS] South Dakota, Iowa, Texas, and Mississippi were also struck by several tornadoes. [SEP] [CLS] In total, 36 tornadoes touched down across 6 states. [SEP] [CLS] The outbreak killed three people, while injuring hundreds more. [SEP] [CLS]
-

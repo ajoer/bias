@@ -1,2 +1,0 @@
-[CLS] The 1986 San Salvador earthquake occurred at 11:49:26 local time on October 10 with a moment magnitude of 5.7 and a maximum Mercalli intensity of IX (Violent). [SEP] [CLS] The shock caused considerable damage to El Salvador's capital city of San Salvador and surrounding areas, including neighboring Honduras and Guatemala. [SEP] [CLS]
-

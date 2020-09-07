@@ -1,2 +1,0 @@
-[CLS] The Bristol Channel floods, 30 January 1607, drowned many people and destroyed a large amount of farmland and livestock. [SEP] [CLS] The known tide heights, probable weather, extent and depth of flooding, and coastal flooding elsewhere in the UK on the same day all point to the cause being a storm surge rather than a tsunami. [SEP] [CLS]
-

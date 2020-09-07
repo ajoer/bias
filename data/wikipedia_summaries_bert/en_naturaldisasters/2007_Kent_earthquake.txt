@@ -1,2 +1,0 @@
-[CLS] The 2007 Kent earthquake registered 4.3 on the Richter scale and struck south east Kent, South East England on 28 April 2007 at 07:18:12 UTC (08:18:12 local time), at a shallow depth of 5.3 km.The worst affected area was the town of Folkestone, although the towns of Deal, Dover and Ashford were also affected. [SEP] [CLS] The tremors could be felt across much of Kent and south east England, including as far as East Sussex, Essex and Suffolk, as well as on the other side of the English Channel at Calais and Brussels. [SEP] [CLS]
-

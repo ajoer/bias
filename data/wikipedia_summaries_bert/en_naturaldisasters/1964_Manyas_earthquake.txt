@@ -1,2 +1,0 @@
-[CLS] The 1964 Manyas earthquake happened on October 6 on the southern coast of Marmara Sea near the city of Karacabey in Bursa Province, Turkey. [SEP] [CLS] The shock had a moment magnitude of 6.8 and a maximum Mercalli intensity of IX (Violent). [SEP] [CLS] Around $5 million in damage was caused, with 19–73 killed and 100–239 injured. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 2230 was a Soviet domestic passenger flight from Yekaterinburg (then Sverdlovsk) to Tashkent. [SEP] [CLS] On 16 November 1967, the Ilyushin Il-18 aircraft serving the flight crashed after takeoff, killing all 107 people aboard (including twelve children). [SEP] [CLS] At the time it was the deadliest aviation accident in the Russian SFSR and the worst accident involving the Il-18. [SEP] [CLS]
-

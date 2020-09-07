@@ -1,2 +1,0 @@
-[CLS] On 18 January 2016, six French Foreign Legionnaires were killed in an avalanche in the Massif des Cerces, France. [SEP] [CLS]
-

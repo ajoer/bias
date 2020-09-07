@@ -1,2 +1,0 @@
-[CLS] On Saturday, 29 February 1964, British Eagle International Airlines Flight 802 crashed into the Glungezer mountain near Innsbruck, Austria. [SEP] [CLS] The aircraft, a Bristol Britannia registered G-AOVO, had taken off from London Heathrow Airport, England, destined for Innsbruck Kranebitten Airport in Austria. [SEP] [CLS] All 75 passengers and 8 crew died in the crash. [SEP] [CLS]
-

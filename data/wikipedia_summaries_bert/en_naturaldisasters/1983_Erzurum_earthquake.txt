@@ -1,2 +1,0 @@
-[CLS] The 1983 Erzurum earthquake occurred in northeastern Turkey on 30 October 1983 at 07:12 local time (04:12 UTC). [SEP] [CLS] It had a moment magnitude of 6.6 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] Reuters reports that about 1340 people have died and 50 settlements in the provinces of Erzurum and Kars have been demolished by the earthquake. [SEP] [CLS]
-

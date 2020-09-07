@@ -1,2 +1,0 @@
-[CLS] Ivan Glasenberg (born 7 January 1957) is the chief executive officer of Glencore, one of the world's largest commodity trading and mining companies. [SEP] [CLS] Glasenberg has or had citizenship of South Africa and Australia. [SEP] [CLS] He became a Swiss citizen in 2011. [SEP] [CLS] He is also on the board of mining company Minara Resources Ltd. [SEP] [CLS]
-

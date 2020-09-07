@@ -1,2 +1,0 @@
-[CLS] The 2009 Luoding flood (Chinese: 罗定船步水灾) was a major flood that occurred in Luoding, Guangdong in the People's Republic of China on the week of September 17, 2009. [SEP] [CLS] The water level increased due to rain from Typhoon Koppu. [SEP] [CLS] The storm slammed into South China causing torrential rain, mudslides and an oil spill. [SEP] [CLS]
-

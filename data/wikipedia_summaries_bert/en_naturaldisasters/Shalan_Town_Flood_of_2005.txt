@@ -1,2 +1,0 @@
-[CLS] The Shalan Town Flood of 2005 was a severe flood which occurred in Shalan Town in the afternoon on 10 June 2005. [SEP] [CLS] A severe flood and mudslide took place in Shalan Town located in Ning'an, which was in Mudanjiang area in Heilongjiang Province, a province in the People's Republic of China. [SEP] [CLS] Shalan Town Central Primary School was submerged by floodwater, killing 117 people, 105 of which were students. [SEP] [CLS]
-

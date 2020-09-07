@@ -1,2 +1,0 @@
-[CLS] On 8 February 1956 the Royal Air Force lost six Hawker Hunter jet fighters in a multiple aircraft accident. [SEP] [CLS] Eight aircraft from RAF West Raynham had been carrying out a 4x4 dogfight exercise at 45,000 feet (14,000 m). [SEP] [CLS] Upon completion of the exercise the eight Hunters diverted to RAF Marham but due to bad weather six of the aircraft were lost including one fatality. [SEP] [CLS]
-
