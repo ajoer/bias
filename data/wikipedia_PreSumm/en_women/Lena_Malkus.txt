@@ -1,0 +1,2 @@
+[CLS] Lena Malkus (born 6 August 1993 in Bremen) is a German long jumper. [SEP] [CLS] She won the 2010 Summer Youth Olympics, the 2011 European Junior Championships and the 2013 European U23 Championships and won the silver medal at the 2012 World Junior Championships. [SEP] [CLS] She also competed at the 2013 and 2015 World Championships without reaching the final.Her personal best jump is 6.88 metres, achieved in May 2014 in Weinheim. [SEP] [CLS]
+

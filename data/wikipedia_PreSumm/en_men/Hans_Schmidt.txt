@@ -1,0 +1,2 @@
+[CLS] Hans B. [SEP] [CLS] Schmidt (1881 – February 18, 1916) was a German Roman Catholic priest convicted of murder, and the only priest to be executed in the United States. [SEP] [CLS]
+

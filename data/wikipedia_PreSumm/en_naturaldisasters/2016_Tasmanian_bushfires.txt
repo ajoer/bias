@@ -1,0 +1,2 @@
+[CLS] The 2016 Tasmanian Bushfires were a large series of bushfires in Tasmania which started in January 2016 throughout the state, and continued into February 2016, with considerable damage to fire sensitive areas in the Central Highlands, West Coast and South West regions. [SEP] [CLS] By autumn 2016, no bushfires were reported within the state. [SEP] [CLS]
+

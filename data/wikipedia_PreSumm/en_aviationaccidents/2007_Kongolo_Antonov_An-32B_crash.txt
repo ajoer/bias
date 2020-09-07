@@ -1,0 +1,2 @@
+[CLS] The Antonov An-32 (NATO reporting name: Cline) is a turboprop twin-engined military transport aircraft. [SEP] [CLS]
+

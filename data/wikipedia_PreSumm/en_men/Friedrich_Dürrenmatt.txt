@@ -1,0 +1,2 @@
+[CLS] Friedrich Dürrenmatt (German: [ˈfriːdrɪç ˈdʏrənˌmat] (listen); 5 January 1921 – 14 December 1990) was a Swiss author and dramatist. [SEP] [CLS] He was a proponent of epic theatre whose plays reflected the recent experiences of World War II. [SEP] [CLS] The politically active author's work included avant-garde dramas, philosophical crime novels, and macabre satire. [SEP] [CLS] Dürrenmatt was a member of the Gruppe Olten, a group of left-wing Swiss writers who convened regularly at a restaurant in the town Olten. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Ella Leivo (born 26 July 1994 in Tampere) is a Finnish tennis player. [SEP] [CLS] On 28 July 2014, Leivo reached her best singles ranking of world number 1044. [SEP] [CLS] On 11 November 2013, she peaked at world number 788 in the doubles rankings. [SEP] [CLS] Leivo has a 4–11 record for Finland in Fed Cup competition. [SEP] [CLS]
+

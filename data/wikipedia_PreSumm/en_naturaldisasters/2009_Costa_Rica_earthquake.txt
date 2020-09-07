@@ -1,0 +1,2 @@
+[CLS] The 2009 Cinchona earthquake occurred at 1:21:35 pm local time on January 8 with an Mwc magnitude of 6.1 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] The shock took place in northern Costa Rica, 30 kilometres (19 mi) north-northwest of San José and was felt throughout Costa Rica and in southern central Nicaragua. [SEP] [CLS]
+

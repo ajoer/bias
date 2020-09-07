@@ -1,0 +1,2 @@
+[CLS] The 2004 Baladeh earthquake occurred on May 28 in northern Iran. [SEP] [CLS] This dip-slip earthquake had a moment magnitude of 6.3 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] Total deaths for the event amounted to 35, with 278–400 injured, and $15.4 million in damage. [SEP] [CLS]
+

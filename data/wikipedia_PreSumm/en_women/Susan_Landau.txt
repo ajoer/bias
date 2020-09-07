@@ -1,0 +1,2 @@
+[CLS] Susan Landau (born New York City) is an American mathematician, engineer, cybersecurity policy expert, and Bridge Professor in Cybersecurity and Policy at the Fletcher School of Law and Diplomacy at Tufts University. [SEP] [CLS] She previously worked as a Senior Staff Privacy Analyst at Google. [SEP] [CLS] She was a Guggenheim Fellow and a Visiting Scholar at the Computer Science Department, Harvard University in 2012. [SEP] [CLS]
+

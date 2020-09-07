@@ -1,0 +1,2 @@
+[CLS] The 2002 Sumatra earthquake occurred at 01:26 UTC on 2 November. [SEP] [CLS] It had a magnitude of 7.3 on the moment magnitude scale with an epicenter just north of Simeulue island and caused three deaths. [SEP] [CLS] This earthquake is regarded as a foreshock of the 2004 Indian Ocean earthquake, which had an epicenter about 60 km to the northwest. [SEP] [CLS]
+

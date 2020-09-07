@@ -1,0 +1,2 @@
+[CLS] Libyan Arab Airlines Flight 1103 was a Boeing 727-2L5 with 10 crew and 147 passengers on board that collided with a Mikoyan-Gurevich MiG-23 on 22 December 1992. [SEP] [CLS] All 157 people onboard flight 1103 were killed, while the crew of the MiG-23 ejected and survived. [SEP] [CLS] It was the deadliest aviation disaster to occur in Libya at the time. [SEP] [CLS]
+

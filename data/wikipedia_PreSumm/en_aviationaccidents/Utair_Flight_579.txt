@@ -1,0 +1,2 @@
+[CLS] On September 1, 2018, Utair Flight 579, a Boeing 737-800 on a scheduled domestic flight from Moscow to Sochi, Russia, with 164 passengers and 6 crew, overran the runway and caught fire while landing at Sochi, injuring 18 occupants. [SEP] [CLS] One airport employee died of a heart attack. [SEP] [CLS]
+

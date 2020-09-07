@@ -1,0 +1,2 @@
+[CLS] The Largo do Boticário (Apothecary's Square) is a square in the Cosme Velho neighborhood of the city of Rio de Janeiro in Brazil. [SEP] [CLS] The square can be reached by the Beco do Boticário (Apothecary's Alley), that passes by the Carioca River. [SEP] [CLS] The area is characterized by large, neo-colonial houses and Atlantic Forest vegetation. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Josée Helihanta Ramahavalisoa, better known by her stage name Poopy, is a Malagasy pop singer who began singing in 1983. [SEP] [CLS] Lonely Planet declared Poopy a "national treasure". [SEP] [CLS] She has been active in educating young mothers about breastfeeding their infants as a "nutrition ambassador" for UNICEF. [SEP] [CLS]
+

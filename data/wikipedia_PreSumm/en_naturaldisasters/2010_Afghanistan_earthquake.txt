@@ -1,0 +1,2 @@
+[CLS] The 2010 Afghanistan earthquake occurred on April 18 with a moment magnitude of 5.6. [SEP] [CLS] The earthquake could be felt in Mazar-i-Sharif, Kabul, and elsewhere in Afghanistan, as well as in Uzbekistan and Tajikistan. [SEP] [CLS] Eleven people were killed and more than 70 were injured. [SEP] [CLS] More than two thousand houses were destroyed. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] At 9:41:58 a.m. [SEP] [CLS] on March 25, 2007, a magnitude 6.9 earthquake struck the Hokuriku region of Japan, near the Noto Peninsula. [SEP] [CLS] The earthquake shook the city of Wajima, the city of Nanao, and the town of Anamizu with a seismic intensity of 6+ on Japan's shindo scale. [SEP] [CLS] One death, in the city of Wajima, and at least 356 injuries have been reported. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1985 United States – Canada tornado outbreak, referred to as the Barrie tornado outbreak in Canada, was a major tornado outbreak that occurred in Ohio, Pennsylvania, New York, and Ontario, on May 31, 1985. [SEP] [CLS] 44 tornadoes were counted including 14 in Ontario, Canada. [SEP] [CLS] It is the largest and most intense tornado outbreak ever to hit this region, and the worst tornado outbreak in Pennsylvania history in terms of deaths and destruction. [SEP] [CLS]
+

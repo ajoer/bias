@@ -1,0 +1,2 @@
+[CLS] Though severe earthquakes in the north of France and Britain are rare, the 1580 Dover Straits earthquake appears to have been one of the largest in the recorded history of England, Flanders or northern France. [SEP] [CLS] Its effects started to be felt in London at around six o'clock in the evening of 6 April 1580, being Wednesday in the Easter week. [SEP] [CLS]
+

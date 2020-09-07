@@ -1,0 +1,2 @@
+[CLS] The 1498 Nankai earthquake (明応地震 Meiō Jishin) occurred off the coast of Nankaidō, Japan, at about 08:00 local time on 20 September 1498. [SEP] [CLS] It had a magnitude estimated at 8.6 Ms and triggered a large tsunami. [SEP] [CLS] The death toll associated with this event is uncertain, but between 5,000 and 41,000 casualties were reported. [SEP] [CLS] The tsunami caused by the Meiō Nankaidō earthquake washed away the building housing the statue of the Great Buddha at Kōtoku-in in Kamakura, although the statue itself remained intact. [SEP] [CLS]
+

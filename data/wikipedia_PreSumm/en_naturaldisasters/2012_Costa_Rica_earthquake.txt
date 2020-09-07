@@ -1,0 +1,2 @@
+[CLS] The 2012 Costa Rica earthquake occurred at 08:42 local time (14:42 UTC) on September 5. [SEP] [CLS] The epicenter of the 7.6 Mw earthquake was in the Nicoya Peninsula, 11 kilometers east-southeast of Nicoya. [SEP] [CLS] A tsunami warning was issued shortly afterwards, but later cancelled. [SEP] [CLS] Two people are known to have died, one from a heart attack and another, a construction worker, crushed by a collapsing wall. [SEP] [CLS] It was the second strongest earthquake recorded in Costa Rica's history, following the 1991 Limon earthquake. [SEP] [CLS]
+

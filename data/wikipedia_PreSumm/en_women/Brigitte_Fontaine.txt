@@ -1,0 +1,2 @@
+[CLS] Brigitte Fontaine, (born 24 June 1939) is a singer of avant-garde music. [SEP] [CLS] She has employed numerous unusual musical styles, melding rock and roll, folk, jazz, electronica, spoken word poetry, and world. [SEP] [CLS] She has collaborated with Stereolab, Michel Colombier, Jean-Claude Vannier, Areski Belkacem, Gotan Project, Sonic Youth, Antoine Duhamel, Grace Jones, Noir Désir, Archie Shepp, Arno, and The Art Ensemble of Chicago. [SEP] [CLS] She is also a novelist, playwright, poet, and actress. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Zsolt Nemcsik (born 15 August 1977 in Budapest) is a Hungarian sabre fencer. [SEP] [CLS] He competed at three Olympic Games.Nemcsik's two greatest accomplishments is winning the silver medal in the 2004 Olympic Games after losing to Aldo Montano in the final, and also winning the gold medal in the 2007 World Fencing Championships after beating France in the final. [SEP] [CLS] In 2010 he moved to Frascati, joining the local fencing club. [SEP] [CLS] While continuing his career as an athlete, he's now also involved in teaching. [SEP] [CLS]
+

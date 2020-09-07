@@ -1,0 +1,2 @@
+[CLS] On 29 September 1934, an Airspeed Courier of London, Scottish & Provincial Airways Ltd crashed just north of Shoreham, Kent. [SEP] [CLS] The aircraft was on a scheduled international passenger flight from Heston Aerodrome west of London to Le Bourget Airport, Paris. [SEP] [CLS] All four people on board were killed. [SEP] [CLS] Two people were injured by flying débris. [SEP] [CLS]
+

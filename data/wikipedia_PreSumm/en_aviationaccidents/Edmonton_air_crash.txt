@@ -1,0 +1,2 @@
+[CLS] The Edmonton air crash occurred on 4 September 1938. [SEP] [CLS] A Hawker Audax (serial number K7381) of No. [SEP] [CLS] 1 Elementary and Reserve Flying Training School, Royal Air Force, based at Hatfield, crashed into a residential area in the Edmonton region of London (then in Middlesex). [SEP] [CLS] The aircraft was being flown by a 19-year-old pilot, Sgt Stanley Robert Morris RAFVR. [SEP] [CLS] The pilot and 12 people on the ground were killed, including four children. [SEP] [CLS]
+

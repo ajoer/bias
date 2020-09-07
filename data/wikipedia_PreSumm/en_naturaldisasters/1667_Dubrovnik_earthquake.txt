@@ -1,0 +1,2 @@
+[CLS] The earthquake in Dubrovnik in 1667 was one of the two most devastating earthquakes to hit the area of modern Croatia in the last 2,400 years, since records began. [SEP] [CLS] The entire city was almost destroyed and around 5,000 people were killed. [SEP] [CLS] The city's Rector Simone Ghetaldi was killed and over three quarters of all public buildings were destroyed. [SEP] [CLS] At the time, Dubrovnik was the capital of the Republic of Ragusa. [SEP] [CLS] The earthquake marked the beginning of the end of the Republic. [SEP] [CLS]
+

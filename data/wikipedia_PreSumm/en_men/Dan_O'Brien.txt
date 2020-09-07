@@ -1,0 +1,2 @@
+[CLS] Daniel Dion O'Brien (born July 18, 1966) is an American former decathlete and Olympic gold medalist. [SEP] [CLS] He won the Olympic title in 1996, three consecutive world championships (1991, 1993, 1995), and set the world record in 1992. [SEP] [CLS]
+

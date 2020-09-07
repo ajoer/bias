@@ -1,0 +1,2 @@
+[CLS] The 2006 Yanjin earthquake occurred with a moment magnitude of 4.9 on July 22 at 01:10 UTC (09:10 local time). [SEP] [CLS] This destructive shock took place in Yanjin County, Yunnan, China. [SEP] [CLS] Twenty-two were killed and 106 were injured. [SEP] [CLS]
+

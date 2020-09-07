@@ -1,0 +1,2 @@
+[CLS] The 1929 Kopet Dag earthquake (also called the 1929 Koppeh Dagh earthquake) took place at 15:37 UTC on 1 May with a moment magnitude of 7.2 and a maximum Mercalli intensity of IX (Violent). [SEP] [CLS] It occurred in the Kopet Dag area of Iran and caused up to 3,800 casualties along the Turkmenistan-Iran border. [SEP] [CLS] More than 1,100 were injured. [SEP] [CLS]
+

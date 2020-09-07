@@ -1,0 +1,2 @@
+[CLS] Stella Atkins is a professor emeritus in computing science at Simon Fraser University, and one of the founding members of the Systers community for technical women in computing. [SEP] [CLS] Her primary research interests are in medical computing and medical image display and analysis. [SEP] [CLS]
+

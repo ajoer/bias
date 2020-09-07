@@ -1,0 +1,2 @@
+[CLS] Dinah Pfizenmaier (born 13 January 1992, in Bielefeld) is a German tennis player. [SEP] [CLS] Pfizenmaier has won nine singles and two doubles titles on the ITF tour in her career. [SEP] [CLS] On 17 March 2014, she reached her best singles ranking of world number 79. [SEP] [CLS] On 2 February 2015, she peaked at world number 245 in the doubles rankings. [SEP] [CLS]
+

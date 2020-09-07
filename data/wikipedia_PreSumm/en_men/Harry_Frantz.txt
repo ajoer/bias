@@ -1,0 +1,2 @@
+[CLS] Charton Christopher Frantz (born May 8, 1951) is an American musician and record producer. [SEP] [CLS] He is the drummer for both Talking Heads and Tom Tom Club, which he co-founded with wife and Talking Heads bassist Tina Weymouth. [SEP] [CLS] In 2002, Frantz was inducted into the Rock and Roll Hall of Fame as a member of Talking Heads. [SEP] [CLS]
+

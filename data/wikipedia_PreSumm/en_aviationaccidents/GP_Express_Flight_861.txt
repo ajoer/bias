@@ -1,0 +1,2 @@
+[CLS] GP Express Flight 861, from Hartsfield-Jackson International Airport in Atlanta, Georgia to Anniston Metropolitan Airport in Anniston, Alabama, crashed while attempting to land at approximately 8:04 a.m. [SEP] [CLS] CDT on June 8, 1992. [SEP] [CLS] The Beechcraft Model 99 had four passengers and a crew of two on board. [SEP] [CLS] Two passengers and the captain received fatal injuries. [SEP] [CLS] All three survivors were seriously injured. [SEP] [CLS]
+

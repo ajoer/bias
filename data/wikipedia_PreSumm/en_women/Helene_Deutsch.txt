@@ -1,0 +1,2 @@
+[CLS] Helene Deutsch (née Rosenbach; 9 October 1884 – 29 March 1982) was a Polish American psychoanalyst and colleague of Sigmund Freud. [SEP] [CLS] She founded the Vienna Psychoanalytic Institute. [SEP] [CLS] In 1935, she immigrated to Cambridge, Massachusetts, where she maintained a practice. [SEP] [CLS] Deutsch was one of the first psychoanalysts to specialize in women. [SEP] [CLS] She was a Fellow of the American Academy of Arts and Sciences. [SEP] [CLS]
+

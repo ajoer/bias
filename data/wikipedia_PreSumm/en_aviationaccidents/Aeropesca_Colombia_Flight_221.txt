@@ -1,0 +1,2 @@
+[CLS] Aeropesca Colombia Flight 221 was an internal scheduled passenger flight from Florencia Airport to Neiva Airport in Colombia. [SEP] [CLS] On 26 August 1981 it was being operated by a Vickers Viscount turboprop airliner registered in Colombia as HK-1320 when it collided with Mount Santa Elana, an Andean mountain peak, destroying the aircraft and killing all 50 on board. [SEP] [CLS]
+

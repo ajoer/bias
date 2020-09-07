@@ -1,0 +1,2 @@
+[CLS] On 4 June 1967 a Canadair C-4 Argonaut passenger aircraft owned by British Midland Airways crashed near the centre of Stockport, Greater Manchester, England. [SEP] [CLS] Of the 84 people on board, 72 were killed. [SEP] [CLS] It is the fourth-worst accident in British aviation history. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Middle East Airlines Flight 438 a Boeing 720B, callsign CEDAR JET 438, was an international passenger flight from Beirut, Lebanon to Muscat, Oman, with a stopover in Abu Dhabi, United Arab Emirates. [SEP] [CLS] On 1 January 1976 the aircraft operating the flight was destroyed by a bomb, killing all 81 people on board. [SEP] [CLS] The bombers were never identified. [SEP] [CLS]
+

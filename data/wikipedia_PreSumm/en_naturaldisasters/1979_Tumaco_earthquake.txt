@@ -1,0 +1,2 @@
+[CLS] The 1979 Tumaco earthquake occurred at 02:59 local time on 12 December with a moment magnitude of 8.2 and a maximum Mercalli intensity of IX (Violent). [SEP] [CLS] The epicenter was just offshore from the border between Ecuador and Colombia, near the port city of Tumaco. [SEP] [CLS] It triggered a major tsunami, which was responsible for most of the estimated 300–600 deaths. [SEP] [CLS] The hardest hit area was Colombia's Nariño Department. [SEP] [CLS]
+

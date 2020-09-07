@@ -1,0 +1,2 @@
+[CLS] Paavo Vierto (1915–1941) was a Finnish ski jumper, who competed in the early 1940s. [SEP] [CLS] He finished first in the individual large hill competition at the 1941 FIS Nordic World Ski Championships in Cortina d'Ampezzo (these championships would later be declared unofficial by the FIS in 1946). [SEP] [CLS] As a soldier of the Waffen-SS, Vierto was killed on the Eastern Front of World War II in Yasinovsky, Soviet Union (now Ukraine) 1941, the day before he was scheduled to start as the German ski team's coach. [SEP] [CLS]
+

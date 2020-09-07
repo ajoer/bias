@@ -1,0 +1,2 @@
+[CLS] Kai Kovaljeff (born 8 August 1985 in Tampere) is a Finnish ski jumper. [SEP] [CLS] He made his Continental Cup debut in September 2007, his best result being a seventh place from Villach in September 2007. [SEP] [CLS] He made his World Cup debut in January 2009 in Zakopane, and collected his first World Cup points with a 21st place in that race. [SEP] [CLS] At the end of the month in Sapporo he finished 16th. [SEP] [CLS] His next World Cup points came in the 2009–10 FIS Ski Jumping World Cup opener, with a 29th place in Kuusamo. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Great Red Spot is a persistent high-pressure region in the atmosphere of Jupiter, producing an anticyclonic storm, the largest in the Solar System, 22 degrees south of Jupiter's equator. [SEP] [CLS] It has been continuously observed since 1878. [SEP] [CLS] Earlier observations from 1665 to 1713 are believed to be of the same storm; if this is correct, it has existed for at least 360 years. [SEP] [CLS]
+

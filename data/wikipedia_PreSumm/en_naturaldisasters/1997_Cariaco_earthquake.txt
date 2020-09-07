@@ -1,0 +1,2 @@
+[CLS] The 1997 Cariaco earthquake occurred on July 9 at 15:24:14 local time with a moment magnitude of 6.9 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] With its epicenter near Cariaco, Venezuela, at least 81 people were killed and over 500 were injured. [SEP] [CLS] Disruption of power, telephone, and water services was reported. [SEP] [CLS] This earthquake was felt in much of northeastern Venezuela and could also be felt in Trinidad and Tobago. [SEP] [CLS] This earthquake was on the strike-slip El Pilar Fault. [SEP] [CLS]
+

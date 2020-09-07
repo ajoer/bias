@@ -1,0 +1,2 @@
+[CLS] The name Yuri has been used to name two tropical cyclones in the north-western Pacific Ocean. [SEP] [CLS] Typhoon Yuri (1991) (T9128, 30W) – the strongest storm of the season, and also impacted Guam, the Mariana Islands, and Pohnpei. [SEP] [CLS] Tropical Storm Yuri (1994) (T9433, 36W) – not a threat to land. [SEP] [CLS]
+

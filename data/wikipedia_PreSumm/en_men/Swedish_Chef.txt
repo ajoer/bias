@@ -1,0 +1,2 @@
+[CLS] The Swedish Chef is a Muppet character that appeared on The Muppet Show. [SEP] [CLS] He was originally performed by Jim Henson and Frank Oz simultaneously, with Henson performing the head and voice and Oz performing the character's live hands. [SEP] [CLS] The Swedish Chef is currently performed by Bill Barretta. [SEP] [CLS] His best known phrase is "Börk börk börk". [SEP] [CLS]
+

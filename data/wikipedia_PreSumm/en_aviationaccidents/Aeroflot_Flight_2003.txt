@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 2003 was operated on 3 January 1976 by a Tupolev Tu-124, registration CCCP-45037, when it crashed 7 km after take-off from Moscow–Vnukovo Airport (VKO/UUWW), on a domestic flight to Minsk-1 International Airport (MHP/UMMM), and Brest Airport (BQT/UMBB), Belarus. [SEP] [CLS] The crash killed all sixty-one on board and one in a house on the ground. [SEP] [CLS]
+

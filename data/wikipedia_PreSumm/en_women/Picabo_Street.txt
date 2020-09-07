@@ -1,0 +1,2 @@
+[CLS] Picabo Street (; born April 3, 1971) is an American former World Cup alpine ski racer and Olympic gold medalist. [SEP] [CLS] She won the super G at the 1998 Winter Olympics and the downhill at the 1996 World Championships, along with three other Olympic and World Championship medals. [SEP] [CLS] Street also won World Cup downhill season titles in 1995 and 1996, the first American woman to do so, along with nine World Cup downhill race wins. [SEP] [CLS] Street was inducted into the National Ski Hall of Fame in 2004. [SEP] [CLS]
+

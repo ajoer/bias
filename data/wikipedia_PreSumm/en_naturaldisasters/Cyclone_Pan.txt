@@ -1,0 +1,2 @@
+[CLS] The Boeing 314 Clipper was an American long-range flying boat produced by Boeing from 1938 to 1941. [SEP] [CLS] One of the largest aircraft of its time, it had the range to cross the Atlantic and Pacific oceans. [SEP] [CLS] For its wing, Boeing re-used the design from their earlier XB-15 bomber prototype. [SEP] [CLS] Twelve Clippers were built, nine of which served with Pan Am. [SEP] [CLS]
+

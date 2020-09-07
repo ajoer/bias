@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 418 was an international passenger flight operated by a Tupolev Tu-154A, registered CCCP-85102, that was operating the second leg of an scheduled Luanda–Malabo–N'Djamena–Tripoli–Moscow passenger service. [SEP] [CLS] The plane crashed on into a mountain near Malabo Airport on Bioko Island, Equatorial Guinea on 1 June 1976. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Austrian Airlines Flight 901 was a flight from Vienna, Austria to Moscow, USSR (now Russia) via Warsaw, Poland. [SEP] [CLS] On the night of 26 September 1960 the aircraft operating the flight, a Vickers Viscount, crashed near Moscow while on its approach to land, killing 31 of the 37 passengers and crew on board. [SEP] [CLS]
+

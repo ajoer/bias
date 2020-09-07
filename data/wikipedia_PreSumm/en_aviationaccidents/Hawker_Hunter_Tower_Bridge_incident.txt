@@ -1,0 +1,2 @@
+[CLS] The Hawker Hunter Tower Bridge incident occurred on 5 April 1968 when Royal Air Force (RAF) Hawker Hunter pilot Alan Pollock performed unauthorised low flying over several London landmarks and then flew through the span of Tower Bridge on the Thames. [SEP] [CLS] His actions were to mark the 50th anniversary of the founding of the RAF and as a demonstration against the Ministry of Defence for not recognising it.Upon landing he was arrested and later invalided out of the RAF on medical grounds, which avoided a court martial. [SEP] [CLS]
+

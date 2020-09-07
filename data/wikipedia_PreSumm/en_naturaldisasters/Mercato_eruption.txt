@@ -1,0 +1,2 @@
+[CLS] The Mercato eruption (Pomici di Mercato) of Mount Vesuvius refers to a Plinian eruption that occurred around 8,010 ± 40 14C yr BP (8,890 ± 90 cal yr BP). [SEP] [CLS] The Global Volcanism Program claims that the eruption had a Volcanic Explosivity Index (VEI) of 5, while Zanella et al. [SEP] [CLS] (2014) estimate it had a VEI of 6. [SEP] [CLS] The eruption was preceded by 7000 years of rest and followed by about 4000 years of rest. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The name Chaba (Thai: ชบา, pronounced [t͡ɕʰā.bāː]) has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was contributed by Thailand and refers to the Chinese hibiscus (Hibiscus rosa-sinensis). [SEP] [CLS] Typhoon Chaba (2004) (T0416, 19W) – A strong super typhoon that devastated Japan in 2004. [SEP] [CLS] Typhoon Chaba (2010) (T1014, 16W, Katring) – approached Japan. [SEP] [CLS] Typhoon Chaba (2016) (T1618, 21W, Igme) – A super typhoon that affected South Korea and Japan in October 2016. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Manila tornado occurred on 4:30 pm Philippine Time on August 14, 2016. [SEP] [CLS] This was only the second time in recorded history that a tornado struck Manila, the capital of the Philippines. [SEP] [CLS] The tornado affected in the cities of Manila and Quezon City. [SEP] [CLS] The most destructive impact of the tornado was in the southern part of Metro Manila. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On 20 March 1994, a British Army Lynx helicopter was shot down by the Provisional Irish Republican Army (IRA) in Northern Ireland. [SEP] [CLS] A unit of the IRA's South Armagh Brigade fired an improvised mortar at the British Army base in Crossmaglen, County Armagh. [SEP] [CLS] The mortar round hit and shot down the helicopter, serial number ZD275, while it was hovering over the helipad. [SEP] [CLS] Three British soldiers and a Royal Ulster Constabulary (RUC) member were wounded. [SEP] [CLS]
+

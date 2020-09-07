@@ -1,0 +1,2 @@
+[CLS] American Airlines Flight 723 was a scheduled American Airlines flight from Boston Airport in Massachusetts, to Chicago Midway Airport in Illinois. [SEP] [CLS] On September 16, 1953, a Convair 240 propliner flying this route crashed while attempting to land at Albany Airport in upstate New York, killing all 28 people on board. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 2006 Mozambique earthquake occurred at 22:19 UTC on 22 February. [SEP] [CLS] It had a magnitude of 7.0 on the moment magnitude scale and caused 4 deaths and 36 injuries. [SEP] [CLS] The epicenter was near Machaze in Manica Province of southern Mozambique, just north of the Save River. [SEP] [CLS] It was the largest historical earthquake in Mozambique and the first earthquake in southern Africa to have an identified surface rupture. [SEP] [CLS]
+

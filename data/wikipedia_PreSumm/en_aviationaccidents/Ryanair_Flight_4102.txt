@@ -1,0 +1,2 @@
+[CLS] On 10 November 2008, Ryanair Flight 4102 from Frankfurt–Hahn Airport, in Frankfurt, Germany to Ciampino–G. [SEP] [CLS] B. [SEP] [CLS] Pastine International Airport, in Rome, Italy, suffered multiple bird strikes while landing. [SEP] [CLS] Of the 172 people on board, two crew and eight passengers received hospital treatment for minor injuries. [SEP] [CLS] The 8-month-old Boeing 737-8AS jet used for the flight (registered as EI-DYG) had received a massive amount of damage, which led to it being written off. [SEP] [CLS]
+

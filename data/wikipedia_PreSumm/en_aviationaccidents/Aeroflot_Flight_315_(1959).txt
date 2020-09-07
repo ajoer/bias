@@ -1,0 +1,2 @@
+[CLS] Aeroflot flight 315 (1959) was a regularly scheduled passenger flight operated by Aeroflot from Vnukovo International Airport in Moscow to Lviv Airport in Lviv, Ukraine. [SEP] [CLS] On 16 November 1959, the An-10 operating this flight crashed short of the airport runway while on final approach. [SEP] [CLS] All 32 passengers and eight crew members were killed. [SEP] [CLS] The Air Accident Investigation Commission concluded the cause of the accident was a combination of design flaw and icing. [SEP] [CLS]
+

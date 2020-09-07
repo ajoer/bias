@@ -1,0 +1,2 @@
+[CLS] The Avellino eruption of Mount Vesuvius refers to a Vesuvian eruption in c. [SEP] [CLS] 1995 BCE. [SEP] [CLS] It is estimated to have had a VEI of 6, making it larger and more catastrophic than Vesuvius's more famous and well-documented 79 AD eruption. [SEP] [CLS] It is the source of the Avellino pumice (Italian: Pomici di Avellino) deposits extensively found in the comune of Avellino in Campania. [SEP] [CLS]
+

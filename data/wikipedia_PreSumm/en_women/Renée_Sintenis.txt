@@ -1,0 +1,2 @@
+[CLS] Renée Sintenis, née Renate Alice Sintenis (20 March 1888 – 22 April 1965), was a German sculptor and medallist. [SEP] [CLS] She was born in Glatz and died in Berlin. [SEP] [CLS] In 1917, she married the painter and writer Emil Rudolf Weiss. [SEP] [CLS] In 1928 she won a bronze medal in the art competitions of the Olympic Games for her "Footballeur". [SEP] [CLS]
+

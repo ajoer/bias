@@ -1,0 +1,2 @@
+[CLS] The 2002 Central Plains ice storm was a major winter storm that affected the American Midwest, causing significant damage across the region, especially in the Kansas City Metropolitan Area. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] National Airlines Flight 101 was a scheduled flight from Newark Airport, New Jersey, to Miami, Florida, that on February 11, 1952 crashed in the town of Elizabeth, New Jersey, shortly after take-off. [SEP] [CLS] It was the third plane crash occurring in Elizabeth in less than two months, following the loss of a Miami Airlines C-46 in December and the crash of an American Airlines Convair 240, three weeks earlier. [SEP] [CLS]
+

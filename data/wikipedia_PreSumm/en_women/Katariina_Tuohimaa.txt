@@ -1,0 +1,2 @@
+[CLS] Katariina Tuohimaa (born 28 April 1988 in Helsinki) is a Finnish former tennis player. [SEP] [CLS] In her career, Tuohimaa won five doubles titles on the ITF Women's Circuit. [SEP] [CLS] On 13 August 2007, she reached her best singles ranking of world No. [SEP] [CLS] 730. [SEP] [CLS] On the same date, she peaked at No. [SEP] [CLS] 481 in the doubles rankings. [SEP] [CLS] Tuohimaa played six rubbers for Finland at the 2006 Fed Cup. [SEP] [CLS]
+

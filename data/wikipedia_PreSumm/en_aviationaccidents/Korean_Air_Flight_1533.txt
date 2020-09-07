@@ -1,0 +1,2 @@
+[CLS] Korean Air Flight 1533 was a domestic passenger flight from Gimpo International Airport to Pohang Airport. [SEP] [CLS] On March 15, 1999 the McDonnell Douglas MD-83 operating the flight overshot runway 10 during landing at Pohang Airport. [SEP] [CLS] All 156 people on board survived, but the aircraft was destroyed. [SEP] [CLS]
+

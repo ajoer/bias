@@ -1,0 +1,2 @@
+[CLS] The 1936 KLM Croydon accident was the crash of a KLM airliner on 9 December 1936, shortly after taking off from the Croydon Air Port (as it was known at the time) on a scheduled flight to Amsterdam, Netherlands. [SEP] [CLS] The aircraft was destroyed and 15 of the 17 passengers and crew on board died as a result of the accident. [SEP] [CLS]
+

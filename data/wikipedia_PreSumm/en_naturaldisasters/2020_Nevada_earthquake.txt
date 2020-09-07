@@ -1,0 +1,2 @@
+[CLS] On May 15, 2020 at 4:03:27 local time, a magnitude 6.5 earthquake struck ~35 miles (56 km) west of Tonopah, Nevada near the California-Nevada border. [SEP] [CLS] It was Nevada’s largest earthquake in 66 years. [SEP] [CLS]
+

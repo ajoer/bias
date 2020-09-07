@@ -1,0 +1,2 @@
+[CLS] The 2020 Central Idaho Earthquake occurred on March 31, 2020, at 5:52 PM MDT in the Western United States, near Ruffneck Peak in the Sawtooth Mountains in Central Idaho, 72 miles (116 km) northeast of Boise, Idaho and 19 miles (31 km) northwest of Stanley, Idaho. [SEP] [CLS]
+

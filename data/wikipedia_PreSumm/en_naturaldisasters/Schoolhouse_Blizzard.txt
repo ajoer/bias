@@ -1,0 +1,2 @@
+[CLS] The Schoolhouse Blizzard, also known as the Schoolchildren's Blizzard, School Children's Blizzard, or Children's Blizzard, hit the U.S. [SEP] [CLS] plains states on January 12, 1888. [SEP] [CLS] The blizzard came unexpectedly on a relatively warm day, and many people were caught unaware, including children in one-room schoolhouses. [SEP] [CLS]
+

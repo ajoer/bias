@@ -1,0 +1,2 @@
+[CLS] Regina Schleicher (born 21 March 1974 in Würzburg) is a German professional cyclist. [SEP] [CLS] Whilst young, Regina's family moved to Marktheidenfeld where she attended school. [SEP] [CLS] Her father, Hans Schleicher (born 1949) is a cycle racing coach and led her cycling career which began when she competed in the RV Concordia Karbach in Karbach, Lower Franconia. [SEP] [CLS]
+

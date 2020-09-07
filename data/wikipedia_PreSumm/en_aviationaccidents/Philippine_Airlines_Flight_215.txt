@@ -1,0 +1,2 @@
+[CLS] Philippine Airlines Flight 215 was the route designator for a Philippine Airlines flight from Cauayan Airport to Manila International Airport which exploded en route to Manila. [SEP] [CLS]
+

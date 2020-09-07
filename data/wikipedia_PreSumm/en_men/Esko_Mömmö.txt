@@ -1,0 +1,2 @@
+[CLS] This is a list of MPs, Members of the Finnish Parliament. [SEP] [CLS] The list contains Parliamentary groups. [SEP] [CLS] An individual MP could be a member of more than one parliamentary group due to defection or break up of a political party. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1946 Nankai earthquake (昭和南海地震 Shōwa Nankai jishin) was a great earthquake in Nankaidō, Japan. [SEP] [CLS] It occurred on December 21, 1946, at 04:19 JST (December 20, 19:19 UTC). [SEP] [CLS] The earthquake measured between 8.1 and 8.4 on the moment magnitude scale, and was felt from Northern Honshū to Kyūshū. [SEP] [CLS] It occurred almost two years after the 1944 Tōnankai earthquake, which ruptured the adjacent part of the Nankai megathrust. [SEP] [CLS]
+

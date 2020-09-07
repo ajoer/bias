@@ -1,0 +1,2 @@
+[CLS] Anja Fichtel-Mauritz (born 17 August 1968, née Fichtel) is a German fencer. [SEP] [CLS] At the 1988 Summer Olympics in Seoul, she won in the individual and team competitions, and she won the individual competition of the World Championship in 1986 and 1990. [SEP] [CLS] She was winner of the World Championships in 1985, 1989, 1993 as a member of the national German team and second in team competition at the 1992 Summer Olympics. [SEP] [CLS] From 1986 until 1996 Fichtel held the title of German champion. [SEP] [CLS]
+

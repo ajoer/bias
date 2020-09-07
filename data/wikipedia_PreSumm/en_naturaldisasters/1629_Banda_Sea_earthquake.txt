@@ -1,0 +1,2 @@
+[CLS] The 1629 Banda Sea earthquake struck the Banda Sea, Indonesia on August 1. [SEP] [CLS] Its epicentre is believed to have been in the Seram Trough. [SEP] [CLS] A megathrust earthquake caused a 15 m (49 ft) tsunami, which was recorded to have affected the Banda Islands about 30 minutes after the quake. [SEP] [CLS] The effects of the tsunami were reported as far as 230 kilometres (140 mi) away in Ambon. [SEP] [CLS] Many trees in the Banda Islands were reported to have been uprooted. [SEP] [CLS]
+

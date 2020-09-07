@@ -1,0 +1,2 @@
+[CLS] National Airlines Flight 967, registration N4891C, was a Douglas DC-7B aircraft that disappeared over the Gulf of Mexico en route from Tampa, Florida to New Orleans, Louisiana on November 16, 1959. [SEP] [CLS] All 42 on board were presumed killed in the incident. [SEP] [CLS]
+

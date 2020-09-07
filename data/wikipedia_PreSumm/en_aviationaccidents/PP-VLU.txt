@@ -1,0 +1,2 @@
+[CLS] Varig Flight 967 was an international cargo flight that disappeared on 30 January 1979 while en route from Narita International Airport in Japan to Rio de Janeiro–Galeão International Airport in Brazil, with a stopover in Los Angeles International Airport. [SEP] [CLS] Neither the aircraft, a Boeing 707-323C cargo aircraft, nor the six crew members have ever been found. [SEP] [CLS]
+

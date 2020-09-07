@@ -1,0 +1,2 @@
+[CLS] The name Norma has been used for seven tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Norma (1970) Hurricane Norma (1974) Hurricane Norma (1981) Hurricane Norma (1987) Tropical Storm Norma (1993) Tropical Storm Norma (2005) Hurricane Norma (2017)
+

@@ -1,0 +1,2 @@
+[CLS] The 2017 Tulsa tornado took place on August 6, 2017, near Tulsa, Oklahoma. [SEP] [CLS] Major damage was inflicted on a shopping and office area in midtown Tulsa. [SEP] [CLS] Fortunately, there were no fatalities, although 30 people were injured. [SEP] [CLS] It was part of a small outbreak of four tornadoes that formed along a bow echo. [SEP] [CLS]
+

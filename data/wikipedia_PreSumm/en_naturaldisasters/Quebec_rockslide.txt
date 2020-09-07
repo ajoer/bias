@@ -1,0 +1,2 @@
+[CLS] The Quebec rockslide occurred on September 19, 1889, after a day of heavy rain in Quebec City, Canada. [SEP] [CLS] An overhanging piece of slate rock broke off from Cap Diamant and fell 90 metres (300 feet) onto the houses below. [SEP] [CLS] The homes of 28 families on Champlain Street were crushed, burying roughly 100 people under 24 metres (80 feet) of broken slate rock. [SEP] [CLS] The final death toll exceeded 40 people. [SEP] [CLS]
+

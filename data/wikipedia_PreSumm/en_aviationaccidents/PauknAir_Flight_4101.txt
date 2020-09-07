@@ -1,0 +1,2 @@
+[CLS] PauknAir Flight 4101 was a British Aerospace 146 that crashed on a flight from Málaga, Spain, to the Spanish North African exclave of Melilla on 25 September 1998. [SEP] [CLS] All 38 passengers and crew on board the aircraft were killed in the accident. [SEP] [CLS]
+

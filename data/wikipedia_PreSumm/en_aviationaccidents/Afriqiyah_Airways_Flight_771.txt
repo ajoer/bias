@@ -1,0 +1,2 @@
+[CLS] Afriqiyah Airways Flight 771 was a scheduled international Afriqiyah Airways passenger flight that crashed on 12 May 2010 at about 06:01 local time (04:01 UTC) on approach to Tripoli International Airport. [SEP] [CLS] Of the 104 passengers and crew on board, the sole survivor was a 9-year-old Dutch boy. [SEP] [CLS] The crash of Flight 771 was the third hull-loss of an Airbus A330 involving fatalities, occurring eleven months after the crash of Air France Flight 447. [SEP] [CLS]
+

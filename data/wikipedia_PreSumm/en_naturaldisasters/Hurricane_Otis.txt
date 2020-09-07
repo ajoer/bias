@@ -1,0 +1,2 @@
+[CLS] The name Otis has been used for four tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Hurricane Otis (1981) Hurricane Otis (1987) Hurricane Otis (2005) – Threatened the Baja California Peninsula, but turned away. [SEP] [CLS] Hurricane Otis (2017) – No threat to land. [SEP] [CLS]
+

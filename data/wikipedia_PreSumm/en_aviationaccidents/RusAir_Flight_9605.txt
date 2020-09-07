@@ -1,0 +1,2 @@
+[CLS] RusAir Flight 9605 (operating as RusLine Flight 243) was a passenger flight which crashed near Petrozavodsk in the Republic of Karelia, Russia, on 20 June 2011 while attempting to land in thick fog. [SEP] [CLS] The aircraft involved, a Tupolev Tu-134, was operating a RusAir scheduled domestic flight from Moscow. [SEP] [CLS] Of the 52 people on board, only 5 survived. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On October 6, 2018, at approximately 8:11 p.m, a magnitude 5.9 earthquake struck 19 kilometers northwest of Port-de-Paix, Haiti. [SEP] [CLS] The earthquake damaged structures and killed 18 people.The earthquake was the strongest to hit Haiti since January 12, 2010, not including the aftershocks of the 2010 earthquake, and the shaking was felt as far away as Port-au-Prince. [SEP] [CLS]
+

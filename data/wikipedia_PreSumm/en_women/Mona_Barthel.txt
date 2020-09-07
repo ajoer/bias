@@ -1,0 +1,2 @@
+[CLS] Mona Barthel (born 11 July 1990) is a German tennis player. [SEP] [CLS] Barthel has won four singles and three doubles titles on the WTA tour as well as five singles and one doubles title on the ITF circuit in her career. [SEP] [CLS] On 18 March 2013, Barthel reached her best singles ranking of world number 23. [SEP] [CLS] On 14 September 2015, she peaked at world number 63 in the doubles rankings. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Anke Huber (born 4 December 1974) is a German retired top-five professional tennis player. [SEP] [CLS] She was the runner-up in women's singles at the 1996 Australian Open and the 1995 WTA Finals. [SEP] [CLS] She finished ten seasons inside the top 20, and achieved a career-high ranking of 4 in October 1996. [SEP] [CLS]
+

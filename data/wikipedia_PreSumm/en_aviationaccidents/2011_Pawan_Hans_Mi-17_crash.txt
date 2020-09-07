@@ -1,0 +1,2 @@
+[CLS] On 19 April 2011, a Mil Mi-17 helicopter operated by Pawan Hans crashed near the town of Tawang, India, killing 17 of 23 people on board. [SEP] [CLS]
+

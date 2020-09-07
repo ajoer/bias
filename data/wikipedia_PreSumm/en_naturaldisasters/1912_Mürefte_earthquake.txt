@@ -1,0 +1,2 @@
+[CLS] The 1912 Mürefte earthquake occurred at 03:29 local time on 9 August. [SEP] [CLS] It had an estimated magnitude of 7.4 Mw and a maximum intensity of X (Extreme) on the Modified Mercalli intensity scale, causing from 216–3000 casualties. [SEP] [CLS]
+

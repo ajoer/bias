@@ -1,0 +1,2 @@
+[CLS] The 1926 Horta earthquake (Portuguese: Sismo da Horta de 1926/Terramoto da Horta), occurred at 8:42 a.m. [SEP] [CLS] (local time) on 31 August. [SEP] [CLS] It caused the destruction of many of the buildings located in the city of Horta, the central group of the Portuguese autonomous region of the Azores, resulting in the death of nine and the partial or complete destruction of 4,138 buildings. [SEP] [CLS]
+

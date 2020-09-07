@@ -1,0 +1,2 @@
+[CLS] The 1957 Guerrero earthquake occurred on 28 July at 08:40 UTC. [SEP] [CLS] It had a magnitude of 7.6 Mw and a maximum perceived intensity of VII (very strong) on the Modified Mercalli intensity scale. [SEP] [CLS] Mexico City and Chilpancingo were particularly badly affected. [SEP] [CLS] It caused the deaths of between 54 and 160 people. [SEP] [CLS] A small tsunami was triggered but caused little damage. [SEP] [CLS]
+

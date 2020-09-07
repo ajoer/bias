@@ -1,0 +1,2 @@
+[CLS] Canadian Pacific Air Lines Flight 301 was a scheduled passenger flight from Honolulu, Hawaii to Nadi, Fiji. [SEP] [CLS] On 22 July 1962, it was being operated by a Bristol Britannia 314 four-engine turboprop airliner of Canadian Pacific Air Lines, registered CF-CZB. [SEP] [CLS] On departure from Honolulu International Airport, the aircraft had engine problems; while attempting a subsequent return and landing on three engines, the crew initiated a go-around that resulted in the plane crashing on the airfield, killing 27 of the 40 on board. [SEP] [CLS]
+

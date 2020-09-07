@@ -1,0 +1,2 @@
+[CLS] Pegasus Airlines Flight 8622 was a domestic flight from Ankara to Trabzon, Turkey. [SEP] [CLS] On 13 January 2018, while landing on runway 11 at Trabzon Airport, the aircraft operating the flight ran off the left side of the runway and partially slid down a cliff. [SEP] [CLS] While there were no fatalities nor injuries of the 168 passengers and crew, the aircraft was damaged beyond repair and subsequently written off. [SEP] [CLS]
+

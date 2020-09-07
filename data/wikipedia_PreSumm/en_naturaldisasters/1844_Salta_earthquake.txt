@@ -1,0 +1,2 @@
+[CLS] The 1844 Salta earthquake took place in the Province of Salta, in the Republic of Argentina, on 18 October at 23:00 UTC. [SEP] [CLS] It had an estimated magnitude of 6.5 Ms. [SEP] [CLS] The earthquake had an estimated hypocentral depth of 30 km. [SEP] [CLS]
+

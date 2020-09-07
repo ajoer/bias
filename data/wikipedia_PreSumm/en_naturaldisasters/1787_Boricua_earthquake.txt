@@ -1,0 +1,2 @@
+[CLS] The 1787 Boricua earthquake struck the island of Puerto Rico on May 2. [SEP] [CLS] The magnitude of the earthquake was believed to have been around 8.0–8.5, however there is evidence that it was only about 6.9. [SEP] [CLS] The epicenter is thought to have been somewhere north of Puerto Rico, probably on the Puerto Rico Trench. [SEP] [CLS] Puerto Rican geomorphologist José Molinelli considers it "the strongest" in the seismic history of the country. [SEP] [CLS]
+

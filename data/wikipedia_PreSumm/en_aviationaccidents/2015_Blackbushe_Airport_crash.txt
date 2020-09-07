@@ -1,0 +1,2 @@
+[CLS] On 31 July 2015, an Embraer Phenom 300 business jet crashed into a car park next to Blackbushe Airport in Hampshire, United Kingdom, while attempting to land. [SEP] [CLS] The only pilot and all three passengers on board were killed. [SEP] [CLS] The three passengers were members of the bin Laden family.The subsequent inquiry found no evidence of any pre‑existing technical defect in the aircraft and concluded that "several factors combined to create a very high workload for the pilot [...] leading him to become fixated on continuing the approach.":3
+

@@ -1,0 +1,2 @@
+[CLS] The 1999 Aïn Témouchent earthquake occurred on December 22 at 18:36:56 local time in northern Algeria. [SEP] [CLS] The dip-slip event had a moment magnitude of 5.6 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] At least 22 were killed, 175 were injured, and 15,000 were homeless. [SEP] [CLS] The Belgian Centre for Research on the Epidemiology of Disasters' EM-DAT database and the USGS' National Geophysical Data Center both list financial losses of $60.93 million. [SEP] [CLS]
+

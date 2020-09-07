@@ -1,0 +1,2 @@
+[CLS] LAN Chile Flight 160 was a Boeing 727-116 on a flight from Buenos Aires, Argentina to Santiago, Chile carrying 8 crew and 52 passengers which crashed during approach to Santiago on April 28, 1969. [SEP] [CLS]
+

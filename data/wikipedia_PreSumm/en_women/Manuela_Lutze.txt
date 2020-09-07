@@ -1,0 +1,2 @@
+[CLS] Manuela Lutze (born 20 March 1974 in Blankenburg am Harz, Germany) is a multi Olympic-medaling sculler who competed in four Olympics, winning two gold medals and a bronze medal. [SEP] [CLS] In addition, she has also won 5 Gold Medals in the Quadruple Sculls event at the World Championships, beginning with Lac d'Aiguebelette, France in 1997. [SEP] [CLS]
+

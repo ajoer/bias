@@ -1,0 +1,2 @@
+[CLS] The Grand Harbour of Malta tornado was a tornado that hit the Grand Harbour of Malta on 23 September 1551 or 1556 with very intense strength. [SEP] [CLS] It began as a waterspout killing at least 600 people. [SEP] [CLS] At least four of the Order's galleys, named Santa Fè, San Michele, San Filippo and San Claudio, capsized in the tornado. [SEP] [CLS]
+

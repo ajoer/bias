@@ -1,0 +1,2 @@
+[CLS] On 9 December 2012, a Learjet 25 business jet carrying five passengers including American singer Jenni Rivera crashed south of Monterrey, Mexico, minutes after taking off from the city's international airport. [SEP] [CLS] All aboard, including two crew members, were killed.The subsequent investigation was unable to determine the cause of the sudden steep descent that led to the aircraft impacting the ground at extremely high speed. [SEP] [CLS]
+

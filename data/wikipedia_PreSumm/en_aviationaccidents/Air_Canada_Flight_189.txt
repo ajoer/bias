@@ -1,0 +1,2 @@
+[CLS] Air Canada Flight 189 was an Air Canada flight from Ottawa to Vancouver via Toronto and Winnipeg. [SEP] [CLS] On June 26, 1978, the McDonnell Douglas DC-9 operating the flight crashed on takeoff in Toronto, killing two passengers. [SEP] [CLS]
+

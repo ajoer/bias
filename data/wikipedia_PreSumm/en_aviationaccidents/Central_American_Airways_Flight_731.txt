@@ -1,0 +1,2 @@
+[CLS] Central American Airways Flight 731 was a passenger flight which crashed on approach to Toncontín International Airport, Tegucigalpa, Honduras, on February 14, 2011. [SEP] [CLS] All 14 on board died. [SEP] [CLS] The aircraft involved, a Let L-410 Turbolet, was operating Central American Airlines' scheduled domestic service from San Pedro Sula to Tegucigalpa. [SEP] [CLS]
+

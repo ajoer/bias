@@ -1,0 +1,2 @@
+[CLS] The 1979 Red River Valley tornado outbreak was a tornado event that occurred on April 10, 1979, near the Red River Valley. [SEP] [CLS] It is noted for the F4 tornado that hit Wichita Falls, Texas, and is commonly referred to as "Terrible Tuesday" by many meteorologists. [SEP] [CLS] Additional tornadoes were reported across the Southern Plains as well as in the Mississippi River Valley on April 10–11, 1979. [SEP] [CLS]
+

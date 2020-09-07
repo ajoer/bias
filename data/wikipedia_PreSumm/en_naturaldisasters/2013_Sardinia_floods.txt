@@ -1,0 +1,2 @@
+[CLS] The 2013 Sardinia floods took place in and around the Sardinian town of Olbia between 17 and 19 November 2013. [SEP] [CLS] They also affected other parts of northeastern Sardinia and killed at least 18 people. [SEP] [CLS] Thousands of people were left homeless. [SEP] [CLS] The places which suffered the most damage were Olbia, and in general the whole region of Gallura. [SEP] [CLS] The flood caused damages of over 1 billion euro. [SEP] [CLS]
+

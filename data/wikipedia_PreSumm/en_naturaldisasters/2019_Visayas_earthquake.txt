@@ -1,0 +1,2 @@
+[CLS] A 6.4 magnitude earthquake struck the islands of Visayas in the Philippines on April 23, 2019. [SEP] [CLS]
+

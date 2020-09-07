@@ -1,0 +1,2 @@
+[CLS] Historically, centenarian floods did extensive damage in the Isere valley. [SEP] [CLS] In October 1859, it rained continuously for five days. [SEP] [CLS] A warm wind melted the snow, and the temperature suddenly increased from 12 to 19 degrees on 2 November. [SEP] [CLS] The simultaneity of those two events resulted in an exceptional flood. [SEP] [CLS] In a single night, the water in Grenoble rose at a rate of 15 to 20 cm per hour. [SEP] [CLS]
+

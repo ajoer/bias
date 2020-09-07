@@ -1,0 +1,2 @@
+[CLS] On 19 June 2010, a vintage Douglas C-47 Skytrain aircraft crashed shortly after take-off from Berlin Schönefeld Airport for a sightseeing flight over Berlin, which was operated by Air Service Berlin, a provider of event flights. [SEP] [CLS] There were no fatalities, but seven out of the 28 passengers and crew were injured. [SEP] [CLS]
+

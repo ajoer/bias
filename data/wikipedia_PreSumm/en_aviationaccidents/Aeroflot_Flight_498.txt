@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 498 was a Soviet domestic passenger flight from Severomuysk to Ulan-Ude that crashed near Lake Baikal on 14 June 1981 en route to its planned stop at Nizhneangarsk Airport, Nizhneangarsk. [SEP] [CLS] All 44 passengers—including 13 children—and 4 crew members on board were killed, and the aircraft was destroyed. [SEP] [CLS] It remains the deadliest crash involving an Ilyushin Il-14. [SEP] [CLS]
+

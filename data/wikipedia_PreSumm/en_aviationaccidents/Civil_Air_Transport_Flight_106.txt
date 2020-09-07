@@ -1,0 +1,2 @@
+[CLS] Civil Air Transport Flight 106 was a Curtiss C-46D Commando, registration number B-908 (C/N 32950), that was operated by Taiwanese airline Civil Air Transport. [SEP] [CLS] On 20 June 1964, the aircraft crashed near the village of Shenkang, western Taiwan, killing all 57 people aboard. [SEP] [CLS]
+

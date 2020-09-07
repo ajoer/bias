@@ -1,0 +1,2 @@
+[CLS] On 9 March 2015, two Eurocopter AS350 Écureuil helicopters collided mid-air near Villa Castelli, Argentina, killing all ten people on board both aircraft. [SEP] [CLS] The helicopters had just departed together from the same spot and collided during the initial climb-out. [SEP] [CLS] They were transporting production staff and guests for the French reality TV series Dropped, and among the victims were French sailor Florence Arthaud, swimmer Camille Muffat and boxer Alexis Vastine. [SEP] [CLS]
+

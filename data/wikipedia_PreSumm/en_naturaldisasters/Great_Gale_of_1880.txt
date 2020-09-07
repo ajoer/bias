@@ -1,0 +1,2 @@
+[CLS] The Great Gale of 1880 was an extremely intense extratropical cyclone (possibly deeper than 955 millibars (mb) or 28.20") that impacted the Northwest United States on January 9, 1880. [SEP] [CLS] Gusts of an estimated 138 mph. [SEP] [CLS] hit the northwest coast. [SEP] [CLS] Buildings, barns, and fences were destroyed. [SEP] [CLS] The storm blew a three-masted schooner onto the beach at Coos Bay where it broke in two. [SEP] [CLS]
+

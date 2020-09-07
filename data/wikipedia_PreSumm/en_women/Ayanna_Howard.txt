@@ -1,0 +1,2 @@
+[CLS] Ayanna MacCalla Howard (born January 24, 1972) is an American roboticist and the School Chair for Interactive Computing, Georgia Institute of Technology. [SEP] [CLS] She is also the Linda J. [SEP] [CLS] and Mark C. [SEP] [CLS] Smith Endowed Chair in Bioengineering in the School of Electrical and Computer Engineering, and the director of the Human-Automation Systems (HumAnS) Lab. [SEP] [CLS] Currently, she is the Chair of the School of Interactive Computing in the Georgia Tech College of Computing. [SEP] [CLS]
+

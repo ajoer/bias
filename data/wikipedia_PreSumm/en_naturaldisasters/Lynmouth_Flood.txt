@@ -1,0 +1,2 @@
+[CLS] The Lynmouth Flood occurred on the night of the 15–16 August 1952, principally affecting the village of Lynmouth, in north Devon. [SEP] [CLS] A storm with heavy rainfall, combined with already saturated soil and flood debris, led to the flooding of the village and a total loss of 34 lives. [SEP] [CLS]
+

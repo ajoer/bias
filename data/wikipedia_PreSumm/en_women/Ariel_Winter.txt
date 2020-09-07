@@ -1,0 +1,2 @@
+[CLS] Ariel Winter Workman (born January 28, 1998) is an American actress, voice actress, model and occasional singer. [SEP] [CLS] She is known for her role as Alex Dunphy in the comedy series Modern Family, as well as the voice of the title character in the Disney Junior show Sofia the First and the voice of Penny Peterson in the 2014 animated film Mr. [SEP] [CLS] Peabody and Sherman. [SEP] [CLS] Winter and her fellow Modern Family cast members won four Screen Actors Guild Awards for Best Ensemble in a Comedy Series. [SEP] [CLS]
+

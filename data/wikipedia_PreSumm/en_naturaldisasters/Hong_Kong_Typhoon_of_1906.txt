@@ -1,0 +1,2 @@
+[CLS] The 1906 Hong Kong typhoon was a tropical cyclone that hit Hong Kong on 18 September 1906. [SEP] [CLS] The natural disaster caused property damage exceeding a million pounds sterling, affected international trade, and took the lives of around 15,000 people: about 5% of the then Hong Kong population (a total of 320,000 people). [SEP] [CLS]
+

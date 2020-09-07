@@ -1,0 +1,2 @@
+[CLS] The 1958 Central African Airways plane crash occurred when a Vickers Viscount airliner crashed during a scheduled passenger flight from Wadi Halfa, Sudan, to Benghazi, Libya, on 9 August 1958 about nine kilometers southeast of Benina International Airport in Libya. [SEP] [CLS] A total of forty-seven passengers and seven crew members were on board of whom only eighteen survived, making it the deadliest ever plane crash in Libya at the time of the accident. [SEP] [CLS]
+

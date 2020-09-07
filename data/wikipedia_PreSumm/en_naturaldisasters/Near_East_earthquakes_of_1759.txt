@@ -1,0 +1,2 @@
+[CLS] The Near East earthquakes of 1759 were a series of devastating earthquakes that shook a large portion of the Levant in October and November of that year. [SEP] [CLS] This geographical crossroads in the Eastern Mediterranean includes portions of Syria, Lebanon, Turkey, and Palestine. [SEP] [CLS] The ruins of Baalbek, a settlement in the Beqaa Valley of Lebanon east of the Litani River, were badly damaged. [SEP] [CLS] These events, along with the earlier 1202 Syria earthquake, are likely the strongest historical earthquakes in the region. [SEP] [CLS]
+

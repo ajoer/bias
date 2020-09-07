@@ -1,0 +1,2 @@
+[CLS] The 2002 Hindu Kush earthquakes struck in northern Afghanistan during the month of March. [SEP] [CLS] At least 166 people were killed with a very large and intermediate-depth mainshock on March 3. [SEP] [CLS] Three weeks later, at least a further thousand were killed during a large, but shallow aftershock that had a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] The M7.4 and M6.1 reverse events were focused in the Hindu Kush mountain range area. [SEP] [CLS]
+

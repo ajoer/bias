@@ -1,0 +1,2 @@
+[CLS] Dénes Kőnig (September 21, 1884 – October 19, 1944) was a Hungarian mathematician of Jewish heritage who worked in and wrote the first textbook on the field of graph theory. [SEP] [CLS]
+

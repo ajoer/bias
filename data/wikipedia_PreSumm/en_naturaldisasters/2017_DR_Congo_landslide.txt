@@ -1,0 +1,2 @@
+[CLS] On 16 August 2017, severe flooding caused a mountainside to collapse, triggering a landslide which affected a fishing village in the Democratic Republic of Congo's (DR Congo) Ituri province. [SEP] [CLS] The disaster killed at least 200 people. [SEP] [CLS] Much of the damage is attributed to poorly regulated housing in vulnerable mountainous regions and heavy deforestation. [SEP] [CLS]
+

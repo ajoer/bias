@@ -1,0 +1,2 @@
+[CLS] Philippine Airlines Flight PR158 was a Philippine Airlines flight from Mactan-Cebu International Airport to Manila International Airport in Manila which crashed on 12 September 1969. [SEP] [CLS] The aircraft, a BAC One-Eleven, struck a mango tree on the hill in suburban Kula-ike, Antipolo, 22 km (12 nmi) east of its destination while on a VOR approach to runway 24. [SEP] [CLS] Of the 42 passengers and five crew members on board, only one passenger and one flight attendant survived. [SEP] [CLS]
+

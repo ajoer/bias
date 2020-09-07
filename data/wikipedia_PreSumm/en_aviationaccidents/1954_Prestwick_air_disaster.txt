@@ -1,0 +1,2 @@
+[CLS] The 1954 Prestwick air disaster occurred in the early morning of Christmas Day, 1954. [SEP] [CLS] A British Overseas Airways Corporation Boeing 377 Stratocruiser crashed on landing at Prestwick Airport, Scotland; 28 of the 36 on board were killed. [SEP] [CLS]
+

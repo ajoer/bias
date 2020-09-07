@@ -1,0 +1,2 @@
+[CLS] On Friday, January 3, 1992, a Beechcraft 1900 operating CommutAir Flight 4821 crashed into a wooded hillside near Gabriels, New York while conducting an ILS approach to Runway 23 at the Adirondack Regional Airport. [SEP] [CLS] The cause of the accident was determined to be pilot error. [SEP] [CLS] There were two people killed in the crash, and two survivors. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Ida Noddack (25 February 1896 – 24 September 1978), née Tacke, was a German chemist and physicist. [SEP] [CLS] In 1934 she was the first to mention the idea later named nuclear fission. [SEP] [CLS] With her husband Walter Noddack and Otto Berg she discovered element 75, rhenium. [SEP] [CLS] She was nominated three times for the Nobel Prize in Chemistry. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On 3 June 1966, a newly built Hawker Siddeley Trident jetliner crashed during a pre-delivery test flight near the village of Felthorpe, Norfolk, England, killing all four crew. [SEP] [CLS] The aeroplane had entered a deep stall from which the crew were unable to recover. [SEP] [CLS] It was the first loss of a Trident aircraft. [SEP] [CLS]
+

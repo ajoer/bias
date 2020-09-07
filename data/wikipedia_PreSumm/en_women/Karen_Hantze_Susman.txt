@@ -1,0 +1,2 @@
+[CLS] Karen Susman (née Hantze; born December 11, 1942) is a retired female tennis player from the United States. [SEP] [CLS] She won the 1962 women's singles title at Wimbledon, defeating Věra Pužejová Suková in the final 6–4, 6–4, but did not defend her title in 1963. [SEP] [CLS] She won three Grand Slam women's doubles titles, all with Billie Jean King. [SEP] [CLS] She also won the 1960 Wimbledon junior girls' singles title. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1992 Nicaragua earthquake occurred off the coast of Nicaragua at 6:16 p.m. [SEP] [CLS] on September 2. [SEP] [CLS] Some damage was also reported in Costa Rica. [SEP] [CLS] At least 116 people were killed and several more were injured. [SEP] [CLS] The quake was located in an active zone of stress and deformation. [SEP] [CLS] It created tsunamis disproportionately large for its surface wave magnitude. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Eastern Air Lines Flight 605 was a domestic flight in the US from Newark to Miami on May 30, 1947. [SEP] [CLS] The flight crashed near Bainbridge, Maryland, causing the deaths of all 53 passengers and crew on board in what was then the worst disaster in the history of North American commercial aviation. [SEP] [CLS]
+

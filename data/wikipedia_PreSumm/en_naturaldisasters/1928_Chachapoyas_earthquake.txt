@@ -1,0 +1,2 @@
+[CLS] The 1928 Chachapoyas earthquake occurred on May 14 at 17:14 local time. [SEP] [CLS] It had a magnitude of Mw 7.2, Ms 7.3, or ML 7.3. [SEP] [CLS] Chachapoyas, Peru was almost completely destroyed. [SEP] [CLS] A landslide in Pinpincos caused the death of 25 people. [SEP] [CLS] Many houses were damaged in Machala, Ecuador. [SEP] [CLS] The maximum intensity was X (Extreme) on the Mercalli intensity scale. [SEP] [CLS] The earthquake could be felt in Lima. [SEP] [CLS] It could also be felt in Ecuador, Brazil, and Colombia. [SEP] [CLS]
+

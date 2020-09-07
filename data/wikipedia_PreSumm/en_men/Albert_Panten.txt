@@ -1,0 +1,2 @@
+[CLS] A koog (plural: köge) or groden is a type of polder found on the North Sea coast of Germany that is established by the construction of dykes enclosing the land which is then drained to form marshland. [SEP] [CLS] This type of land reclamation is also used along rivers. [SEP] [CLS] In general, a koog is protected by embankments known as dykes (Deiche). [SEP] [CLS]
+

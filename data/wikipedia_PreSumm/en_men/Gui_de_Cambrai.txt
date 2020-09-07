@@ -1,0 +1,2 @@
+[CLS] Gui de Cambrai (born in the second half of the 12th century, died in the 13th century), was a medieval writer from Northern France who used vernacular French rather than Latin language. [SEP] [CLS] He wrote Le Vengement Alixandre (Alexander revenged), an 1806-line epic poem (c. [SEP] [CLS] 1190). [SEP] [CLS] A French version of Barlaam and Josaphat (c. [SEP] [CLS] 1220-1225) has also been tentatively attributed to de Cambrai. [SEP] [CLS]
+

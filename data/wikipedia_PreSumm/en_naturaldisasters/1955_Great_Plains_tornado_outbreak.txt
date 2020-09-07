@@ -1,0 +1,2 @@
+[CLS] The 1955 Great Plains tornado outbreak was a deadly tornado outbreak that struck the southern and central U.S Great Plains States on May 25–26, 1955. [SEP] [CLS] It produced at least 46 tornadoes across seven states including two F5 tornadoes in Blackwell, Oklahoma, and Udall, Kansas that caused most of the casualties. [SEP] [CLS] The outbreak killed 102 from three tornadoes while injuring hundreds more. [SEP] [CLS] Unusual electromagnetic activity was observed, including St. [SEP] [CLS] Elmo's fire. [SEP] [CLS]
+

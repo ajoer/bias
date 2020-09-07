@@ -1,0 +1,2 @@
+[CLS] The 2006 Kampung Pasir landslide was a landslide that occurred on 31 May 2006, in Kampung Pasir, Ulu Klang, Selangor, Malaysia. [SEP] [CLS] Two women were killed and two children were feared buried alive in a landslide that flattened three blocks of longhouses in Kampung Pasir, Ulu Klang here. [SEP] [CLS] "The 2006 Kampung Pasir disaster highlighted the fact that man-made slopes needed to be built according to guidelines, just like any other infrastructure such as roads and bridges."
+

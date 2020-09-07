@@ -1,0 +1,2 @@
+[CLS] On 7 April 2013, a Mil Mi-8 helicopter operated by Helicópteros del Pacífico (Helipac) broke up in flight and crashed en route from Iquitos to a Perenco site near the Curaray River, in the Loreto Region of Peru. [SEP] [CLS] All 13 people on board were killed. [SEP] [CLS] The occupants, all Peruvian nationals, were nine passengers and four crew. [SEP] [CLS] Among the passengers were Perenco workers and other contractors. [SEP] [CLS]
+

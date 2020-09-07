@@ -1,0 +1,2 @@
+[CLS] The Great Blizzard of 1891 affected southern England between 9 and 13 March of that year. [SEP] [CLS] Strong winds, cold temperatures and snow which drifted up to 15ft high contributed to the deaths of 200 people and 6000 animals. [SEP] [CLS] A merchant vessel, the Bay of Panama was one of the casualties, driven onto rocks on the south coast of Cornwall by the storm. [SEP] [CLS] Twenty-three lives were lost in this incident alone. [SEP] [CLS]
+

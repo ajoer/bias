@@ -1,0 +1,2 @@
+[CLS] Nina Karlovna Bari (Russian: Нина Карловна Бари, November 19, 1901, Moscow – July 15, 1961, Moscow) was a Soviet mathematician known for her work on trigonometric series. [SEP] [CLS]
+

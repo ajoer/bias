@@ -1,0 +1,2 @@
+[CLS] Kris Carr (born August 31, 1971) is a New York Times and #1 Amazon best-selling author, wellness activist and cancer survivor. [SEP] [CLS] She documented her battle against epithelioid hemangioendothelioma in her documentary film Crazy Sexy Cancer. [SEP] [CLS] She wrote the New York Times bestsellers Crazy Sexy Diet and Crazy Sexy Kitchen. [SEP] [CLS]
+

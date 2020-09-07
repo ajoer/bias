@@ -1,0 +1,2 @@
+[CLS] Indian Airlines Flight 257 was a flight on 16 August 1991 that crashed on its descent into Imphal, India, killing all 69 occupants. [SEP] [CLS]
+

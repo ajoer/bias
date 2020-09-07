@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 773 was a scheduled domestic Soviet Union passenger flight from Moscow to Simferopol that crashed following a bomb explosion on 10 October 1971. [SEP] [CLS]
+

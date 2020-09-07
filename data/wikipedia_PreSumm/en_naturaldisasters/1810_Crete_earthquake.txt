@@ -1,0 +1,2 @@
+[CLS] The 1810 Crete earthquake occurred at 22:15 on 16 February. [SEP] [CLS] It caused great destruction in Heraklion, some damage from Malta to northern Egypt and was felt from central Italy to Syria. [SEP] [CLS] 2,000 fatalities were reported from Candia (Heraklion). [SEP] [CLS]
+

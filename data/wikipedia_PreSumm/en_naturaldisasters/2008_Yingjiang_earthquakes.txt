@@ -1,0 +1,2 @@
+[CLS] The 2008 Yingjiang earthquakes were a series of major earthquakes ranging from surface wave magnitude (Ms) 4.1 to 5.9 that struck Yingjiang County, Yunnan province, China between August 19 (in UTC; August 20 local time) and September 3. [SEP] [CLS] It caused 5 deaths, 21 serious injuries, and RMB 2.7 billion in direct economic damage. [SEP] [CLS] USGS put the magnitude of the strongest one to Mw 6.0. [SEP] [CLS]
+

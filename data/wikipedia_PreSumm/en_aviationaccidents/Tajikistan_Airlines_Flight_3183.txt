@@ -1,0 +1,2 @@
+[CLS] Tajikistan Airlines Flight 3183 was a Tupolev Tu-154B-1 that crashed on 15 December 1997 on approach to Sharjah Airport in the United Arab Emirates. [SEP] [CLS] There was a sole survivor, the navigator, from a crew of seven and seventy-nine passengers. [SEP] [CLS] Investigators determined the cause of the accident was pilot error leading to controlled flight into terrain. [SEP] [CLS]
+

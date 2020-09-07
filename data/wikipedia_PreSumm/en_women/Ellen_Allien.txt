@@ -1,0 +1,2 @@
+[CLS] Ellen Fraatz, known professionally as Ellen Allien, is a German electronic musician, music producer, and the founder of BPitch Control music label. [SEP] [CLS] Her album Stadtkind was dedicated to the city of Berlin, and she cites the culture of reunified Berlin as one of the main inspirations for her music. [SEP] [CLS] She sings in both German and English. [SEP] [CLS] Her music is best described as a blend of IDM and Techno music, which is dance-floor oriented and has noticeable experimental elements. [SEP] [CLS] She lives in Berlin. [SEP] [CLS]
+

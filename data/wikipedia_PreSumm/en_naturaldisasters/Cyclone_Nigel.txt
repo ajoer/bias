@@ -1,0 +1,2 @@
+[CLS] Severe Tropical Cyclone Nigel was the second of two tropical cyclones to affect Northern Vanuatu and the Fijian islands during January 1985. [SEP] [CLS] The system was first noted as an ill-defined low-pressure area ("low") located within the intertropical convergence zone near the Cape York Peninsula. [SEP] [CLS] Over the next few days the low moved eastwards and increased in strength; it was named Nigel on January 16 as it developed into a tropical cyclone. [SEP] [CLS]
+

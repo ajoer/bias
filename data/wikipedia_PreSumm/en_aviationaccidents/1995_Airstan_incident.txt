@@ -1,0 +1,2 @@
+[CLS] The Airstan incident was an international incident involving Russia and the Taliban of Afghanistan in 1995 and 1996. [SEP] [CLS] On 3 August 1995, Taliban-controlled fighter aircraft intercepted an Airstan Ilyushin Il-76TD transport aircraft, with seven Russian nationals on board, forcing it to land at Taliban-occupied Kandahar International Airport. [SEP] [CLS] The men were held prisoner for over a year before making their escape; after overpowering their captors they re-possessed their aircraft, flying it to freedom. [SEP] [CLS]
+

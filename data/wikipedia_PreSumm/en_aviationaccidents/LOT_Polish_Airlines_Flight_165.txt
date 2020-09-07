@@ -1,0 +1,2 @@
+[CLS] LOT Polish Airlines Flight 165 hijacking was the hijacking of a LOT Polish Airlines that occurred on 30 August 1978. [SEP] [CLS] The hijackers from East Germany (GDR) were seeking political asylum in West Germany (FRG). [SEP] [CLS] The plane landed safely, and the primary hijacker was tried and convicted by a West German jury in the specially convened United States Court for Berlin and sentenced to time served, the nine months he had already served during pretrial detention. [SEP] [CLS]
+

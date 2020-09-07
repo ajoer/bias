@@ -1,0 +1,2 @@
+[CLS] Sol Líneas Aéreas Flight 5428 was a passenger flight which crashed near Los Menucos, Argentina, on 18 May 2011, killing all 22 people on board. [SEP] [CLS] The aircraft involved, a Saab 340, was operating Sol Líneas Aéreas' scheduled domestic service from Neuquén to Comodoro Rivadavia.The following investigation concluded that severe airframe icing had led to a loss of control from which the crew was unable to recover. [SEP] [CLS] The crash is the deadliest involving a Saab 340. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Flash floods occurred throughout the Indonesian capital of Jakarta and its metropolitan area on the early hours of 1 January 2020, due to the overnight rain which dumped nearly 400 millimetres (15 in) of rainwater, causing the Ciliwung and Cisadane rivers to overflow. [SEP] [CLS] At least 66 people have been killed, and 60,000 displaced in the worst flooding in the area since 2007. [SEP] [CLS]
+

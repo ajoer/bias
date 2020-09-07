@@ -1,0 +1,2 @@
+[CLS] A magnitude 5.9 earthquake struck Tanzania 27 km (17 mi) east northeast of Nsunga, Kagera Region on September 10 at a depth of 40 km (25 mi). [SEP] [CLS] The shock had a maximum intensity of VII (Very strong). [SEP] [CLS] Nineteen people were killed and 253 injured in Tanzania, while four people were killed in Kamuli and seven others were injured in the Rakai District of neighbouring Uganda. [SEP] [CLS]
+

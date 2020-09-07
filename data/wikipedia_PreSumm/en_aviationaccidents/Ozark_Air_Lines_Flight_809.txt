@@ -1,0 +1,2 @@
+[CLS] Ozark Air Lines Flight 809 was a regularly scheduled flight from Nashville, Tennessee, to St. [SEP] [CLS] Louis, Missouri, with four intermediate stops. [SEP] [CLS] On July 23, 1973, while landing at St. [SEP] [CLS] Louis International Airport, it crashed, killing 38 of the 44 persons aboard. [SEP] [CLS] A severe downdraft, associated with a nearby thunderstorm, was cited as the cause. [SEP] [CLS]
+

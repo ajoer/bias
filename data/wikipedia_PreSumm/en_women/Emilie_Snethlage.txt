@@ -1,0 +1,2 @@
+[CLS] Maria Emilie Snethlage (April 13, 1868 – November 25, 1929) was a German-born Brazilian naturalist and ornithologist who worked on the bird fauna of the Amazon. [SEP] [CLS] Snethlage collected in Brazil from 1905 until her death. [SEP] [CLS] She was the director of the Museu Paraense Emílio Goeldi from 1914 to 1922. [SEP] [CLS] Several species of birds were described by her. [SEP] [CLS]
+

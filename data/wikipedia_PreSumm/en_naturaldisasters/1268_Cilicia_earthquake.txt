@@ -1,0 +1,2 @@
+[CLS] The Cilicia earthquake occurred northeast of the city of Adana in 1268. [SEP] [CLS] Over 60,000 people perished in the Armenian Kingdom of Cilicia in southern Asia Minor. [SEP] [CLS]
+

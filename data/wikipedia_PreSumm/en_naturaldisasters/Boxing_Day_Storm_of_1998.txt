@@ -1,0 +1,2 @@
+[CLS] The Boxing Day Storm (also called the Great Boxing Day Storm of 1998 or Hurricane Stephen) was an Atlantic windstorm that made landfall in northwest Ireland. [SEP] [CLS] It peaked on Boxing Day, 26 December, which is celebrated as St. [SEP] [CLS] Stephen's Day in Ireland. [SEP] [CLS]
+

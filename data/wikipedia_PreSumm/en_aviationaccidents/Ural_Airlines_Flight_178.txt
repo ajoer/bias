@@ -1,0 +1,2 @@
+[CLS] Ural Airlines Flight 178 was an Ural Airlines scheduled passenger flight from Moscow–Zhukovsky to Simferopol, Crimea. [SEP] [CLS] On 15 August 2019, the Airbus A321 operating the flight carried 226 passengers and seven crew. [SEP] [CLS] The flight suffered a bird strike after taking off from Zhukovsky and crash landed in a cornfield, 5 kilometres (3.1 mi; 2.7 nmi) past the airport. [SEP] [CLS] All on board survived; 74 people sustained injuries, but none were severe. [SEP] [CLS]
+

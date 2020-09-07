@@ -1,0 +1,2 @@
+[CLS] Maybe It's Me is an American television sitcom that aired on The WB network. [SEP] [CLS] It premiered on October 5, 2001, and ended on May 3, 2002. [SEP] [CLS] The series was created and executive produced by Suzanne Martin, a former writer of Frasier and Ellen. [SEP] [CLS]
+

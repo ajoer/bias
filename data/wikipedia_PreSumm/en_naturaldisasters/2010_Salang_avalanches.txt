@@ -1,0 +1,2 @@
+[CLS] The 2010 Salang avalanches consisted of a series of at least 36 avalanches that struck the southern approach to the Salang Tunnel, north of Kabul. [SEP] [CLS] They were caused by a freak storm in the Hindu Kush mountains. [SEP] [CLS]
+

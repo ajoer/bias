@@ -1,0 +1,2 @@
+[CLS] The 1929 Murchison earthquake occurred at 10:17 am on 17 June. [SEP] [CLS] It struck the Murchison region of the South Island, with an estimated magnitude of 7.3, and was felt throughout New Zealand. [SEP] [CLS] There were 17 deaths, mostly as a result of landslides triggered by the earthquake. [SEP] [CLS] The rumbling sound of the earthquake was loud enough to be heard at New Plymouth, more than 250 km (155 mi) away. [SEP] [CLS]
+

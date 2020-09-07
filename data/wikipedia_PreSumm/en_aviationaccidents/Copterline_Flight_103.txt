@@ -1,0 +1,2 @@
+[CLS] Copterline Flight 103 (AAQ103) was a Copterline helicopter flight en route to Helsinki, Finland from Tallinn, Estonia that crashed into the Tallinn Bay on 10 August 2005, at 12:45 local time. [SEP] [CLS] The Sikorsky S-76C+ crash occurred three to four minutes after taking off. [SEP] [CLS] On board were two Finnish crew members and twelve passengers: six Finns, four Estonians and two Americans. [SEP] [CLS] There were no survivors. [SEP] [CLS]
+

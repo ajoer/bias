@@ -1,0 +1,2 @@
+[CLS] The 1950 Heathrow BEA Vickers Viking crash occurred on 31 October 1950 when a Vickers Viking operated by British European Airways (BEA) crashed at London Airport in heavy fog. [SEP] [CLS] The aircraft was on a scheduled flight between Paris and London's Northolt airport and 28 of the 30 passengers and crew on board were killed. [SEP] [CLS]
+

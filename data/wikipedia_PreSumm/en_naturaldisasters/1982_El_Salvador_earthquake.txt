@@ -1,0 +1,2 @@
+[CLS] The 1982 El Salvador earthquake occurred southeast of San Salvador on 19 June at 00:21 local time (06:21 UTC). [SEP] [CLS] This undersea earthquake struck offshore in the Pacific Ocean and had a surface wave magnitude of 7.2 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] Occurring adjacent to a subduction zone at the Middle America Trench, this normal-slip shock left at least 16 and as many as 43 people dead, and many injured, and also inflicted $5 million in damage. [SEP] [CLS]
+

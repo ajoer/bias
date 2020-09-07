@@ -1,0 +1,2 @@
+[CLS] Braniff Airways Flight 250 crashed near Falls City, Nebraska, on August 6, 1966, en route to Omaha from Kansas City, Missouri. [SEP] [CLS] Thirty-eight passengers and four crew members were killed in the crash, which occurred in a farm field late on a Saturday night. [SEP] [CLS] In-flight structural failure due to extreme turbulence in an avoidable weather hazard was cited as the cause. [SEP] [CLS]
+

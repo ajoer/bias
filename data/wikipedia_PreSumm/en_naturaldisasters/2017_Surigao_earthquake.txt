@@ -1,0 +1,2 @@
+[CLS] The 2017 Surigao earthquake occurred on February 10, 2017 at 10:03 PM (PST), with a surface wave magnitude of 6.7 off the coast of Surigao del Norte in the Philippines. [SEP] [CLS] According to the PHIVOLCS Earthquake Intensity Scale the earthquake was an Intensity VII (Destructive) earthquake at maximum. [SEP] [CLS] In the past Surigao province has been hit by a magnitude 7.2 tremor in both 1879 and 1893. [SEP] [CLS]
+

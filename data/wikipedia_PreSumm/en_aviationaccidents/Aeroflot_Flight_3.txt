@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 03 (Russian: Рейс 3 Аэрофлота Reys 3 Aeroflota) was a passenger flight from Khabarovsk Airport to Petropavlovsk-Kamchatsky Airport. [SEP] [CLS] On 3 September 1962 the Aeroflot Tupolev Tu-104 lost control after the airframe started vibrating, resulting in the plane rolling and yawing several times at an altitude of 4,500 meters before crashing. [SEP] [CLS] The aircraft crashed into a swamp, some 90 kilometers away from Khabarovsk. [SEP] [CLS] At the time, it was the deadliest crash in the history of Soviet aviation. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1615 Arica earthquake was a major earthquake centered near Arica in the Spanish colonial Viceroyalty of Peru, within the present day Arica y Parinacota Region of northwestern Chile. [SEP] [CLS] The earthquake caused considerable damage to the infrastructure of the city with the Iglesia Mayor. [SEP] [CLS] The city's fort collapsed, and cracks opened in the floor of the royal quicksilver storage facility. [SEP] [CLS] No human was reported dead but three people suffered injuries. [SEP] [CLS]
+

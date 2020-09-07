@@ -1,0 +1,2 @@
+[CLS] The 1976 Papua earthquake occurred on 26 June with a surface wave magnitude of 7.1 in Papua, Indonesia. [SEP] [CLS] Total deaths for the event amounted to 422, including 70 who died in subsequent landslides. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Piero Gros (born 30 October 1954) is a former World Cup alpine ski racer from northwestern Italy. [SEP] [CLS] He won the gold medal in slalom at the 1976 Winter Olympics in Innsbruck, and was the World Cup overall champion in 1974. [SEP] [CLS]
+

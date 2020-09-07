@@ -1,0 +1,2 @@
+[CLS] A destructive series of four tornadoes hit the Southeastern United States during March 3-4, 1966. [SEP] [CLS] The worst event was a violent and long-lived F5 tornado, dubbed the Candlestick Park tornado after the name of a Jackson, Mississippi shopping mall which was leveled by the storm, that wrought catastrophic damage in Mississippi and Alabama along a 202.5 mi (325.9 km) track. [SEP] [CLS] The outbreak killed 58, injured 521, and caused $75.552 million in damage. [SEP] [CLS]
+

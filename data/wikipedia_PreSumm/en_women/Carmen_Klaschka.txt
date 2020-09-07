@@ -1,0 +1,2 @@
+[CLS] Carmen Klaschka (born 8 January 1987) is a retired German tennis player. [SEP] [CLS] Klaschka won three singles titles and ten doubles titles on the ITF circuit in her career. [SEP] [CLS] On 27 July 2009, she reached her best singles ranking of world No. [SEP] [CLS] 167. [SEP] [CLS] On 3 August 2009, she peaked at No. [SEP] [CLS] 125 in the doubles rankings. [SEP] [CLS] Carmen's sister, Sabine, is also a professional tennis player. [SEP] [CLS]
+

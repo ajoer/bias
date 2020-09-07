@@ -1,0 +1,2 @@
+[CLS] The 1967 Air Ferry DC-4 accident occurred on 3 June 1967, when a Douglas DC-4 registered as G-APYK on a non-scheduled charter flight between Manston Airport in Kent, England and Perpignan Airport in France hit the Canigou mountain in France, killing all 88 on board. [SEP] [CLS] The cause of the accident was determined to be carbon monoxide poisoning of the flight crew due to a faulty cabin heater. [SEP] [CLS]
+

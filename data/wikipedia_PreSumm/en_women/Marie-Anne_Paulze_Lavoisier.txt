@@ -1,0 +1,2 @@
+[CLS] Marie-Anne Pierrette Paulze (20 January 1758 in Montbrison, Loire, France – 10 February 1836) was a French chemist and noblewoman. [SEP] [CLS] Madame Lavoisier was the wife of the chemist and nobleman Antoine Lavoisier, and acted as his laboratory companion and contributed to his work. [SEP] [CLS] She played a pivotal role in the translation of several scientific works, and was instrumental to the standardization of the scientific method. [SEP] [CLS]
+

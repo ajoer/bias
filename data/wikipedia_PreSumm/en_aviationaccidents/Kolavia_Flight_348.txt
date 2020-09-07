@@ -1,0 +1,2 @@
+[CLS] On 1 January 2011, Kolavia Flight 348, a Tupolev Tu-154 on a domestic scheduled passenger flight from Surgut to Moscow, Russia, caught fire and burned down while taxiing out for take-off. [SEP] [CLS] Passengers were evacuated, but three were killed and 43 injured. [SEP] [CLS] A subsequent investigation concluded that the fire had started in an electric panel for which maintenance was never prescribed. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On 26 February 2013, a hot air balloon crashed near Luxor, Egypt, killing 19 out of the 21 people on board. [SEP] [CLS] A fire developed in the basket due to a leak in the balloon's gas fuel system, causing the balloon to deflate mid-air and crash to the ground.It was the deadliest ballooning accident in history and the deadliest aerostat disaster since the Hindenburg disaster in 1937, which killed 36 people. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On July 30, 2010 a 5.6 magnitude earthquake occurred in Razavi Khorasan province, Iran. [SEP] [CLS]
+

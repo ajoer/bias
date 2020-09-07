@@ -1,0 +1,2 @@
+[CLS] The February 1998 Afghanistan earthquake occurred at 19:03 local time near the Afghanistan-Tajikistan border. [SEP] [CLS] The strike-slip shock had a moment magnitude of 5.9 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] With several thousand dead and hundreds injured, the event's effects were considered extreme. [SEP] [CLS] It was felt at Tashkent and Dushanbe, and aftershocks continued for the next seven days. [SEP] [CLS]
+

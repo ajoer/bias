@@ -1,0 +1,2 @@
+[CLS] On 4 March 2013, a Fokker 50 operated by Compagnie Africaine d'Aviation on a domestic cargo flight from Lodja to Goma, Democratic Republic of the Congo, crashed in poor weather on approach to Goma Airport. [SEP] [CLS] There were nine people on board, of which six were killed. [SEP] [CLS] No fatalities were reported on the ground, despite the aircraft crashing into a populated area. [SEP] [CLS]
+

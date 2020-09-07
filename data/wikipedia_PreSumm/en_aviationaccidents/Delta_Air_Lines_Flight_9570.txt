@@ -1,0 +1,2 @@
+[CLS] On May 30, 1972, Delta Air Lines Flight 9570 crashed while attempting to land at the Greater Southwest International Airport (GSW) in Fort Worth, Texas during a training flight. [SEP] [CLS] All four occupants aboard the training flight were killed. [SEP] [CLS] The crash was determined to be caused by the aircraft flying through wake turbulence, and led to sweeping changes in procedures for maintaining minimum safe distance behind aircraft that generate substantial wake turbulence. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1941 Chungpu earthquake (Chinese: 1941年中埔地震; pinyin: 1941 nián Zhōngpǔ Dìzhèn) occurred with a magnitude of 7.1 on December 17, and was centred on the town of Chūho Village, Kagi District, Tainan Prefecture of Taiwan under Japanese rule. [SEP] [CLS] It was the fourth-deadliest earthquake of the 20th century in Taiwan, claiming 358 lives. [SEP] [CLS]
+

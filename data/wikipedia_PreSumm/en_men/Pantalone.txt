@@ -1,0 +1,2 @@
+[CLS] Pantalone [pantaˈloːne], spelled Pantaloon in English, is one of the most important principal characters found in commedia dell'arte. [SEP] [CLS] With his exceptional greed and status at the top of the social order, Pantalone is "money" in the commedia world. [SEP] [CLS] His full name, including family name, is Pantalon de' Bisognosi, Italian for 'Pantalone of the Needy'. [SEP] [CLS]
+

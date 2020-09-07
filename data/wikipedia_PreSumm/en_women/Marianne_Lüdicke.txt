@@ -1,0 +1,2 @@
+[CLS] Rosenheim is a town in Bavaria, Germany. [SEP] [CLS] It is an independent city located in the centre of the district of Rosenheim (Upper Bavaria), and is also the seat of its administration. [SEP] [CLS] It is located on the west bank of the Inn at the confluence of the rivers Inn and Mangfall, in the Bavarian Alpine Foreland. [SEP] [CLS] It is the third largest city in Upper Bavaria with over 63,000 inhabitants. [SEP] [CLS] Rosenheim is the economic centre and the busiest place in the region. [SEP] [CLS]
+

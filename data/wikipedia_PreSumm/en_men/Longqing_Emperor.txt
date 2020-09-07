@@ -1,0 +1,2 @@
+[CLS] The Longqing Emperor (simplified Chinese: 隆庆; traditional Chinese: 隆慶; pinyin: Lóngqìng; 4 March 1537 – 5 July 1572), personal name Zhu Zaiji (朱載坖), was the 13th Emperor of the Ming dynasty, reigned from 1567 to 1572. [SEP] [CLS] He was initially known as the Prince of Yu (裕王) from 1539 to 1567 before he became the emperor. [SEP] [CLS] His era name, Longqing, means "great celebration". [SEP] [CLS]
+

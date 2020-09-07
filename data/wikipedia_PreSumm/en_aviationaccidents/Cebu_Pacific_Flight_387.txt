@@ -1,0 +1,2 @@
+[CLS] Cebu Pacific Flight 387 was a domestic Cebu Pacific flight from Manila's Ninoy Aquino International Airport to Lumbia Airport in Cagayan de Oro City on Mindanao. [SEP] [CLS] On 2 February 1998, the 31-year-old McDonnell Douglas DC-9-32 crashed on the slopes of Mount Sumagaya in Gingoog City, Misamis Oriental. [SEP] [CLS] The incident resulted in the deaths of all 104 passengers and crew on board the aircraft. [SEP] [CLS]
+

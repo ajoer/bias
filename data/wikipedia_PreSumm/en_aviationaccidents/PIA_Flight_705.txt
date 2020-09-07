@@ -1,0 +1,2 @@
+[CLS] Pakistan International Airlines Flight 705 (PK705) was a Boeing 720 airliner that crashed while descending to land at Cairo International Airport on 20 May 1965. [SEP] [CLS] Of the 121 passengers and crew on board, all but 6 were killed. [SEP] [CLS] The accident, the fourth and worst involving a Boeing 720, was the deadliest to occur in Egypt at the time and remains the third-deadliest, behind Flash Airlines Flight 604 and Metrojet Flight 9268. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1959 Hengchun earthquake (Chinese: 1959年恆春地震; pinyin: 1959 nián Héngchūn dìzhèn) struck the southern tip of Taiwan on August 15 with a Richter magnitude 7.1. [SEP] [CLS] It was the tenth deadliest earthquake in twentieth century Taiwan, killing 16 or 17 people. [SEP] [CLS]
+

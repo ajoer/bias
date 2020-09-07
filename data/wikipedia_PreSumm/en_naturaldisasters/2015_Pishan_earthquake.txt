@@ -1,0 +1,2 @@
+[CLS] A magnitude 6.4 earthquake struck in Pishan County, Hotan Prefecture, Xinjiang, China 95 km (59 mi) southeast of Yilkiqi (يىلقىچى يېزىسى / 依力克其乡), on July 3 at a depth of 20.0 km (12.4 mi). [SEP] [CLS] The earthquake killed at least 3 people and wounded 71. [SEP] [CLS]
+

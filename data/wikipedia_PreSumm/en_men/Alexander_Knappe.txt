@@ -1,0 +1,2 @@
+[CLS] Alexander Knappe (born 1 March 1989) is a German professional golfer. [SEP] [CLS] Knappe was born in Brilon, Germany. [SEP] [CLS] He played one year of college golf at Texas Christian University.Knappe turned professional in 2011 and has played on the EPD Tour, Challenge Tour, and Sunshine Tour. [SEP] [CLS] He won three times on the EPD Tour and twice on the Challenge Tour, the Swiss Challenge and the Hainan Open, both in 2016. [SEP] [CLS]
+

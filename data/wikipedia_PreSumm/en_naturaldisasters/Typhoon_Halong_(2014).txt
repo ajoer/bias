@@ -1,0 +1,2 @@
+[CLS] Typhoon Halong, known in the Philippines as Typhoon Jose, was a very powerful tropical cyclone in the Western Pacific basin in August 2014. [SEP] [CLS] It was the twelfth named storm and the fifth typhoon of the 2014 Pacific typhoon season. [SEP] [CLS] The storm reached its maximum intensity as a Category 5 super typhoon, making it the fifth strongest storm of the season, surpassed by Genevieve, Vongfong, Nuri and Hagupit. [SEP] [CLS]
+

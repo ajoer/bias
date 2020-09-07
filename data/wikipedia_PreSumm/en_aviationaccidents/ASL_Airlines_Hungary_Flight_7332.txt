@@ -1,0 +1,2 @@
+[CLS] ASL Airlines Hungary Flight 7332 was a cargo flight operating for DHL from Paris–Charles de Gaulle Airport, France, to Bergamo Orio al Serio Airport, Italy. [SEP] [CLS] On 5 August 2016, the aircraft overran the runway while landing at Bergamo in poor weather and came to rest on a nearby road. [SEP] [CLS] The airport was closed for almost three hours after the crash, and flights were rescheduled or rerouted to Malpensa Airport. [SEP] [CLS] The two-person crew was not injured. [SEP] [CLS]
+

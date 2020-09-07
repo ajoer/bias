@@ -1,0 +1,2 @@
+[CLS] In April 1959, Uruguay suffered floods (Spanish: Inundaciones de abril de 1959 en Uruguay) that were the most severe in the modern history of Uruguay. [SEP] [CLS] Rainfall lasted from March 24 till April 23 and as a consequence the Río Negro suffered an overtopping. [SEP] [CLS] Waters passed over the Dam of Rincón del Bonete. [SEP] [CLS]
+

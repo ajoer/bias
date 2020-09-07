@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 36 was a scheduled domestic Aeroflot passenger flight from Chernivtsi International Airport to Kyiv International Airport (Zhuliany), Ukrainian Soviet Socialist Republic that crashed on 17 December 1976 near Kiev airport, resulting in 48 fatalities and 7 survivors. [SEP] [CLS]
+

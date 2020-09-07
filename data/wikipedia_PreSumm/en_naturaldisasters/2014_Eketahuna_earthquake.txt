@@ -1,0 +1,2 @@
+[CLS] The 2014 Eketahuna earthquake struck at 3:52 pm on 20 January, centred 15 km east of Eketahuna on the south-east of New Zealand's North Island. [SEP] [CLS] It had a maximum perceived intensity of VII (severe) on the Mercalli intensity scale. [SEP] [CLS] Originally reported as magnitude 6.6 on the Richter Scale, the earthquake was later downgraded to a magnitude of 6.2. [SEP] [CLS] A total of 1112 aftershocks were recorded, ranging between magnitudes 2.0 and 4.9 on the Richter Scale. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1886 Sauk Rapids Tornado was a violent tornado that tore through the cities of Sauk Rapids, St. [SEP] [CLS] Cloud, and Rice, Minnesota, on April 14, 1886. [SEP] [CLS] It destroyed much of the town of Sauk Rapids and killed 72 people along its path. [SEP] [CLS] It is the deadliest tornado on record in Minnesota. [SEP] [CLS] Other tornadoes occurred in Iowa, Kansas, Missouri, and Texas on the same day, suggesting the possibility of a large outbreak. [SEP] [CLS]
+

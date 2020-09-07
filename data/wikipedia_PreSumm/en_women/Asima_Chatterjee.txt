@@ -1,0 +1,2 @@
+[CLS] Asima Chatterjee (23 September 1917 – 22 November 2006) was an Indian organic chemist noted for her work in the fields of organic chemistry and phytomedicine. [SEP] [CLS] Her most notable work includes research on vinca alkaloids, the development of anti-epileptic drugs, and development of anti-malarial drugs. [SEP] [CLS] She also authored a considerable volume of work on medicinal plants of the Indian subcontinent. [SEP] [CLS] She was the first woman to receive a Doctorate of Science from an Indian university. [SEP] [CLS]
+

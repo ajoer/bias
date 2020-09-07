@@ -1,0 +1,2 @@
+[CLS] The 1888 eruption of Mount Bandai was a major volcanic eruption which occurred during the Meiji period of the Empire of Japan. [SEP] [CLS] The eruption occurred on July 15, 1888, and pyroclastic flows buried villages on the northern foot of the mountain, and devastated the eastern part of Bandai region, Fukushima Prefecture north of Tokyo. [SEP] [CLS] At least 477 people were killed and hundreds more were injured and rendered homeless in what became the worst volcanic disaster in recent Japanese history. [SEP] [CLS]
+

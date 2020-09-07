@@ -1,0 +1,2 @@
+[CLS] Katekavia Flight 9357 was an Antonov An-24 regional aircraft on a domestic flight from Krasnoyarsk to Igarka in Russia that crashed on final approach in fog in the early hours of 3 August 2010, killing twelve out of the fifteen people on board. [SEP] [CLS] The accident investigation concluded that the crew attempted an approach to land in visibility conditions worse than the approved minima for that airfield and aircraft, and failed to execute a missed approach procedure in a timely manner before the aircraft struck trees and terrain. [SEP] [CLS]
+

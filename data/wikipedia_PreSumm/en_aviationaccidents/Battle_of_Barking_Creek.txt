@@ -1,0 +1,2 @@
+[CLS] The Battle of Barking Creek was a friendly fire incident over England on 6 September 1939, resulting in the first death of a British fighter pilot in the Second World War. [SEP] [CLS]
+

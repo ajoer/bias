@@ -1,0 +1,2 @@
+[CLS] On 22 December 2015, a light aircraft of the Indian Border Security Force crashed within the grounds of Indira Gandhi International Airport in Delhi, India. [SEP] [CLS] Ten personnel of the Border Security Force, three officers and seven senior technicians, were killed. [SEP] [CLS] The 22-year-old Beechcraft B200 King Air took off for Ranchi just before 9.30am, before crashing shortly afterwards. [SEP] [CLS]
+

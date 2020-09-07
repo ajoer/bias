@@ -1,0 +1,2 @@
+[CLS] The 1942 Peru earthquake occurred on August 24 at 17:50 local time and was located near the border of the departments of Ica and Arequipa, Peru. [SEP] [CLS] It had a magnitude of Mw 8.2 or Ms 8.4. [SEP] [CLS]
+

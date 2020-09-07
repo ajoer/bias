@@ -1,0 +1,2 @@
+[CLS] Colin Maclaurin (; Scottish Gaelic: Cailean MacLabhruinn; February 1698 – 14 June 1746) was a Scottish mathematician who made important contributions to geometry and algebra. [SEP] [CLS] He is also known for being a child prodigy and holding the record for being the youngest professor. [SEP] [CLS] The Maclaurin series, a special case of the Taylor series, is named after him. [SEP] [CLS] Owing to changes in orthography since that time (his name was originally rendered as “M‘Laurine”), his surname is alternatively written MacLaurin. [SEP] [CLS]
+

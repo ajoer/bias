@@ -1,0 +1,2 @@
+[CLS] On March 11, 2018, a sightseeing helicopter crashed into the East River off the Upper East Side of Manhattan, New York City, killing 5 people. [SEP] [CLS] Two passengers died at the scene, and three others were pronounced dead at the hospital. [SEP] [CLS] The pilot escaped the helicopter following the crash. [SEP] [CLS] The aircraft was operated by Liberty Helicopters for FlyNyon. [SEP] [CLS] Two people were from New York state; another two were from Dallas, Texas; and the fifth was from Argentina. [SEP] [CLS] The pilot is from Connecticut. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Fee Plumley is a British-born digital artist, technology evangelist, and digital consultant. [SEP] [CLS] She lives in Australia and is a citizen. [SEP] [CLS] She worked for the Australia Council for the Arts on its "Arts content for the digital era" program, producing initiatives such as Geek in Residence and the Digital Culture Fund. [SEP] [CLS] Since 1997, she has collaborated with Douglas Rushkoff. [SEP] [CLS] She is a regular guest on the Australian Broadcasting Corporation's Download this Show on Radio National, where she talks about datamining. [SEP] [CLS]
+

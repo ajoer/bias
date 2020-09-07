@@ -1,0 +1,2 @@
+[CLS] An earthquake occurred in northern Afghanistan on 30 May 1998, at 06:22 UTC in the Takhar Province with a moment magnitude of 6.5 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] At the time, the Afghan Civil War was underway; the affected area was controlled by the United Islamic Front for the Salvation of Afghanistan (the "Northern Alliance"). [SEP] [CLS]
+

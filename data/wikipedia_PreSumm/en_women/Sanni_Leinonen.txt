@@ -1,0 +1,2 @@
+[CLS] Sanni Maaria Leinonen (born November 8, 1989 in Siilinjärvi) is a former alpine skier from Finland. [SEP] [CLS] She competes for Finland in technical events on the World Cup. [SEP] [CLS] She represented Finland at the 2010 Winter Olympics. [SEP] [CLS] Her best result was a 30th place in the giant slalom. [SEP] [CLS] Her best result on the World Cup was a 7th-place finish in the slalom at Maribor, Slovenia in 2010. [SEP] [CLS]
+

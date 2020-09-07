@@ -1,0 +1,2 @@
+[CLS] On 25 November 2019, two French military helicopters, part of Operation Barkhane, crashed in northern Mali, killing 13 soldiers. [SEP] [CLS] It was the deadliest incident involving the French military since the 1983 Beirut barracks bombings. [SEP] [CLS]
+

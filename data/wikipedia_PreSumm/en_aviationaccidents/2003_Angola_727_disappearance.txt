@@ -1,0 +1,2 @@
+[CLS] On 25 May 2003, a Boeing 727, registered N844AA, was stolen at Quatro de Fevereiro Airport, Luanda, Angola. [SEP] [CLS] Its disappearance prompted a worldwide search by the United States' Federal Bureau of Investigation (FBI) and Central Intelligence Agency (CIA). [SEP] [CLS] No trace of the aircraft has since been found. [SEP] [CLS]
+

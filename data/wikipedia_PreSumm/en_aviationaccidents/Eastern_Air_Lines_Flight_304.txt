@@ -1,0 +1,2 @@
+[CLS] Eastern Air Lines Flight 304, a Douglas DC-8 flying from New Orleans International Airport to Washington Dulles International Airport, crashed on February 25, 1964. [SEP] [CLS] All 51 passengers and 7 crew were killed. [SEP] [CLS] Among the dead were American singer and actor Kenneth Spencer and Marie-Hélène Lefaucheux, a women's and human rights activist and member of the French delegation to the United Nations. [SEP] [CLS]
+

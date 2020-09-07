@@ -1,0 +1,2 @@
+[CLS] On the night of August 3, 1999, a massive landslide occurred in Cherry Hills subdivision in Antipolo, Rizal province, Philippines that resulted to about 60 death toll and 378 houses buried. [SEP] [CLS] The landslide was primarily caused by the heavy rains of the approaching typhoon Olga. [SEP] [CLS] The subdivision became a death trap when its foundations was filled with water and the whole complex slid down the hill on which it was built. [SEP] [CLS]
+

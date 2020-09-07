@@ -1,0 +1,2 @@
+[CLS] Georg Simon Ohm (, German: [ˈɡeːɔʁk ˈʔoːm]; 16 March 1789 – 6 July 1854) was a German physicist and mathematician. [SEP] [CLS] As a school teacher, Ohm began his research with the new electrochemical cell, invented by Italian scientist Alessandro Volta. [SEP] [CLS] Using equipment of his own creation, Ohm found that there is a direct proportionality between the potential difference (voltage) applied across a conductor and the resultant electric current. [SEP] [CLS] This relationship is known as Ohm's law. [SEP] [CLS]
+

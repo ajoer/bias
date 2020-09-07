@@ -1,0 +1,2 @@
+[CLS] The 2008 Market Rasen earthquake occurred at 00:56:47.8s GMT on 27 February 2008. [SEP] [CLS] According to the British Geological Survey the earthquake registered a reading of 5.2 on the Richter scale, with its epicentre 2.5 miles (4 km) north of Market Rasen and 15 miles (24 km) south-west of Grimsby. [SEP] [CLS]
+

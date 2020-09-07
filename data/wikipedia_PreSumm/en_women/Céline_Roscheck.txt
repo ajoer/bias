@@ -1,0 +1,2 @@
+[CLS] Germany's Next Topmodel is a German reality television series, based on a concept that was introduced by Tyra Banks with America's Next Top Model. [SEP] [CLS] The competition is hosted by Heidi Klum. [SEP] [CLS] She also serves as the lead judge and executive producer of the show. [SEP] [CLS]
+

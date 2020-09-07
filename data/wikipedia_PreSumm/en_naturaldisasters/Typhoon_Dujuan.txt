@@ -1,0 +1,2 @@
+[CLS] The name Dujuan has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was contributed by China, and is an azalea. [SEP] [CLS] Typhoon Dujuan (2003) (T0313, 14W, Onyok) – hit near Hong Kong. [SEP] [CLS] Severe Tropical Storm Dujuan (2009) (T0912, 13W, Labuyo) Typhoon Dujuan (2015) (T1521, 21W, Jenny) – A super typhoon which brought exceptionally strong winds to the Yaeyama Islands and Taiwan. [SEP] [CLS]
+

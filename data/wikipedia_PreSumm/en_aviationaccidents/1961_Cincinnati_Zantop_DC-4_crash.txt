@@ -1,0 +1,2 @@
+[CLS] A Zantop Air Transport Douglas DC-4 was on its final approach to Greater Cincinnati Airport runway 18, when it clipped some trees and crashed into a wooded area north of the airport. [SEP] [CLS] This was the first of at least three aircraft on their final approach that failed to reach runway 18 at the Greater Cincinnati Airport, becoming victims of the area's hilly terrain with steep changes in elevation from the Ohio River, the others being American Airlines Flight 383 and TWA Flight 128. [SEP] [CLS]
+

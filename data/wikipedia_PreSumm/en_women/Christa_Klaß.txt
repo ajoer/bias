@@ -1,0 +1,2 @@
+[CLS] Christa Klaß (also spelled Christa Klass, born 7 November 1951) is a German politician who served as a Member of the European Parliament from 1994 until 2014. [SEP] [CLS] In 1975, Klaß became a qualified master in winemaking and has since been a self-employed wine-grower. [SEP] [CLS] From 1994 Klaß served as a Member of the European Parliament for Rhineland-Palatinate, representing the conservative German Christian Democratic Union, part of the Group of the European People's Party (Christian Democrats) and European Democrats. [SEP] [CLS]
+

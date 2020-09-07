@@ -1,0 +1,2 @@
+[CLS] Beginning on 14 May 2016, a low pressure area over the Bay of Bengal caused torrential rain to fall across Sri Lanka, causing floods and landslides which affected half a million people. [SEP] [CLS] As of 25 May 2016 the death toll was 101 with 100 missing. [SEP] [CLS]
+

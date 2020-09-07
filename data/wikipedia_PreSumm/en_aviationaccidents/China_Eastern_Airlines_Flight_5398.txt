@@ -1,0 +1,2 @@
+[CLS] China Eastern Airlines Flight 5398 (MU5398) was a McDonnell Douglas MD-82 airliner from Shenzhen's Bao'an International Airport to Fuzhou Yixu Airport in Fujian. [SEP] [CLS] On October 26, 1993, it crashed on approach to Fuzhou Yixu Airport. [SEP] [CLS] The aircraft overran the runway while landing in heavy rain and high winds. [SEP] [CLS] Two of the 80 passengers and crew on board were killed. [SEP] [CLS]
+

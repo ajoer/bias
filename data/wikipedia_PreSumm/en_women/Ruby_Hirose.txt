@@ -1,0 +1,2 @@
+[CLS] Ruby Sakae Hirose (1904–1960) was an American biochemist and bacteriologist. [SEP] [CLS] She did research on blood clotting and Thrombin, allergies, and researched cancer using antimetabolites. [SEP] [CLS]
+

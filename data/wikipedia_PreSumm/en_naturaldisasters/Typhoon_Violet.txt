@@ -1,0 +1,2 @@
+[CLS] The name Violet has been used to name tropical cyclones in the north-western Pacific Ocean. [SEP] [CLS] Typhoon Violet (1955) (T5501) Typhoon Violet (1961) (T6124) - hit Japan (ja) Typhoon Violet (1967) (T6704) Tropical Storm Violet (1970) (T7008) Tropical Storm Violet (1972) (T7231) Tropical Storm Violet (1976) (T7610) Typhoon Violet (1996) (T9617) - approached Japan (ja)
+

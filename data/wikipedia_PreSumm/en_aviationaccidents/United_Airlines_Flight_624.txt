@@ -1,0 +1,2 @@
+[CLS] United Airlines Flight 624, a Douglas DC-6 airliner, registration NC37506, was a scheduled passenger flight that originated in San Diego, California with stops in Los Angeles and Chicago en route to LaGuardia Airport in New York City. [SEP] [CLS] The four-engine propeller-driven airplane crashed at 1:41 p.m. [SEP] [CLS] Eastern Daylight Time on June 17, 1948 outside of Aristes, Pennsylvania, killing all 4 crew members and 39 passengers on board. [SEP] [CLS]
+

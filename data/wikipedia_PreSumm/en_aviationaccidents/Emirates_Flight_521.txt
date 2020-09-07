@@ -1,0 +1,2 @@
+[CLS] Emirates Flight 521 was a scheduled international passenger flight from Thiruvananthapuram, India, to Dubai, United Arab Emirates, operated by Emirates using a Boeing 777-300. [SEP] [CLS] On 3 August 2016, the aircraft carrying 282 passengers and 18 crew crashed while landing at Dubai International Airport.All 300 people on board survived the accident; 24 were injured, one seriously. [SEP] [CLS] An airport firefighter died during the rescue operation and another eight were injured. [SEP] [CLS] The accident is the only hull loss of an Emirates aircraft. [SEP] [CLS]
+

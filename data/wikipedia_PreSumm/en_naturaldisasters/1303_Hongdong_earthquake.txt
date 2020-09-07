@@ -1,0 +1,2 @@
+[CLS] The 1303 Hongdong earthquake occurred in China, then part of the Mongol Empire, on September 25. [SEP] [CLS] The shock was estimated to have a magnitude of 8.0 and it had a maximum Mercalli intensity of XI (Extreme). [SEP] [CLS] With catastrophic damage, it was one of the deadliest recorded earthquakes of all time. [SEP] [CLS]
+

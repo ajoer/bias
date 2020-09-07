@@ -1,0 +1,2 @@
+[CLS] Markku Pusenius (born May 29, 1964 in Lahti) is a Finnish former ski jumper who competed from 1981 to 1986. [SEP] [CLS] He won a gold medal in the team large hill at the 1984 FIS Nordic World Ski Championships in Engelberg. [SEP] [CLS] Pusenius's best individual finish was second twice (1982, 1983). [SEP] [CLS] He also competed at the 1984 Winter Olympics. [SEP] [CLS]
+

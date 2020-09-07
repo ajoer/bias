@@ -1,0 +1,2 @@
+[CLS] Christiane Demontés (born 14 May 1954) is a former member of the Senate of France. [SEP] [CLS] She represented the Rhône department and is a member of the Socialist Party. [SEP] [CLS]
+

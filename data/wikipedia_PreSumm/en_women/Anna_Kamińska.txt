@@ -1,0 +1,2 @@
+[CLS] Anna Kamińska (born October 4, 1983) is a Polish mountain bike orienteer. [SEP] [CLS] She won a gold medal in the sprint event at the 2010 World MTB Orienteering Championships in Montalegre. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The January 2014 Gulf Coast winter storm was a somewhat rare winter storm that impacted the eastern and southeastern United States, as well as Mexico, most notably the Gulf Coast region, which rarely receives frozen precipitation. [SEP] [CLS]
+

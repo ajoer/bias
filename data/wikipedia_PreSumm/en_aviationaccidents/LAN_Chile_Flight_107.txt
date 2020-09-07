@@ -1,0 +1,2 @@
+[CLS] LAN Chile Flight 107 was a regular scheduled international flight from the Chilean capital Santiago to Buenos Aires in Argentina. [SEP] [CLS] On 6 February 1965, the Douglas DC-6B-404 operating the flight crashed in the Andes. [SEP] [CLS] All 87 occupants of the aircraft died in the crash. [SEP] [CLS]
+

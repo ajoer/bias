@@ -1,0 +1,2 @@
+[CLS] China General Aviation Flight 7552 was a China General Aviation flight from Nanjing Dajiaochang Airport to Xiamen Gaoqi International Airport. [SEP] [CLS] On July 31, 1992, the Yakovlev Yak-42D overran runway 06 during takeoff and impacted an embankment at 210 kilometres per hour (110 kn; 130 mph), 420 metres (1,380 ft) from the threshold. [SEP] [CLS]
+

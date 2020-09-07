@@ -1,0 +1,2 @@
+[CLS] The St. [SEP] [CLS] Patrick's Day Snowstorm was a powerful winter storm that hit the Southeastern United States in mid-March 1892, with the heaviest snowfalls occurring in Nashville, Tennessee, and the Mid-State region. [SEP] [CLS] The event was atypical for this humid subtropical climate. [SEP] [CLS] Some portions of Middle Tennessee received record accumulation of up to 26 inches (66 cm) of snow. [SEP] [CLS]
+

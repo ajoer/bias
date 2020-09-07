@@ -1,0 +1,2 @@
+[CLS] The 2010 Madeira floods and mudslides were the result of an extreme weather event that affected Madeira Island in Portugal's autonomous Madeira archipelago on 20 February 2010. [SEP] [CLS] At least 42 people died and at least 100 were injured. [SEP] [CLS] However, with at least eight people still missing, the final death toll is still uncertain. [SEP] [CLS]
+

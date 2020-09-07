@@ -1,0 +1,2 @@
+[CLS] The 2007 Tabasco flood occurred in late October and early November 2007 in the Mexican states of Tabasco and Chiapas, in which as much as 80% of the former was left under water. [SEP] [CLS] At least 20,000 people were forced to seek emergency shelter. [SEP] [CLS] Over 1,000,000 residents were affected. [SEP] [CLS]
+

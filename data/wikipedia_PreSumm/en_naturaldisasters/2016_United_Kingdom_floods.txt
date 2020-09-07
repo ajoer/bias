@@ -1,0 +1,2 @@
+[CLS] In June 2016, parts of the United Kingdom were struck by serious flash floods. [SEP] [CLS] Starting on 7 June, thunderstorms caused intense rainfall in many locations across the country, particularly in the north of England and in London, causing repeated flash floods in several locations on a daily basis. [SEP] [CLS] The flooding in the United Kingdom followed further flooding on the European mainland throughout May and June 2016, although the two events were caused by different weather systems. [SEP] [CLS]
+

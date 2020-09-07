@@ -1,0 +1,2 @@
+[CLS] Jorge Délano Frederick (December 4, 1895 - July 9, 1980) was a Chilean cartoonist, screenwriter, film director, and actor. [SEP] [CLS] He was a caricaturist for La Nación, and he won the María Moors Cabot International Journalism Prize in 1952 and the National Prize for Journalism in 1964. [SEP] [CLS]
+

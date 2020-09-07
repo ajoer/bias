@@ -1,0 +1,2 @@
+[CLS] The March 1960 nor'easter was a severe winter storm that impacted the Mid-Atlantic and New England regions of the United States. [SEP] [CLS] The storm ranked as Category 4, or "crippling", on the Northeast Snowfall Impact Scale. [SEP] [CLS] Northeasterly flow, combined with the storm's slower forward motion, enhanced snowfall across the region. [SEP] [CLS] The cyclone began moving away from the United States on March 5. [SEP] [CLS] It took place during a stormy period in the affected region, contributing to record snowfall. [SEP] [CLS]
+

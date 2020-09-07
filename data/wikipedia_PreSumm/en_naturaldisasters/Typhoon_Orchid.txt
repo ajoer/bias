@@ -1,0 +1,2 @@
+[CLS] The name Orchid has been used for tropical cyclones in the north-western Pacific Ocean. [SEP] [CLS] Typhoon Orchid (1980) (T8013) - hit Japan (ja) Typhoon Orchid (1983) (T8319) Typhoon Orchid (1987) (T8701) Typhoon Orchid (1991) (T9121) Typhoon Orchid (1994) (T9426) - hit Japan (ja)
+

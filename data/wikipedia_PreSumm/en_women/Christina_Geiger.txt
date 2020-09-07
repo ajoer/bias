@@ -1,0 +1,2 @@
+[CLS] Christina Ackermann (born 6 February 1990) is a German former World Cup alpine ski racer, who specialised in slalom. [SEP] [CLS] She has competed in three Winter Olympics and four World Championships. [SEP] [CLS] Born Christina Geiger in Oberstdorf, Bavaria, she made her World Cup debut in December 2008 and her best World Cup result is a third place in slalom at Semmering in 2010. [SEP] [CLS] In her first Olympics in 2010, she was fourteenth in the slalom. [SEP] [CLS]
+

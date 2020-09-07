@@ -1,0 +1,2 @@
+[CLS] Fahriye Evcen is a German-Turkish actress. [SEP] [CLS] She is known for her roles as Necla Tekin on Yaprak Dökümü based on the novel by Reşat Nuri Güntekin, and as Feride in the TV series Çalıkuşu, based on the novel by Reşat Nuri Güntekin. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Jaime Teevan is an American computer scientist known for her research in human-computer interaction and information retrieval. [SEP] [CLS] She is particularly known for the work she has done on personalized search. [SEP] [CLS] According to the Technology Review, Teevan "is a leader in using data about people's knowledge, preferences, and habits to help them manage information."
+

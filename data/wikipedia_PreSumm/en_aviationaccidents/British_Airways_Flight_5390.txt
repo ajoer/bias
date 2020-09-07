@@ -1,0 +1,2 @@
+[CLS] British Airways Flight 5390 was a flight from Birmingham Airport in England for Málaga Airport in Spain that suffered explosive decompression, with no loss of life, shortly after takeoff on 10 June 1990. [SEP] [CLS] An improperly installed windscreen panel separated from its frame, causing the plane's captain to be blown partially out of the aircraft. [SEP] [CLS] With the captain pinned against the window frame for twenty minutes, the first officer landed at Southampton Airport. [SEP] [CLS]
+

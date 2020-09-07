@@ -1,0 +1,2 @@
+[CLS] An earthquake, measuring 6.2 ± 0.016 on the moment magnitude scale, hit Central Italy on 24 August 2016 at 03:36:32 CEST (01:36 UTC). [SEP] [CLS] Its epicentre was close to Accumoli, with its hypocentre at a depth of 4 ± 1 km, approximately 75 km (47 mi) southeast of Perugia and 45 km (28 mi) north of L'Aquila, in an area near the borders of the Umbria, Lazio, Abruzzo and Marche regions. [SEP] [CLS] As of 15 November 2016, 299 people had been killed. [SEP] [CLS]
+

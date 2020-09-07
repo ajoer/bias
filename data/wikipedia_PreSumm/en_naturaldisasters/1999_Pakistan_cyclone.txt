@@ -1,0 +1,2 @@
+[CLS] The 1999 Pakistan cyclone (Joint Typhoon Warning Center designation: 02A; India Meteorological Department designation: ARB 01) was a deadly tropical cyclone that brought further devastation to a region struck by a powerful storm nearly a year earlier. [SEP] [CLS]
+

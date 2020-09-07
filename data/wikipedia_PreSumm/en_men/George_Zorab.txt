@@ -1,0 +1,2 @@
+[CLS] The Perrot–Warrick Fund is administered by Trinity College, Cambridge, and awards grants for research in parapsychology. [SEP] [CLS] According to Susan Blackmore, it is the second largest source of grants for psychical research in the UK, after the University of Edinburgh's Koestler Parapsychology Unit. [SEP] [CLS] Caroline Watt of the University of Edinburgh has been Perrott–Warrick Senior Researcher since 2010. [SEP] [CLS] The position was previously held by Rupert Sheldrake, Richard Wiseman and Nicholas Humphrey. [SEP] [CLS]
+

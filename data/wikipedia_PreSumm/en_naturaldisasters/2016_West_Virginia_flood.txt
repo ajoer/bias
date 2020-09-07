@@ -1,0 +1,2 @@
+[CLS] On June 23, 2016, a flood hit areas of the U.S. [SEP] [CLS] state of West Virginia and nearby parts of Virginia, resulting in 23 deaths. [SEP] [CLS] The flooding was the result of 8 to 10 inches (200 to 250 mm) of rain falling over a period of 12 hours, resulting in a flood that was among the deadliest in West Virginia history. [SEP] [CLS] It is also the deadliest flash flood event in the United States since the 2010 Tennessee floods. [SEP] [CLS]
+

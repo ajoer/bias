@@ -1,0 +1,2 @@
+[CLS] Naisten Salibandyliiga (English: Women's Floorball League) is the highest-tier of floorball for women in Finland. [SEP] [CLS] The league was founded as Salibandyn naisten SM-sarja (English: Women's Floorball Finnish Championship) in 1988 by the Finnish Floorball Federation (SSBL). [SEP] [CLS] The current name, Naisten Salibandyliiga, was introduced for the 2000–01 season. [SEP] [CLS] The Naisten Salibandyliiga is operated by SSBL Salibandy Oy, a limited corporation owned entirely by the Finnish Floorball Federation. [SEP] [CLS]
+

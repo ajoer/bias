@@ -1,0 +1,2 @@
+[CLS] Amalia Nathansohn Freud (18 August 1835 – 12 September 1930) was the third wife of Jacob Freud and mother of Sigmund Freud. [SEP] [CLS] She was born Amalia Nathansohn in Brody, Kingdom of Galicia and Lodomeria and grew up in Odessa, Kherson Governorate where her mother was from (both cities located in modern Ukraine since 1939). [SEP] [CLS] Amalia Freud died in Vienna, First Austrian Republic at the age of 95 from tuberculosis. [SEP] [CLS]
+

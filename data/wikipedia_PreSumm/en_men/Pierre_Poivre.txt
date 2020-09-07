@@ -1,0 +1,2 @@
+[CLS] Pierre Poivre (23 August 1719 – 6 January 1786) was an 18th-century horticulturist and botanist. [SEP] [CLS] He was born in Lyon, France. [SEP] [CLS] He was a missionary to East Asia, intendant of French colonial islands in the Indian Ocean, and wearer of the cordon of St. [SEP] [CLS] Michel. [SEP] [CLS]
+

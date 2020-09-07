@@ -1,0 +1,2 @@
+[CLS] The 1667 Shamakhi earthquake occurred on 25 November 1667 with an epicenter close to the city of Shamakhi, Azerbaijan (then part of Safavid Iran). [SEP] [CLS] It had an estimated surface wave magnitude of 6.9 and a maximum felt intensity of X (Extreme) on the Mercalli intensity scale. [SEP] [CLS] An estimated 80,000 people died. [SEP] [CLS]
+

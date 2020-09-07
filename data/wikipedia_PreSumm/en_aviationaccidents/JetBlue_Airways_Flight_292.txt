@@ -1,0 +1,2 @@
+[CLS] JetBlue Flight 292 was a scheduled flight from Bob Hope Airport in Burbank, California to John F. [SEP] [CLS] Kennedy International Airport in New York City. [SEP] [CLS] On September 21, 2005, Captain Scott Burke executed an emergency landing in the Airbus A320-200 at Los Angeles International Airport after the nose gear jammed in an abnormal position. [SEP] [CLS] No one was injured. [SEP] [CLS]
+

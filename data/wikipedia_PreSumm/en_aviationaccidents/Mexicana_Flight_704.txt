@@ -1,0 +1,2 @@
+[CLS] On 4 June 1969, Mexicana Flight 704, a Boeing 727-64 airliner registered XA-SEL, crashed near Salinas Victoria, some 20 miles north of the city of Monterrey. [SEP] [CLS] All 79 people on board were killed. [SEP] [CLS]
+

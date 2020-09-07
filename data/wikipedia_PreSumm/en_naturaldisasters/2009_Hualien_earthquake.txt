@@ -1,0 +1,2 @@
+[CLS] The 2009 Hualien earthquake occurred on December 19 at 21:02:14 (local time) with a moment magnitude of 6.4 and a maximum Mercalli intensity of VI (Strong). [SEP] [CLS] The oblique-slip event took place off the coast of Hualian, Taiwan. [SEP] [CLS] Strong shaking could be felt in Hualian City (Shindo 5 according to Central Weather Bureau) and Taipei (Shindo 4 according to Central Weather Bureau). [SEP] [CLS] The earthquake could also be felt in Hong Kong and Xiamen, China, and on several islands between Yonaguni and Tarama, Japan. [SEP] [CLS]
+

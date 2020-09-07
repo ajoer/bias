@@ -1,0 +1,2 @@
+[CLS] The 1998 Hurricane Georges tornado outbreak was a six-day tornado outbreak associated with the passage of Hurricane Georges in the Southeast United States. [SEP] [CLS] Most of the tornadoes produced by the storm formed in the outer bands of the storm and were relatively weak; however, one F2 tornado touched down in Florida. [SEP] [CLS] The outbreak produced 47 tornadoes—20 in Alabama, 17 in Florida and 10 in Georgia—and was the most extensive tornado event in Florida history, with touchdowns reported the entire length of the state. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Michèle Vergne (born August 29, 1943 in L’Isle-Adam, Val d´Oise) is a French mathematician, specializing in analysis and representation theory. [SEP] [CLS]
+

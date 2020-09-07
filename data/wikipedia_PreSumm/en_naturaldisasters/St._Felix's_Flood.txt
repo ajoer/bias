@@ -1,0 +1,2 @@
+[CLS] The St. [SEP] [CLS] Felix's flood (in Dutch Sint-Felixvloed) happened on Saturday, 5 November 1530, the name day of St. [SEP] [CLS] Felix. [SEP] [CLS] This day was later known as Evil Saturday (kwade zaterdag). [SEP] [CLS] Large parts of Flanders and Zeeland were washed away, including the Verdronken Land van Reimerswaal. [SEP] [CLS] According to Audrey M. [SEP] [CLS] Lambert, "all the Oost Wetering of Zuid-Beveland was lost, save only the town of Reimerswaal."More than 100,000 were killed in Netherlands by the St. [SEP] [CLS] Felix's flood. [SEP] [CLS]
+

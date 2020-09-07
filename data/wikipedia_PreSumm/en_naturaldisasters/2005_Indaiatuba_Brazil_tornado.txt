@@ -1,0 +1,2 @@
+[CLS] On May 25, 2005, a violent F3 multi-vortex tornado struck Indaiatuba, in São Paulo, Brazil. [SEP] [CLS] The tornado caused damage estimated at R$97.2 million (BRL), which caused the government to declare a state of public calamity. [SEP] [CLS] This was the first multi-vortex tornado to be registered in the Southern Hemisphere and the first violent one to be recorded through images. [SEP] [CLS]
+

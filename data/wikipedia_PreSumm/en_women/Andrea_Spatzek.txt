@@ -1,0 +1,2 @@
+[CLS] Špaček (Czech pronunciation: [ˈʃpatʃɛk]) is a quite common Czech surname (the feminine form is Špačková). [SEP] [CLS] It may be spelled without diacritics as Spacek. [SEP] [CLS] In Czech language it means starling (a bird) or a "cigarette butt". [SEP] [CLS]
+

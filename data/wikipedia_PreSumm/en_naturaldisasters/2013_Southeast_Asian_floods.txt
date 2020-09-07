@@ -1,0 +1,2 @@
+[CLS] The 2013 monsoon season (August 2013 – December 2013) saw large-scale flooding return to Indochina after a calmer 2012 monsoon season. [SEP] [CLS] Poverty stricken Cambodia was hardest hit, with some 83 deaths. [SEP] [CLS] Countries affected also include Vietnam, Thailand, Laos, and Myanmar. [SEP] [CLS] Philippines has seen the annual typhoon related occurrences, which often pummel into Indochina. [SEP] [CLS]
+

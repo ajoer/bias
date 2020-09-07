@@ -1,0 +1,2 @@
+[CLS] Leo Palin (born 20 October 1956) is a retired professional tennis player from Finland. [SEP] [CLS] During his career on the ATP Tour, Palin won one doubles title, and reached one singles and one other doubles final. [SEP] [CLS] He reached career-high rankings of No. [SEP] [CLS] 92 in singles (in 1982) and No. [SEP] [CLS] 111 in doubles (in 1986). [SEP] [CLS]
+

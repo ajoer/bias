@@ -1,0 +1,2 @@
+[CLS] On 27 March 1951 a Douglas Dakota 3 cargo aircraft registered G-AJVZ operated by Air Transport Charter en route from Ringway Airport, Manchester, England, to Nutts Corner Airport, Antrim, Northern Ireland, crashed shortly after takeoff following the failure of the aircraft to gain height. [SEP] [CLS] There were two fatalities amongst the crew on board. [SEP] [CLS]
+

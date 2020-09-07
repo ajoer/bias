@@ -1,0 +1,2 @@
+[CLS] The 1974 Zhaotong earthquake occurred at 19:25 UTC on 10 May. [SEP] [CLS] It had a magnitude that was measured at 7.0 on the moment magnitude scale and 7.1 on the surface wave magnitude scale. [SEP] [CLS] It had a maximum perceived intensity of IX (Violent) on the Mercalli intensity scale. [SEP] [CLS] The epicenter was located in Zhaotong prefecture in Yunnan province and it caused between 1,641 and 20,000 deaths. [SEP] [CLS]
+

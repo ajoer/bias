@@ -1,0 +1,2 @@
+[CLS] The North Sea flood of 1962 was a natural disaster affecting mainly the coastal regions of Germany and in particular the city of Hamburg in the night from 16 February to 17 February 1962. [SEP] [CLS] In total, the homes of about 60,000 people were destroyed, and the death toll amounted to 315 in Hamburg. [SEP] [CLS] In addition, three people were killed in the United Kingdom by high winds, which damaged around 175,000 houses in the worst affected city, Sheffield. [SEP] [CLS]
+

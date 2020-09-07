@@ -1,0 +1,2 @@
+[CLS] Clara Helene Immerwahr (21 June 1870 – 2 May 1915) was a German chemist. [SEP] [CLS] She was the first German woman to be awarded a doctorate in chemistry in Germany, and is credited with being a pacifist as well as a women's rights activist. [SEP] [CLS] From 1901 until her suicide in 1915, she was married to the Nobel Prize-winning chemist Fritz Haber. [SEP] [CLS]
+

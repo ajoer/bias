@@ -1,0 +1,2 @@
+[CLS] Northeast Airlines Flight 823 was a scheduled flight from New York City's LaGuardia Airport to Miami International Airport, Florida, which crashed shortly after takeoff on February 1, 1957. [SEP] [CLS] The aircraft operating the service was a Douglas DC-6A four-engined propeller airliner, registration N34954, first placed into service in 1955. [SEP] [CLS]
+

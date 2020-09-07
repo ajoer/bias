@@ -1,0 +1,2 @@
+[CLS] On 9 November 1971, a Royal Air Force Lockheed Hercules C.1 crashed into the sea off the coast of Livorno by Meloria shoal, Italy, killing all 46 passengers and 6 crew. [SEP] [CLS] At the time it was described by Italian officials as the worst military air disaster in Italy in peacetime. [SEP] [CLS]
+

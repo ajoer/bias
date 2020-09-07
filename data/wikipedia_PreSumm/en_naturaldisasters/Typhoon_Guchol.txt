@@ -1,0 +1,2 @@
+[CLS] The name Guchol has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was contributed by the Federated States of Micronesia and is a spice turmeric in the Yapese language. [SEP] [CLS] Severe Tropical Storm Guchol (T0512, 12W) Typhoon Guchol (2012) (T1204, 05W, Butchoy) – struck Japan. [SEP] [CLS] Tropical Storm Guchol (2017) (T1717, 19W, Kiko)
+

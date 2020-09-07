@@ -1,0 +1,2 @@
+[CLS] American Flyers Flight 280 was a flight operated on a U.S. [SEP] [CLS] Military Air Command contract from Monterey Regional Airport in California to Columbus Airport in Georgia, via Ardmore Municipal Airport, Oklahoma. [SEP] [CLS] On April 22, 1966, while approaching Runway 8 at Ardmore, the aircraft overshot the runway and crashed into a hill, bursting into flames. [SEP] [CLS] Eighty-three of the 98 passengers and crew on board died as a result of the accident. [SEP] [CLS]
+

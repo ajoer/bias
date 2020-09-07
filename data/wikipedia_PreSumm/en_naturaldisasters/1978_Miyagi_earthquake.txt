@@ -1,0 +1,2 @@
+[CLS] The 1978 Miyagi earthquake (1978年宮城県沖地震, 1978 nen Miyagi-ken-oki jishin) occurred at 17:14 local time (08:14 UTC) on 12 June. [SEP] [CLS] It had a surface wave magnitude of 7.7, JMA magnitude 7.4, and triggered a small tsunami. [SEP] [CLS] The earthquake reached a maximum intensity of Shindo 5 in Sendai and caused 28 deaths and 1,325 injuries. [SEP] [CLS]
+

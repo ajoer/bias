@@ -1,0 +1,2 @@
+[CLS] Very Severe Cyclonic Storm Hikaa was a tropical cyclone that struck eastern Oman in September 2019. [SEP] [CLS] The third named storm of the 2019 North Indian Ocean cyclone season, Hikaa formed on September 22 west of India in the Arabian Sea. [SEP] [CLS] The storm reached peak intensity on September 24, with maximum sustained winds estimated over 140 km/h (85 mph). [SEP] [CLS] Later that day, the storm made landfall in eastern Oman south of Duqm, and quickly dissipated over the Arabian Peninsula. [SEP] [CLS]
+

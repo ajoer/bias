@@ -1,0 +1,2 @@
+[CLS] The Marion, Illinois tornado outbreak was a small, severe tornado outbreak that affected southern portions of the midwestern United States on May 29, 1982. [SEP] [CLS] Tornadoes touched down in the states of Illinois, Missouri, and Indiana, with Marion, Illinois, being the hardest hit. [SEP] [CLS] Ten fatalities occurred there after the town took a direct hit from an F4 tornado. [SEP] [CLS] The outbreak also produced an F3 tornado affecting the Conant, Illinois, area and several weaker tornadoes in the surrounding area. [SEP] [CLS]
+

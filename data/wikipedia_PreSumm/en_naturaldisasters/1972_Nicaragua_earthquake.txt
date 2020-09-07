@@ -1,0 +1,2 @@
+[CLS] The 1972 Nicaragua earthquake occurred at 12:29:44 a.m. [SEP] [CLS] local time (06:29:44 UTC) on December 23 near Managua, the capital of Nicaragua. [SEP] [CLS] It had a moment magnitude of 6.3 and a maximum MSK intensity of IX (Destructive). [SEP] [CLS] The epicenter was 28 kilometers northeast of the city centre and a depth of about 10 kilometers. [SEP] [CLS] The earthquake caused widespread casualties among Managua's residents: 4,000–11,000 were killed, 20,000 were injured and over 300,000 were left homeless. [SEP] [CLS]
+

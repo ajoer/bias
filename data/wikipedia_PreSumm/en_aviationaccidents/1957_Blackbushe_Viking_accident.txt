@@ -1,0 +1,2 @@
+[CLS] The 1957 Blackbushe Viking accident occurred on 1 May 1957 when an Eagle Aviation twin-engined Vickers VC.1 Viking 1B registered G-AJBO named "John Benbow" crashed into trees near Blackbushe Airport, located in Hampshire, England, on approach following a suspected engine failure on take-off. [SEP] [CLS] All five crew and 29 of the 30 passengers were killed. [SEP] [CLS] The aircraft also carried the RAF serial number XF629 allotted to this aircraft for use during trooping flights only. [SEP] [CLS]
+

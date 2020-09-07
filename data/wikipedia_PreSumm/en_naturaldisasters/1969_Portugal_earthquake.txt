@@ -1,0 +1,2 @@
+[CLS] The 1969 Portugal earthquake struck western Portugal and Morocco on February 28 at 02:40 UTC. [SEP] [CLS] Originating west of the Strait of Gibraltar, the earthquake registered a magnitude of 7.8 and the maximum felt intensity was VII (Very strong) on the Mercalli intensity scale. [SEP] [CLS] In total, thirteen people died. [SEP] [CLS] Far more people sustained minor injuries. [SEP] [CLS]
+

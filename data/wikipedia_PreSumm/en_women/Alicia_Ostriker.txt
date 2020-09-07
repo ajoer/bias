@@ -1,0 +1,2 @@
+[CLS] Alicia Suskin Ostriker (born November 11, 1937) is an American poet and scholar who writes Jewish feminist poetry. [SEP] [CLS] She was called "America's most fiercely honest poet" by Progressive. [SEP] [CLS] Additionally, she was one of the first women poets in America to write and publish poems discussing the topic of motherhood. [SEP] [CLS] In 2015, she was elected a Chancellor of the Academy of American Poets. [SEP] [CLS] In 2018, she was named the New York State Poet Laureate. [SEP] [CLS]
+

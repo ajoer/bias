@@ -1,0 +1,2 @@
+[CLS] In September 2007, two separate accidents due to similar landing gear failures occurred within four days of each other on Bombardier Dash 8 Q400 aircraft operated by Scandinavian Airlines (SAS). [SEP] [CLS] A third incident, again with a SAS aircraft, occurred in October 2007, leading to the withdrawal of the type from the airline's fleet. [SEP] [CLS]
+

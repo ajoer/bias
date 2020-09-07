@@ -1,0 +1,2 @@
+[CLS] The 1356 Basel earthquake is the most significant seismological event to have occurred in Central Europe in recorded history and had a moment magnitude in the range of 6.0–7.1. [SEP] [CLS] This earthquake, which occurred on October 18, 1356, is also known as the Séisme de la Saint-Luc, as 18 October is the feast day of Saint Luke the Evangelist. [SEP] [CLS]
+

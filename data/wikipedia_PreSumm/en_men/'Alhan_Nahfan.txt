@@ -1,0 +1,2 @@
+[CLS] This is a list of rulers of Saba and Himyar. [SEP] [CLS] Mukarrib (Mukrab, Karab), a religious title that means "near to God", was used by rulers of Saba' until Karib'il Watar changed his title to Malik at the time of the kingdom of Saba' and Dhu Raydan that was established between Himyarites and Sabaeans. [SEP] [CLS] The title Tubba, which means "the one who follows the sun like a shadow" was used by Himyarites to refer to their rulers. [SEP] [CLS]
+

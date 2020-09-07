@@ -1,0 +1,2 @@
+[CLS] The 1976 Sabah earthquake occurred at 10:56 am on 26 July near Lahad Datu in the eastern portion of Sabah, Malaysia. [SEP] [CLS] The moment magnitude was 6.2, making it the largest earthquake in Malaysia recorded by seismic instruments. [SEP] [CLS] While slightly larger than the 2015 Sabah earthquake (Mw 6.0), the 1976 event caused less extensive damage. [SEP] [CLS]
+

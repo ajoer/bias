@@ -1,0 +1,2 @@
+[CLS] The Wallingford Tornado was an F4 tornado that struck the town of Wallingford, Connecticut, on Friday, August 9, 1878. [SEP] [CLS] The violent tornado destroyed most of the town, killing about 34 people—estimated totals varied—and injuring at least 70, many severely. [SEP] [CLS] This was the deadliest tornado ever to strike the state of Connecticut, and the second deadliest ever in New England, after the Worcester tornado of 1953. [SEP] [CLS]
+

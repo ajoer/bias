@@ -1,0 +1,2 @@
+[CLS] The June 2007 Hunter Region and Central Coast storms started on Friday, June 8th following the development of an intense east coast low pressure system during the previous night. [SEP] [CLS] Over the next 36 hours these areas were battered by the system's strong winds and torrential rain, which caused extensive flooding, damage, loss of life and the grounding of a 225 m (738 ft) long bulk carrier. [SEP] [CLS] The strongest observed wind gusts were 135 kilometres per hour (84 mph) at Norah Head and 124 kilometres per hour (77 mph) at Newcastle. [SEP] [CLS]
+

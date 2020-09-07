@@ -1,0 +1,2 @@
+[CLS] The name Malakas (Tagalog: [mɐlɐˈkas], mah-lə-KAHS) has been used for three tropical cyclones in the western north Pacific Ocean. [SEP] [CLS] The name was contributed by the Philippines and is a Filipino word meaning 'strong' or 'powerful'. [SEP] [CLS] Tropical Storm Malakas (2004) (T0414, 17W) Typhoon Malakas (2010) (T1012, 13W) Typhoon Malakas (2016) (T1616, 18W, Gener)
+

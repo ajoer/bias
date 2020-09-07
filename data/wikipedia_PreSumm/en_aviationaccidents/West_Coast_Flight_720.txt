@@ -1,0 +1,2 @@
+[CLS] West Coast Airlines Flight 720 was a scheduled passenger flight from Klamath Falls, Oregon, to Seattle, Washington, with intermediate stops at Medford, Oregon, Eugene, Oregon, and Portland, Oregon. [SEP] [CLS] On March 10, 1967, it crashed shortly after takeoff at Klamath Falls, killing all four aboard. [SEP] [CLS]
+

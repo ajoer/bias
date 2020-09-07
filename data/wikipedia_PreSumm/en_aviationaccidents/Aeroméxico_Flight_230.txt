@@ -1,0 +1,2 @@
+[CLS] Aeroméxico Flight 230 experienced a hard landing at Chihuahua Airport on July 27, 1981. [SEP] [CLS] Thirty-two people were killed when the McDonnell Douglas DC-9-32 jet aircraft was heavily damaged by impact with the ground and fire on approach in high winds. [SEP] [CLS]
+

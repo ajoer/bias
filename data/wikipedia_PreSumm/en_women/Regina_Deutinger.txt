@@ -1,0 +1,2 @@
+[CLS] The following is a list of Playboy Playmates of 2008. [SEP] [CLS] Playboy magazine names their Playmate of the Month each month throughout the year. [SEP] [CLS]
+

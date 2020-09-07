@@ -1,0 +1,2 @@
+[CLS] The 2009 Jupiter impact event, occasionally referred to as the Wesley impact, was a July 2009 impact on Jupiter that caused a black spot in the planet's atmosphere. [SEP] [CLS] The impact area covered 190 million square kilometers, similar in area to the planet's Little Red Spot and approximately the size of the Pacific Ocean. [SEP] [CLS] The impactor is estimated to have been about 200 to 500 meters in diameter. [SEP] [CLS] (For comparison, the one for the Tunguska event was estimated to be in the 60–190 meters range.)
+

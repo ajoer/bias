@@ -1,0 +1,2 @@
+[CLS] Cai Yuanpei (Chinese: 蔡元培; pinyin: Cài Yuánpéi; 11 January 1868 – 5 March 1940) was a Chinese philosopher and politician. [SEP] [CLS] He was the president of Peking University, and founder of the Academia Sinica. [SEP] [CLS] He was known for his critical evaluation of Chinese culture and synthesis of Chinese and Western thinking, including anarchism. [SEP] [CLS] At Peking University he assembled influential figures in the New Culture and May Fourth Movements. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 2010 Mentawai earthquake occurred with a moment magnitude of 7.8 on 25 October off the western coast of Sumatra at 21:42 local time (14:42 UTC). [SEP] [CLS] The earthquake occurred on the same fault that produced the 2004 Indian Ocean earthquake. [SEP] [CLS] It was widely felt across the provinces of Bengkulu and West Sumatra and resulted in a substantial localized tsunami that struck the Mentawai Islands. [SEP] [CLS]
+

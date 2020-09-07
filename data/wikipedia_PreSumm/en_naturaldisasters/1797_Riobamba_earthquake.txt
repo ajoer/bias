@@ -1,0 +1,2 @@
+[CLS] The 1797 Riobamba earthquake occurred at 12:30 UTC on 4 February. [SEP] [CLS] It devastated the city of Riobamba and many other cities in the Interandean valley, causing between 6,000–40,000 casualties. [SEP] [CLS] It is estimated that seismic intensities in the epicentral area reached at least XI (Extreme) on the Mercalli intensity scale, and that the earthquake had a magnitude of 8.3, the most powerful historical event known in Ecuador. [SEP] [CLS] The earthquake was studied by Alexander von Humboldt, when he visited the area in 1801–1802. [SEP] [CLS]
+

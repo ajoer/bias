@@ -1,0 +1,2 @@
+[CLS] Bershawn D. [SEP] [CLS] Jackson (born May 8, 1983) is an American athlete, who mainly competes in the 400 m hurdles, but also is a 400 m runner. [SEP] [CLS] At the 2008 Summer Olympics, Bershawn "Batman" Jackson won a bronze medal in the 400 m hurdles. [SEP] [CLS] He also has three medals (two gold, one bronze) at the World Championships and one gold medal at the World Indoor Championships. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The tornado outbreak of April 1919 occurred on April 8–9, 1919, in the Southern Great Plains of the US, producing numerous strong tornadoes and killing at least ninety-two people. [SEP] [CLS] The entire outbreak occurred overnight. [SEP] [CLS]
+

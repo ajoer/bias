@@ -1,0 +1,2 @@
+[CLS] The Gale of 1878, was an intense Category 2 hurricane that was active between October 18 and October 25. [SEP] [CLS] It caused extensive damage from Cuba to New England. [SEP] [CLS] Believed to be the strongest storm to hit the Washington - Baltimore region since hurricane records began in 1851, A complete record exists of this hurricane throughout its lifecycle from formation to dissipation. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On 4 July 1966 an Air New Zealand Douglas DC-8-52 with the registration ZK-NZB crashed on takeoff on a routine training flight from Auckland International Airport killing 2 of the 5 crew on board. [SEP] [CLS]
+

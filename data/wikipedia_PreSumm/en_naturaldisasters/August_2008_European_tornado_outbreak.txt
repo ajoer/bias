@@ -1,0 +1,2 @@
+[CLS] The August 2008 European tornado outbreak was a widespread severe weather event which spawned thirteen tornadoes in four countries, one of which killed three people in France. [SEP] [CLS] This particular tornado reached F4 intensity. [SEP] [CLS]
+

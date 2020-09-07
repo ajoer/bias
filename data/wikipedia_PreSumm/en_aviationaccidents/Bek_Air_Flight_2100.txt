@@ -1,0 +1,2 @@
+[CLS] Bek Air Flight 2100 was a domestic passenger flight from Almaty to Nur-Sultan, Kazakhstan, operated by a Fokker 100 that crashed on 27 December 2019 while taking off from Almaty International Airport. [SEP] [CLS] There were 98 people on board – 93 passengers and 5 crew. [SEP] [CLS] Thirteen people died in the crash, and 66 were injured. [SEP] [CLS] The local government started investigations the same day. [SEP] [CLS]
+

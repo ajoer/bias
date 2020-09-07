@@ -1,0 +1,2 @@
+[CLS] Fanny Chmelar is a German former alpine skier. [SEP] [CLS] Born in Weilheim in Oberbayern, she competed for Germany at the 2010 Winter Olympics. [SEP] [CLS] She also competed in the World Cup, and had one podium finish, a second place in the slalom at Åre, Sweden in 2009. [SEP] [CLS]
+

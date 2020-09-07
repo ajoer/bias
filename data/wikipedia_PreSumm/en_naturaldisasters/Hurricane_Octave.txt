@@ -1,0 +1,2 @@
+[CLS] The name Octave has been used for five tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Octave (1983) Hurricane Octave (1989) Hurricane Octave (2001) Tropical Storm Octave (2013) Tropical Storm Octave (2019)
+

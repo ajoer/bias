@@ -1,0 +1,2 @@
+[CLS] Liliana Cavani (born 12 January 1933, Carpi, Italy) is an Italian film director and screenwriter. [SEP] [CLS] She belongs to a generation of Italian filmmakers from Emilia-Romagna that came into prominence in the 1970s, including Bernardo Bertolucci, Pier Paolo Pasolini and Marco Bellocchio. [SEP] [CLS] Cavani became internationally known after the success of her 1974 feature film Il portiere di notte (The Night Porter). [SEP] [CLS] Her films have historical concerns. [SEP] [CLS] In addition to feature films and documentaries, she has also directed opera. [SEP] [CLS]
+

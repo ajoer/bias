@@ -1,0 +1,2 @@
+[CLS] On 3 May 2002, an Indian Air Force (IAF) Mikoyan-Gurevich MiG-21bis crashed into an office building in Jalandhar, Punjab, India, killing eight and injuring 17 people on the ground. [SEP] [CLS] The pilot, who ejected from the aircraft, survived. [SEP] [CLS] A number of passers-by were also injured as they attempted to rescue people trapped in the buildings. [SEP] [CLS]
+

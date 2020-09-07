@@ -1,0 +1,2 @@
+[CLS] On October 16, 1979: a landslide at the Nice Airport, an aseismic submarine landslide, and two tsunamis that struck the coast near Nice. [SEP] [CLS] The two waves struck the coast between the Italian border and the town of Antibes (60 miles; 96 km). [SEP] [CLS] They reached 3 m high near Nice and 3.5 m at La Salis (Antibes) and decreased in amplitude from there. [SEP] [CLS]
+

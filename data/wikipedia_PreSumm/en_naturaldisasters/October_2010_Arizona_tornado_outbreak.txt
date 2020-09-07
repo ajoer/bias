@@ -1,0 +1,2 @@
+[CLS] The October 2010 Arizona tornado outbreak was the largest single-day tornado-event in Arizona history, with eight tornadoes touching down. [SEP] [CLS] An additional tornado also touched down in Utah. [SEP] [CLS]
+

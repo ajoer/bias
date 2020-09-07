@@ -1,0 +1,2 @@
+[CLS] Ruth Arnon (Hebrew: רות ארנון [ʁut aʁ'non], born in Tel Aviv on June 1, 1933) is an Israeli biochemist and codeveloper of the multiple sclerosis drug Copaxone. [SEP] [CLS] She is currently the Paul Ehrlich Professor of Immunology at the Weizmann Institute of Science, where she is researching anti-cancer and influenza vaccinations. [SEP] [CLS]
+

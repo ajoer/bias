@@ -1,0 +1,2 @@
+[CLS] Edith Frank (née Holländer; 16 January 1900 – 6 January 1945) was the mother of Holocaust diarist Anne Frank, and her older sister Margot. [SEP] [CLS] She was a prisoner during the Holocaust at Auschwitz-Birkenau concentration camp, where she died from starvation. [SEP] [CLS]
+

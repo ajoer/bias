@@ -1,0 +1,2 @@
+[CLS] The name Wayne has been used for four tropical cyclones in the northwest Pacific Ocean. [SEP] [CLS] Tropical Storm Wayne (1979) (T7922, 25W) Typhoon Wayne (1983) (T8304, 04W, Karing) – approached the Philippines and Taiwan. [SEP] [CLS] Typhoon Wayne (1986) (T8614, 12W, Miding) – one of the longest-lived storms on record, approached the Philippines and struck Taiwan. [SEP] [CLS] Typhoon Wayne (1989) (T8922, 25W) – struck Japan. [SEP] [CLS]
+

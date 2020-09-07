@@ -1,0 +1,2 @@
+[CLS] Essi Laine (born 27 July 1984) is a retired Finnish tennis player. [SEP] [CLS] Laine won two doubles titles on the International Tennis Federation (ITF) tour in her career, both in 2004. [SEP] [CLS] On 11 April 2005, she peaked at world number 444 in the doubles rankings. [SEP] [CLS] Her doubles partner was, Emma Laine, her younger sister. [SEP] [CLS] On 8 September 2003, she reached her best singles ranking of world number 939. [SEP] [CLS] Representing Finland at the Fed Cup, Laine has a win–loss record of 9–15.Essi Laine retired from tennis 2008. [SEP] [CLS]
+

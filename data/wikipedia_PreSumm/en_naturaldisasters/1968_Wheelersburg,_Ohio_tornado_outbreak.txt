@@ -1,0 +1,2 @@
+[CLS] The 1968 Wheelersburg, Ohio tornado outbreak was a deadly tornado outbreak that struck portions of the Midwest and Ohio Valley on April 23, 1968. [SEP] [CLS] The worst tornado was an F5 twister that struck portions of Southeastern Ohio from Wheelersburg to Gallipolis, just north of the Ohio-Kentucky state line. [SEP] [CLS] In the end, at least 14 tornadoes touched down, leaving 14 dead, including five in Kentucky and nine in Ohio. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1505 Lo Mustang earthquake occurred on 6 June 1505 and had an estimated magnitude between 8.2 and 8.8 making it one of the largest earthquakes in Nepalese history. [SEP] [CLS] The earthquake killed an approximate 30 percent of the Nepalese population at the time. [SEP] [CLS] The earthquake was located in northern Nepal, and affected southern China. [SEP] [CLS]
+

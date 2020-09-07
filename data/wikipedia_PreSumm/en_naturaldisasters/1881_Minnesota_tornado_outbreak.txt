@@ -1,0 +1,2 @@
+[CLS] The 1881 Minnesota tornado outbreak was a deadly tornado outbreak that struck southern Minnesota on July 15–16, 1881. [SEP] [CLS] At least six tornadoes touched down between 2:00 pm – 6:00 pm CST, killing 24 people and injuring at least 123. [SEP] [CLS] The deadliest tornado of the outbreak, an F4 that killed 20 people in and near New Ulm, was likely a tornado family that may have caused F5 damage to rural farmsteads. [SEP] [CLS] Six people died in New Ulm, where people from nearby settlements had congregated to avoid Native American attacks. [SEP] [CLS]
+

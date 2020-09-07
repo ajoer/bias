@@ -1,0 +1,2 @@
+[CLS] Anna Krylov is the Gabilan Distinguished Professor in Science and Engineering and a Professor of Chemistry at the University of Southern California (USC) working in the area of theoretical and computational quantum chemistry. [SEP] [CLS] She created the spin-flip method, and is a board member of Q-Chem and an elected member of the International Academy of Quantum Molecular Science. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1981 Dawu earthquake occurred on 24 January at 5:13 a.m. [SEP] [CLS] CST, in Sichuan, China. [SEP] [CLS] Registering a surface wave magnitude of 6.8, the earthquake killed about 150 people and injured roughly 300 more. [SEP] [CLS] It caused comprehensive damage within close range of its epicenter. [SEP] [CLS]
+

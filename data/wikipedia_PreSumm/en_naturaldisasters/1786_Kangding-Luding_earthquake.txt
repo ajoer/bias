@@ -1,0 +1,2 @@
+[CLS] An earthquake occurred on 1 June 1786 in and around Kangding, in what is now China's Sichuan province. [SEP] [CLS] It had an estimated magnitude of about 7.75 and a maximum perceived intensity of X (Extreme) on the Mercalli intensity scale. [SEP] [CLS] The initial quake killed 435 people. [SEP] [CLS] After an aftershock ten days later, a further 100,000 died when a landslide dam collapsed across the Dadu river. [SEP] [CLS]
+

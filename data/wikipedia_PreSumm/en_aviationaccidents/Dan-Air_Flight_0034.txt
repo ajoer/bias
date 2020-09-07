@@ -1,0 +1,2 @@
+[CLS] Dan-Air Flight 0034 was a fatal accident involving a Hawker Siddeley HS 748 series 1 turboprop aircraft operated by Dan-Air Services Limited on an oil industry charter flight from Sumburgh Airport, Shetland Islands, to Aberdeen Airport. [SEP] [CLS] The crash, which occurred on 31 July 1979 50 m (160 ft) offshore following the aircraft's failure to take off, resulted in the aircraft's destruction and 17 deaths of 47 on board (15 of 44 passengers and both pilots). [SEP] [CLS]
+

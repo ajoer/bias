@@ -1,0 +1,2 @@
+[CLS] The 1979 Bali earthquake occurred at 03:58 local time on 18 December with a surface wave magnitude of 6.3. [SEP] [CLS] The shock occurred southeast of the coast of Karangasem Regency in the Lombok Strait, and about 60 kilometres (37 mi) east-northeast of Denpasar. [SEP] [CLS] Up to 80 percent of the buildings in Karangasem Regency were damaged, between 15,000 and 500,000 people were displaced, and road links to the provincial capital of Denpasar were briefly severed. [SEP] [CLS]
+

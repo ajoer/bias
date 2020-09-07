@@ -1,0 +1,2 @@
+[CLS] Carol Shaw (born 1955) is one of the first female game designers and programmers in the video game industry. [SEP] [CLS] She is best known for creating the Atari 2600 vertically scrolling shooter River Raid (1982) for Activision. [SEP] [CLS] She worked for Atari, Inc. [SEP] [CLS] from 1978–1980 where she designed multiple games including 3-D Tic-Tac-Toe (1978) and Video Checkers (1980), both for the Atari 2600. [SEP] [CLS] She left game development in 1984 and retired in 1990. [SEP] [CLS]
+

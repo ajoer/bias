@@ -1,0 +1,2 @@
+[CLS] The 1951 Misrair SNCASE Languedoc crash occurred on 22 December 1951 when a SNCASE Languedoc of Misrair crashed whilst attempting to land at Tehran Airport, Iran during a snowstorm. [SEP] [CLS] All 22 people on board were killed. [SEP] [CLS] The aircraft was operating an international scheduled passenger flight from Baghdad Airport, Iraq to Tehran. [SEP] [CLS]
+

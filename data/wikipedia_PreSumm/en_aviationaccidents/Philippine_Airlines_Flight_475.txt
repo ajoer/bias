@@ -1,0 +1,2 @@
+[CLS] Philippine Airlines Flight 475 was a scheduled passenger flight from Manila's Ninoy Aquino International Airport to Butuan Bancasi Airport which overran the runway at Butuan Airport. [SEP] [CLS]
+

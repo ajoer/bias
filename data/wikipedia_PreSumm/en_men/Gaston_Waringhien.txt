@@ -1,0 +1,2 @@
+[CLS] Gaston Waringhien (July 20, 1901 – December 20, 1991) was a French linguist, lexicographer, and Esperantist. [SEP] [CLS] He wrote poems as well as essays and books on linguistics. [SEP] [CLS] He was chairman of the Akademio de Esperanto. [SEP] [CLS]
+

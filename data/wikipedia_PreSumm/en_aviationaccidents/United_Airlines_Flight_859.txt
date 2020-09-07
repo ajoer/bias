@@ -1,0 +1,2 @@
+[CLS] United Airlines Flight 859 was a Douglas DC-8, registration N8040U, on a scheduled passenger flight that crashed on landing at Stapleton International Airport in Denver, Colorado after departing from Omaha, Nebraska's Eppley Airfield on July 11, 1961. [SEP] [CLS] Eighteen people were killed, and 84 were injured. [SEP] [CLS] The crash was caused by the failure of the two port engines to generate reverse thrust, which sent the aircraft off the runway. [SEP] [CLS] One of the plane's fuel tanks subsequently ruptured and ignited. [SEP] [CLS]
+

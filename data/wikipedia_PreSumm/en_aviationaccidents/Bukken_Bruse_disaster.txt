@@ -1,0 +1,2 @@
+[CLS] The Bukken Bruse disaster was the crash of a flying boat during its landing on 2 October 1948. [SEP] [CLS] The Short Sandringham was on a Norwegian domestic flight from Oslo and was landing in the bay adjacent to Hommelvik near the city of Trondheim. [SEP] [CLS] The disaster killed 19 people; among the survivors was the philosopher Bertrand Russell. [SEP] [CLS]
+

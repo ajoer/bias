@@ -1,0 +1,2 @@
+[CLS] Shelley Rudman (born 23 March 1981) is a skeleton bobsleigh athlete. [SEP] [CLS] She was the 2013 world champion in the event, an Olympic silver medal at the 2006 Winter Olympic Games in skeleton and a former World Cup and European champion. [SEP] [CLS]
+

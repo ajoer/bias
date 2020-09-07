@@ -1,0 +1,2 @@
+[CLS] TAP Flight 425 was a regular flight from Brussels, Belgium, to Santa Catarina Airport (informally known as Funchal Airport or Madeira Airport; now the Cristiano Ronaldo International Airport), Portugal, with an intermediate scheduled stop in Lisbon. [SEP] [CLS] On November 19, 1977, the Boeing 727 operating the service overran the airport's runway before crashing onto the nearby beach and exploding, killing 131 of the 164 people on board. [SEP] [CLS] It remains TAP's only fatal accident in its history. [SEP] [CLS]
+

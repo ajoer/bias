@@ -1,0 +1,2 @@
+[CLS] Helikopter Service Flight 165 was a crash of a Sikorsky S-61 helicopter into the North Sea, 78 nautical miles (144 km; 90 mi) northwest of Bergen, Norway, on 26 June 1978. [SEP] [CLS] The aircraft was en route from Bergen Airport, Flesland to Statfjord A, an offshore oil platform. [SEP] [CLS] The accident was caused by a fatigue crack in a knuckle joint, causing one of the rotor blades to loosen. [SEP] [CLS] All eighteen people on board were killed in the crash. [SEP] [CLS]
+

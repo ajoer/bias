@@ -1,0 +1,2 @@
+[CLS] The 1978 Whippoorwill tornado also known as the Whippoorwill Disaster was a tornado that struck on June 17, 1978. [SEP] [CLS] The tornado, which was on the ground for 8 miles (13 km), struck a tourist boat called the Whippoorwill, causing it to capsize and drowning 16 out of the 58 passengers and crew. [SEP] [CLS] In the United States, the 1978 Whippoorwill tornado is the deadliest F1 rated tornado on the Fujita Scale. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Air Canada Flight 646 was a flight from Toronto's Lester B. [SEP] [CLS] Pearson International Airport to Fredericton, New Brunswick, operated by Air Canada. [SEP] [CLS] On December 16, 1997, at 23:48 local time, the Canadair CRJ-100ER (CL-65) jet crashed after a failed go-around attempt in Fredericton. [SEP] [CLS] All passengers and crew survived, despite a 1-hour, 30-minute emergency response time and inadequate emergency training of the flight crew. [SEP] [CLS]
+

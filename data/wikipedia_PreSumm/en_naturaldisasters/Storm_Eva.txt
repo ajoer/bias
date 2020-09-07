@@ -1,0 +1,2 @@
+[CLS] Storm Eva (also called Chuck, Staffan and other names) was the fifth named storm of the Met Office and Met Éireann's Name our Storms project. [SEP] [CLS] Heavy rainfall from Eva occurred around three weeks after Storm Desmond had brought severe flooding to parts of Northern England, exacerbating the ongoing situation. [SEP] [CLS] The low pressure was named Chuck by the Free University of Berlin and Staffan by the Swedish Meteorological Institute. [SEP] [CLS]
+

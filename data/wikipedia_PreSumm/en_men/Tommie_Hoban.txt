@@ -1,0 +1,2 @@
+[CLS] Thomas Michael Hoban (born 24 January 1994) is a professional footballer who plays as a defender for Aberdeen. [SEP] [CLS] Born in England, Hoban has represented the Republic of Ireland at youth international level. [SEP] [CLS] Hoban can play anywhere in defence but prefers to play centrally. [SEP] [CLS]
+

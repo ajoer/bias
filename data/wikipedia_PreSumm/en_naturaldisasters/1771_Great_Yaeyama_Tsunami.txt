@@ -1,0 +1,2 @@
+[CLS] The 1771 Great Yaeyama Tsunami (also called 明和の大津波, the Great Tsunami of Meiwa) was caused by the Yaeyama Great Earthquake at about 8 A.M. [SEP] [CLS] on April 24, 1771, south-southeast of Ishigaki Island, part of the former Ryūkyū Kingdom and now forming part of present-day Okinawa, Japan. [SEP] [CLS] According to records, 8,439 persons were killed on Ishigaki Island and 2,548 on Miyako Island. [SEP] [CLS]
+

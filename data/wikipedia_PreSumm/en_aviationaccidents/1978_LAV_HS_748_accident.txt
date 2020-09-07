@@ -1,0 +1,2 @@
+[CLS] The 1978 LAV HS 748 accident occurred on 3 March 1978 when Hawker Siddeley HS 748 YV-45C, of LAV (Línea Aeropostal Venezolana), crashed into the sea close to Caracas-Maiquetía Airport (CCS/SVMI), Venezuela. [SEP] [CLS] All 46 on board were killed. [SEP] [CLS]
+

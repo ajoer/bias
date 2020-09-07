@@ -1,0 +1,2 @@
+[CLS] Intercontinental de Aviación Flight 256 (RS256/ICT256) was a scheduled flight from El Dorado International Airport, Bogotá on a service to Rafael Núñez International Airport, Cartagena and San Andrés. [SEP] [CLS] On 11 January 1995, the McDonnell Douglas DC-9-14 operating the flight crashed during its approach to Cartagena Airport, killing all but one of the 51 people on board. [SEP] [CLS] The sole survivor was a nine-year old girl. [SEP] [CLS]
+

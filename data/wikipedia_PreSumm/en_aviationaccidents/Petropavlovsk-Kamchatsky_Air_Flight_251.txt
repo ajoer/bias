@@ -1,0 +1,2 @@
+[CLS] Petropavlovsk-Kamchatski Airline is an airline based in Yelizovo, Russia. [SEP] [CLS] It provides regional and domestic feeder passenger services. [SEP] [CLS] Its main base is Petropavlovsk-Kamchatsky Airport. [SEP] [CLS]
+

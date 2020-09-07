@@ -1,0 +1,2 @@
+[CLS] Ralf Schmitt (born January 21, 1977 in Speyer) is a German former footballer. [SEP] [CLS] He made his debut on the professional league level in the Bundesliga for Eintracht Frankfurt on April 14, 2001 when he came on as a substitute in the 87th minute in a game against 1. [SEP] [CLS] FC Kaiserslautern. [SEP] [CLS]
+

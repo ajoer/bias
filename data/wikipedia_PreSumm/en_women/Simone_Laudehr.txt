@@ -1,0 +1,2 @@
+[CLS] Simone Laudehr (born 12 July 1986) is a German footballer. [SEP] [CLS] She plays as a central midfielder or winger for Bayern Munich and the German national team. [SEP] [CLS]
+

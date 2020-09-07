@@ -1,0 +1,2 @@
+[CLS] A tornado outbreak struck southern and central Poland between 15 and 16 August 2008. [SEP] [CLS] Overall, it killed four people. [SEP] [CLS] Tornadoes affected Opole Voivodeship, Silesian Voivodeship and Łódź Voivodeship. [SEP] [CLS] The European Storm Forecast Experiment issued a Level 3 which means there could potentially be a major severe thunderstorm outbreak. [SEP] [CLS]
+

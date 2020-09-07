@@ -1,0 +1,2 @@
+[CLS] Kālidāsa was a Classical Sanskrit author. [SEP] [CLS] His plays and poetry are primarily based on the Vedas, the Ramayana, the Mahabharata and the Puranas. [SEP] [CLS] His surviving works consist of three plays, two epic poems and two shorter poems. [SEP] [CLS] Much about his life is unknown, only what can be inferred from his poetry and plays. [SEP] [CLS] His works cannot be dated with precision, but they were most likely authored before 5th century CE. [SEP] [CLS]
+

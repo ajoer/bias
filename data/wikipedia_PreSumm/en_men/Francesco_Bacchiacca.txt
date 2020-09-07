@@ -1,0 +1,2 @@
+[CLS] Francesco d'Ubertino Verdi, called Bachiacca (say “bah ki ah ka”). [SEP] [CLS] He is also known as Francesco Ubertini, il Bacchiacca (1494–1557). [SEP] [CLS] He was an Italian painter of the Renaissance whose work is characteristic of the Florentine Mannerist style. [SEP] [CLS]
+

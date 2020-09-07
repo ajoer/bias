@@ -1,0 +1,2 @@
+[CLS] On 29 November 2013, a police helicopter operated by Bond Air Services for Police Scotland crashed into the Clutha, a pub in central Glasgow, killing all three crew on board and seven patrons of the pub. [SEP] [CLS] Thirty-one more people in the pub were injured.The subsequent investigation concluded that the cause of the crash was fuel starvation due to incorrect operation of the fuel system. [SEP] [CLS]
+

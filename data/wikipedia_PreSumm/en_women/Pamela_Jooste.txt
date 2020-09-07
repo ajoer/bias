@@ -1,0 +1,2 @@
+[CLS] Pamela Jooste (born Cape Town) is a South African novelist. [SEP] [CLS] Her first novel, Dance with a Poor Man's Daughter, won the 1998 Commonwealth Writers' Prize, best first book, Africa, and the Sanlam Prize for Fiction.She worked for Howard Timmins publishers, and BP Southern Africa. [SEP] [CLS] She is married and lives in Cape Town. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Savo-Karelia constituency (Finnish: Savo-Karjalan vaalipiiri, Swedish: Savolax-Karelens valkrets) is a Finnish constituency represented in eduskunta. [SEP] [CLS] It covers the regions of North Karelia and Northern Savonia. [SEP] [CLS] The Savo-Karelia district currently elects 16 members of the Eduskunta. [SEP] [CLS] The district was formed in 2013 by merging the electoral districts of Northern Savonia and North Karelia into one. [SEP] [CLS]
+

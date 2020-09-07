@@ -1,0 +1,2 @@
+[CLS] On 5 May 1998 a Boeing 737-282, leased from the Fuerza Aérea del Perú (Peruvian Air Force) and servicing a charter flight for Occidental Petroleum, crashed in rainy weather while on approach to Andoas Peru, killing 75 people on board; eleven passengers and two crew members survived.Occidental Petroleum chartered the aircraft to transport workers to the Andoas oil field. [SEP] [CLS] The aircraft was registered as FAP-351 (c/n 23041 / m/n 962) and had only entered service with the Peruvian Air Force a few weeks before the crash. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Severe Tropical Cyclone Hola was a strong tropical cyclone which affected Vanuatu, New Caledonia and New Zealand. [SEP] [CLS] Forming as a broad tropical disturbance on 5 March, the system slowly consolidated over the next few days before developing into a tropical cyclone on 6 March. [SEP] [CLS] Afterwards, a pinhole eye began to emerge and rapid intensification ensued. [SEP] [CLS]
+

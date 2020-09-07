@@ -1,0 +1,2 @@
+[CLS] Japan Airlines Flight 472 was a flight from London to Tokyo via Frankfurt, Rome, Beirut, Tehran, Bombay, Bangkok and Hong Kong. [SEP] [CLS] On September 24, 1972, the flight landed at Juhu Aerodrome near Bombay, India instead of the city's much larger Santacruz Airport (now Chhatrapati Shivaji International Airport) and overran the runway, resulting in the aircraft being written off after being damaged beyond economic repair. [SEP] [CLS]
+

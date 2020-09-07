@@ -1,0 +1,2 @@
+[CLS] Wilma K. [SEP] [CLS] Olson (born c. [SEP] [CLS] 1945) is the Mary I. [SEP] [CLS] Bunting professor at the Rutgers Center for Quantitative Biology (CQB) (formerly known as BioMaPS institute for Quantitative Biology) at Rutgers University. [SEP] [CLS] Olson has her own research group on the New Brunswick campus. [SEP] [CLS] Although she is a polymer chemist by training, her research aims to understand the influence of chemical architecture on the conformation, properties, and interactions of nucleic acids. [SEP] [CLS]
+

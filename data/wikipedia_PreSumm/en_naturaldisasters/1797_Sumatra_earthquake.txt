@@ -1,0 +1,2 @@
+[CLS] The 1797 Sumatra earthquake occurred at 22:00 local time on February 10. [SEP] [CLS] It was the first in a series of great earthquakes that ruptured part of the Sumatran segment of the Sunda megathrust. [SEP] [CLS] It caused a damaging tsunami that was particularly severe near Padang, where a 150–200 ton English ship was driven 1 km inland up the Arau River. [SEP] [CLS]
+

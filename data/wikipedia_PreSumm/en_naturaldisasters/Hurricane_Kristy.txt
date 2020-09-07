@@ -1,0 +1,2 @@
+[CLS] The name Kristy has been used for one tropical cyclone in the Atlantic Ocean, and eight tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] It was used in the Atlantic once before the modern naming system was instituted in 1979. [SEP] [CLS] Atlantic: Tropical Storm Kristy (1971)Eastern Pacific: Hurricane Kristy (1978) Hurricane Kristy (1982) Hurricane Kristy (1988) Hurricane Kristy (1994) Tropical Storm Kristy (2000) Hurricane Kristy (2006) Tropical Storm Kristy (2012) Tropical Storm Kristy (2018)
+

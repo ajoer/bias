@@ -1,0 +1,2 @@
+[CLS] KLM Cityhopper Flight 433 was a Saab 340B, registered as PH-KSH, which crashed during an emergency landing on 4 April 1994. [SEP] [CLS] Flight 433 was a routine scheduled flight from Amsterdam, the Netherlands, to Cardiff, Wales. [SEP] [CLS]
+

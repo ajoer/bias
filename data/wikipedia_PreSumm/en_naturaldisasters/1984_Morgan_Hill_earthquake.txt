@@ -1,0 +1,2 @@
+[CLS] The 1984 Morgan Hill earthquake (also Halls Valley earthquake) occurred on April 24 at 1:15 p.m. [SEP] [CLS] local time in the Santa Clara Valley of Northern California. [SEP] [CLS] The shock had a moment magnitude of 6.2 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] The epicenter was located near Mount Hamilton in the Diablo Range of the California Coast Ranges. [SEP] [CLS] Nearby communities (including Morgan Hill) sustained serious damage with financial losses of at least US$7.5 million. [SEP] [CLS]
+

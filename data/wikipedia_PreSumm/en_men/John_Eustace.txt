@@ -1,0 +1,2 @@
+[CLS] John Mark Eustace (born 3 November 1979) is an English former footballer and a current coach who is currently assistant manager at Queens Park Rangers. [SEP] [CLS] During his playing career, he played as a central midfielder for Coventry City, Stoke City, Watford and Derby County. [SEP] [CLS] He also spent time on loan at Dundee United, Middlesbrough and Hereford United. [SEP] [CLS] He served as manager of Kidderminster Harriers between 2016 and 2018, eventually leaving to become assistant manager of Queens Park Rangers in 2018. [SEP] [CLS]
+

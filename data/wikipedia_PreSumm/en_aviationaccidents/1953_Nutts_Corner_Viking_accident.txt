@@ -1,0 +1,2 @@
+[CLS] On 5 January 1953, a Vickers Viking airliner operated by British European Airways crashed on approach to Belfast Nutts Corner Airport, Northern Ireland. [SEP] [CLS] The aircraft was on a domestic flight from London Northolt Airport with 31 passengers and 4 crew on board. [SEP] [CLS] Twenty-four of the passengers and three crew members died in the accident. [SEP] [CLS]
+

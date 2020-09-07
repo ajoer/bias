@@ -1,0 +1,2 @@
+[CLS] The 1930 Senigallia earthquake struck the city of Senigallia in central Italy on October 30. [SEP] [CLS] It occurred just a few months after the destructive 1930 Irpinia earthquake, which had caused over 1400 casualties in the southern part of the country. [SEP] [CLS]
+

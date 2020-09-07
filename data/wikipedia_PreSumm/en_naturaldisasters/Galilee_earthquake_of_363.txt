@@ -1,0 +1,2 @@
+[CLS] The Galilee earthquake of 363 was a pair of severe earthquakes that shook the Galilee and nearby regions on May 18 and 19. [SEP] [CLS] The maximum perceived intensity for the events was estimated to be VII (Very strong) on the Medvedev–Sponheuer–Karnik scale. [SEP] [CLS] The earthquakes occurred on the portion of the Dead Sea Transform (DST) fault system between the Dead Sea and the Gulf of Aqaba. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Tandy Warnow is an American computer scientist and Founder Professor of Engineering and Computer Science at the University of Illinois at Urbana–Champaign. [SEP] [CLS] She is known for her work on the reconstruction of evolutionary trees, both in biology and in historical linguistics, and also for multiple sequence alignment methods. [SEP] [CLS]
+

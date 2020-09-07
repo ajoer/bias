@@ -1,0 +1,2 @@
+[CLS] The Dogger Bank earthquake of 1931 was the strongest earthquake recorded in the United Kingdom since measurements began. [SEP] [CLS] It had a magnitude of 6.1 on the Richter magnitude scale, and it caused a shaking intensity of VI (strong) to VII (very strong) on the Mercalli intensity scale. [SEP] [CLS] The location of the earthquake in the North Sea meant that damage was significantly less than it would have been had the epicentre been on the British mainland. [SEP] [CLS]
+

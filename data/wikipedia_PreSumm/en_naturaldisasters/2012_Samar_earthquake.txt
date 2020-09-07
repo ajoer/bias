@@ -1,0 +1,2 @@
+[CLS] An earthquake off the coast of Samar occurred on August 31, 2012, at 20:47 local time (12:47 UTC) in the Philippines. [SEP] [CLS] The populated islands of Visayas were struck by an earthquake of magnitude Mw 7.6. [SEP] [CLS] The earthquake has a depth of 45 km (27.9 miles). [SEP] [CLS] A tsunami warning was announced within the Pacific area and was later lifted after two hours. [SEP] [CLS] The Philippine archipelago is located in the Pacific Ring of Fire, where earthquakes and volcanic activity are common. [SEP] [CLS]
+

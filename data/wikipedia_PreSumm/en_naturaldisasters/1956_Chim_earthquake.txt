@@ -1,0 +1,2 @@
+[CLS] The 1956 Chim earthquake was a destructive multiple-shock event that occurred on March 16 in Lebanon along a strand of the Dead Sea Transform (DST) fault system. [SEP] [CLS] The epicenter was located in the south of Lebanon in the Chouf District. [SEP] [CLS] Six thousand homes were destroyed and another 17,000 were damaged. [SEP] [CLS] The number of persons killed was 136. [SEP] [CLS]
+

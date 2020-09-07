@@ -1,0 +1,2 @@
+[CLS] The 2013 Balochistan earthquakes took place in late September in southwestern Pakistan. [SEP] [CLS] The mainshock had a moment magnitude of 7.7 and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] At least 825 people were killed and hundreds more were injured. [SEP] [CLS] On 28 September, a M6.8 aftershock occurred to the north at a depth of 14.8 kilometres (9.2 miles), killing at least 22 people. [SEP] [CLS]
+

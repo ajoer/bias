@@ -1,0 +1,2 @@
+[CLS] JoAnne Stubbe is an American chemist best known for her work on ribonucleotide reductases, for which she was awarded the National Medal of Science in 2009. [SEP] [CLS] In 2017, she retired as a Professor of Chemistry and Biology at the Massachusetts Institute of Technology. [SEP] [CLS]
+

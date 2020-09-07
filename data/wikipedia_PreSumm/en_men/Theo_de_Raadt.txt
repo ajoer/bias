@@ -1,0 +1,2 @@
+[CLS] Theo de Raadt (; Dutch: [ˈteː.joː dəˈraːt]; born May 19, 1968) is a South African-born software engineer who lives in Calgary, Alberta, Canada. [SEP] [CLS] He is the founder and leader of the OpenBSD and OpenSSH projects and was also a founding member of NetBSD. [SEP] [CLS] In 2004, De Raadt won the Free Software Award for his work on OpenBSD and OpenSSH. [SEP] [CLS]
+

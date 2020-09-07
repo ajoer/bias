@@ -1,0 +1,2 @@
+[CLS] Victoria Duval (born 30 November 1995) is an American professional tennis player. [SEP] [CLS] In 2012, she won the USTA Girls' 18s National Championship. [SEP] [CLS] Duval has won one singles and two doubles titles on the ITF Women's Circuit. [SEP] [CLS] In August 2014, she reached her best singles ranking of No. [SEP] [CLS] 87. [SEP] [CLS]
+

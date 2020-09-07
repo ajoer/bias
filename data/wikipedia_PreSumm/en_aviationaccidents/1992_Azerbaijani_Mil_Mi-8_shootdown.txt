@@ -1,0 +1,2 @@
+[CLS] On January 28, 1992, Azerbaijani transport helicopter Mil Mi-8 was shot down by a heat-seeking missile near the town of Shusha. [SEP] [CLS] The 1993 report by U.S. [SEP] [CLS] Federal Aviation Administration on aviation security called it the "most significant incident" involving civil aviation in Central Eurasia. [SEP] [CLS]
+

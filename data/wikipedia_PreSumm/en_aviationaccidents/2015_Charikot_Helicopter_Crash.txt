@@ -1,0 +1,2 @@
+[CLS] On 12 May 2015, a US Marine Corps Bell UH-1Y Venom of Camp Pendleton-based HMLA-469 squadron crashed in the Charikot region of Nepal during Operation Sahayogi Haat, a humanitarian relief effort following the earthquake that had struck the region earlier. [SEP] [CLS] All 13 occupants were killed. [SEP] [CLS]
+

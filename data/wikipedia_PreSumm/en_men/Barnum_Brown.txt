@@ -1,0 +1,2 @@
+[CLS] Barnum Brown (February 12, 1873 – February 5, 1963), commonly referred to as Mr. [SEP] [CLS] Bones, was an American paleontologist. [SEP] [CLS] Named after the circus showman P. [SEP] [CLS] T. [SEP] [CLS] Barnum, he discovered the first documented remains of Tyrannosaurus during a career that made him one of the most famous fossil hunters working from the late Victorian era into the early 20th century. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On 4 May 2000 at 12:21 WITA (04:21 UTC), Banggai Islands Regency was hit by an earthquake of magnitude 7.5 Mw, followed by a tsunami. [SEP] [CLS] The Banggai Islands, an archipelago located at the far eastern end of Central Sulawesi, Indonesia, was the worst affected by the earthquake. [SEP] [CLS] Eighty percent of Banggai's building was destroyed. [SEP] [CLS] Damage also occurred on Peleng. [SEP] [CLS] The earthquake triggered a local tsunami of up to 6 m in height that caused significant damage east of Luwuk on the mainland and on Peleng. [SEP] [CLS]
+

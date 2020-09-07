@@ -1,0 +1,2 @@
+[CLS] On 21 November 2015, a Eurocopter AS350 Astar helicopter, operated by Alpine Adventures on a sightseeing flight, crashed on Fox Glacier in the South Island of New Zealand. [SEP] [CLS] All seven people on board died. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Ursula Strauss (born 25 April 1974, in Melk) is an Austrian actress. [SEP] [CLS] She is best known for her role as inspector Angelika Schnell in the television series Schnell ermittelt. [SEP] [CLS]
+

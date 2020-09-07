@@ -1,0 +1,2 @@
+[CLS] Emma Johanna Laine (born 26 March 1986) is a Finnish former tennis player. [SEP] [CLS] Laine has won 11 singles and 44 doubles titles on the ITF Women's Circuit. [SEP] [CLS] On 7 August 2006, she reached her best singles ranking of world No. [SEP] [CLS] 50. [SEP] [CLS] On 30 October 2006, she peaked at No. [SEP] [CLS] 64 in the doubles rankings. [SEP] [CLS] Playing for Finland at the Fed Cup, Laine has a win–loss record of 56–21. [SEP] [CLS]
+

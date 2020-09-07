@@ -1,0 +1,2 @@
+[CLS] The 2009 Shizuoka earthquake occurred with a magnitude of 6.4 that hit Shizuoka Prefecture in the south of Honshū, Japan, on August 11 at 05:07 local time (August 10, 20:07 UTC). [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] On 14 January 2019, a Boeing 707 operated by Saha Airlines on a cargo flight crashed at Fath Air Base, near Karaj, Alborz Province in Iran. [SEP] [CLS] Fifteen of the sixteen people on board were killed. [SEP] [CLS] This aircraft was also the last civil Boeing 707 in operation. [SEP] [CLS]
+

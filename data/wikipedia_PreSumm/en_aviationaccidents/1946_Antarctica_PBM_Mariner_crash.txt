@@ -1,0 +1,2 @@
+[CLS] The 1946 Antarctica PBM Mariner crash occurred on 30 December 1946, on Thurston Island, Antarctica when a United States Navy Martin PBM-5 Mariner crashed during a blizzard. [SEP] [CLS]
+

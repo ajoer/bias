@@ -1,0 +1,2 @@
+[CLS] United Airlines Flight 227 (N7030U), a scheduled passenger flight from LaGuardia Airport New York City to San Francisco International Airport, California, crashed short of the runway while attempting a scheduled landing at Salt Lake City International Airport, Utah on November 11, 1965. [SEP] [CLS]
+

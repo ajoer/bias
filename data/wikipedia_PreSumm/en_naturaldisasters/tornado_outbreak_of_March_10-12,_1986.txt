@@ -1,0 +1,2 @@
+[CLS] The tornado outbreak of March 10–12, 1986 was a significant and widespread tornado outbreak which produced a high-end F2 tornado which struck Lexington, Kentucky and killing a total of 6 people. [SEP] [CLS] Other tornadoes struck in Alabama, Indiana, and Ohio. [SEP] [CLS] One tornado rated F4 in Meridian, Mississippi resulted in no fatalities. [SEP] [CLS]
+

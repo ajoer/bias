@@ -1,0 +1,2 @@
+[CLS] The Finnish Air Force DC-3 disaster occurred when a plane of this class crashed into Lake Juurusvesi in Rissala on 3 October 1978, killing all fifteen people on board. [SEP] [CLS] It was caused by a cracked exhaust valve, resulting from metal fatigue in an engine cylinder. [SEP] [CLS] Most of the victims were politicians and prominent businessmen attending a National Defence Course meeting organized by the Finnish Defence Forces. [SEP] [CLS]
+

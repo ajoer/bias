@@ -1,0 +1,2 @@
+[CLS] SAM Colombia Flight 501 was a SAM Colombia Boeing 727-46 that crashed on May 19, 1993, killing all 132 on board. [SEP] [CLS] The aircraft collided with a mountain while on approach to Medellín, Colombia. [SEP] [CLS]
+

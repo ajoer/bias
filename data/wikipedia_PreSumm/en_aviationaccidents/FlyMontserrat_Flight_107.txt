@@ -1,0 +1,2 @@
+[CLS] FlyMontserrat Flight 107 was a short-haul flight from V. [SEP] [CLS] C. [SEP] [CLS] Bird International Airport, Antigua to John A. [SEP] [CLS] Osborne Airport, Montserrat. [SEP] [CLS] On 7 October 2012, the Britten-Norman Islander twin-engine aircraft serving the route crashed shortly after take off, near the end of the runway. [SEP] [CLS] Three of the four occupants were killed. [SEP] [CLS]
+

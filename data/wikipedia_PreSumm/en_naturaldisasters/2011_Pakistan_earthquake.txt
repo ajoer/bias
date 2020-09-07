@@ -1,0 +1,2 @@
+[CLS] The 2011 Dalbandin earthquake occurred on 19 January at 01:23 AM local time with a moment magnitude of Mw 7.2 and a maximum Mercalli intensity of VI (Strong). [SEP] [CLS] The shock occurred in a sparsely populated area of Balochistan, caused moderate damage, three deaths and some injuries. [SEP] [CLS]
+

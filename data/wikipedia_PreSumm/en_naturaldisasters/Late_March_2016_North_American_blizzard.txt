@@ -1,0 +1,2 @@
+[CLS] At the start of spring 2016, a major winter storm moved through the High Plains and Midwest, bringing blizzard conditions with snowfall of up to 12–18 inches (30–46 cm) and strong winds as well. [SEP] [CLS] Snowstorms like this are typical in these areas at this time of year. [SEP] [CLS] The system also brought with it a severe weather threat as well. [SEP] [CLS] As it moved to the east, a crippling ice storm scenario was developing as well. [SEP] [CLS]
+

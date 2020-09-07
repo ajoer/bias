@@ -1,0 +1,2 @@
+[CLS] The 1957 Andreanof Islands earthquake took place on March 9 with a moment magnitude of 8.6 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] It occurred south of the Andreanof Islands group, which is part of the Aleutian Islands arc. [SEP] [CLS] The event occurred along the Aleutian Trench, the convergent plate boundary that separates the Pacific Plate and the North American Plates near Alaska. [SEP] [CLS] A basin wide tsunami followed, with effects felt in Alaska and Hawaii. [SEP] [CLS] Total losses were around $5 million. [SEP] [CLS]
+

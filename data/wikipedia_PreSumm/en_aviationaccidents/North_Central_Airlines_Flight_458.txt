@@ -1,0 +1,2 @@
+[CLS] On December 27, 1968, North Central Airlines Flight 458 crashed into a hangar while attempting a night landing in poor weather at O'Hare International Airport in Chicago, Illinois, in the United States. [SEP] [CLS] Of the 41 passengers and four crew members, only 17 passengers and one crew member survived. [SEP] [CLS] One person was killed and six were injured on the ground. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] JSC United Shipbuilding Corporation (Russian: Объединённая судостроительная корпорация) is an open joint stock company in Russia which unites shipbuilding, repair and maintenance subsidiaries in western and northern Russia, and in the country's Far East, to streamline civilian shipbuilding using military facilities. [SEP] [CLS] United Shipbuilding Corporation is the 100% owner of Arctech Helsinki Shipyard, having bought the remaining 50% of the shares from its joint venture partner STX Finland Cruise Oy. [SEP] [CLS]
+

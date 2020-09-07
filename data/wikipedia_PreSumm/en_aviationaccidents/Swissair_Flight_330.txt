@@ -1,0 +1,2 @@
+[CLS] Swissair Flight SR330 was a regularly scheduled flight from Zurich International Airport in Kloten, Switzerland to Hong Kong with a planned stopover in Tel Aviv, Israel. [SEP] [CLS] A bomb was put on the plane and detonated by the Palestinian terror group PFLP-GC. [SEP] [CLS] This caused the plane to crash, killing all 47 passengers and crew. [SEP] [CLS]
+

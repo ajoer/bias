@@ -1,0 +1,2 @@
+[CLS] A landslide occurred at about 5:38 am local time on 24 June 2017 in Diexi Town, Mao County, Sichuan Province in south-western China. [SEP] [CLS] It destroyed 40 homes in Xinmo Village and killed 10 people, with a further 73 people missing, as of 27 June. [SEP] [CLS] A second smaller landslide at around 8:15 pm impeded rescue efforts. [SEP] [CLS]
+

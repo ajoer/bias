@@ -1,0 +1,2 @@
+[CLS] Sun Way Flight 4412 was an international scheduled cargo flight from Karachi, Pakistan, to Khartoum, Sudan. [SEP] [CLS] On 28 November 2010, the Ilyushin Il-76 operating the flight crashed while attempting to return to Karachi after one of the engines caught fire. [SEP] [CLS] Twelve people were killed in the crash: everyone on board the aircraft and four people on the ground. [SEP] [CLS]
+

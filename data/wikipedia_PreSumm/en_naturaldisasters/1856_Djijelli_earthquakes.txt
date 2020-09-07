@@ -1,0 +1,2 @@
+[CLS] The 1856 Djijelli earthquakes occurred on August 21 and 22 near the coastal area of northern Algeria. [SEP] [CLS] The magnitude of the two shocks are unknown, but each had a maximum Mercalli intensity of IX (Violent). [SEP] [CLS] Each of these high intensity shocks were felt as far as Genoa in northern Italy and were followed by a tsunami that affected the Mediterranean Sea. [SEP] [CLS] Three people were killed as a result of the second event. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1920 Gori earthquake hit the Democratic Republic of Georgia on 20 February at 15:45 local time. [SEP] [CLS] The shock had a surface wave magnitude of 6.2 and a maximum Mercalli Intensity of IX (Violent). [SEP] [CLS] Heavy damage (and between 114 and 130 deaths) affected the town of Gori and its medieval fortress. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Litoral region of Argentina underwent heavy rainstorms in the early autumn season of 2007. [SEP] [CLS] Starting in late March and ending in mid-April, the rains caused several major rivers to rise and/or overflow their banks, partly or completely flooded many towns and large cities, ruined a significant part of the crops in a wide region, and severely damaged the physical infrastructure. [SEP] [CLS] At least 15 people were killed as a result of the flooding. [SEP] [CLS]
+

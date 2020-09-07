@@ -1,0 +1,2 @@
+[CLS] CanJet Flight 918 (CJA 918, C6 918) was a flight that was on 19 April 2009 to have taken off from Sangster International Airport (MBJ), Montego Bay, Jamaica, bound for Halifax Stanfield International Airport (YHZ), Halifax, Canada, but was instead seized before takeoff for hours by an armed, lone hijacker. [SEP] [CLS] This was the first incidence of a hijacking on Jamaican soil, and the second time a Canadian airliner has been hijacked. [SEP] [CLS]
+

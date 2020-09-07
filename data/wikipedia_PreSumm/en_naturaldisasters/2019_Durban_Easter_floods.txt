@@ -1,0 +1,2 @@
+[CLS] During the 2019 Easter weekend, the coastal city of Durban, South Africa, experienced severe flooding, caused by torrential rain brought on by a steep upper air trough, which deepened into low pressure in the upper levels of the atmosphere, and impacted the city and its surrounding areas starting 18 April 2019. [SEP] [CLS] The floods has resulted in at least 70 deaths caused by collapsed buildings, mudslides and sinkholes. [SEP] [CLS] It is one of the deadliest disasters to hit the country in the 2010s decade. [SEP] [CLS]
+

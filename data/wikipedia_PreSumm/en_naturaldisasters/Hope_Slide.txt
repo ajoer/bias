@@ -1,0 +1,2 @@
+[CLS] The Hope Slide was the second largest recorded landslide in Canada (after the similarly sized 2010 Mount Meager landslide). [SEP] [CLS] It occurred in the morning hours of January 9, 1965 in the Nicolum Valley in the Cascade Mountains near Hope, British Columbia, and killed four people. [SEP] [CLS] The volume of rock involved in the landslide has been estimated at 47 million cubic metres. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] West Air Sweden Flight 294 was a cargo flight of a Canadair CRJ200 from Oslo to Tromsø, Norway that crashed on 8 January 2016. [SEP] [CLS] A malfunction in one of the inertial reference units had produced erroneous attitude indications on one of the instrument displays. [SEP] [CLS] The crew's subsequent response resulted in spatial disorientation, leading to the loss of control of the aircraft. [SEP] [CLS]
+

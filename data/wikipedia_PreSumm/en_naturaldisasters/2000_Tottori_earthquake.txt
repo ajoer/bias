@@ -1,0 +1,2 @@
+[CLS] The 2000 Tottori earthquake (鳥取地震 Tottorijishin) occurred at 13:30:20 local time with a moment magnitude of 6.7 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] The epicenter was near Yonago and Matsue. [SEP] [CLS] About $150 million in damage was caused (with 104 buildings destroyed) and 130 people were injured. [SEP] [CLS]
+

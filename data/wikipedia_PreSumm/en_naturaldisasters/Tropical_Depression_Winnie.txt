@@ -1,0 +1,2 @@
+[CLS] Tropical Depression Winnie was a weak, but catastrophic tropical cyclone that killed nearly 1,600 people after triggering widespread flooding in the Philippines. [SEP] [CLS] It was the second deadliest tropical cyclone of 2004 worldwide, only surpassed by Atlantic Hurricane Jeanne. [SEP] [CLS] A depression, which formed east of Samar, brought heavy rain to areas where it passed through, and affecting many areas, owing to Winnie’s large cloudiness. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Solitude racetrack is a former motorsport race track in Leonberg, west of Stuttgart. [SEP] [CLS] It is named after Castle Solitude and has hosted various motorcycle and automobile races. [SEP] [CLS]
+

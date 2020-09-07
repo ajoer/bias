@@ -1,0 +1,2 @@
+[CLS] The Maria Moors Cabot Prizes are the oldest international awards in the field of journalism. [SEP] [CLS] They are presented each fall by the Trustees of Columbia University to journalists in the Western hemisphere who are viewed as having made a significant contributions to upholding freedom of the press in the Americas and Inter-American understanding. [SEP] [CLS] Since 2003 the prize can be awarded to an organization instead of an individual. [SEP] [CLS]
+

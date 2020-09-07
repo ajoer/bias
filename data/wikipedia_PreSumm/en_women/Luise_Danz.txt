@@ -1,0 +1,2 @@
+[CLS] Luise Danz (11 December 1917 – 21 June 2009) was a Nazi concentration camp guard in World War II. [SEP] [CLS] She was born in Walldorf (Werra) in Thuringia. [SEP] [CLS] Danz was captured in 1945 and put on trial for crimes against humanity at the Auschwitz trial in Kraków, Poland. [SEP] [CLS] She was sentenced to life imprisonment in 1947, but released due to general amnesty on August 20, 1957. [SEP] [CLS]
+

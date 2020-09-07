@@ -1,0 +1,2 @@
+[CLS] China Airlines Flight 204 was a Boeing 737-200 that crashed into a mountain after take off from Hualien Airport, Taiwan, on 26 October 1989. [SEP] [CLS] The crash killed all 54 passengers and crew on board the aircraft. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1996 Lake Huron cyclone was a strong cyclonic storm system that developed over Lake Huron in September 1996. [SEP] [CLS] The system resembled a subtropical cyclone at its peak, having some characteristics of a tropical cyclone. [SEP] [CLS] It was the first time such a storm has ever been recorded over the Great Lakes region. [SEP] [CLS]
+

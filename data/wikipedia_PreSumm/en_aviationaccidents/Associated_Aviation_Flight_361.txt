@@ -1,0 +1,2 @@
+[CLS] Associated Aviation Flight 361 was a domestic charter flight operated by Associated Aviation that on 3 October 2013 crashed on takeoff from Lagos, Nigeria, killing 15 of the 20 people on board. [SEP] [CLS] The aircraft, a twin turboprop Embraer 120 Brasilia, was transporting the body of Nigerian politician Olusegun Agagu to Akure, Nigeria, for burial. [SEP] [CLS]
+

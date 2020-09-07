@@ -1,0 +1,2 @@
+[CLS] Varig Flight 810 was a scheduled international passenger flight from Rio de Janeiro to Los Angeles with stopovers in Lima, Bogotá, Panama City, and Mexico City. [SEP] [CLS] On 27 November 1962 the Boeing 707-441 operating the route crashed into a mountain on approach to Lima, killing all 97 passengers and crew. [SEP] [CLS] At the time it was the deadliest aviation accident in Peru. [SEP] [CLS]
+

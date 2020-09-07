@@ -1,0 +1,2 @@
+[CLS] The name Ewiniar has been used to name four tropical cyclones in the western north Pacific. [SEP] [CLS] The name was submitted by the Federated States of Micronesia and is the name of a Chuukese storm God. [SEP] [CLS] Typhoon Ewiniar (2000) (T0009, 15W) Typhoon Ewiniar (2006) (T0603, 04W, Ester) Severe Tropical Storm Ewiniar (2012) (T1218, 19W) Tropical Storm Ewiniar (2018) (T1804, 05W)
+

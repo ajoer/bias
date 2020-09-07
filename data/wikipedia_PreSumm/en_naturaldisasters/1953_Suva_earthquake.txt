@@ -1,0 +1,2 @@
+[CLS] The 1953 Suva earthquake occurred on 14 September at 00:26 UTC near Suva, Fiji, just off the southeast shore of Viti Levu. [SEP] [CLS] This earthquake had an estimated magnitude of Ms 6.8 and Mw 6.4. [SEP] [CLS] The earthquake triggered a coral reef platform collapse and a submarine landslide that caused a tsunami. [SEP] [CLS] Eight people were reported killed; a wharf, bridges, and buildings were severely damaged in Suva. [SEP] [CLS]
+

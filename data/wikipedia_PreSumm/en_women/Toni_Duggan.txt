@@ -1,0 +1,2 @@
+[CLS] Toni Duggan (born 25 July 1991) is an English footballer who plays as a winger or forward for Spanish Primera División club Atlético Madrid and the England national team. [SEP] [CLS] She has previously played in England for Everton and Manchester City, and in Spain for Barcelona. [SEP] [CLS]
+

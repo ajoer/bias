@@ -1,0 +1,2 @@
+[CLS] Korean Air Cargo Flight 8509 was a Boeing 747-2B5F, registered HL7451 and bound for Milano-Malpensa Airport, that crashed due to instrument malfunction and pilot error on 22 December 1999 shortly after take-off from London Stansted Airport where the final leg of its route from South Korea to Italy had begun. [SEP] [CLS] The aircraft crashed into Hatfield Forest near the village of Great Hallingbury, close to but clear of some houses. [SEP] [CLS] All four crew on board were killed. [SEP] [CLS]
+

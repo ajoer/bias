@@ -1,0 +1,2 @@
+[CLS] Timothy Kitum (born 20 November 1994) is a Kenyan middle distance runner. [SEP] [CLS] He also won Commonwealth Youth Games 800m with a Games Record 1.49.32 He won a silver medal in the 800 m at the 2012 World Junior Championships in Athletics in Barcelona, finishing second to Nijel Amos, before going on to win the bronze medal in the men's 800m race at the 2012 Summer Olympics. [SEP] [CLS]
+

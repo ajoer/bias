@@ -1,0 +1,2 @@
+[CLS] NLM CityHopper Flight 431 refers to a Fokker F-28-4000, registration PH-CHI, that was due to operate an international scheduled Rotterdam–Eindhoven–Hamburg passenger service. [SEP] [CLS] On 6 October 1981, the aircraft encountered severe weather on the first leg, minutes after taking off from Rotterdam Airport, and crashed 15 miles (24 km) south-southeast of Rotterdam. [SEP] [CLS] All 17 occupants of the aircraft – 13 passengers and crew of 4 – perished in the accident. [SEP] [CLS]
+

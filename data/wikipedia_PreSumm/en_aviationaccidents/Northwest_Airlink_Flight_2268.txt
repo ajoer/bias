@@ -1,0 +1,2 @@
+[CLS] Northwest Airlink Flight 2268 was a commuter flight between Cleveland-Hopkins International Airport in Cleveland, Ohio, and Detroit Metropolitan Wayne County Airport in Romulus, Michigan, just outside Detroit. [SEP] [CLS] The flight was operated by Fischer Brothers Aviation, doing business as Northwest Airlink, and was operated by a CASA C-212 aircraft. [SEP] [CLS] On March 4, 1987, the plane crashed while attempting to land. [SEP] [CLS] Nine of the 19 passengers and crew on board were killed in the accident. [SEP] [CLS]
+

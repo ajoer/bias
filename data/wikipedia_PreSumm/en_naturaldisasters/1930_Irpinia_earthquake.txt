@@ -1,0 +1,2 @@
+[CLS] The 1930 Irpinia earthquake occurred at 00:08 UTC on 23 July, chiefly in an area known as Irpinia. [SEP] [CLS] It had a surface wave magnitude of 6.6 and a maximum intensity of X (Very destructive). [SEP] [CLS] The event caused 1,404 deaths and 4,624–7,000 injuries. [SEP] [CLS] The epicenter was near the boundaries between the regions of Basilicata, Apulia, and Campania. [SEP] [CLS]
+

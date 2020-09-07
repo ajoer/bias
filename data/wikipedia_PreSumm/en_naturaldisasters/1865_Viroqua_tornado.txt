@@ -1,0 +1,2 @@
+[CLS] The 1865 Viroqua tornado moved through western Wisconsin on Thursday, June 29, 1865. [SEP] [CLS] With at least 22 fatalities, it was one of the first deadly tornadoes recorded in Wisconsin after it became a state 17 years prior. [SEP] [CLS]
+

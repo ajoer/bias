@@ -1,0 +1,2 @@
+[CLS] The 1763 Komárom earthquake occurred in or near the town of Komárom in Komárom County in the Kingdom of Hungary on 28 June between 5 and 6 in the morning. [SEP] [CLS] The earthquake has been estimated at 6.2 to 6.5 on the moment magnitude scale. [SEP] [CLS]
+

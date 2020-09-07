@@ -1,0 +1,2 @@
+[CLS] "Cool Water" is a song written in 1936 by Bob Nolan. [SEP] [CLS] It is about a man and his mule, Dan, and a mirage in the desert. [SEP] [CLS] Members of the Western Writers of America chose it as No. [SEP] [CLS] 3 on the Top 100 Western songs of all time. [SEP] [CLS]
+

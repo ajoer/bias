@@ -1,0 +1,2 @@
+[CLS] The 1958 Aviaco SNCASE Languedoc crash occurred on 4 December 1958 when a SNCASE Languedoc of Aviaco crashed into the La Rodilla de la Mujer Muerta mountain, in the Guadarrama Mountains, Spain, killing all 21 people on board. [SEP] [CLS] The aircraft was operating a domestic scheduled passenger flight from Vigo Airport to Barajas Airport, Madrid. [SEP] [CLS]
+

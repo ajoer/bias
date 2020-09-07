@@ -1,0 +1,2 @@
+[CLS] At 23:50 (UTC+8) on 6 February 2018, an earthquake of magnitude 6.4 on the moment magnitude scale hit Taiwan. [SEP] [CLS] The epicenter was on the coastline near Hualien, which was the most severely affected area, with a maximum felt intensity of VIII (severe) on the Mercalli intensity scale. [SEP] [CLS] At least 17 deaths were reported, with 285 injured. [SEP] [CLS] The maximum foreshock was recorded on 4 February 2018, at 21:56:40. [SEP] [CLS] The epicenter was located at Hualien County, Taiwan, reaching a scale of ML 5.8. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Nicki Pedersen (born 2 April 1977 in Odense, Denmark) is a Danish motorcycle speedway rider. [SEP] [CLS] He has won the World Championship in 2003, 2007 and 2008 and was a World Cup winner with Denmark in 2006, 2008, 2012 and 2014. [SEP] [CLS] His brother, Ronni Pedersen, has also ridden in the Speedway Grand Prix and World Cup. [SEP] [CLS]
+

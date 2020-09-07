@@ -1,0 +1,2 @@
+[CLS] Margherita Zalaffi (born 7 April 1966) is an Italian fencer. [SEP] [CLS] She won a gold medal in the women's team foil event at the 1992 Summer Olympics and silvers at the same event in 1988 and in the women's team épée in 1996. [SEP] [CLS] She competed at five consecutive Olympic Games from 1984 to 2000. [SEP] [CLS]
+

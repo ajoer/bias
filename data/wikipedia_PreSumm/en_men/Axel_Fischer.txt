@@ -1,0 +1,2 @@
+[CLS] Axel Eduard Fischer (born 5 May 1966 in Karlsruhe, Baden-Württemberg) is a German politician. [SEP] [CLS] He is a member of the CDU and has been a member of the German parliament since 1998, representing Karlsruhe-Land since 2002. [SEP] [CLS]
+

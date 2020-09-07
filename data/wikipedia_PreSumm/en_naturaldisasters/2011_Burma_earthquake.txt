@@ -1,0 +1,2 @@
+[CLS] The 2011 Burma earthquake (Burmese: ၂၀၁၁ မြန်မာငလျင်) occurred with a magnitude 6.9 Mw on 24 March. [SEP] [CLS] It had an epicenter in the eastern part of Shan State in Burma (Myanmar) with a hypocenter 10 km deep. [SEP] [CLS] It had two aftershocks, one of magnitude 4.8, another at magnitude 5.4, and two subsequent shocks at magnitude 5.0 and 6.2. [SEP] [CLS] The quake's epicentre was 70 miles (110 km) from the northern Thai city of Chiang Rai, north of Mae Sai and southeast of Kentung. [SEP] [CLS]
+

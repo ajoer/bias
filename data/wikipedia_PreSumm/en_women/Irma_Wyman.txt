@@ -1,0 +1,2 @@
+[CLS] Irma M. [SEP] [CLS] Wyman (January 31, 1928 - November 17, 2015) was an early computer engineer and the first woman to become vice president of Honeywell, Inc. [SEP] [CLS] She was a systems thinking tutor and was the first female CIO of Honeywell. [SEP] [CLS]
+

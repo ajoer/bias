@@ -1,0 +1,2 @@
+[CLS] The 1945 Mikawa earthquake (三河地震, Mikawa jishin) occurred off Aichi prefecture, Japan at 03:38 AM on January 13. [SEP] [CLS] As it occurred during World War II, information about the disaster was censored, and efforts at keeping the disaster secret hampered relief efforts and contributed to a high death toll. [SEP] [CLS]
+

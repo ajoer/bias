@@ -1,0 +1,2 @@
+[CLS] Azerbaijan Airlines Flight 217 was a scheduled passenger flight between Baku and Aktau, Kazakhstan that crashed into the Caspian Sea at ca. [SEP] [CLS] 22:40 on 23 December 2005. [SEP] [CLS] The flight was operated by an Antonov An-140. [SEP] [CLS]
+

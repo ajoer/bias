@@ -1,0 +1,2 @@
+[CLS] The 1940 New Hampshire earthquakes struck on December 20 and again on December 24. [SEP] [CLS] Both shocks had an estimated Ms magnitude of 5.6, and a maximum Mercalli intensity of VII (Very strong). [SEP] [CLS] These doublet earthquakes were the largest to hit the state in several hundred years. [SEP] [CLS] Damage included minor fractures or knocked over chimneys in a zone extending through New Hampshire and four other states: Maine, New York, Vermont and Massachusetts. [SEP] [CLS]
+

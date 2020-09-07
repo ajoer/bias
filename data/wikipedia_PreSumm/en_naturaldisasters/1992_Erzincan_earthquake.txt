@@ -1,0 +1,2 @@
+[CLS] On 13 March, the 1992 Erzincan earthquake struck eastern Turkey with a moment magnitude of 6.7 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] Originating on the North Anatolian Fault, it rocked the country, leaving at least 498 people dead, roughly 2,000 injured, and an unknown amount missing. [SEP] [CLS] Total financial losses amounted to $13.5 million (American dollars). [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Zak Penn (born March 23, 1968) is an American screenwriter. [SEP] [CLS] Penn wrote and directed Incident at Loch Ness and The Grand, and co-wrote the scripts for X2, X-Men: The Last Stand, and the story for The Avengers. [SEP] [CLS] With Michael Karnow, Penn is the co-creator of the TV series Alphas on the Syfy network. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Crossair Flight 498 was a commuter flight from Zurich, Switzerland, to Dresden, Germany, that crashed two minutes after takeoff in the Swiss municipality of Niederhasli on 10 January 2000. [SEP] [CLS] The seven passengers and three crew members aboard the two-turboprop engine Saab 340B aircraft all died on impact. [SEP] [CLS] It was the first fatal crash for the Swiss regional airline Crossair in its 25-year history. [SEP] [CLS] The official report into the disaster found that the crash was due to a loss of control resulting from multiple human failures. [SEP] [CLS]
+

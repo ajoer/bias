@@ -1,0 +1,2 @@
+[CLS] The 1826 Red River Flood was a devastating flood that took place along the Red River in Manitoba. [SEP] [CLS] The flood was the largest to impact the Winnipeg area (reaching a peak flow 40% above that of the 1997 Red River flood), and was exacerbated by high winds and ice jams. [SEP] [CLS] The flooding caused a redistribution of population in the Red River Valley, affected the placement of the Canadian Pacific Railway line, and greatly influenced future disaster planning in the province. [SEP] [CLS]
+

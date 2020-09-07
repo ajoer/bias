@@ -1,0 +1,2 @@
+[CLS] Aleksandr Spiridonovich Kanaki (Russian: Александр Спиридонович Канаки, 29 March 1912 – 1995) was a Russian athlete. [SEP] [CLS] He initially competed in decathlon and placed third at the 1936 Soviet Championships. [SEP] [CLS] During World War II his right hand was irreversibly injured in action. [SEP] [CLS] Hence after the war Kanaki changed to hammer throw, where his handicap was less impeding than in other throwing events. [SEP] [CLS] He set multiple records in hammer throw in the late 1940s and placed fifth at the 1950 European Championships. [SEP] [CLS]
+

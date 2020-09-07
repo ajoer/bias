@@ -1,0 +1,2 @@
+[CLS] Caledonian Airways Flight 153 was a multi-leg nonscheduled passenger service from Luxembourg via Khartoum, Lorenzo Marques (nowadays Maputo), Douala and Lisbon, before heading back to Luxembourg. [SEP] [CLS] On 4 March 1962 a Douglas DC-7C flying the route, registration G-ARUD, crashed shortly after takeoff from Douala International Airport, Douala, Cameroon in a swamp on the edge of a jungle 2.4 kilometres (1.5 mi; 1.3 nmi) off the airport. [SEP] [CLS] It is the deadliest crash of a DC-7. [SEP] [CLS]
+

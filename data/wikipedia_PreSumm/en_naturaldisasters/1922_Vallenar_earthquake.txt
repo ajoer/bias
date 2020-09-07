@@ -1,0 +1,2 @@
+[CLS] The 1922 Vallenar earthquake occurred with a moment magnitude of 8.5 in the Atacama Region of Chile, near the border with Argentina on 11 November at 04:32 UTC. [SEP] [CLS] It triggered a destructive tsunami that caused significant damage to the coast of Chile and was observed as far away as Australia. [SEP] [CLS]
+

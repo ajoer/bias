@@ -1,0 +1,2 @@
+[CLS] Henriett Koósz (born 14 February 1980, Kőszeg) is an Austrian wheelchair tennis player. [SEP] [CLS] As a member of the Austrian Paralympic wheelchair tennis team, she competed at the 2012 Paralympics in London. [SEP] [CLS] In 2016, she represented Austria in para-badminton at the Austrian Open. [SEP] [CLS] In 2013, she was awarded the MiA award by the Austrian Federal Sports Organisation. [SEP] [CLS]
+

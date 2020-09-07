@@ -1,0 +1,2 @@
+[CLS] Mörike-Preis der Stadt Fellbach is a literature prize awarded in Baden-Württemberg, Germany. [SEP] [CLS] Since 1991, the City of Fellbach has awarded the prize in memory of the poet Eduard Mörike, who lived in Fellbach for some time in 1873. [SEP] [CLS] The prize money is €15,000. [SEP] [CLS]
+

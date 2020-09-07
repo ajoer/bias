@@ -1,0 +1,2 @@
+[CLS] Carolin Nytra (born 26 February 1985 in Hamburg), also known as Carolin Dietrich, is a German athlete who specialises in the 100 metres hurdles. [SEP] [CLS] With a personal best time of 12.57 seconds, she became the seventh fastest German ever over this distance at the Diamond League meet in Lausanne on 8 July 2010. [SEP] [CLS]
+

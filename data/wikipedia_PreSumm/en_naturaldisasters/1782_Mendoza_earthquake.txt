@@ -1,0 +1,2 @@
+[CLS] The 1782 Mendoza earthquake took place in the province of Mendoza, Argentina, on 22 May 1782, at about 4 PM (UTC-3). [SEP] [CLS] It had an estimated magnitude of 7.0 in the Richter scale. [SEP] [CLS] Its epicenter was at 33°0′S 69°12′W, at a depth of 30 km. [SEP] [CLS] This was the first documented earthquake of many which would affect the provincial capital of Mendoza since its foundation. [SEP] [CLS] It was felt with grade VIII (Severe) on the Mercalli intensity scale, and damaged several buildings, but did not produce casualties. [SEP] [CLS]
+

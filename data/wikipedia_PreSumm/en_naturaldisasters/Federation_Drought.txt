@@ -1,0 +1,2 @@
+[CLS] In Australia, the Federation Drought is the name given to a prolonged period of drought that occurred around the time of Federation in 1901. [SEP] [CLS] Though often thought of as a long drought, until the record dry year of 1902 the period was actually one of a number of very dry spells interspersed with wetter weather. [SEP] [CLS] Dry conditions gradually became established during the late 1890s and several dry areas joined together to create the end result of a drought covering more than half the continent. [SEP] [CLS]
+

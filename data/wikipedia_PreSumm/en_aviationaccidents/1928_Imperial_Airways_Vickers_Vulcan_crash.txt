@@ -1,0 +1,2 @@
+[CLS] The 1928 Imperial Airways Vickers Vulcan crash occurred on 13 July 1928 when a Vickers Vulcan on a test flight from Croydon Airport with a pilot and five passengers crashed near Purley, Surrey three miles from the airport, with the loss of four passengers. [SEP] [CLS] As a result of the crash Imperial Airways stopped the flying of staff (so called joy rides) on test flights. [SEP] [CLS]
+

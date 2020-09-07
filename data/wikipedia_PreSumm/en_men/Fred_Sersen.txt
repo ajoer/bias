@@ -1,0 +1,2 @@
+[CLS] Fred Sersen (February 24, 1890 – December 11, 1962) was a Czechoslovak-American painter and cinema special effects artist working mainly at 20th Century Fox Studios from the 1930s to the 1950s with credits in over 200 movies. [SEP] [CLS] He won two Academy Awards for Best Effects, Special Effects (photographic), in 1940 for The Rains Came, and in 1944 for Crash Dive. [SEP] [CLS] An artificial lake created for the former film was named in his honor. [SEP] [CLS]
+

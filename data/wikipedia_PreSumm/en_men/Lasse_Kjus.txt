@@ -1,0 +1,2 @@
+[CLS] Lasse Kjus (born 14 January 1971) is a former World Cup alpine ski racer from Norway. [SEP] [CLS] He won the overall World Cup title twice, an Olympic gold medal, and several World Championships. [SEP] [CLS] His combined career total of 16 Olympic and World Championship medals ranks second all-time behind fellow Norwegian Kjetil André Aamodt. [SEP] [CLS]
+

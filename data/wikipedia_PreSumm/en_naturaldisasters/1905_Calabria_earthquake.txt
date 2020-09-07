@@ -1,0 +1,2 @@
+[CLS] Striking southern Italy on September 8, the 1905 Calabria earthquake had a moment magnitude of 7.2 and a maximum Mercalli intensity of XI (Extreme). [SEP] [CLS] The first major earthquake of the 20th century, it severely damaged parts of Lipari and Messina Province, and killed between 557 and 2,500 people. [SEP] [CLS]
+

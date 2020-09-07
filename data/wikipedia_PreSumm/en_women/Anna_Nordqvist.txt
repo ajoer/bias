@@ -1,0 +1,2 @@
+[CLS] Anna Maria Nordqvist (born 10 June 1987) is a Swedish professional golfer who plays on the U.S.-based LPGA Tour and the Ladies European Tour. [SEP] [CLS] She has won two major championships: the 2009 LPGA Championship and the 2017 Evian Championship. [SEP] [CLS]
+

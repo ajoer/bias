@@ -1,0 +1,2 @@
+[CLS] Telle Whitney is the former CEO and President of the Anita Borg Institute for Women and Technology. [SEP] [CLS] A computer scientist by training, she cofounded the Grace Hopper Celebration of Women in Computing with Anita Borg in 1994 and joined the Anita Borg Institute in 2002. [SEP] [CLS]
+

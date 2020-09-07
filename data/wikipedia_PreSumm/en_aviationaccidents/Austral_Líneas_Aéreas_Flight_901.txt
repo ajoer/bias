@@ -1,0 +1,2 @@
+[CLS] Austral Líneas Aéreas Flight 901 was a scheduled passenger flight that crashed in a river near Buenos Aires, Argentina on May 7, 1981, after flying into a thunderstorm. [SEP] [CLS] All 31 people on the BAC 1-11 were killed in the accident. [SEP] [CLS]
+

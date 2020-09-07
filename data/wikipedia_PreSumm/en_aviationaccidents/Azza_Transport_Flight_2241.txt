@@ -1,0 +1,2 @@
+[CLS] Sudan Airways Flight 2241 was a scheduled cargo flight from Sharjah, United Arab Emirates to Khartoum, Sudan operated by a Boeing 707-330C which crashed on 21 October 2009. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Easter weekend 1999 tornado outbreak was a series of tornado touchdowns which occurred on April 2–3, 1999 from Kansas to Louisiana. [SEP] [CLS] The most powerful tornado occurred in Caddo Parish and Bossier Parish in northwestern Louisiana where an F4 tornado killed 7 people and injured 107 others. [SEP] [CLS] Damages from the outbreak were estimated to be near $13.7 million (2006 USD). [SEP] [CLS] A total of 17 tornadoes were confirmed across the southern Great Plains during the two-day event. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Julia Kykkänen (born 17 April 1994) is a Finnish ski jumper who has competed since 2010. [SEP] [CLS] She was the first Finnish female ski jumper to compete in the Ski Jumping World Championships, during the 2009 event in Liberec. [SEP] [CLS] At World Cup level her best finish is third on two occasions, in Hinzenbach on 2 February 2014 and in Falun on 15 March 2014, as well as eight additional top-10 finishes. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Olympic Airways Flight 830 was a domestic scheduled passenger flight in Greece from Athens to Kozani with a stop in Larisa. [SEP] [CLS] On 23 November 1976 it was being operated by a NAMC YS-11A turboprop airliner registered in Greece as SX-BBR when it collided at an altitude of 4265 ft with a mountain near Servia, destroying the aircraft and killing all 50 on board. [SEP] [CLS]
+

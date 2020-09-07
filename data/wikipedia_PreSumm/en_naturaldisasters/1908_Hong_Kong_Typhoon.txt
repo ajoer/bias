@@ -1,0 +1,2 @@
+[CLS] The 1908 Hong Kong Typhoon in Hong Kong Colony on the night of 27–28 July 1908 caused substantial loss of life and property damage. [SEP] [CLS] Most notable was the loss of the SS Ying King (英京號), a passenger steamer, which sank while trying to seek shelter from the storm; 421 lives were lost in that sinking. [SEP] [CLS] As a result of this storm, additional safety and shelter measures were undertaken, including the construction of a second typhoon shelter in Hong Kong harbour. [SEP] [CLS]
+

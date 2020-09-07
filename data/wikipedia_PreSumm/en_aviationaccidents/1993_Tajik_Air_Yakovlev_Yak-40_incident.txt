@@ -1,0 +1,2 @@
+[CLS] The Yakovlev Yak-40 (Russian: Яковлев Як-40; NATO reporting name: Codling) is a small, three-engined jet airliner, the world's first commuter trijet. [SEP] [CLS] The maiden flight was made in 1966, and it was in production from 1967 to 1981. [SEP] [CLS] Introduced in September 1968, the Yak-40 has been exported since 1970. [SEP] [CLS]
+

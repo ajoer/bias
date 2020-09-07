@@ -1,0 +1,2 @@
+[CLS] The 1930 North Izu earthquake (1930年北伊豆地震, Sen-kyūhyaku-sanjū-nen Kita-Izu Jishin) occurred on November 26 at 04:02 local time. [SEP] [CLS] The epicenter was located in the northern Izu Peninsula, Japan. [SEP] [CLS] It had a magnitude of Ms 7.3. [SEP] [CLS] The earthquake was caused by the movement of the Tanna Fault (丹那断層). [SEP] [CLS]
+

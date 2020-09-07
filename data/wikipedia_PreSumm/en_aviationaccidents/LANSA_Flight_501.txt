@@ -1,0 +1,2 @@
+[CLS] LANSA Flight 501 was a domestic flight from Lima to Cusco operated by a Lockheed L-749 Constellation aircraft registration OB-R-771. [SEP] [CLS] On 27 April 1966 flight 501 crashed into a mountain side in Tomas District.The plane radioed a distress call 10 minutes after takeoff. [SEP] [CLS] At least four Americans, two Swiss, one Canadian, three Germans and one Spaniard were on board. [SEP] [CLS] Three of the Americans were Peace Corps volunteers. [SEP] [CLS]
+

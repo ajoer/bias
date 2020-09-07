@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 2306 was a scheduled domestic passenger flight from Vorkuta to Moscow in the Soviet Union, with a stopover in Syktyvkar. [SEP] [CLS] The Tupolev Tu-134 operated by Aeroflot crashed on 2 July 1986 during an emergency landing after it departed Syktyvkar, killing 54 of 92 passengers and crew on board. [SEP] [CLS]
+

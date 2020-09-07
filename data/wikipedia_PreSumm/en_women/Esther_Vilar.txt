@@ -1,0 +1,2 @@
+[CLS] Esther Vilar (born Esther Margareta Katzen, September 16, 1935 in Buenos Aires, Argentina) is an Argentine-German writer. [SEP] [CLS] She trained and practised as a medical doctor before establishing herself as an author. [SEP] [CLS] She is best known for her 1971 book The Manipulated Man and its various follow-ups, which argue that, contrary to common feminist and women's rights rhetoric, women in industrialized cultures are not oppressed, but rather exploit a well-established system of manipulating men. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1847 Nagano earthquake (善光寺地震, Zenkōji jishin) occurred at about 21:30 local time on 8 May. [SEP] [CLS] It had a magnitude of 7.4 on the surface wave magnitude scale. [SEP] [CLS] It caused the destruction of many houses in Nagano and at least 8,600 people were killed. [SEP] [CLS] The earthquake triggered many landslides, the largest of which dammed the Sai River (a tributary of the Shinano River). [SEP] [CLS] 19 days later, the failure of this earthquake dam caused a flood that destroyed many more houses and killed a further 35 people. [SEP] [CLS]
+

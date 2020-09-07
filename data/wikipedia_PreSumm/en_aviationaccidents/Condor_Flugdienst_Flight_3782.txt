@@ -1,0 +1,2 @@
+[CLS] Condor Flugdienst Flight 3782 was an international charter flight from Stuttgart-Echterdingen Airport, West Germany to Adnan Menderes Airport, Turkey that crashed near Seferihisar, Turkey on 2 January 1988. [SEP] [CLS] At the time, Condor Flugdienst was a 100% subsidiary of Lufthansa. [SEP] [CLS]
+

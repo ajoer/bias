@@ -1,0 +1,2 @@
+[CLS] American Airlines Flight 2 was a Douglas DC-3 that crashed into the Mississippi River on February 10, 1944. [SEP] [CLS] All twenty-four passengers and crew were killed. [SEP] [CLS] The ultimate cause of the crash of American Airlines Flight 2 remains a mystery. [SEP] [CLS]
+

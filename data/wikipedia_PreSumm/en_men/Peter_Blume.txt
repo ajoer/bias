@@ -1,0 +1,2 @@
+[CLS] Peter Blume (27 October 1906 - 30 November 1992) was an American painter and sculptor. [SEP] [CLS] His work contained elements of folk art, Precisionism, Parisian Purism, Cubism, and Surrealism. [SEP] [CLS]
+

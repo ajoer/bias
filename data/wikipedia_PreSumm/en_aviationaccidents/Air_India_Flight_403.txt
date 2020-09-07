@@ -1,0 +1,2 @@
+[CLS] Air India Flight 403 was a scheduled Air India passenger flight that crashed at Sahar International Airport in Bombay, India on 21 June 1982. [SEP] [CLS] It was likely caused by miscalculated altitude in a heavy rainstorm. [SEP] [CLS]
+

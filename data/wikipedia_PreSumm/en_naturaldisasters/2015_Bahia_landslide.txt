@@ -1,0 +1,2 @@
+[CLS] The 2015 Bahia landslide occurred on 28 April 2015 in Salvador, Bahia, Brazil. [SEP] [CLS] The landslide killed at least 14 people. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Emma Christina Wikén (born 1 May 1989) is a Swedish cross-country skier who competes in the cross-country World Cup. [SEP] [CLS] During the Swedish championships in skiathlon in Falun 2013, Wikén won gold. [SEP] [CLS] At the 2014 Winter Olympics, Wikén won gold in the 4 × 5 km relay along with Ida Ingemarsdotter, Anna Haag and Charlotte Kalla. [SEP] [CLS]
+

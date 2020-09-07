@@ -1,0 +1,2 @@
+[CLS] Dunia Susi (born 10 August 1987) is an English international footballer. [SEP] [CLS] She plays for FA WSL club Notts County and has also represented Great Britain at the World University Games. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Leonel Suárez Fajardo (born September 1, 1987 in Santiago de Cuba) is a decathlete from Cuba. [SEP] [CLS] He was bronze medalist in the event at the 2012 Summer Olympics, 2008 Summer Olympics and silver medalist at the 2009 World Championships. [SEP] [CLS] He won a third consecutive global medal at the 2011 World Championships in Athletics, taking bronze. [SEP] [CLS] His personal best for the decathlon is 8654 points (which set in Havana, winning the 2009 Central American and Caribbean Championships). [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] An earthquake measuring 5.8 Mw struck the province of Sichuan in China at 22:55 local time (14:55 UTC), 17 June 2019. [SEP] [CLS] Changning and Gong counties in Yibin were particularly affected. [SEP] [CLS] 13 people died and more than 200 others were injured. [SEP] [CLS]
+

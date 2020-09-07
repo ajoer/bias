@@ -1,0 +1,2 @@
+[CLS] Harri Juhani Olli (born 15 January 1985) is a Finnish ski jumper who has competed at World Cup level since 2002. [SEP] [CLS] He has three individual World Cup wins, four individual Continental Cup wins, and an individual silver medal from the 2007 World Championships. [SEP] [CLS]
+

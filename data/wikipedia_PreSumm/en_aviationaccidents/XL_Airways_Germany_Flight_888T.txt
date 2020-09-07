@@ -1,0 +1,2 @@
+[CLS] XL Airways Germany Flight 888T (GXL888T) was an Airbus A320 which crashed into the Mediterranean Sea, 7 kilometres (4.3 mi; 3.8 nmi) off Canet-en-Roussillon on the French coast, close to the Spanish border, on 27 November 2008, killing all seven people on board. [SEP] [CLS]
+

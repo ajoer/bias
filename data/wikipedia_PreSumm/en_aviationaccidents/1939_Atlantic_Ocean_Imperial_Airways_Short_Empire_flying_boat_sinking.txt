@@ -1,0 +1,2 @@
+[CLS] On 21 January 1939, the Imperial Airways Short Empire flying boat Cavalier, en route from New York City to Bermuda, lost power to its engines and ditched in heavy seas approximately 285 miles (459 km) southeast of New York. [SEP] [CLS] She subsequently sank with the loss of three lives. [SEP] [CLS] Ten hours later, ten survivors were picked up by the tanker Esso Baytown. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Early February 2016 nor'easter was a potent nor'easter moved up the east coast, causing more snow to the already-weary Northeast United States after the leading edge of the previous system and the historic blizzard of January 21–23. [SEP] [CLS] The storm dropped up to 12 in (0.30 m) of snow in parts of New England. [SEP] [CLS] Strong wind gusts were also reported along the eastern edge of New England. [SEP] [CLS]
+

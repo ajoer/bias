@@ -1,0 +1,2 @@
+[CLS] Sylvia June Day (born March 11, 1973) is a Japanese American writer of romance novels. [SEP] [CLS] She also writes under the pseudonyms S.J. [SEP] [CLS] Day and Livia Dare. [SEP] [CLS] She is a number one bestselling author in 28 countries. [SEP] [CLS]
+

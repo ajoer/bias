@@ -1,0 +1,2 @@
+[CLS] Yang Shaoqi (born 8 February 1976) is a Chinese fencer. [SEP] [CLS] She won a bronze medal in the women's team épée event at the 2000 Summer Olympics. [SEP] [CLS]
+

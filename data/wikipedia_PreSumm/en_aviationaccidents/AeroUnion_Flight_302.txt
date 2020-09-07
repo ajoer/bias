@@ -1,0 +1,2 @@
+[CLS] AeroUnion Flight 302, operated by an Airbus A300B4-203F cargo aircraft, crashed in poor weather on final approach at General Mariano Escobedo International Airport, Monterrey, Mexico around 23:18 CDT on 13 April 2010, after a flight from Mexico City. [SEP] [CLS] All five persons on board were killed, as well as one on the ground. [SEP] [CLS]
+

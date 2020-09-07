@@ -1,0 +1,2 @@
+[CLS] Merpati Nusantara Airlines Flight 106 crashed on 19 April 1997, taking the lives of 11 of the 48 passengers and four of the five crew. [SEP] [CLS] The plane crashed during landing after a failed go-around in bad weather. [SEP] [CLS] This was the first hull loss of a British Aerospace ATP. [SEP] [CLS]
+

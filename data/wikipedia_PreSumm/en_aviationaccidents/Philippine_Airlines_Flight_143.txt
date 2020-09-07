@@ -1,0 +1,2 @@
+[CLS] Philippine Airlines Flight 143 (PR143) was a domestic flight from the Manila Ninoy Aquino Airport, Manila, Philippines to Mandurriao Airport, Iloilo City. [SEP] [CLS] On May 11, 1990, at Manila Ninoy Aquino International Airport the Boeing 737-300 (C/N 24466, MSN 1771) assigned to the route suffered an explosion in the central fuel tank and was consumed by fire in as little as four minutes. [SEP] [CLS]
+

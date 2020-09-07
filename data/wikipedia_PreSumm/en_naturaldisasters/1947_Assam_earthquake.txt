@@ -1,0 +1,2 @@
+[CLS] The 1947 Assam earthquake occurred on 29 July at 13:43 UTC with an Mw of 7.3 and a maximum EMS-98 intensity of V (Strong). [SEP] [CLS]
+

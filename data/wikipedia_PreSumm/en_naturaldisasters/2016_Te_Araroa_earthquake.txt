@@ -1,0 +1,2 @@
+[CLS] The 2016 Te Araroa earthquake was an earthquake measuring 7.1 on the moment magnitude scale that occurred at 04:37:55 NZST on 2 September 2016 (16:37:55 UTC 1 September). [SEP] [CLS] The epicentre was located 125 km (78 mi) north-east of Te Araroa off the East Cape of the North Island of New Zealand with a focal depth of 22 km (14 mi). [SEP] [CLS] The earthquake was widely felt throughout the North Island and in the upper South Island. [SEP] [CLS] There were no reported casualties, and buildings predominantly suffered only a little bit of damage. [SEP] [CLS]
+

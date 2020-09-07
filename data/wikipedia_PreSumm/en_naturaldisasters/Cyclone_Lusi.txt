@@ -1,0 +1,2 @@
+[CLS] Cyclone Lusi was the second severe tropical cyclone of the 2013–14 season and affected Fiji, Vanuatu and New Zealand. [SEP] [CLS] The system that was to become Cyclone Lusi was first noted as a tropical disturbance on 7 March, while it was located to the east of Fiji. [SEP] [CLS] Over the next three days the system moved towards the north-northeast and gradually developed further, before it was named Lusi, late on 9 March, after it had developed into a tropical cyclone. [SEP] [CLS] The system dissipated on 17 March. [SEP] [CLS]
+

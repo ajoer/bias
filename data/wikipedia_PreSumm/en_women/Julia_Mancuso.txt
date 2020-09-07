@@ -1,0 +1,2 @@
+[CLS] Julia Marie Mancuso (born March 9, 1984) is a retired American World Cup alpine ski racer and Olympic gold medalist. [SEP] [CLS] She won the giant slalom at the 2006 Winter Olympics, and was the silver medalist in both downhill and combined in 2010, and the bronze medalist in the combined in 2014. [SEP] [CLS] She has also won five medals (two silver and three bronze) at the World Championships and seven races in regular World Cup competition. [SEP] [CLS] Her four Olympic medals are the most ever for a female American alpine skier. [SEP] [CLS]
+

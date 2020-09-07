@@ -1,0 +1,2 @@
+[CLS] Jaime Levy is an American author, lecturer, interface designer, and user experience strategist. [SEP] [CLS] She first became known for her new media projects in the 1990s. [SEP] [CLS] Her best-known projects include the floppy disk distributed with Billy Idol’s album Cyberpunk, WORD, an online magazine, and an online cartoon series, CyberSlacker. [SEP] [CLS]
+

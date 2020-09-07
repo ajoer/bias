@@ -1,0 +1,2 @@
+[CLS] Pan Am Flight 923 was a Douglas DC-4 operating from Seattle, Washington to Juneau, Alaska, which crashed into Tamgas Mountain on Annette Island, Alaska, on October 26, 1947. [SEP] [CLS] All 18 passengers and crew on board were killed. [SEP] [CLS] The crash was the worst in Alaskan commercial aviation at the time, as well as the first crash of a Pan Am four-engine aircraft. [SEP] [CLS] An investigation by the Civil Aeronautics Board (CAB, the precursor to the NTSB) was unable to determine probable cause and it remains unknown to this day. [SEP] [CLS]
+

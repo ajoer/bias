@@ -1,0 +1,2 @@
+[CLS] The 1982 Diamond Crash was the worst operational accident to befall the U.S. [SEP] [CLS] Air Force Thunderbirds Air Demonstration Team involving show aircraft. [SEP] [CLS] Four Northrop T-38 Talon jets crashed during operational training on 18 January 1982, killing all four pilots. [SEP] [CLS]
+

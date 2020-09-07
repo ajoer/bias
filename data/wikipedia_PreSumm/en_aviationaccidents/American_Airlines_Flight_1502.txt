@@ -1,0 +1,2 @@
+[CLS] American Airlines Flight 1502 was a crew training flight from New York International (Idlewild) Airport (now John F. [SEP] [CLS] Kennedy International Airport). [SEP] [CLS] On 28 January 1961 the aircraft crashed into the ocean 5 miles (8.0 km) off Montauk Point, New York, all six crew on board were killed. [SEP] [CLS]
+

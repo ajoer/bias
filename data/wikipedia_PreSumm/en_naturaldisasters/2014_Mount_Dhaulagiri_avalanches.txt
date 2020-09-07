@@ -1,0 +1,2 @@
+[CLS] The 2014 Nepal snowstorm disaster occurred in central Nepal during the month of October and resulted in the deaths of at least 43 people of various nationalities, including at least 21 trekkers. [SEP] [CLS] Injuries and fatalities resulted from unusually severe snowstorms and avalanches on and around the mountains of Annapurna and Dhaulagiri. [SEP] [CLS] The incident was said to be Nepal's worst trekking disaster. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Jared Tallent OAM (born 17 October 1984) is an Australian race walker and Olympic gold medallist in the 50 km walk from London in 2012. [SEP] [CLS] He is a four-time Olympic medallist, three-time World Championship medallist and holds the current Olympic record in the 50 km walk. [SEP] [CLS]
+

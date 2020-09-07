@@ -1,0 +1,2 @@
+[CLS] Frances Foong Chu Yao (Chinese: 储枫; pinyin: Chǔ Fēng) is a Chinese-born American mathematician and theoretical computer scientist. [SEP] [CLS] She is currently a Chair Professor at the Institute for Interdisciplinary Information Sciences (IIIS) of Tsinghua University. [SEP] [CLS] She was Chair Professor and Head of the Department of computer science at the City University of Hong Kong, where she is now an honorary professor. [SEP] [CLS]
+

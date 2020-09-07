@@ -1,0 +1,2 @@
+[CLS] A massive blizzard and tornado outbreak that affected the Northwest, Rockies, and much of the Midwest in early-October 2013. [SEP] [CLS] A total of 22 tornadoes were confirmed as the system moved eastward across the eastern half of the United States, including two that were rated EF4. [SEP] [CLS]
+

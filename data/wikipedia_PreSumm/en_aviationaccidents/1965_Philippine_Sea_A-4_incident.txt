@@ -1,0 +1,2 @@
+[CLS] The 1965 Philippine Sea A-4 crash was a Broken Arrow incident in which a United States Navy Douglas A-4E Skyhawk attack aircraft of Attack Squadron 56 (VA-56) carrying a nuclear weapon fell into the sea off Japan from the aircraft carrier USS Ticonderoga. [SEP] [CLS] The aircraft, pilot and weapon were never recovered. [SEP] [CLS]
+

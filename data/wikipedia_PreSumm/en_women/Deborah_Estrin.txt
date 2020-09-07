@@ -1,0 +1,2 @@
+[CLS] Deborah Estrin (born December 6, 1959) is a Professor of Computer Science at Cornell Tech. [SEP] [CLS] She is co-founder of the non-profit Open mHealth and gave a TEDMED talk on small data in 2013. [SEP] [CLS] Estrin is known for her work on sensor networks, mobile health, and small data. [SEP] [CLS] She is one of the most-referenced computer scientists of all time, with her work cited over 128,000 times according to Google Scholar. [SEP] [CLS]
+

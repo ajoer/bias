@@ -1,0 +1,2 @@
+[CLS] Mary Lee Berners-Lee (née Woods; 12 March 1924 – 29 November 2017) was an English mathematician and computer scientist who worked in a team that developed programs in the Department of Computer Science, University of Manchester Mark 1, Ferranti Mark 1 and Mark 1 Star computers. [SEP] [CLS] She is the mother of Sir Tim Berners-Lee, the founder of the World Wide Web and Mike Berners-Lee, an English researcher and writer on greenhouse gases. [SEP] [CLS]
+

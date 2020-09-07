@@ -1,0 +1,2 @@
+[CLS] RwandAir Flight 205 was a Canadair CRJ-100 that crashed into the Terminal Building after an emergency landing at Kigali, Rwanda killing one passenger. [SEP] [CLS] The flight was operated by JetLink Express on behalf of RwandAir. [SEP] [CLS] In the aftermath of the accident, RwandAir suspended all operations with JetLink Express. [SEP] [CLS]
+

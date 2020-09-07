@@ -1,0 +1,2 @@
+[CLS] The 1857 Basilicata earthquake (also known as the Great Neapolitan earthquake) occurred on December 16 in the Basilicata region of Italy southeast of the city of Naples. [SEP] [CLS] The epicentre was in Montemurro, on the western border of the modern province of Potenza. [SEP] [CLS] Several towns were destroyed, and estimated fatalities were around 10,000. [SEP] [CLS] At the time it was the third largest known earthquake, and has been estimated to have been of magnitude 7.0 on the moment magnitude scale. [SEP] [CLS]
+

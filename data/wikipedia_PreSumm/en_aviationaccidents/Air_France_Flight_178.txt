@@ -1,0 +1,2 @@
+[CLS] On 1 September 1953, an Air France Lockheed L-749 Constellation, registered in France as F-BAZZ, flying Flight 178, a scheduled flight from Paris to Nice, crashed into the Pelat Massif in the French Alps near Barcelonnette on the first stage of the flight, between Orly Airport and Nice Airport. [SEP] [CLS] All 42 on board were killed, nine crew and 33 passengers including the French violinist Jacques Thibaud and the French pianist René Herbin. [SEP] [CLS]
+

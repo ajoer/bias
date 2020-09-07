@@ -1,0 +1,2 @@
+[CLS] On 22 January 2019, floods caused by heavy rainfall struck the Indonesian province of South Sulawesi. [SEP] [CLS] At least 68 people were killed and thousands were displaced. [SEP] [CLS] Gowa Regency was particularly hard-hit, experiencing the majority of the fatalities. [SEP] [CLS] The most destructive flood was caused by the overflowing of the Jeneberang River and the opening of the watergates of the Bili-Bili Dam in Gowa, though other floods also occurred elsewhere in the province. [SEP] [CLS]
+

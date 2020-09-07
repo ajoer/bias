@@ -1,0 +1,2 @@
+[CLS] Mary Wigman (born Karoline Sophie Marie Wiegmann; 13 November 1886 – 18 September 1973 in Berlin) was a German dancer and choreographer, notable as the pioneer of expressionist dance, dance therapy, and movement training without pointe shoes. [SEP] [CLS] She is considered one of the most important figures in the history of modern dance. [SEP] [CLS] She became one of the most iconic figures of Weimar German culture and her work was hailed for bringing the deepest of existential experiences to the stage. [SEP] [CLS]
+

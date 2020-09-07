@@ -1,0 +1,2 @@
+[CLS] On August 2, 1919, a Caproni Ca.48 airliner crashed at Verona, Italy. [SEP] [CLS] All aboard died, with various sources placing the death toll at 14, 15, and 17. [SEP] [CLS] It was Italy‘s first commercial aviation disaster and one of the earliest heavier-than-air airliner disasters in history. [SEP] [CLS]
+

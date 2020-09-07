@@ -1,0 +1,2 @@
+[CLS] Piia Suomalainen (born 9 July 1984) is a Finnish tennis player. [SEP] [CLS] Suomalainen has won five singles and five doubles titles on the ITF Women's Circuit. [SEP] [CLS] On 10 October 2011, she reached her best singles ranking of world No. [SEP] [CLS] 356. [SEP] [CLS] On 15 January 2007, she peaked at No. [SEP] [CLS] 524 in the doubles rankings. [SEP] [CLS] Since her debut for the Finland Fed Cup team in 2002, Suomalainen has a 37–33 record in Fed Cup competition. [SEP] [CLS]
+

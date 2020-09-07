@@ -1,0 +1,2 @@
+[CLS] Elisa Uga (born 27 February 1968) is an Italian fencer. [SEP] [CLS] She won a silver medal in the women's team épée event at the 1996 Summer Olympics. [SEP] [CLS]
+

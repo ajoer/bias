@@ -1,0 +1,2 @@
+[CLS] On 29 March 2016, a Mitsubishi MU-2 operated by Aero Teknic, a Canadian aircraft maintenance company, crashed on approach to Îles-de-la-Madeleine Airport, killing former Canadian politician Jean Lapierre, several members of his family, and the two pilots. [SEP] [CLS] Lapierre was flying to his father's funeral with his wife and three siblings. [SEP] [CLS] While one man survived the crash, he died of a heart attack after being pulled from the wreckage. [SEP] [CLS]
+

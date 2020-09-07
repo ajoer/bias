@@ -1,0 +1,2 @@
+[CLS] The 2008 Benin floods struck the nation of Benin between July and October 2008, and affected the other West African nations of Burkina Faso, Mali, Mauritania, Niger and Togo. [SEP] [CLS] According to the Red Cross of Benin, the flooding in Benin initially affected almost 7,000 people, including the displacement of 1,560 children. [SEP] [CLS] and by August 19, 2008, the World Health Organization (WHO) estimated that the flooding had displaced at least 150,000 people. [SEP] [CLS] Some 500,000 people in total were at risk of additional flooding. [SEP] [CLS]
+

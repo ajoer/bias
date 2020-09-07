@@ -1,0 +1,2 @@
+[CLS] The 2012 North Korean floods began in mid-July 2012 when Tropical Storm Khanun affected parts of the country, killing at least 88 people and leaving more than 62,000 people homeless. [SEP] [CLS] Torrential rains on 29 and 30 July 2012 worsened the situation, causing additional damage and casualties and forcing the government to request international assistance. [SEP] [CLS] Severe rainfall also affected the southern region of North Korea in August, killing at least six. [SEP] [CLS]
+

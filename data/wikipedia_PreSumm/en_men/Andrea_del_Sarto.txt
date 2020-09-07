@@ -1,0 +1,2 @@
+[CLS] Andrea del Sarto (US: , UK: , Italian: [anˈdrɛːa del ˈsarto]; 16 July 1486 – 29 September 1530) was an Italian painter from Florence, whose career flourished during the High Renaissance and early Mannerism. [SEP] [CLS] He was known as an outstanding fresco decorator, painter of altar-pieces, portraitist, draughtsman and colorist. [SEP] [CLS] Though highly regarded during his lifetime as an artist senza errori ("without errors"), his renown was eclipsed after his death by that of his contemporaries, Leonardo da Vinci, Michelangelo and Raphael. [SEP] [CLS]
+

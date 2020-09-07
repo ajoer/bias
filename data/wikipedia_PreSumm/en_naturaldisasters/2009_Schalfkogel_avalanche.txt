@@ -1,0 +1,2 @@
+[CLS] The 2009 Schalfkogel avalanche was an avalanche which occurred in Sölden, Austria, on 2 May 2009. [SEP] [CLS] Six people were killed, five Czechs and one Slovak, when the disaster struck in the 3,500-metre (11,500 ft) Schalfkogel mountain range. [SEP] [CLS] The corpses were discovered to have been frozen upon recovery. [SEP] [CLS] It was the deadliest avalanche to have occurred in Austria since March 2000. [SEP] [CLS] Although avalanches are a regular occurrence in the region, they mainly kill individuals as opposed to entire groups. [SEP] [CLS]
+

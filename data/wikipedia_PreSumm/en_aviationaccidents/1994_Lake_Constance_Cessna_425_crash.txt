@@ -1,0 +1,2 @@
+[CLS] On 24 January 1994 a Cessna 425 crashed into Lake Constance with 5 people on board. [SEP] [CLS] 3 of them are confirmed killed, two are missing. [SEP] [CLS] The crash caused significant media attention due to a suspicion the aircraft might be transporting nuclear material which was later found untrue. [SEP] [CLS]
+

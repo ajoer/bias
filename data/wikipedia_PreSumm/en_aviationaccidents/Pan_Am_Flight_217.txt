@@ -1,0 +1,2 @@
+[CLS] Pan Am Flight 217 was a Boeing 707 that crashed near Caracas, Venezuela while on a flight from New York City, USA on December 12, 1968. [SEP] [CLS] Pilot error was to blame. [SEP] [CLS] There were no survivors. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1994 Iranian Air Force C-130 shootdown occurred on March 17, 1994, when an Iranian Air Force C-130E military transport aircraft, carrying Iranian embassy personnel from Moscow to Tehran, was shot down by Armenian military forces near the city of Stepanakert in Nagorno-Karabakh, an area which had been under armed conflict since 1988. [SEP] [CLS] The 32 people (19 passengers and 13 crew) on board were killed in the crash. [SEP] [CLS]
+

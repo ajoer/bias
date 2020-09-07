@@ -1,0 +1,2 @@
+[CLS] The 1976 Moro Gulf earthquake and tsunami took place on August 17 at 00:11 local time near the islands of Mindanao and Sulu, in the Philippines. [SEP] [CLS] Its magnitude was calculated as being as high as 8.0 on the moment magnitude scale. [SEP] [CLS]
+

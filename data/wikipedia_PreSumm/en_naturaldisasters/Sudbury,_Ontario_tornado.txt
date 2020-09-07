@@ -1,0 +1,2 @@
+[CLS] The Sudbury tornado was an F3 tornado, which hit the Canadian city of Sudbury, Ontario, at approximately 8:30 a.m. [SEP] [CLS] on Thursday, August 20, 1970.It is currently tied for the status of the eighth deadliest tornado in Canadian history. [SEP] [CLS]
+

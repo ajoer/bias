@@ -1,0 +1,2 @@
+[CLS] The name Linfa has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name refers to the sacred lotus (Nelumbo nucifera) and was submitted by Macao. [SEP] [CLS] Tropical Storm Linfa (2003) (T0304, 05W, Chedeng) – struck Japan. [SEP] [CLS] Tropical Storm Linfa (2009) (T0903, 03W) – made landfall in Fujian. [SEP] [CLS] Tropical Storm Linfa (2015) (T1510, 10W, Egay) – caused severe flooding throughout most of the Philippines. [SEP] [CLS]
+

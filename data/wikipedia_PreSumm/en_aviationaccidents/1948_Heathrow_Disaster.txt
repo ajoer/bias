@@ -1,0 +1,2 @@
+[CLS] The 1948 Heathrow Disaster was the crash of a Douglas DC-3C of the Belgian airline Sabena at Heathrow Airport, London, United Kingdom on 2 March 1948. [SEP] [CLS] It was the first major accident at Heathrow Airport; of the 22 people on board 20 were killed, of whom most had British nationality. [SEP] [CLS]
+

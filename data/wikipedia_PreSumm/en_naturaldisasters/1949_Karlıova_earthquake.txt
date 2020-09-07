@@ -1,0 +1,2 @@
+[CLS] The 1949 Karlıova earthquake occurred at 18:44 UTC on 17 August with an epicenter near Karlıova in Bingöl Province, Eastern Anatolia Region of Turkey. [SEP] [CLS] It had an estimated magnitude of 6.7, a maximum felt intensity of X (Extreme) on the Mercalli intensity scale, and caused 320–450 casualties. [SEP] [CLS]
+

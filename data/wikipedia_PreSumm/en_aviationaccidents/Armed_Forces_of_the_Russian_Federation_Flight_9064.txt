@@ -1,0 +1,2 @@
+[CLS] Armed Forces of the Russian Federation Flight 9064 was a military flight from Bratsk Airport to Petropavlovsk-Kamchatsky Airport with 9 passengers and 9 crew aboard. [SEP] [CLS] The flight crashed at Novaya Inya, Russia on 1 December 2001, after a reported wing fire. [SEP] [CLS] All aboard perished. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1962 Turkish Airlines Taurus Mountains crash occurred on 8 March 1962 at 17:43 local time (15:43 UTC) when a Turkish Airlines Fairchild F-27 airliner, registration TC-KOP, on a scheduled domestic flight from Esenboğa Airport (ESB/LTAC) in Ankara to Adana Airport (ADA/LTAF), flew into the Bolkar Mountains on approach to landing. [SEP] [CLS]
+

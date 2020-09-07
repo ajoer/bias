@@ -1,0 +1,2 @@
+[CLS] The 1975 Near Islands earthquake occurred at 08:43 UTC on February 2 off the coast of Attu Island, Alaska. [SEP] [CLS] The earthquake had a surface wave magnitude of 7.6 and a maximum Mercalli intensity of IX (Violent). [SEP] [CLS] It caused heavy damage on Shemya Island, injuring 15 residents. [SEP] [CLS] The runways of Shemya Air Force Base sustained cracks up to 16 inches (41 cm) wide, and crevices with as much as 54 feet (16.6 m) of displacement were observed on the island. [SEP] [CLS]
+

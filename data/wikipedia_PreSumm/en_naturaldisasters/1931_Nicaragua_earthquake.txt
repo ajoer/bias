@@ -1,0 +1,2 @@
+[CLS] The 1931 Nicaragua earthquake devastated Nicaragua's capital city Managua on 31 March. [SEP] [CLS] It had a moment magnitude of 6.1 and a maximum MSK intensity of VI (Strong). [SEP] [CLS] Between 1,000 and 2,450 people were killed. [SEP] [CLS] A major fire started and destroyed thousands of structures, burning into the next day. [SEP] [CLS] At least 45,000 were left homeless and losses of $35 million were recorded. [SEP] [CLS]
+

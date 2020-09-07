@@ -1,0 +1,2 @@
+[CLS] The 1951 Kurşunlu earthquake occurred at 18:33 GMT (20:33 local time) on 13 August near Kurşunlu, Çankırı Province, Central Anatolia Region, Turkey. [SEP] [CLS] The earthquake was one of a series of major and intermediate quakes that have occurred in modern times along the North Anatolian Fault since 1939. [SEP] [CLS] It had a magnitude of 6.9 on the surface wave magnitude scale and a maximum felt intensity of IX (Violent) on the Mercalli intensity scale. [SEP] [CLS] There were 50 casualties and 3,354 injuries. [SEP] [CLS]
+

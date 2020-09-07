@@ -1,0 +1,2 @@
+[CLS] Severe Tropical Storm Khanun, known in the Philippines as Tropical Storm Enteng, was the first tropical cyclone to directly impact Korea in two years. [SEP] [CLS] It is the 8th named storm, the 3rd severe tropical storm, and overall, the 13th tropical cyclone to be monitored by the Japan Meteorological Agency (JMA) during 2012. [SEP] [CLS] Khanun was also the first tropical storm to make a landfall over Korea in 2012. [SEP] [CLS] Khanun means "jack fruit" in Thai. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Kanji Swami (1890–1980) was a teacher of Jainism. [SEP] [CLS] He was deeply influenced by the Samayasāra of Kundakunda in 1932. [SEP] [CLS] He lectured on these teachings for 45 years to comprehensively elaborate on the philosophy described by Kundakunda and others. [SEP] [CLS] He was given the title of "Koh-i-Noor of Kathiawar" by the people who were influenced by his religious teachings and philosophy. [SEP] [CLS]
+

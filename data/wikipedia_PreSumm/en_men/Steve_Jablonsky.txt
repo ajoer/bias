@@ -1,0 +1,2 @@
+[CLS] Steve Jablonsky (born October 9, 1970) is an American composer for film, television and video games, best known for his musical scores in the Transformers film series. [SEP] [CLS] Some of his frequent collaboration partners include film directors Michael Bay and Peter Berg, and fellow composer Hans Zimmer. [SEP] [CLS]
+

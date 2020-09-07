@@ -1,0 +1,2 @@
+[CLS] The 1967 Mudurnu earthquake or more correctly, the 1967 Mudurnu Valley earthquake occurred at about 18:57 local time on 22 July near Mudurnu, Bolu Province, north-western Turkey. [SEP] [CLS] The magnitude 7.4 Mw earthquake (but only 6.0 on the mb scale.) was one of a series of major and intermediate quakes that have occurred in modern times along the North Anatolian Fault since 1939. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The Tornado outbreak of September 24, 2001 was one of the worst tornado events to directly affect the Baltimore-Washington metropolitan area in the United States. [SEP] [CLS] The outbreak occurred on Monday, September 24, 2001, and was responsible for two deaths and 57 injuries. [SEP] [CLS]
+

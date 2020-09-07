@@ -1,0 +1,2 @@
+[CLS] Aerolíneas Argentinas Flight 322 was a scheduled Buenos Aires–São Paulo–Port of Spain–New York City international passenger service, operated with a Comet 4, registration LV-AHR, that crashed during climbout on the early stages of its second leg, when it collided with tree tops shortly after takeoff from Viracopos-Campinas International Airport on 23 November 1961. [SEP] [CLS] There were 52 fatalities, 40 of them passengers. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] The 1991 Racha earthquake occurred in the province of Racha, Georgia, at 9:12 UTC on 29 April. [SEP] [CLS] Centered on the districts of Oni and Ambrolauri on the southern foothills of the Greater Caucasus mountains, it killed 270, left approximately 100,000 homeless and caused severe damage, including to several medieval monuments. [SEP] [CLS] It had a magnitude of 7.0 and was the most powerful earthquake recorded in the Caucasus. [SEP] [CLS]
+

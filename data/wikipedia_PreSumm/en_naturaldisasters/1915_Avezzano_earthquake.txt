@@ -1,0 +1,2 @@
+[CLS] The 1915 Avezzano earthquake occurred on 13 January in central Italy at 07:52:42 local time. [SEP] [CLS] The shock had a moment magnitude of 6.7 and a maximum Mercalli intensity of XI (Extreme). [SEP] [CLS] The epicenter was located in the town of Avezzano (which was destroyed) in the Province of L'Aquila. [SEP] [CLS] Around 30,000 direct fatalities and $60 million in damage resulted from the earthquake. [SEP] [CLS]
+

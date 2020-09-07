@@ -1,0 +1,2 @@
+[CLS] Mandala Airlines Flight 660 was a scheduled passenger flight on 24 July 1992 which crashed in Indonesia into a mountain on Ambon Island as it attempted to land at Pattimura Airport in a heavy thunderstorm. [SEP] [CLS] Pilot error and windshear were blamed for the crash. [SEP] [CLS]
+

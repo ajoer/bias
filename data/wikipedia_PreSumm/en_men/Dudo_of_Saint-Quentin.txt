@@ -1,0 +1,2 @@
+[CLS] Dudo, or Dudon, was a Picard historian, and dean of Saint-Quentin, where he was born about 965. [SEP] [CLS] Sent in 986 by Albert I, Count of Vermandois, on an errand to Richard I, Duke of Normandy, he succeeded in his mission, and, having made a very favorable impression at the Norman court, spent some years in that country. [SEP] [CLS] During a second stay in Normandy, Dudo wrote his history of the Normans, a task which Duke Richard had urged him to undertake. [SEP] [CLS] Very little else is known about his life, except that he died before 1043. [SEP] [CLS]
+

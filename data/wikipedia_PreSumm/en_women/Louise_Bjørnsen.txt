@@ -1,0 +1,2 @@
+[CLS] Louise Cathrine Elisabeth Bjørnsen, pen name Elisabeth Martens, (1824–1899) was successful as an early Danish female novelist and short story writer. [SEP] [CLS] Following in the footsteps of Mathilde Fibiger, she published her first novel Hvad er Livet? [SEP] [CLS] (What is Life?) in 1855, based on her own experiences as a governess. [SEP] [CLS] She went on to write five more novels and four collections of short stories. [SEP] [CLS]
+

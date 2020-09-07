@@ -1,0 +1,2 @@
+[CLS] The Freckleton air disaster occurred on 23 August 1944, when a Consolidated B-24 Liberator of the United States Army Air Forces (USAAF) crashed into the centre of the village of Freckleton, Lancashire, England. [SEP] [CLS] The aircraft crashed into the Holy Trinity Church of England School, demolishing three houses and the Sad Sack Snack Bar. [SEP] [CLS] The death toll was 61, including 38 children. [SEP] [CLS]
+

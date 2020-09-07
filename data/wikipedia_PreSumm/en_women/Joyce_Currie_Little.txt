@@ -1,0 +1,2 @@
+[CLS] Joyce Currie Little is a computer scientist, engineer, and educator. [SEP] [CLS] She is a professor and former chairperson in the Department of Computer and Information Sciences at Towson University in Towson, Maryland. [SEP] [CLS]
+

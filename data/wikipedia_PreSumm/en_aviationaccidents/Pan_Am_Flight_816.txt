@@ -1,0 +1,2 @@
+[CLS] Pan Am Flight 816 was an international flight from Auckland, New Zealand, to San Francisco, California, via Tahiti, French Polynesia and Los Angeles. [SEP] [CLS] It was operated by a Pan Am Boeing 707-321B bearing the registration N417PA and named Clipper Winged Racer. [SEP] [CLS] On July 22, 1973, at 10:06 P.M. [SEP] [CLS] local time, the Boeing 707 took off from Fa'a'ā International Airport in Papeete. [SEP] [CLS] Thirty seconds after takeoff, the airliner, carrying 79 passengers and crew, crashed into the sea. [SEP] [CLS]
+

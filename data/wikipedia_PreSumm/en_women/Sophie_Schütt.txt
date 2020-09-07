@@ -1,0 +1,2 @@
+[CLS] German Australians (German: Deutsch-Australier) are Australian citizens of ethnic German ancestry. [SEP] [CLS] The German community constitute one of the largest ethnic groups in Australia, numbering 898,700 or 4.5 percent of respondents in the 2011 Census. [SEP] [CLS] It is the fifth most identified European ancestry in Australia behind English, Irish, Scottish and Italian. [SEP] [CLS]
+

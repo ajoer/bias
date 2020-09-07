@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 505 crashed just after takeoff in Tashkent on 16 January 1987. [SEP] [CLS] Flight 505 was an early morning flight from Tashkent to Shahrisabz, both in the Uzbek Soviet Socialist Republic, now the Republic of Uzbekistan. [SEP] [CLS] The flight took off just one minute and 28 seconds after an Ilyushin Il-76, thus encountering its wake vortex. [SEP] [CLS] The Yakovlev Yak-40 then banked sharply to the right, struck the ground, and caught fire. [SEP] [CLS] All 9 people on board died. [SEP] [CLS]
+

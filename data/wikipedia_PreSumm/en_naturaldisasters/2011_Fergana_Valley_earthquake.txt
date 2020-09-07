@@ -1,0 +1,2 @@
+[CLS] The 2011 Fergana Valley earthquake affected Uzbekistan, Kyrgyzstan and Tajikistan at 01:35 local time on 20 July. [SEP] [CLS] The dip-slip shock had a moment magnitude of 6.2 and a maximum Mercalli intensity of VIII (Severe). [SEP] [CLS] Its epicenter was located just inside Kyrgyzstan's border in the Fergana Valley region. [SEP] [CLS] Fourteen were killed and eighty-six were injured. [SEP] [CLS]
+

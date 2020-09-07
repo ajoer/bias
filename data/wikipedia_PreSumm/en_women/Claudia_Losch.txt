@@ -1,0 +1,2 @@
+[CLS] Claudia Losch (born 10 January 1960) is a retired German shot putter. [SEP] [CLS] She is the 1984 Olympic Champion. [SEP] [CLS] At the 1988 Olympic Games, she finished fifth. [SEP] [CLS] She is also the 1989 World Indoor Champion and won the European Indoor title three times. [SEP] [CLS] Losch won the German indoor championship in the shot put in 1983, 1984, 1987, 1988, and 1989. [SEP] [CLS] She won the German championship from 1982 through 1990, nine times in a row. [SEP] [CLS]
+

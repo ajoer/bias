@@ -1,0 +1,2 @@
+[CLS] Charles Messier (French: [ʃaʁl me.sje]; 26 June 1730 – 12 April 1817) was a French astronomer. [SEP] [CLS] He published an astronomical catalogue consisting of 110 nebulae and faint star clusters, which came to be known as the Messier objects. [SEP] [CLS] The purpose of the catalogue was to help astronomical observers distinguish between permanent and transient visually diffuse objects in the sky. [SEP] [CLS]
+

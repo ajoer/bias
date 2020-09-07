@@ -1,0 +1,2 @@
+[CLS] Aerolíneas Argentinas Flight 707 was an international Asunción–Formosa–Corrientes–Rosario–Buenos Aires passenger service operated with an Avro 748-105 Srs. [SEP] [CLS] 1, registration LV-HGW, named "Ciudad de Bahía Blanca", that crashed on 4 February 1970 near the city of Loma Alta, Chaco, Argentina. [SEP] [CLS]
+

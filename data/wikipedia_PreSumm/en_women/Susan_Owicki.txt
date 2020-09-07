@@ -1,0 +1,2 @@
+[CLS] Susan Owicki is a computer scientist, Association for Computing Machinery (ACM) Fellow, and one of the founding members of the Systers mailing list for women in computing. [SEP] [CLS] She changed careers in the early 2000s and became a licensed marriage and family therapist. [SEP] [CLS]
+

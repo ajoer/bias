@@ -1,0 +1,2 @@
+[CLS] The 1900 Westchester County tornado was an intense, but short-lived tornado that caused significant damage near the city of New Rochelle, New York. [SEP] [CLS]
+

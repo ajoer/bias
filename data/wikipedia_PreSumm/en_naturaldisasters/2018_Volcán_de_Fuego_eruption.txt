@@ -1,0 +1,2 @@
+[CLS] The 2018 Volcán de Fuego eruption was a series of volcanic explosions and pyroclastic flows from the Volcán de Fuego (Spanish for Volcano of Fire) in Guatemala on Sunday 3 June 2018. [SEP] [CLS] The eruption included lahars, pyroclastic flows, and clouds of volcanic ash, which left almost no evacuation time and caused the death of nearly two hundred people. [SEP] [CLS] It was the deadliest eruption in Guatemala since 1929. [SEP] [CLS]
+

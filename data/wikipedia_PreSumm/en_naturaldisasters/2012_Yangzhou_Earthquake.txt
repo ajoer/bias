@@ -1,0 +1,2 @@
+[CLS] The 2012 Yangzhou earthquake occurred in Jiangsu Province of the People's Republic of China at 20:11 (UTC+8) in Yangzhou on July 20. [SEP] [CLS]
+

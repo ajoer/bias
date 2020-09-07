@@ -1,0 +1,2 @@
+[CLS] Nicole Gibbs (born March 3, 1993) is an American tennis player. [SEP] [CLS] She has won seven singles and five doubles titles on the ITF circuit. [SEP] [CLS] On 25 July 2016, she reached her best singles ranking of world No. [SEP] [CLS] 68. [SEP] [CLS] On 19 September 2016, she peaked at No. [SEP] [CLS] 107 in the WTA doubles rankings. [SEP] [CLS] Gibbs graduated in 2010 from Crossroads School in Santa Monica, California, and from Stanford University in 2014. [SEP] [CLS]
+

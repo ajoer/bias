@@ -1,0 +1,2 @@
+[CLS] The 1843 Guadeloupe earthquake occurred at 10:37 local time on 8 February in the island of Guadeloupe in the Lesser Antilles. [SEP] [CLS] It had an estimated magnitude (scale unspecified) of 8.5, making it the strongest recorded earthquake in the Caribbean and a maximum perceived intensity of shaking of IX on the Mercalli intensity scale. [SEP] [CLS] The earthquake was felt widely throughout the Caribbean and as far away as New York. [SEP] [CLS] Around 1,500 to 5,000 people were killed. [SEP] [CLS]
+

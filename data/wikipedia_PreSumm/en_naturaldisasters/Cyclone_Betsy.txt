@@ -1,0 +1,2 @@
+[CLS] Severe Tropical Cyclone Betsy impacted 8 island nations. [SEP] [CLS]
+

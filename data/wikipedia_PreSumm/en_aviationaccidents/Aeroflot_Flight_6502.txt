@@ -1,0 +1,2 @@
+[CLS] Aeroflot Flight 6502 was a Soviet domestic passenger flight operated by a Tupolev Tu-134A from Sverdlovsk (now Yekaterinburg) to Grozny, which crashed on 20 October 1986. [SEP] [CLS] 70 of the 94 passengers and crew on board were killed. [SEP] [CLS] Investigators determined the cause of the accident to be pilot negligence. [SEP] [CLS]
+

@@ -1,0 +1,2 @@
+[CLS] Lydia E. [SEP] [CLS] Kavraki (Greek: Λύδια Καβράκη) is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. [SEP] [CLS] She is also the director of the Ken Kennedy Institute at Rice University. [SEP] [CLS] She is known for her work on robotics/AI and bioinformatics/computational biology and in particular for the probabilistic roadmap method for robot motion planning and biomolecular configuration analysis. [SEP] [CLS]
+

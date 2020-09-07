@@ -1,0 +1,2 @@
+[CLS] Paulina Ligocka (born 25 May 1984) is a Polish snowboarder. [SEP] [CLS] In March 2006 she finished second in the cumulative final standing of the World Cup in half-pipe. [SEP] [CLS] She was an Olympian at the 2006 Winter Olympics in Turin, where she was the bearer of the Polish flag at the opening ceremonies. [SEP] [CLS] She competed in half-pipe, finishing 17th. [SEP] [CLS] Born in Gliwice, she now lives in the town of Cieszyn, which lies on the border with the Czech Republic. [SEP] [CLS]
+

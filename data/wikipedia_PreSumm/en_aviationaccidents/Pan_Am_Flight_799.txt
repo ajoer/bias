@@ -1,0 +1,2 @@
+[CLS] Pan Am Flight 799 was an international cargo flight from Los Angeles International Airport to Cam Ranh Airport in South Vietnam that crashed on December 26, 1968 near Anchorage, Alaska. [SEP] [CLS] The aircraft involved was a Boeing 707-321C aircraft operated by Pan American World Airways. [SEP] [CLS] All three crew members died in the crash. [SEP] [CLS]
+

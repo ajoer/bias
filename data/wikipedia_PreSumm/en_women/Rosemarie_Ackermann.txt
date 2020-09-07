@@ -1,0 +1,2 @@
+[CLS] Rosemarie "Rosi" Ackermann (née Witschas; born 4 April 1952) is a former East German high jumper. [SEP] [CLS] She was the first female high jumper ever to clear the height of 2.00 m, on 26 August 1977 in Berlin. [SEP] [CLS]
+

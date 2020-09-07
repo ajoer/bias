@@ -1,0 +1,2 @@
+[CLS] Matti Antero Hautamäki (Finnish pronunciation: [ˈmɑtːi ˈɑntero ˈhɑutɑmæki]; born 14 July 1981) is a Finnish former ski jumper who competed from 1997 to 2012. [SEP] [CLS] He is one of Finland's most successful ski jumpers, having won sixteen individual World Cup competitions; multiple medals at the Winter Olympics, Ski Jumping World Championships, and Ski Flying World Championships; the Nordic Tournament twice; and four ski flying world records. [SEP] [CLS]
+

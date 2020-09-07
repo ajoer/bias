@@ -1,0 +1,2 @@
+[CLS] Crossair Flight 3597 was a scheduled flight from Berlin Tegel Airport, in Germany, to Zürich Airport, in Switzerland. [SEP] [CLS] On 24 November 2001, the Crossair Avro RJ100 operating the route, registration HB-IXM, crashed into a wooded range of hills near Bassersdorf and caught fire, killing 24 of the 33 people on board. [SEP] [CLS]
+

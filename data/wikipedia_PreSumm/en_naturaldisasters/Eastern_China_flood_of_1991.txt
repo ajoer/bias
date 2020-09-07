@@ -1,0 +1,2 @@
+[CLS] In the summer of 1991, continuous, heavy rainfall in Eastern China caused rivers and water loggings to overflow and flood the area, leading to the Chinese government requesting international aid. [SEP] [CLS]
+

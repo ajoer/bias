@@ -1,0 +1,2 @@
+[CLS] Anthony J. [SEP] [CLS] "Tony" Barbieri (born August 26, 1963, in Framingham, Massachusetts) is an Italian-American comedic writer and performer. [SEP] [CLS] He is most famous for his appearances as the Jimmy Kimmel Live! [SEP] [CLS] character "Jake Byrd." He is also known for playing the character of "Walter 'Mole' Molinski" for the "Perry Project", a long term prank by Barbieri and fellow comedian Don Barris on Perry Caravello which has included the Big Three Podcast as well as the feature film Windy City Heat. [SEP] [CLS]
+

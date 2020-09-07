@@ -1,0 +1,2 @@
+[CLS] The Waltons is an American television series that aired for nine seasons (1972–1981) on CBS. [SEP] [CLS] A further six TV movies aired in the 1980s and 1990s. [SEP] [CLS] Below is a list of the series characters and the actors that portrayed them. [SEP] [CLS]
+

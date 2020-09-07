@@ -1,0 +1,2 @@
+[CLS] On 11 September 1275, an earthquake struck the south of Great Britain. [SEP] [CLS] The epicentre is unknown, although it may have been in the Portsmouth/Chichester area on the south coast of England or in Glamorgan, Wales. [SEP] [CLS] The earthquake is known for causing the destruction of St Michael's Church on Glastonbury Tor in Somerset. [SEP] [CLS]
+

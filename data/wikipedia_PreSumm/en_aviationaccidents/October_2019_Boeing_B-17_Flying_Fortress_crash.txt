@@ -1,0 +1,2 @@
+[CLS] On October 2, 2019, a Boeing B-17 Flying Fortress owned by the Collings Foundation crashed at Bradley International Airport, Windsor Locks, Connecticut, United States. [SEP] [CLS] Seven of the thirteen people on board were killed, and the other six, as well as one person on the ground, were injured. [SEP] [CLS] The aircraft was destroyed by fire, with only the tail and a portion of one wing remaining. [SEP] [CLS]
+

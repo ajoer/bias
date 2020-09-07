@@ -1,0 +1,2 @@
+[CLS] The December 2015 Hindu Kush earthquake occurred with a moment magnitude of 6.3 in South Asia on 25 December 2015. [SEP] [CLS] One woman was killed in Pakistan. [SEP] [CLS] At least 100 people were injured in Pakistan and Afghanistan. [SEP] [CLS] The quake was also strongly felt in Tajikistan and India. [SEP] [CLS] The epicenter of the earthquake was in the Afghanistan-Tajikistan border region at a depth of 203.4 km. [SEP] [CLS]
+

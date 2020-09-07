@@ -1,0 +1,2 @@
+[CLS] The 1957 Aqaba Valetta accident happened on 17 April 1957 when a twin-engined Vickers Valetta C.1 transport aircraft, serial number VW832, of 84 Squadron, Royal Air Force crashed and was destroyed after departing from Aqaba Airport in Jordan following wing failure due to turbulence. [SEP] [CLS] The crash is the deadliest air disaster in the history of Jordan. [SEP] [CLS]
+

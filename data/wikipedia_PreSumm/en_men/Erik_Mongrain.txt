@@ -1,0 +1,2 @@
+[CLS] Erik Mongrain (born April 12, 1980 in Montreal, Quebec, Canada) is a Canadian composer and guitarist. [SEP] [CLS] He has a unique and dark acoustic style, with a wide array of different techniques, approaches and textures reminiscent of Michael Hedges. [SEP] [CLS]
+

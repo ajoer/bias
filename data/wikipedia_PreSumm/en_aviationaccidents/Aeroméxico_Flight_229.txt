@@ -1,0 +1,2 @@
+[CLS] Aeroméxico Flight 229 was a McDonnell Douglas DC-9 that crashed into the side of a mountain while on approach to Licenciado Gustavo Díaz Ordaz International Airport in Puerto Vallarta, Mexico, on 20 June 1973. [SEP] [CLS] There were no survivors among the 27 passengers and crew. [SEP] [CLS]
+

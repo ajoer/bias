@@ -1,0 +1,2 @@
+[CLS] The 2005 Melbourne Thunderstorm was a severe weather event that occurred between 2 February and 3 February 2005 which produced 120 mm (or about 4.7 inches) of rain in Melbourne, the highest total since records began. [SEP] [CLS] Every suburb in Melbourne, parts of eastern Victoria and the Geelong/Bellarine Peninsula were affected by the storm. [SEP] [CLS]
+

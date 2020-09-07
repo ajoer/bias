@@ -1,0 +1,2 @@
+[CLS] Flying Tiger Line Flight 66 was a scheduled international cargo flight from Singapore Changi Airport, to Hong Kong's Kai Tak Airport via a stopover at Kuala Lumpur International Airport, Malaysia. [SEP] [CLS] On February 19, 1989, the FedEx-owned Boeing 747-249F-SCD crashed while on its final approach. [SEP] [CLS] The aircraft impacted a hillside 437 feet (133 m) above sea level and 12 kilometres (7.5 mi; 6.5 nmi) from Kuala Lumpur, resulting in all four crew members being killed. [SEP] [CLS]
+

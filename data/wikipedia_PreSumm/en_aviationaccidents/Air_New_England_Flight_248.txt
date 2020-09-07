@@ -1,0 +1,2 @@
+[CLS] Air New England Flight 248 was a De Havilland DHC-6 Twin Otter that crashed on approach to Barnstable Municipal Airport in Barnstable County, Massachusetts, on 17 June 1979. [SEP] [CLS] All of those on the aircraft survived with the exception of the pilot, who was killed instantly. [SEP] [CLS]
+

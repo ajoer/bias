@@ -1,0 +1,2 @@
+[CLS] Banat Air Flight 166 was an Antonov Antonov An-24 (registration YR-AMR) chartered on 13 December 1995 from Romavia by Banat Air. [SEP] [CLS] It was due to fly from Verona, Italy, to Timișoara, Romania, when it crashed shortly after take-off, killing all eight crewmembers and 41 passengers. [SEP] [CLS] It later emerged that the aircraft was severely overloaded and its wings were contaminated with ice and snow. [SEP] [CLS] The accident was the 116th loss of an Antonov 24. [SEP] [CLS]
+

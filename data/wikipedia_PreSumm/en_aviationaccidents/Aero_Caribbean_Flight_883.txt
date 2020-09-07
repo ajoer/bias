@@ -1,0 +1,2 @@
+[CLS] Aero Caribbean Flight 883 was a domestic scheduled passenger service from Port-au-Prince, Haiti to Havana, Cuba with a stopover in Santiago de Cuba. [SEP] [CLS] On 4 November 2010, the ATR 72 operating the route crashed in the central Cuban province of Sancti Spíritus, killing all 61 passengers and 7 crew members aboard. [SEP] [CLS]
+

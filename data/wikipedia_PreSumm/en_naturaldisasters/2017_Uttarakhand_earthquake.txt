@@ -1,0 +1,2 @@
+[CLS] A magnitude 5.1 earthquake struck India, at depth of 16.1 km (10 mi), near Rudraprayag district in the state of Uttarakhand on February 6, 2017. [SEP] [CLS] Tremors were felt continuously for thirty seconds in national capital Delhi NCR and neighbouring Gurgaon, Punjab and other parts of north India. [SEP] [CLS] One person was injured, with panic scenes around the epicenter. [SEP] [CLS] Many cracks in buildings were reported. [SEP] [CLS]
+

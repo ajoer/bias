@@ -1,0 +1,2 @@
+[CLS] The 1993 Virginia tornado outbreak was a tornado outbreak that occurred in the Southeastern United States on August 6, 1993. [SEP] [CLS] It was very rare in that most tornado outbreaks in this region occur in the spring. [SEP] [CLS]
+

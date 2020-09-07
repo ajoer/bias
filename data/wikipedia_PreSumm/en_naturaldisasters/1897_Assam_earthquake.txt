@@ -1,0 +1,2 @@
+[CLS] The Assam earthquake of 1897 occurred on 12 June in Assam at 17:15 local time, India, and had an estimated moment magnitude of 8.0. [SEP] [CLS] Considering the size of the earthquake, the mortality rate was about 1,542 casualties, but property damage was very heavy. [SEP] [CLS] Damage from the earthquake extended into Calcutta where dozens of buildings were badly damaged or partially collapsed. [SEP] [CLS] Shaking from the event was felt across India, as far as Ahmedabad and Peshawar. [SEP] [CLS] Seiches were also observed in Burma. [SEP] [CLS]
+

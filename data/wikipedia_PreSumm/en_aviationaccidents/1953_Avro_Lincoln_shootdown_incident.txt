@@ -1,0 +1,2 @@
+[CLS] The 1953 Avro Lincoln shootdown incident was the shooting down of a British Avro Lincoln four-engined bomber which had intruded into East German airspace during a training mission on 12 March 1953. [SEP] [CLS] While the aircraft was flying on the Hamburg-Berlin air corridor over East Germany it was shot down by a MiG 15 Soviet fighter. [SEP] [CLS]
+
