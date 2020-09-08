@@ -14,25 +14,37 @@ import glob
 import json
 import os
 
-from summarizer import Summarizer
+##### Todo: fix input text so there's space before all full stops.
 
 parser = argparse.ArgumentParser(description='''''')
 parser.add_argument("gender", help="file name, either men or women")
+parser.add_argument("model", help="name of the summarization model to use, bert or textrank")
 
 args = parser.parse_args()
 
 input_file = f"data/wikipedia_raw/en_{args.gender}_summaries.json"
 data = json.load(open(input_file))
-model = Summarizer()
+
+if args.model == "bert":
+	from summarizer import Summarizer
+	model = Summarizer()
+elif args.model == "textrank":
+	from summa.summarizer import summarize
 
 output_data = {}
 
 for person in data:
 	if data[person]["text_length"] < 150: continue
 	text = data[person]["text"]
-	result = model(text, min_length=60)
-	full = ''.join(result)
+
+	if args.model == "textrank":
+		result = summarize(text, words=150)
+		full = ' '.join(x for x in result.strip().split())
+		print(full)
+	elif args.model == "bert":
+		result = model(text, min_length=60)
+		full = ''.join(result)
 	output_data[person] = full
 
-with open(f'data/summaries/en_{args.gender}_bert_extractive.json', 'w') as outfile:
+with open(f'data/summaries/en_{args.gender}_{args.model}.json', 'w') as outfile:
     json.dump(output_data, outfile)
