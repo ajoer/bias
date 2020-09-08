@@ -13,7 +13,7 @@ import argparse
 import glob
 import json
 import os
-
+from nltk import sent_tokenize
 ##### Todo: fix input text so there's space before all full stops.
 
 parser = argparse.ArgumentParser(description='''''')
@@ -28,23 +28,39 @@ data = json.load(open(input_file))
 if args.model == "bert":
 	from summarizer import Summarizer
 	model = Summarizer()
+
 elif args.model == "textrank":
 	from summa.summarizer import summarize
 
 output_data = {}
 
-for person in data:
-	if data[person]["text_length"] < 150: continue
-	text = data[person]["text"]
+def evaluate_summary_length(result):
+	summary_sentences = sent_tokenize(result)
+	if len(summary_sentences) < 6: return summary_sentences
+	else: return None
 
-	if args.model == "textrank":
-		result = summarize(text, words=150)
-		full = ' '.join(x for x in result.strip().split())
-		print(full)
-	elif args.model == "bert":
-		result = model(text, min_length=60)
-		full = ''.join(result)
-	output_data[person] = full
+def main():
+	for person in data:
+		text = data[person]["text"]
+		all_sentences = sent_tokenize(text)
+		if len(all_sentences) < 10: continue
 
-with open(f'data/summaries/en_{args.gender}_{args.model}.json', 'w') as outfile:
-    json.dump(output_data, outfile)
+		print(person)
+
+		if args.model == "textrank":
+			result = summarize(text)
+			sentences = evaluate_summary_length(result)
+
+		elif args.model == "bert":
+			result = model(text)
+			sentences = evaluate_summary_length(result)
+
+		if sentences == None: continue
+		out = ' '.join(x for x in sentences)
+		output_data[person] = out
+
+	with open(f'data/summaries/en_{args.gender}_{args.model}.json', 'w') as outfile:
+	    json.dump(output_data, outfile, sort_keys=True, indent=4,)
+
+if __name__ == "__main__":
+	 main()
