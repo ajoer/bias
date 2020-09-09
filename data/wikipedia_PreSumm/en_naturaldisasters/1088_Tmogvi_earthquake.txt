@@ -1,2 +1,0 @@
-[CLS] The 1088 Tmogvi earthquake (Georgian: თმოგვის მიწისძვრა) occurred on April 16 or April 22, 1088, on Easter Sunday, in the southern provinces of the Kingdom of Georgia. [SEP] [CLS] It takes its name from the castle of Tmogvi, in Javakheti, whose destruction is specifically noted in the medieval annals of Georgia. [SEP] [CLS] Its magnitude is estimated as 6.5 on the surface wave magnitude scale. [SEP] [CLS]
-

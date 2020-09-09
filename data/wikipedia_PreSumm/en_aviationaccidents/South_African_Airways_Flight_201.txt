@@ -1,2 +1,0 @@
-[CLS] South African Airways Flight 201 (SA201), a de Havilland Comet 1, took off at 18:32 UTC on 8 April 1954 from Ciampino Airport in Rome, Italy, en route to Cairo, Egypt, on the second stage of its flight from London, England to Johannesburg, South Africa. [SEP] [CLS] The flight crashed at around 19:07 UTC, killing all on board. [SEP] [CLS] The flight was operated as a charter by British Overseas Airways Corporation (BOAC) using the aircraft G-ALYY ("Yoke Yoke"), with a South African crew of seven, and carrying fourteen passengers. [SEP] [CLS]
-

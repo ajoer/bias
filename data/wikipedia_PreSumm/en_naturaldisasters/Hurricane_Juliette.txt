@@ -1,2 +1,0 @@
-[CLS] The name Juliette has been used for seven tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Juliette (1983) Tropical Storm Juliette (1989) Hurricane Juliette (1995) Hurricane Juliette (2001) Tropical Storm Juliette (2007) Tropical Storm Juliette (2013) Hurricane Juliette (2019)
-

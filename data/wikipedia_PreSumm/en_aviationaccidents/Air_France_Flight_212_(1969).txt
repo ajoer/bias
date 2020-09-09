@@ -1,2 +1,0 @@
-[CLS] Air France Flight 212 was a passenger flight operated by a Boeing 707, registration F-BHSZ, that crashed on 3 December 1969. [SEP] [CLS] None of the 62 people on board survived. [SEP] [CLS]
-

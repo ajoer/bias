@@ -1,2 +1,0 @@
-[CLS] Commonwealth Commuter Flight 317 was a scheduled commuter flight from Pittsburgh, Pennsylvania to Johnstown, Pennsylvania, operated by Air East. [SEP] [CLS] On January 6, 1974, while on approach to Johnstown–Cambria County Airport, the Beechcraft Model 99A operating the flight crashed short of the runway after it failed to maintain flying speed and made a premature descent below the safe approach slope for undetermined reasons. [SEP] [CLS] Of the 15 passengers and two crew members on board, 11 passengers and the aircraft captain were killed. [SEP] [CLS]
-

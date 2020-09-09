@@ -1,2 +1,0 @@
-[CLS] Heidi Biebl (born 17 February 1941) is a retired German alpine skier. [SEP] [CLS] She won gold medal in the downhill at the 1960 Winter Olympics, just three days after her 19th birthday, becoming the games' youngest gold medal winner. [SEP] [CLS] She also competed at the 1964 Winter Olympics, finishing fourth in both the downhill and slalom events. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The name Philippe has been used for three tropical cyclones in the Atlantic Ocean. [SEP] [CLS] Hurricane Philippe (2005), a short-lived Category 1 hurricane that stayed out in Atlantic Ocean. [SEP] [CLS] Hurricane Philippe (2011), a Category 1 hurricane that never impacted any land. [SEP] [CLS] Tropical Storm Philippe (2017), a short-lived and weak tropical storm which affected Cuba and South Florida. [SEP] [CLS]
-

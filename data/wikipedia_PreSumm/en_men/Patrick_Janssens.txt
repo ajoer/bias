@@ -1,2 +1,0 @@
-[CLS] Patrick Janssens is a former Belgian politician, born on 19 September 1956. [SEP] [CLS] He was a member of the SP.a and the former mayor of the port city Antwerp. [SEP] [CLS]
-

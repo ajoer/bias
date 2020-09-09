@@ -1,2 +1,0 @@
-[CLS] Anna Sundström, born as Anna Christina Persdotter, (26 February 1785 in Kymlinge, Spånga – 1871), was a Swedish chemist. [SEP] [CLS] She was the assistant of the chemist Jöns Jacob Berzelius from 1808 to 1836. [SEP] [CLS] Anna Sundström has been referred to as the first female chemist in Sweden. [SEP] [CLS]
-

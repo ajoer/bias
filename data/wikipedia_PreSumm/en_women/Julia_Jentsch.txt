@@ -1,2 +1,0 @@
-[CLS] Julia Jentsch (born 20 February 1978) is a German actress. [SEP] [CLS] She has received awards including the Silver Bear, European Film Award, and Lola. [SEP] [CLS] She is best known for Sophie Scholl – The Final Days, The Edukators and I Served the King of England. [SEP] [CLS]
-

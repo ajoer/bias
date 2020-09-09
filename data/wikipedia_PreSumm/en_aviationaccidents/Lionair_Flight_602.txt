@@ -1,2 +1,0 @@
-[CLS] Lionair Flight 602 was a Lionair Antonov An-24RV which fell into the sea off the north-western coast of Sri Lanka on 29 September 1998. [SEP] [CLS] The aircraft departed Jaffna Airport with 48 passengers and a crew of seven; it disappeared from radar screens ten minutes into the flight. [SEP] [CLS] Initial reports indicated that the plane had been shot down by Liberation Tigers of Tamil Eelam terrorists using a MANPADS, which has since been confirmed. [SEP] [CLS] All aboard were presumed killed. [SEP] [CLS]
-

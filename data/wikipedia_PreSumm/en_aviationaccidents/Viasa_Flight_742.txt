@@ -1,2 +1,0 @@
-[CLS] Viasa Flight 742 was an international, scheduled passenger flight from Caracas, Venezuela to Miami International Airport with an intermediate stopover in Maracaibo, Venezuela that crashed on 16 March 1969. [SEP] [CLS] After taking off on the Maracaibo to Miami leg, the DC-9-30 hit a series of power lines before crashing into the La Trinidad section of Maracaibo. [SEP] [CLS] All 84 people on board perished, as well as 71 on the ground. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Heikki Väisänen (born 7 January 1943) is a Finnish ski jumper. [SEP] [CLS] He competed in the normal hill event at the 1968 Winter Olympics. [SEP] [CLS]
-

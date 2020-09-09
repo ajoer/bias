@@ -1,2 +1,0 @@
-[CLS] The 1868 Hawaii earthquake was the largest recorded in the history of Hawaiʻi island, with an estimated magnitude of 7.9 Mfa and a maximum Mercalli intensity of X (Extreme). [SEP] [CLS] The earthquake occurred at 4 p.m. [SEP] [CLS] local time on April 2, 1868 and caused a landslide and tsunami that led to 77 deaths. [SEP] [CLS] The aftershock sequence for this event has continued up to the present day. [SEP] [CLS]
-

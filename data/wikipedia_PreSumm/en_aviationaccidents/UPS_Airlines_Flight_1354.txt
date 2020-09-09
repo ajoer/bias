@@ -1,2 +1,0 @@
-[CLS] UPS Airlines Flight 1354 was a scheduled cargo flight from Louisville, Kentucky, to Birmingham, Alabama. [SEP] [CLS] On August 14, 2013, the Airbus A300 flying the route crashed and burst into flames short of the runway on approach to Birmingham–Shuttlesworth International Airport. [SEP] [CLS] Both pilots were pronounced dead at the scene of the crash. [SEP] [CLS] They were the only people aboard the aircraft. [SEP] [CLS]
-

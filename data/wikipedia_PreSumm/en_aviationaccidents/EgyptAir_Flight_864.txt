@@ -1,2 +1,0 @@
-[CLS] EgyptAir Flight 864 was a flight from Rome Fiumicino Airport to Tokyo International Airport, via Cairo, Bombay, and Bangkok. [SEP] [CLS] On 25 December 1976, the Boeing 707 on the route crashed into an industrial complex in Bangkok. [SEP] [CLS] All 52 people on board were killed, plus 19 on the ground in the crash. [SEP] [CLS]
-

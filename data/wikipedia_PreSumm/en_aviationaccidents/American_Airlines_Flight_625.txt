@@ -1,2 +1,0 @@
-[CLS] American Airlines Flight 625, a Boeing 727-100, crashed at St. [SEP] [CLS] Thomas, U.S. [SEP] [CLS] Virgin Islands on April 27, 1976, while on a domestic scheduled passenger flight originating at T. [SEP] [CLS] F. [SEP] [CLS] Green Airport in Rhode Island and ending at Saint Thomas, United States Virgin Islands, with an intermediate stop at John F. [SEP] [CLS] Kennedy International Airport. [SEP] [CLS] 37 out of the 88 passengers onboard died in the accident. [SEP] [CLS]
-

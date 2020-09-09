@@ -1,2 +1,0 @@
-[CLS] The 2005 European floods hit mainly Romania, Switzerland, Austria and Germany, as well as several other countries in Central Europe and Eastern Europe during August 2005. [SEP] [CLS] The disaster came at a time when Portugal was suffering from intense forest fires which left 15 dead and days before the powerful Hurricane Katrina hit the United States. [SEP] [CLS]
-

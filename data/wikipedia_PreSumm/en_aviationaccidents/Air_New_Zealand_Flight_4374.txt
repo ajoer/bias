@@ -1,2 +1,0 @@
-[CLS] Air New Zealand Flight NZ4734 was a flight from Gisborne which crashed while landing at to Auckland killing two of the four on board. [SEP] [CLS]
-

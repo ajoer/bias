@@ -1,2 +1,0 @@
-[CLS] United Airlines Flight 2885 was a scheduled cargo flight from Cleveland to Los Angeles, with stopover in Detroit. [SEP] [CLS] On January 11, 1983, a DC-8 operating Flight 2885 crashed after take-off from Detroit, killing all 3 crew. [SEP] [CLS] The National Transportation Safety Board (NTSB) investigation determined that the cause for the crash was pilot error. [SEP] [CLS]
-

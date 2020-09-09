@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 558 (Russian: Рейс 558 Аэрофлота Reys 558 Aeroflota) was a scheduled domestic passenger flight from Karaganda to Moscow that crashed on 31 August 1972, before being able to make an emergency landing in Magnitogorsk. [SEP] [CLS] All 102 people on board the flight were killed when the Ilyushin Il-18V operating the route crashed into a field in the Abzelilovsky District. [SEP] [CLS]
-

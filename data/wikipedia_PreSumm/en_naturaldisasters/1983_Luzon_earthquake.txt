@@ -1,2 +1,0 @@
-[CLS] The 1983 Luzon earthquake struck the Philippines at 20:17 PST (UTC+08:00) on August 17. [SEP] [CLS] The shock had a surface wave magnitude of 6.5 and a maximum Mercalli intensity of VII (Very strong), killing 16 people and injuring 47. [SEP] [CLS] Seven towns were damaged, several buildings collapsed, and electricity was cut off in Laoag. [SEP] [CLS] Features like sand volcanoes and cracks formed during the quake. [SEP] [CLS]
-

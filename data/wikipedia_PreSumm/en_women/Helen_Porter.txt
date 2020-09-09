@@ -1,2 +1,0 @@
-[CLS] Prof Helen Kemp Porter later Mrs Huggett FRS FRSE (10 November 1899 – 7 December 1987) was a British botanist from Imperial College London. [SEP] [CLS] She was a Fellow of the Royal Society and the first female professor at Imperial College London. [SEP] [CLS] Her studies of polysaccharide metabolism in tobacco plants were groundbreaking; she was one of the first British scientists to use the innovative technologies of chromatography and radioactive tracers. [SEP] [CLS]
-

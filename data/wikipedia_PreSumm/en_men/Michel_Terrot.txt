@@ -1,2 +1,0 @@
-[CLS] Michel Terrot (born December 18, 1948 in Lyon) is a member of the National Assembly of France. [SEP] [CLS] He represents the Rhône department, and is a member of the Union for a Popular Movement. [SEP] [CLS]
-

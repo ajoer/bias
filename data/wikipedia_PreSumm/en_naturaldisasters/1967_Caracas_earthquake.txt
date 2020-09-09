@@ -1,2 +1,0 @@
-[CLS] The 1967 Caracas earthquake occurred in Caracas, Venezuela, and La Guaira, Vargas on 29 July at 8:00 p.m (UTC−04:00 at that time). [SEP] [CLS] Its epicenter took place in the litoral central (20 km from Caracas) and lasted 35 seconds. [SEP] [CLS] It heavily affected areas such as Altamira, Los Palos Grandes, and Litoral Central. [SEP] [CLS] After the earthquake, there were several aftershocks of lower intensity. [SEP] [CLS] The earthquake left a toll of 1,536 injured, 225–300 dead, and cost $50–140 million United States Dollars in property damage. [SEP] [CLS]
-

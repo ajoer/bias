@@ -1,2 +1,0 @@
-[CLS] Vanessa Lynn Branch is an English-born American actress and model. [SEP] [CLS] She is best known in the United States as the Orbit Gum girl for its series of television commercials (her catchphrase is "Fabulous!"). [SEP] [CLS]
-

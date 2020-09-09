@@ -1,2 +1,0 @@
-[CLS] The 1950s Texas drought was a period between 1949 and 1957 in which the state received 30 to 50% less rain than normal, while temperatures rose above average. [SEP] [CLS] During this time, Texans experienced the second-, third-, and eighth-driest single years ever in the state – 1956, 1954, and 1951, respectively. [SEP] [CLS] The drought was described by a state water official as "the most costly and one of the most devastating droughts in 600 years."
-

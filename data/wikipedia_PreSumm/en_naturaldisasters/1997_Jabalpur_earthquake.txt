@@ -1,2 +1,0 @@
-[CLS] The 1997 Jabalpur earthquake occurred on May 22, at 04:21:31 AM in Jabalpur District in the Indian state of Madhya Pradesh. [SEP] [CLS] The epicenter of the earthquake was located near Koshamghat village. [SEP] [CLS] According to geologist Dr V. [SEP] [CLS] Subramanyan, former professor at the Indian Institute of Technology Bombay (IIT Bombay), the earthquake was caused by movement on the Narmada Fault. [SEP] [CLS]
-

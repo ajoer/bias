@@ -1,2 +1,0 @@
-[CLS] Trans World Airlines (TWA) Flight 553 was a McDonnell Douglas DC-9-15 jet airliner, registration N1063T, operated by Trans World Airlines in American airspace en route from Pittsburgh to Dayton. [SEP] [CLS] While descending toward Dayton about 29 miles from the airport, the flight collided in midair with a Beechcraft Baron (a small general-aviation airplane) near Urbana, Ohio, on March 9, 1967. [SEP] [CLS] All 25 people on board the DC-9 were killed, as was the pilot of the Beechcraft, its sole occupant. [SEP] [CLS]
-

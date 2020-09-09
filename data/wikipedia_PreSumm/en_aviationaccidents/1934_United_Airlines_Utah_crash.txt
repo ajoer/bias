@@ -1,2 +1,0 @@
-[CLS] The 1934 United Airlines Boeing 247 crash was an accident involving a Boeing Air Transport-operated United Airlines scheduled flight of a Boeing 247, which crashed in bad weather shortly after departing Salt Lake City, Utah on February 23, 1934, killing all eight on board. [SEP] [CLS] The cause was not immediately determined, but poor weather was considered a factor. [SEP] [CLS]
-

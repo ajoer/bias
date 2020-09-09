@@ -1,2 +1,0 @@
-[CLS] The 1911 Kebin earthquake, or Chon-Kemin earthquake, struck Russian Turkestan on 3 January. [SEP] [CLS] Registering at a 7.7 magnitude, it killed 452 people, destroyed more than 770 buildings (which was almost all of the city) in Almaty, Kazakhstan, and resulted in 125 miles (201 km) of surface faulting in the valleys of Chon-Kemin, Chilik and Chon-Aksu. [SEP] [CLS]
-

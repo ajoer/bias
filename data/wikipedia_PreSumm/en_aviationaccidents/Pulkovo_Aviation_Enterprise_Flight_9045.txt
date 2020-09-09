@@ -1,2 +1,0 @@
-[CLS] Pulkovo Aviation Enterprise Flight 9045 was a cargo flight that crashed on approach to Nalchik while carrying 12,515 kg of coins from the Saint Petersburg Mint. [SEP] [CLS]
-

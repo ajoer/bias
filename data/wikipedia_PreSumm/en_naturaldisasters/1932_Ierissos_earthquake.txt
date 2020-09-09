@@ -1,2 +1,0 @@
-[CLS] The 1932 Ierissos earthquake occurred at 19:20 on 26 September. [SEP] [CLS] It caused severe damage in Ierissos and the surrounding part of the Chalkidiki peninsula, with 491 casualties reported. [SEP] [CLS]
-

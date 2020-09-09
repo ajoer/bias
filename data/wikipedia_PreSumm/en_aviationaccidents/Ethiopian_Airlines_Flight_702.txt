@@ -1,2 +1,0 @@
-[CLS] Ethiopian Airlines Flight 702 was a scheduled flight from Addis Ababa to Milan via Rome on 17 February 2014. [SEP] [CLS] The aircraft, an Ethiopian Airlines Boeing 767-300ER, was hijacked by the unarmed co-pilot, Hailemedhin Abera Tegegn, en route from Addis Ababa to Rome, and landed at Geneva. [SEP] [CLS] All 202 passengers and crew were unharmed. [SEP] [CLS] Hailemedhin was arrested by the Swiss authorities, and after being convicted in absentia by an Ethiopian court, was granted asylum in Switzerland in May 2016. [SEP] [CLS]
-

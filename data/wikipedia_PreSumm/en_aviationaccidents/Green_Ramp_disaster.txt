@@ -1,2 +1,0 @@
-[CLS] The Green Ramp disaster was a 1994 mid-air collision and subsequent ground collision at Pope Air Force Base in North Carolina. [SEP] [CLS] It killed twenty-four members of the U.S. [SEP] [CLS] Army's 82nd Airborne Division preparing for an airborne operation. [SEP] [CLS] It was the worst peacetime loss of life suffered by the division since the end of World War II. [SEP] [CLS]
-

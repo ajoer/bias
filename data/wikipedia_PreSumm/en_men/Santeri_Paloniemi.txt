@@ -1,2 +1,0 @@
-[CLS] Santeri Paloniemi (born November 8, 1993) is a Finnish alpine skier. [SEP] [CLS] Paloniemi's strongest event is the slalom. [SEP] [CLS] Before the 2014 season, he has finished in points (top 30) four times in the FIS Alpine Ski World Cup. [SEP] [CLS] Paloniemi represents Ruka Slalom on club level, and is coached by his father, Martti Paloniemi. [SEP] [CLS]
-

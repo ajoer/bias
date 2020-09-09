@@ -1,2 +1,0 @@
-[CLS] The passage of Hurricane Isaac generated a long-lived, nine-day tornado outbreak that affected the Central and Eastern United States from August 27 to September 4, 2012. [SEP] [CLS] The hurricane produced a total of 34 tornadoes, with the strongest being two EF2 tornadoes in Mississippi and Arkansas. [SEP] [CLS] There were 19 tornado watches were issued for Isaac over eight days and 171 tornado warnings were issued across 12 states, with 77 of them in Mississippi. [SEP] [CLS]
-

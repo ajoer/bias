@@ -1,2 +1,0 @@
-[CLS] Sandra “Sandy” Carter is an American business woman, speaker and author. [SEP] [CLS] She was a general manager at IBM from 2013 to 2016, and in April 2017 she became a vice president at Amazon Web Services. [SEP] [CLS]
-

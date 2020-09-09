@@ -1,2 +1,0 @@
-[CLS] Rupert Wyatt (born 26 October 1972) is an English screenwriter, director, and producer. [SEP] [CLS] He made his directorial debut with the 2008 film The Escapist, which premiered at the Sundance Film Festival. [SEP] [CLS] His second film was the 2011 blockbuster Rise of the Planet of the Apes. [SEP] [CLS]
-

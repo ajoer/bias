@@ -1,2 +1,0 @@
-[CLS] The 141 Lycia earthquake occurred in the period AD 141 to 142. [SEP] [CLS] It affected most of the Roman provinces of Lycia and Caria and the islands of Rhodes, Kos, Simi and Serifos. [SEP] [CLS] It triggered a severe tsunami which caused major inundation. [SEP] [CLS] The epicenter for this earthquake is not well constrained, with locations suggested at the northern end of Rhodes, on the Turkish mainland north of Rhodes near Marmaris and beneath the sea to the east of Rhodes. [SEP] [CLS]
-

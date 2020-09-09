@@ -1,2 +1,0 @@
-[CLS] Tropical Cyclone Steve was a tropical cyclone that affected northern Australia from 27 February 2000 until 11 March 2000. [SEP] [CLS] Cyclone Steve was noted for its longevity and traversal of northern and western Australia. [SEP] [CLS] It impacted on regions of northern Queensland, the Northern Territory and Western Australia before clearing to the south of the continent. [SEP] [CLS] Steve is the first known Australian cyclone to make four distinct landfalls in the country. [SEP] [CLS]
-

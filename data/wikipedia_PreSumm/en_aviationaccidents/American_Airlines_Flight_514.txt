@@ -1,2 +1,0 @@
-[CLS] American Airlines Flight 514 was a training flight from Idlewild International Airport, to the Grumman Aircraft Corp. [SEP] [CLS] airfield. [SEP] [CLS] On the afternoon of August 15, 1959, the Boeing 707 operating the flight crashed near the Calverton airport, killing all five crew members aboard. [SEP] [CLS] This was the first accident to ever involve a Boeing 707, which had only gone into service in October of the previous year. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Lake Central Flight 527 was a regularly scheduled flight from Chicago, Illinois to Detroit, Michigan, with stops at Lafayette, Indiana, Cincinnati, Ohio, Columbus, Ohio, and Toledo, Ohio. [SEP] [CLS] Operated by one of the company's Convair 580s, on 5 March 1967, the flight crashed near Marseilles, Ohio, with the loss of all 38 passengers and crew on board. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1975 Devastation Glacier landslide was a massive rock avalanche that originated from Devastation Glacier on the southern flank of the Mount Meager massif on July 22, 1975. [SEP] [CLS] It had a volume of 13,000,000 m3 (460,000,000 cu ft) and buried and killed a group of four geologists at the confluence of Devastation Creek and Meager Creek. [SEP] [CLS]
-

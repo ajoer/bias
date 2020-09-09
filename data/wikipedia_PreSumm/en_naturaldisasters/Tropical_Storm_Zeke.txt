@@ -1,2 +1,0 @@
-[CLS] The name Zeke has been used for one tropical cyclone in the Eastern Pacific and two in the Western Pacific. [SEP] [CLS] Eastern Pacific: Tropical Storm Zeke (1992) – A tropical storm off the southwestern Mexican coast.Western Pacific: Typhoon Zeke (1991) (T9106, 06W, Etang) – passed over the Philippines before hitting Hainan with minimal damage. [SEP] [CLS] Typhoon Zeke (1994) (T9408, 12W) – stayed well clear of land. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The Eyemouth disaster was a severe European windstorm that struck the south-eastern coast of Scotland, United Kingdom, specifically Berwickshire, on 14 October 1881. [SEP] [CLS] One hundred and eighty-nine fishermen, most of whom were from the village of Eyemouth, were drowned. [SEP] [CLS] Many citizens of Eyemouth call the day Black Friday. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Malina is a 1991 German-Austrian drama film directed by Werner Schroeter. [SEP] [CLS] The screenplay was adapted by Elfriede Jelinek from Ingeborg Bachmann's 1971 novel Malina. [SEP] [CLS] The film was entered into the 1991 Cannes Film Festival. [SEP] [CLS]
-

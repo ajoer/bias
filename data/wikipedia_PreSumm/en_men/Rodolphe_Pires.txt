@@ -1,2 +1,0 @@
-[CLS] Rugby Pack is a French rugby programme for beIN Sports. [SEP] [CLS]
-

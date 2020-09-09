@@ -1,2 +1,0 @@
-[CLS] The 1931 Zangezur earthquake occurred on April 27 at 20:50:45 local time with a moment magnitude of 6.5. [SEP] [CLS] The earthquake was located in the Zangezur Mountains near the boundary between southwestern Armenia and Azerbaijan's exclave, the Nakhichivan Autonomous Republic. [SEP] [CLS] Both territories were part of the Soviet Union at that time. [SEP] [CLS]
-

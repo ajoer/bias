@@ -1,2 +1,0 @@
-[CLS] MK Airlines Flight 1602 was an MK Airlines Boeing 747-200F cargo flight on a flight from Halifax Stanfield International Airport, Nova Scotia, Canada to Zaragoza Airport, Spain. [SEP] [CLS] It crashed on take-off in 2004, killing the crew of 7. [SEP] [CLS]
-

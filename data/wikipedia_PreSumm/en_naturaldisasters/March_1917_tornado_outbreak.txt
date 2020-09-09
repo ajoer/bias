@@ -1,2 +1,0 @@
-[CLS] The March 1917 tornado outbreak was a tornado outbreak that occurred on March 23, 1917. [SEP] [CLS] It affected the Ohio Valley and produced several strong tornadoes, the worst of which devastated the city of New Albany, Indiana. [SEP] [CLS]
-

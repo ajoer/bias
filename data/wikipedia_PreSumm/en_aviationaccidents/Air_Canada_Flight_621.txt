@@ -1,2 +1,0 @@
-[CLS] Air Canada Flight 621 was an Air Canada Douglas DC-8, registered as CF-TIW, that crashed on July 5, 1970, while attempting to land at Toronto Pearson International Airport. [SEP] [CLS] It was flying on a Montreal–Toronto–Los Angeles route. [SEP] [CLS] It crashed in Toronto Gore Township, now part of Brampton.All 100 passengers and 9 crew on board were killed, and at the time it was Canada's second deadliest aviation accident. [SEP] [CLS]
-

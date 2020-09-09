@@ -1,2 +1,0 @@
-[CLS] Maria Epple Beck (born in Seeg on March 11, 1959) is a retired Alpine skier of Germany. [SEP] [CLS] In 1978 she was World champions in women's giant slalom. [SEP] [CLS] She is the sister of Irene Epple. [SEP] [CLS]
-

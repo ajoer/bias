@@ -1,2 +1,0 @@
-[CLS] The 1992 Cairo earthquake occurred at 15:09 local time (13:09 UTC) on 12 October, with an epicenter near Dahshur, 35 km (22 mi) south of Cairo. [SEP] [CLS] The earthquake had a magnitude of 5.8, but was unusually destructive for its size, causing 545 deaths, injuring 6,512 and making 50,000 people homeless. [SEP] [CLS] It was the most damaging seismic event to affect Cairo since 1847. [SEP] [CLS]
-

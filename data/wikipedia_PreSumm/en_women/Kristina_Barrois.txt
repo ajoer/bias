@@ -1,2 +1,0 @@
-[CLS] Kristina Barrois (born 30 September 1981) is a retired German tennis player. [SEP] [CLS] Barrois won 15 singles and 16 doubles titles on the ITF Women's Circuit in her career. [SEP] [CLS] On 9 May 2011, she reached her best singles ranking of world No. [SEP] [CLS] 57. [SEP] [CLS] On 20 February 2012, she peaked at No. [SEP] [CLS] 55 in the doubles rankings. [SEP] [CLS]
-

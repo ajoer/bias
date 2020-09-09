@@ -1,2 +1,0 @@
-[CLS] Indian Airlines Flight 171 was a Caravelle that crashed while attempting an emergency landing at Bombay Airport on 12 October 1976, killing all 95 persons on board. [SEP] [CLS] Metal fatigue in a compressor-disc had caused the casing to burst, cutting fuel lines and starting an engine fire, which sent the aircraft out of control. [SEP] [CLS]
-

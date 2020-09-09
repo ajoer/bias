@@ -1,2 +1,0 @@
-[CLS] The Maine flood of 1987 is A pair of spring storms in March and April 1987, combined with snow-melt, resulted in heavy flooding in Maine, New Hampshire and Massachusetts. [SEP] [CLS]
-

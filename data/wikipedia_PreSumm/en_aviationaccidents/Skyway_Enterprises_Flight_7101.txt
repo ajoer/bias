@@ -1,2 +1,0 @@
-[CLS] On October 29, 2014, Skyway Enterprises Flight 7101, a Short 360 cargo aircraft operating a non-scheduled flight from Princess Juliana International Airport on the Caribbean island of Saint Martin to San Juan, Puerto Rico, crashed into the sea shortly after take-off, killing both crew members on board.. [SEP] [CLS] The subsequent investigation concluded that somatogravic illusion most likely lead to in-flight loss of control and the resulting crash. [SEP] [CLS]
-

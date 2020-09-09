@@ -1,2 +1,0 @@
-[CLS] Rote Rosen (Red Roses) is a German telenovela produced by Studio Hamburg Serienwerft Lüneburg and broadcast by Das Erste since 6 November 2006. [SEP] [CLS] The show is a complex telenovela, which tells one love story every season about women in their forties. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Angara Airlines Flight 200 was a domestic scheduled flight from Ulan-Ude Airport to Nizhneangarsk Airport, Russia. [SEP] [CLS] On 27 June 2019, the Antonov An-24RV aircraft operating the flight suffered an engine failure on take-off. [SEP] [CLS] On landing at Nizhneangarsk, the aircraft departed the runway and collided with a building. [SEP] [CLS] All 43 passengers survived the crash whilst two of the four crew, the pilot and flight engineer, were killed. [SEP] [CLS]
-

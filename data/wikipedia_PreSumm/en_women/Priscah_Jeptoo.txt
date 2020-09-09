@@ -1,2 +1,0 @@
-[CLS] Priscah Jeptoo (born 26 June 1984) is a Kenyan long-distance runner who specialises in the marathon. [SEP] [CLS] She has won marathons in New York, Paris, Turin, and London and has a best time of 2:20:14 for the distance. [SEP] [CLS] She was the runner-up in the marathon at both the World Championships in Athletics in 2011 and the 2012 London Olympics. [SEP] [CLS] She ranks third all-time over the half marathon distance with her best of 66 minutes and 11 seconds (and 65:45 minutes on the Great North Run downhill course). [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Chiara "Chichi" Scholl (born July 5, 1992) is an American tennis player. [SEP] [CLS] Scholl has won nine singles titles and 17 doubles titles on the ITF Women's Circuit. [SEP] [CLS] In October 2011, she reached her best singles ranking of world No. [SEP] [CLS] 164. [SEP] [CLS] In August 2018, she peaked at No. [SEP] [CLS] 187 in the doubles rankings. [SEP] [CLS]
-

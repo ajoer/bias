@@ -1,2 +1,0 @@
-[CLS] Far Eastern Air Transport Flight 103 was a flight from Taiwan Taipei Songshan Airport to Kaohsiung International Airport that crashed on 22 August 1981, killing all 110 people on board. [SEP] [CLS] The Boeing 737-222 aircraft disintegrated in mid-air and crashed in Sanyi Township Miaoli County mountain Village double pit area. [SEP] [CLS] It is also called the Sanyi Air Disaster. [SEP] [CLS] The crash is the second-deadliest aviation accident on Taiwanese soil, behind China Airlines Flight 676. [SEP] [CLS]
-

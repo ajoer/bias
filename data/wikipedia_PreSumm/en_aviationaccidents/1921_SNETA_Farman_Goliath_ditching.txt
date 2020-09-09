@@ -1,2 +1,0 @@
-[CLS] The 1921 SNETA Farman Goliath ditching occurred on 26 August 1921 when a Farman F.60 Goliath of Syndicat National d'Etude du Transport Aérienne ditched in the North Sea off the coast of Belgium. [SEP] [CLS] The aircraft was operating a mail flight from Croydon Airport, United Kingdom to Brussels-Evere Airport, Belgium. [SEP] [CLS] The aircraft was later salvaged, repaired and returned to service. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] For the American Cargo airline see: Polar Air Cargo Polar Airlines (Russian: Полярные авиалинии, Poljarnýe avialinii) is an airline based in Yakutsk, Sakha Republic, Russia. [SEP] [CLS] It operates scheduled and charter passenger and cargo services. [SEP] [CLS]
-

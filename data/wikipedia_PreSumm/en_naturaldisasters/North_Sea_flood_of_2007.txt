@@ -1,2 +1,0 @@
-[CLS] Cyclone Tilo (also known as Cyclone Andrea in Norway) was a European windstorm which affected northern and western Europe in early November 2007. [SEP] [CLS] Combining with the remnants of Hurricane Noel, Tilo's storm surge led to the North Sea flood of 2007, affecting the coastlines of the Netherlands, the United Kingdom, Germany, Denmark, Norway and Belgium, starting on the night of 8–9 November 2007. [SEP] [CLS]
-

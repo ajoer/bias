@@ -1,2 +1,0 @@
-[CLS] Friedrich "Fritz" Walter (31 October 1920 – 17 June 2002) was a German footballer who spent his enitre senior career at 1. [SEP] [CLS] FC Kaiserslautern. [SEP] [CLS] He usually played as an attacking midfielder or inside forward. [SEP] [CLS] In his time with the German national team, he made 61 caps and scored 33 goals, and was captain of the team that won the 1954 FIFA World Cup. [SEP] [CLS]
-

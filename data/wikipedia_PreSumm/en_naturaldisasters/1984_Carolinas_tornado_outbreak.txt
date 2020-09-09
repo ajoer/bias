@@ -1,2 +1,0 @@
-[CLS] The 1984 Carolinas tornado outbreak of March 28, 1984, was the most destructive tornado outbreak to sweep through the two states since the Enigma tornado outbreak struck 100 years and 1 month earlier, according to NOAA and NCDC public records. [SEP] [CLS]
-

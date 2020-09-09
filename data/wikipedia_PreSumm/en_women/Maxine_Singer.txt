@@ -1,2 +1,0 @@
-[CLS] Maxine Frank Singer (born February 15, 1931) is an American molecular biologist and science administrator. [SEP] [CLS] She is known for her contributions to solving the genetic code, her role in the ethical and regulatory debates on recombinant DNA techniques (including the organization of the Asilomar Conference on Recombinant DNA), and her leadership of Carnegie Institution of Washington. [SEP] [CLS] In 2002, Discover magazine recognized her as one of the 50 most important women in science. [SEP] [CLS]
-

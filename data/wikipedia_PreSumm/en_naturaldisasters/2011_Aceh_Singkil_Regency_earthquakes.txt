@@ -1,2 +1,0 @@
-[CLS] 2011 Aceh Singkil earthquake that occurred 59 kilometers northeast of Singkil, Singkil, Aceh by force from 6.6 to 6.7 SR at 00:55 am on September 6, 2011 (17:55 UTC 5 September 2011). [SEP] [CLS] According to BMKG, this earthquake was at a depth of 78 km. [SEP] [CLS] However, according to the USGS, the quake was located at a depth of 91 km. [SEP] [CLS] The earthquake was also felt to Selangor, Kuala Lumpur, Perak, Kedah and Penang in Malaysia. [SEP] [CLS] The intensity was MM III in George Town, Penang and MM II in Kuala Lumpur. [SEP] [CLS]
-

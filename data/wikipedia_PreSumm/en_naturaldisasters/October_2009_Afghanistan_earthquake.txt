@@ -1,2 +1,0 @@
-[CLS] A 6.2 magnitude earthquake occurred in Afghanistan on October 22, 2009 at 19:51:27 UTC. [SEP] [CLS] This was a relatively deep shock with a reverse focal mechanism. [SEP] [CLS] The maximum Mercalli intensity was V (Moderate) at Fayzabad, Badakhshan. [SEP] [CLS] Landslides killed three people and two others suffered fatal heart attacks. [SEP] [CLS]
-

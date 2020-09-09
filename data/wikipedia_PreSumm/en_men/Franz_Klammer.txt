@@ -1,2 +1,0 @@
-[CLS] Franz Klammer (born 3 December 1953) is a former champion alpine ski racer from Austria. [SEP] [CLS] Klammer overwhelmingly dominated the downhill event for four consecutive World Cup seasons (1975–78). [SEP] [CLS] He was the gold medalist at the 1976 Winter Olympics in Innsbruck, winning the downhill at Patscherkofel by a margin of 0.33 seconds with a time of 1:45.73. [SEP] [CLS] He won 25 World Cup downhills, including four on the Hahnenkamm at Kitzbühel. [SEP] [CLS] He holds the record for the most victories (four) on the full course at Kitzbühel. [SEP] [CLS]
-

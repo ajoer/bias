@@ -1,2 +1,0 @@
-[CLS] The 1922 Swatow Typhoon was a devastating tropical cyclone that caused thousands of deaths in the Chinese city of Swatow (now Shantou, both 汕頭) in August 1922. [SEP] [CLS] This total makes it one of the deadliest known typhoons in history. [SEP] [CLS]
-

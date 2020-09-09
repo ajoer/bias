@@ -1,2 +1,0 @@
-[CLS] In June 1947 the southern half of Tasmania was affected by its largest floods on record. [SEP] [CLS] Although flooding at its peak between June 16 and 18 affected almost all rivers and streams across the island, in the rest of the state, the flooding did not approach the extent of the better-known 1929 floods. [SEP] [CLS] Floods on rivers such as the Derwent and Huon were the largest on record and caused considerable damage. [SEP] [CLS]
-

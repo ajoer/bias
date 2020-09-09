@@ -1,2 +1,0 @@
-[CLS] The Superga air disaster occurred on 4 May 1949, when a Fiat G.212 of Avio Linee Italiane (Italian Airlines), carrying the entire Torino football team (popularly known as the Grande Torino), crashed into the retaining wall at the back of the Basilica of Superga, which stands on a hill on the outskirts of Turin. [SEP] [CLS] All thirty-one people on the flight died. [SEP] [CLS]
-

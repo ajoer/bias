@@ -1,2 +1,0 @@
-[CLS] Severe Tropical Cyclone Kina was a significant tropical cyclone which became the second-costliest storm to ever hit Fiji, only after Cyclone Winston of 2016. [SEP] [CLS] Total losses from Kina are estimated to be near $F170 million ($US110 million). [SEP] [CLS] The system was first noted as a tropical depression, to the east of the Solomon Islands on December 23. [SEP] [CLS] Over the next few days the system moved south-eastwards and gradually developed further, before it was named Kina, after it had developed into a tropical cyclone during December 26. [SEP] [CLS]
-

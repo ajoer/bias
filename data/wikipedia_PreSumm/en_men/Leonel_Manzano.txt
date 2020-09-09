@@ -1,2 +1,0 @@
-[CLS] Leonel "Leo" Manzano (born September 12, 1984) is a retired Mexican-American middle-distance track and field athlete specializing in the 1500 m and mile. [SEP] [CLS] He was a silver medalist at the 2012 Summer Olympics. [SEP] [CLS] Manzano is known for finishing his races with a strong finishing kick. [SEP] [CLS]
-

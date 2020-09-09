@@ -1,2 +1,0 @@
-[CLS] Nepal Airlines Flight 183 was a scheduled domestic passenger flight operated by a DHC-6 Twin Otter that on 16 February 2014 crashed into a hill near Dhikura, Nepal. [SEP] [CLS]
-

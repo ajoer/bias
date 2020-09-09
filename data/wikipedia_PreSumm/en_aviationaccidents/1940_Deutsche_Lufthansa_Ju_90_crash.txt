@@ -1,2 +1,0 @@
-[CLS] On 8 November 1940, a Deutsche Lufthansa Junkers Ju 90 passenger aircraft crashed near the municipality of Schönteichen, Germany, killing all 29 people on board.The aircraft, registered D-AVMF and named Brandenburg, was en route from the German capital Berlin to Budapest, Hungary when ice formed on its tail, causing the airplane to lose control and crash. [SEP] [CLS] At the time, the accident was the worst one on German soil. [SEP] [CLS]
-

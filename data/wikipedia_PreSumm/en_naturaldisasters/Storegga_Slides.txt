@@ -1,2 +1,0 @@
-[CLS] The three Storegga Slides are considered to be amongst the largest known submarine landslides. [SEP] [CLS] They occurred under water, at the edge of Norway's continental shelf in the Norwegian Sea, approximately 6225–6170 BC. [SEP] [CLS] The collapse involved an estimated 290 km (180 mi) length of coastal shelf, with a total volume of 3,500 km3 (840 cu mi) of debris, which caused a megatsunami in the North Atlantic Ocean. [SEP] [CLS]
-

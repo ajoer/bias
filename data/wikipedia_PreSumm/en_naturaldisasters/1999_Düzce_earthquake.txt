@@ -1,2 +1,0 @@
-[CLS] The 1999 Düzce earthquake occurred on 12 November at 18:57:22 local time with a moment magnitude of 7.2 and a maximum Mercalli intensity of IX (Violent), causing damage and at least 845 fatalities in Düzce, Turkey. [SEP] [CLS] The epicenter was approximately 100 km (62 mi) to the east of the extremely destructive 1999 İzmit earthquake that happened a few months earlier. [SEP] [CLS] Both strike-slip earthquakes were caused by movement on the North Anatolian Fault. [SEP] [CLS]
-

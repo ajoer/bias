@@ -1,2 +1,0 @@
-[CLS] The Andersen Air Force Base B‑2 accident was a February 2008 incident when the Spirit of Kansas, a United States Air Force Northrop Grumman B-2 Spirit stealth strategic bomber, crashed on the runway shortly after takeoff from Andersen Air Force Base in Guam. [SEP] [CLS] The incident marks the first operational loss of a B‑2 bomber. [SEP] [CLS] Both crew members successfully ejected, but the aircraft was destroyed. [SEP] [CLS] With an estimated loss of US$1.4 billion, it was the most expensive aircraft crash in history. [SEP] [CLS]
-

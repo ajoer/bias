@@ -1,2 +1,0 @@
-[CLS] On 19 January 2006 an Antonov An-24 aircraft operated by the Slovak Air Force crashed in northern Hungary, near the village of Hejce and town of Telkibánya. [SEP] [CLS] The airplane was carrying Slovak peacekeepers from Kosovo. [SEP] [CLS] Of the 43 people on board, there was only one survivor. [SEP] [CLS] The crash remains the deadliest in Slovak history. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] FedEx Express Flight 14 was a scheduled cargo flight from Singapore to Newark, New Jersey, via Malaysia, Taiwan, and Alaska. [SEP] [CLS] On July 31, 1997, the aircraft flying this route crashed during landing on its final segment at Newark International Airport (EWR), catching fire as it flipped upside down, injuring all five people on board. [SEP] [CLS]
-

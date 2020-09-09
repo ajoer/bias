@@ -1,2 +1,0 @@
-[CLS] The 1988 Saguenay earthquake struck Quebec, Canada with a moment magnitude of 5.9 on November 25. [SEP] [CLS] It is one of the largest recorded earthquakes in eastern Canada and eastern North America during the 20th century. [SEP] [CLS] The earthquake was felt by millions, and damaged some buildings. [SEP] [CLS] It could be felt as far as Toronto, Halifax, and Boston.The earthquake was triggered by faults associated with the Saguenay Graben. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 2019 Cotabato earthquakes were an earthquake swarm which struck the province of Cotabato on the island of Mindanao in the Philippines in October 2019. [SEP] [CLS] Three of these earthquakes were above 6.0 on the moment magnitude scale with a Mercalli intensity of VIII. [SEP] [CLS] More than 40 people have been reported dead or missing and nearly 800 were injured as a result of these events. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Malév Flight 262 was a flight from Budapest Ferihegy International Airport to Thessaloniki International Airport. [SEP] [CLS] On 4 July 2000, a Tupolev Tu-154, belonging to Malév Hungarian Airlines, used on this flight performed a gear-up touchdown during the landing at Thessaloniki, skidded on the runway, but was able to take off and land normally after a go-around. [SEP] [CLS] No injuries were reported. [SEP] [CLS]
-

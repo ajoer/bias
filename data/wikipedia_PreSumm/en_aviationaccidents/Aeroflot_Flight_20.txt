@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 20 (Russian: Рейс 20 Аэрофлота Reys 20 Aeroflota) was a scheduled domestic passenger flight from Moscow to Alma-Ata with a stopover in Omsk that crashed in low visibility conditions on 4 January 1965, killing 64 of the 103 people on board. [SEP] [CLS]
-

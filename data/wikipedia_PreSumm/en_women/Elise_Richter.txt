@@ -1,2 +1,0 @@
-[CLS] Elise Richter (March 2, 1865 – June 23, 1943) was a Viennese philologist and the only woman at any Austrian university, pre-World War I, to hold an academic appointment. [SEP] [CLS] Persecuted by Nazi officials during World War II, she was deported to the Theresienstadt concentration camp in German-occupied Czechoslovakia in October 1942, and died there in June 1943. [SEP] [CLS]
-

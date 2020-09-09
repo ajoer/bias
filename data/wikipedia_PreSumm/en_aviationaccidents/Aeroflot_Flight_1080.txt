@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 1080 was a Soviet domestic passenger flight from Yekaterinburg, Russia to Kostanay, Kazakhstan that crashed at night shortly after takeoff on 7 October 1978. [SEP] [CLS] All 38 passengers and crew were killed in the crash which occurred when one of the engines failed due to icing during initial climb out. [SEP] [CLS] At the time, the crash was the second worst in the history of the Yakovlev Yak-40 which had entered operational service with Aeroflot just ten years prior. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] On 16 March 2005, Regional Airlines Flight 9288 crashed on approach to Varandey Airport in Russia's Nenetskiy Avtonomnyy Okrug, killing 28 of the 52 people on board. [SEP] [CLS]
-

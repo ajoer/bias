@@ -1,2 +1,0 @@
-[CLS] Danese Cooper is an American programmer, computer scientist and advocate of open source software. [SEP] [CLS]
-

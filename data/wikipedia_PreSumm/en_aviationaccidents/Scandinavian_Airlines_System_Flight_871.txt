@@ -1,2 +1,0 @@
-[CLS] Scandinavian Airlines System Flight 871 was a scheduled flight from Copenhagen in Denmark to the Egyptian capital of Cairo, with several intermediate stops; operated by Scandinavian Airlines System. [SEP] [CLS] On 19 January 1960, the Sud Aviation Caravelle flying the service crashed while operating a leg between Yeşilköy Airport and Esenboğa International Airport in Turkey. [SEP] [CLS] The flight was on approach but crashed six nautical miles from the airport, killing all 42 occupants on board. [SEP] [CLS] This was the first fatal crash of a Caravelle. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Saratov Airlines Flight 703 was a domestic passenger flight from Moscow Domodedovo Airport to Orsk Airport in Russia. [SEP] [CLS] On 11 February 2018, the aircraft serving the flight, an Antonov An-148-100B, crashed shortly after take-off, killing all 71 people on board — 65 passengers and six crew members. [SEP] [CLS]
-

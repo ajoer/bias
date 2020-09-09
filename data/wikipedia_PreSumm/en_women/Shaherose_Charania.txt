@@ -1,2 +1,0 @@
-[CLS] Women 2.0 is a global network and social platform for aspiring and current female founders of technology ventures. [SEP] [CLS] It was founded in April 2006 and primarily provides an incubator for ideas program for engineers, designers, business, and marketing participants who want to launch and develop their own high-technology ventures. [SEP] [CLS]
-

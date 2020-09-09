@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 3630 was a regularly scheduled passenger flight operated by Aeroflot from Mineralnye Vody Airport to Vilnius Airport with a stop over at Rostov-on-Don Airport. [SEP] [CLS] On 2 September 1970, the Tu-124 operating this flight crashed after a loss of control at cruise altitude, 42 minutes after take off from Rostov-on-Don Airport. [SEP] [CLS] All 32 passengers and five crew members were killed. [SEP] [CLS] The Air Accident Investigation Commission was unable to discover the root cause of the accident. [SEP] [CLS]
-

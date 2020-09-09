@@ -1,2 +1,0 @@
-[CLS] The 1956 Nicaragua earthquake occurred on October 24 at 14:42 UTC. [SEP] [CLS] The epicenter was located west of Masachapa, Managua Department, Nicaragua. [SEP] [CLS] It was an earthquake of magnitude Ms 7.3, or Mw 7.2. [SEP] [CLS] Building damage was reported in Managua. [SEP] [CLS] A study of W. [SEP] [CLS] Montero P. [SEP] [CLS] shows that this earthquake might be related to the earthquake of Nicoya Peninsula on October 5, 1950. [SEP] [CLS] A tsunami was triggered by the earthquake. [SEP] [CLS]
-

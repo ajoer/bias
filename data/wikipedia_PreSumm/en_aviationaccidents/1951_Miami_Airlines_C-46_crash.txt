@@ -1,2 +1,0 @@
-[CLS] On December 16, 1951, a Miami Airlines Curtiss C-46 Commando airliner crashed in the town of Elizabeth, New Jersey, shortly after taking off from nearby Newark Airport. [SEP] [CLS] All 56 people on board were killed. [SEP] [CLS] At the time, it was the second-deadliest aviation accident on US soil, behind Northwest Orient Airlines Flight 2501. [SEP] [CLS]
-

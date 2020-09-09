@@ -1,2 +1,0 @@
-[CLS] UTair Flight 471 was a scheduled domestic passenger flight of a Tupolev Tu-134 on March 17, 2007, that suffered heavy structural damage during a hard landing at Samara Kurumoch Airport near Samara, Russia. [SEP] [CLS] Of the 50 passengers and 7 crew members on board, 6 people were killed and 20 injured when the aircraft broke apart. [SEP] [CLS] The plane was flying from the Siberian city of Surgut to Samara and then to Belgorod. [SEP] [CLS]
-

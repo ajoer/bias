@@ -1,2 +1,0 @@
-[CLS] TAI Flight 307 was a scheduled flight operated by Transports Aériens Intercontinentaux (TAI) between France and the Ivory Coast via Mali operated by a Douglas DC-7C. [SEP] [CLS] On 24 September 1959, the aircraft crashed during its departure from Bordeaux–Mérignac Airport, France when it flew into trees. [SEP] [CLS] All of the flight crew and 45 of the 56 passengers on board were killed; the other 11 passengers were seriously injured. [SEP] [CLS]
-

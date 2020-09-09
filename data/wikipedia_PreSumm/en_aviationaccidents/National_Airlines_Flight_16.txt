@@ -1,2 +1,0 @@
-[CLS] National Airlines Flight 16 was a domestic (U.S.), scheduled passenger flight from Miami, Florida, to Lakeland, Florida, that crashed on October 5, 1945. [SEP] [CLS] The aircraft was on the last leg of a Miami-Fort Myers-Sarasota-St Petersburg-Tampa-Lakeland route. [SEP] [CLS] The cause of the crash was determined to be a faulty missed approach procedure, which caused the aircraft to overshoot the runway and land in the water approximately 1,000 feet (300 m) beyond. [SEP] [CLS] Two passengers drowned, and several others were injured. [SEP] [CLS]
-

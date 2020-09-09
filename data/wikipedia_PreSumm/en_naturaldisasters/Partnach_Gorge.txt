@@ -1,2 +1,0 @@
-[CLS] The Partnach Gorge (German: Partnachklamm) is a deep gorge that has been incised by a mountain stream, the Partnach, in the Reintal valley near the south German town of Garmisch-Partenkirchen. [SEP] [CLS] The gorge is 702 metres (2,303 ft) long and, in places, over 80 metres (260 ft) deep. [SEP] [CLS] It was designated a natural monument in 1912. [SEP] [CLS]
-

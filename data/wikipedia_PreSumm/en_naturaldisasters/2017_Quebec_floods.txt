@@ -1,2 +1,0 @@
-[CLS] Spring snowfall and heavy rain caused floods in southern Quebec on 3 May 2017. [SEP] [CLS] In total, 5,371 residences were flooded, 4,066 people were forced from their homes, and 261 municipalities were affected, largely in the Outaouais Region, the Greater Montreal Area, the Montérégie, the Mauricie, the Gaspésie and the Côte-Nord regions. [SEP] [CLS] The floods were listed as the third most significant weather event of 2017 by the Canadian Meteorological and Oceanographic Society.Montreal and Laval then declared a state of emergency over the flooding. [SEP] [CLS]
-

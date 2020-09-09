@@ -1,2 +1,0 @@
-[CLS] The 2008 Indian floods were a series of floods in various states of India during the 2008 monsoon season. [SEP] [CLS] The floods mostly affected the western regions of Maharashtra state and Andhra Pradesh as well as northern Bihar. [SEP] [CLS] In India, the monsoon season generally lasts from June to September.According to Ministry of Home Affairs (India)'s disaster management unit, the countrywide death toll from floods in various states was 2,404 between June to September. [SEP] [CLS]
-

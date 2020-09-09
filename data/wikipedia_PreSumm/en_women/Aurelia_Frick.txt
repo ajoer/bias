@@ -1,2 +1,0 @@
-[CLS] Aurelia Frick (born 19 September 1975) is a Liechtensteiner politician who served as Minister of Foreign Affairs, Education and Culture from 2009 until 2019. [SEP] [CLS] Frick is a Doctor of law. [SEP] [CLS]
-

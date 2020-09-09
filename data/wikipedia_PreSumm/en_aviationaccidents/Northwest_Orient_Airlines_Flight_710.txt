@@ -1,2 +1,0 @@
-[CLS] Northwest Orient Airlines Flight 710, a Lockheed L-188 Electra, disintegrated in-flight and crashed near Cannelton, Indiana (10 miles east of Tell City, Indiana) on March 17, 1960. [SEP] [CLS] The flight carried 57 passengers and 6 crew members. [SEP] [CLS] There were no survivors. [SEP] [CLS]
-

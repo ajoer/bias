@@ -1,2 +1,0 @@
-[CLS] The Korangi Creek crash took place when an Air India flight from Karachi to Bombay crashed shortly after takeoff. [SEP] [CLS] All 19 passengers and 4 crew members were killed. [SEP] [CLS] Poor visibility and malfunctioning instruments in the cockpit led the pilots to lose control. [SEP] [CLS] The Douglas DC-3 aircraft was damaged beyond repair. [SEP] [CLS] This was the first airline fatality in Pakistan after its independence in 1947. [SEP] [CLS]
-

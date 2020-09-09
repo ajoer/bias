@@ -1,2 +1,0 @@
-[CLS] Nancy Jan Davis (née Smotherman; born November 1, 1953) is a former American astronaut. [SEP] [CLS] A veteran of three space flights, Davis logged over 673 hours in space. [SEP] [CLS] She is now retired from NASA. [SEP] [CLS]
-

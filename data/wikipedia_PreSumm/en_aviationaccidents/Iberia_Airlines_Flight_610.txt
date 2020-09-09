@@ -1,2 +1,0 @@
-[CLS] Iberia Airlines Flight 610 was a scheduled domestic passenger flight from Madrid to Bilbao, Spain. [SEP] [CLS] On 19 February 1985, a Boeing 727-200 operating the flight crashed into a television antenna on the summit of Mount Oiz in Biscay near Bilbao. [SEP] [CLS] All 141 passengers and 7 crew on board died. [SEP] [CLS] The crash is the deadliest aviation disaster in both Basque Country and Iberia history. [SEP] [CLS]
-

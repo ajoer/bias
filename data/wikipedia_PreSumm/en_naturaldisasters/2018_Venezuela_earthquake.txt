@@ -1,2 +1,0 @@
-[CLS] List of significant earthquakes in Venezuela. [SEP] [CLS] This is a list of significant earthquakes that either had their epicentres in Venezuela or had a significant impact in the country. [SEP] [CLS]
-

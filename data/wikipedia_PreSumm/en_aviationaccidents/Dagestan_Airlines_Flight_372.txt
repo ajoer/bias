@@ -1,2 +1,0 @@
-[CLS] Dagestan Airlines Flight 372 was a scheduled commercial flight between Moscow's Vnukovo Airport and Makhachkala, Russia. [SEP] [CLS] On 4 December 2010, the Tupolev Tu-154 operating the flight skidded off the runway following an emergency landing at Domodedovo Airport, 45 km south-east of Vnukovo. [SEP] [CLS] Two people on board were killed. [SEP] [CLS]
-

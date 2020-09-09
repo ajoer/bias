@@ -1,2 +1,0 @@
-[CLS] Pakistan International Airlines Flight 17 was a scheduled domestic flight from Dacca to Faridpur in East Pakistan (now Bangladesh) operated by a Sikorsky S-61 twin-engined helicopter of Pakistan International Airlines. [SEP] [CLS] On 2 February 1966 the helicopter operating the flight crashed near Fardipur after an oil leak developed and the main gearbox failed. [SEP] [CLS] Twenty passengers and all three crew were killed; one passenger survived. [SEP] [CLS]
-

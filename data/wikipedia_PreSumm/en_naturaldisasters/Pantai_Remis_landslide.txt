@@ -1,2 +1,0 @@
-[CLS] The Pantai Remis landslide was a rock fall and flood that occurred on 21 October 1993, near Pantai Remis in Perak, Malaysia. [SEP] [CLS] The landslide took place in an abandoned open cast tin mine (in a region of the state well known for its tin mining industry) close to the Strait of Malacca. [SEP] [CLS] Video footage shows the rapid collapse of the working face closest the sea, allowing complete flooding of the mine and forming a new cove measuring approximately 0.5 km2 (0.19 sq mi). [SEP] [CLS]
-

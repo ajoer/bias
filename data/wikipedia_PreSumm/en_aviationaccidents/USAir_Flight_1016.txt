@@ -1,2 +1,0 @@
-[CLS] USAir Flight 1016 was a regularly scheduled flight in the southeastern United States, between Columbia, South Carolina, and Charlotte, North Carolina. [SEP] [CLS] On July 2, 1994, the flight encountered heavy thunderstorms and microburst-induced windshear while attempting to land, and crashed into heavy trees and a private residence near the airport. [SEP] [CLS] The crash and ensuing fire caused 37 fatalities and seriously injured sixteen others. [SEP] [CLS]
-

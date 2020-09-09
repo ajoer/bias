@@ -1,2 +1,0 @@
-[CLS] Margot Gudrun Moe (born 3 March 1899 in Oslo; died 12 March 1988 in Oslo) was a Norwegian figure skater. [SEP] [CLS] She competed at the 1920 Summer Olympics in Antwerp where she placed fifth, and won a bronze medal at the 1922 World Figure Skating Championships. [SEP] [CLS]
-

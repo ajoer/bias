@@ -1,2 +1,0 @@
-[CLS] Georges Duhamel (; French: [dy.amɛl]; 30 June 1884 – 13 April 1966) was a French author, born in Paris. [SEP] [CLS] Duhamel trained as a doctor, and during World War I was attached to the French Army. [SEP] [CLS] In 1920, he published Confession de minuit, the first of a series featuring the anti-hero Salavin. [SEP] [CLS] In 1935, he was elected as a member of the Académie française. [SEP] [CLS] He was nominated for the Nobel Prize in Literature twenty-seven times. [SEP] [CLS] He was also the father of the musicologue Antoine Duhamel. [SEP] [CLS]
-

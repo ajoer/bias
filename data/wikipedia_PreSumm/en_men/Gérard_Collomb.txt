@@ -1,2 +1,0 @@
-[CLS] Gérard Collomb (born 20 June 1947) is a French politician who served as Mayor of Lyon from 2001 to 2017 and again from 2018 until 2020. [SEP] [CLS] A member of La République En Marche! [SEP] [CLS] (REM) since he left the Socialist Party in 2017, he was Minister of the Interior in the First and Second Philippe government from 2017 to 2018. [SEP] [CLS] Unsatisfied with President Emmanuel Macron's leadership, Collomb resigned in order to return as Mayor of Lyon. [SEP] [CLS] He has been a councillor for both the City of Lyon and Lyon Metropolis since 2020. [SEP] [CLS]
-

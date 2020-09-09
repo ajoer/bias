@@ -1,2 +1,0 @@
-[CLS] The 1863 Hawke's Bay earthquake was a devastating magnitude 7.5 Mw earthquake that struck near the town of Waipukurau on 23 February 1863. [SEP] [CLS] It remained the single largest earthquake to strike Hawke's Bay until 1931, where a magnitude 7.8 quake leveled much of Napier and Hastings and killed 256 people. [SEP] [CLS]
-

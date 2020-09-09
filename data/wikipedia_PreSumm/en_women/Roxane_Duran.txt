@@ -1,2 +1,0 @@
-[CLS] Roxane Duran (born 27 January 1993) is a French-Austrian actress. [SEP] [CLS] She appeared in the Palme d'Or-winning 2009 film The White Ribbon. [SEP] [CLS] She also acted in the Le moine, a 2011 French-language film directed by Dominik Moll, an adaptation of Matthew Lewis's novel The Monk. [SEP] [CLS]
-

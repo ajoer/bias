@@ -1,2 +1,0 @@
-[CLS] Maria Margaret Klawe ( KLAH-vay; born 1951) is a computer scientist and the fifth president of Harvey Mudd College (since July 1, 2006). [SEP] [CLS] Born in Toronto in 1951, she became a naturalized U.S. [SEP] [CLS] citizen in 2009. [SEP] [CLS] She was previously Dean of the School of Engineering and Applied Science at Princeton University. [SEP] [CLS]
-

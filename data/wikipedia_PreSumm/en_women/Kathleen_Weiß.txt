@@ -1,2 +1,0 @@
-[CLS] Kathleen Weiß (born (1984-02-02)2 February 1984) is a German female volleyball player. [SEP] [CLS] She plays as setter and has over 300 appearances for the Germany women's national volleyball team. [SEP] [CLS] At club level she plays for Maritza Plovdiv. [SEP] [CLS] Weiß has played in many international competitions (FIVB World Championships, FIVB World Cup, FIVB World Grand Prix, European Championships, European Leagues, European Games) and won various national championships and cups with the clubs she played for. [SEP] [CLS]
-

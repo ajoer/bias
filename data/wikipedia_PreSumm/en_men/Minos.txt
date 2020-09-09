@@ -1,2 +1,0 @@
-[CLS] In Greek mythology, Minos (; Greek: Μίνως, Mī́nōs, Ancient: [míːnɔːs] Modern: [ˈminos]) was a King of Crete, son of Zeus and Europa. [SEP] [CLS] Every seven years, he made King Aegeus pick seven young boys and seven young girls to be sent to Daedalus's creation, the labyrinth, to be eaten by the Minotaur. [SEP] [CLS] After his death, Minos became a judge of the dead in the underworld. [SEP] [CLS] The Minoan civilization of Crete has been named after him by the archaeologist Sir Arthur Evans. [SEP] [CLS]
-

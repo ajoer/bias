@@ -1,2 +1,0 @@
-[CLS] The May 1989 tornado outbreak occurred on May 5, 1989. [SEP] [CLS] The outbreak spawned 16 tornadoes in Georgia, South Carolina, North Carolina and Virginia, and was responsible for a combined total of $169 million in damage in the four states. [SEP] [CLS] It also caused 7 deaths and 168 injuries. [SEP] [CLS]
-

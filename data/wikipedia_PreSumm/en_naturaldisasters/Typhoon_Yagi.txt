@@ -1,2 +1,0 @@
-[CLS] The name Yagi has been used to name four tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was submitted by Japan and is the Japanese word for goat or the Japanese name of the constellation Capricornus. [SEP] [CLS] Typhoon Yagi (2000) (T0019, 29W, Paring) – impacted the Ryukyu Islands. [SEP] [CLS] Typhoon Yagi (2006) (T0614, 16W) – not a threat to significant land. [SEP] [CLS] Tropical Storm Yagi (2013) (T1303, 03W, Dante) – impacted the Philippines and Japan. [SEP] [CLS] Tropical Storm Yagi (2018) (T1814, 18W, Karding)
-

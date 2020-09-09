@@ -1,2 +1,0 @@
-[CLS] Diane B. [SEP] [CLS] Greene (born June 9, 1955) is an American technology entrepreneur and executive. [SEP] [CLS] Greene started her career as a naval architect before transitioning to the tech industry, where she was a founder and the CEO of VMware from 1998 until 2008. [SEP] [CLS] She later served on the board of Alphabet and as the CEO of Google Cloud from 2015 until early 2019. [SEP] [CLS] She also co-founded and was CEO of two startups, Bebop and VXtreme, which were acquired by Google and Microsoft, respectively. [SEP] [CLS]
-

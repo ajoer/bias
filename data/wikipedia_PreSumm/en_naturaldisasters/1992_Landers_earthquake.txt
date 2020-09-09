@@ -1,2 +1,0 @@
-[CLS] The 1992 Landers earthquake occurred on June 28 with an epicenter near the town of Landers, California. [SEP] [CLS] The shock had a moment magnitude of 7.3 and a maximum Mercalli intensity of IX (Violent). [SEP] [CLS]
-

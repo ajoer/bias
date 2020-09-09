@@ -1,2 +1,0 @@
-[CLS] The Taxi Aereo el Venado Douglas DC-4 accident occurred on 15 January 1976 when DC-4 HK-127, crashed 50 km (31 mi) from Bogota when it hit a mountain and was destroyed killing all 13 on board. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] On 28 July 2018, Air Vanuatu Flight 241, operated by ATR-72 registration YJ-AV71 suffered an in-flight engine fire while operating a domestic scheduled passenger flight from Whitegrass Airport, Tanna to Bauerfield International Airport, Port Vila, Vanuatu. [SEP] [CLS] On landing at Port Vila, a runway excursion occurred. [SEP] [CLS] The aircraft collided with two Britten-Norman Islanders, writing one off and severely damaging the other. [SEP] [CLS] Thirteen of the 43 people on board sustained minor injuries. [SEP] [CLS]
-

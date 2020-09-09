@@ -1,2 +1,0 @@
-[CLS] On Wednesday, April 27, 2011, an extremely violent EF5 wedge tornado, with estimated winds of up to 205 mph (330 km/h), struck the town of Smithville, Mississippi at 3:47 p.m. [SEP] [CLS] CDT (2047 UTC) on April 27, resulting in catastrophic damage and numerous fatalities. [SEP] [CLS]
-

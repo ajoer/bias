@@ -1,2 +1,0 @@
-[CLS] Chicago and Southern Air Lines Flight 4 was a regularly scheduled flight from New Orleans, Louisiana to Chicago, Illinois, via Jackson, Mississippi, Memphis, Tennessee, and St. [SEP] [CLS] Louis, Missouri, operated with a Lockheed Model 10 Electra. [SEP] [CLS] On August 5, 1936, after departing from Lambert-St. [SEP] [CLS] Louis International Airport, the flight crashed in a farm field near the Missouri River. [SEP] [CLS] All 6 passengers and 2 crew members were killed in the crash. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1441 Yangtze flood was a natural disaster affecting the area around Nanjing, China, during the Ming dynasty. [SEP] [CLS] The flood occurred in the late autumn and broke the river's banks repeatedly. [SEP] [CLS] The situation was a major emergency not only for Nanjing and the surrounding area but also for the northern capital Beijing, which depended upon grain shipments from the Yangtze valley. [SEP] [CLS] The southern entrance to the Grand Canal was at Yangzhou near Nanjing and had to close during heavy flooding. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Hanna Schygulla (German: [ˈha.na ʃyˈɡʊ.la] (listen); born 25 December 1943) is a German actress and chanson singer. [SEP] [CLS] Associated with the theater and film director Rainer Werner Fassbinder, for whom she first worked in 1965, she was active in the New German Cinema. [SEP] [CLS] She won the 1979 Berlin Silver Bear for Best Actress for Fassbinder's The Marriage of Maria Braun, and the 1983 Cannes Film Festival Award for Best Actress for the Marco Ferreri film The Story of Piera. [SEP] [CLS]
-

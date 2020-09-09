@@ -1,2 +1,0 @@
-[CLS] The 2006 Russian military Mil Mi-8 crash near Vladikavkaz killed 12 Russian military men, mostly high-ranking officers, among them Lieutenant-General Pavel Yaroslavtsev, deputy chief for army logistics, Lieutenant-General Viktor Guliaev, deputy chief of army medical units, and Major-General Vladimir Sorokin. [SEP] [CLS] The Ossetian rebel group Kataib al-Khoul claimed responsibility for shooting down the helicopter. [SEP] [CLS]
-

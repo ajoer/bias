@@ -1,2 +1,0 @@
-[CLS] The 1881 Haiphong typhoon was a typhoon that struck Haiphong, in Dai Nam (now Vietnam), and the northern part of the Captaincy General of the Philippines (now the Philippines) on October 8, 1881. [SEP] [CLS] Formed east of Southern Luzon on September 27, 1881. [SEP] [CLS]
-

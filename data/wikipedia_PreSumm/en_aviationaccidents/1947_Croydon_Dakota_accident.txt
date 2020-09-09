@@ -1,2 +1,0 @@
-[CLS] The 1947 Croydon Dakota accident occurred on 25 January 1947 when a Spencer Airways Douglas C-47A Skytrain (Dakota) failed to get airborne from Croydon Airport near London, and crashed into a parked and empty CSA Douglas C-47 destroying both aircraft and killing 11 passengers and one crew member. [SEP] [CLS]
-

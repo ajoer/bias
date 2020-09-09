@@ -1,2 +1,0 @@
-[CLS] Stormy Peters is an information technology industry analyst and prominent free and open source software (FOSS) advocate, promoting business use of FOSS. [SEP] [CLS] She advocates as a consultant and conference speaker. [SEP] [CLS] She co-founded, and was later appointed as executive director of the GNOME Foundation. [SEP] [CLS] She previously worked for Mozilla Corporation, Cloud Foundry, and Red Hat. [SEP] [CLS] In August 2019 she joined Microsoft.Peters's birth name is Robyn; however, she has not gone by that name since her childhood. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1952 San Juan earthquake took place on 11 June at 00:31:43 UTC in the province of San Juan, Argentina. [SEP] [CLS] It measured 6.8 on the moment magnitude scale with a depth of 30 kilometers (19 mi). [SEP] [CLS] The earthquake was felt in San Juan with a maximum of VIII (Severe) on the Mercalli intensity scale. [SEP] [CLS] It caused damage in some locations in the south and west of the province, and a small number of casualties. [SEP] [CLS]
-

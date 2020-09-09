@@ -1,2 +1,0 @@
-[CLS] Janne Furch (1915–1992) was a German screenwriter. [SEP] [CLS] She also acted in three films early in her career. [SEP] [CLS] She was married to the conductor Franz Allers. [SEP] [CLS]
-

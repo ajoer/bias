@@ -1,2 +1,0 @@
-[CLS] The 1892 Recreo earthquake took place in the Catamarca Province of Argentina on 21 March at about 01:45 AM, with magnitude of 6.0 on the Richter magnitude scale. [SEP] [CLS] Its epicenter was located approximately at 29°30′S 65°0′W, and at a depth of about 30 kilometres (19 mi). [SEP] [CLS] The earthquake had a maximum felt intensity of VII on the Mercalli intensity scale. [SEP] [CLS] It caused some fatalities and serious structural damage in the town of Recreo. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Julia Stegner (born 2 November 1984 in Munich, Bavaria, West Germany) is a German model. [SEP] [CLS]
-

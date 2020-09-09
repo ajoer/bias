@@ -1,2 +1,0 @@
-[CLS] Joachim is the name given to a European windstorm which caused major damage in much of Western Europe between December 16–17, 2011. [SEP] [CLS] Winds gusting to 212 km/h (132 mph) were recorded on the summit of Puy de Dôme in France. [SEP] [CLS] Joachim explosively deepened under the influence of a shortwave trough during its development. [SEP] [CLS]
-

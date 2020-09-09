@@ -1,2 +1,0 @@
-[CLS] On August 4, 2015, 16 policemen died in a helicopter accident in northwestern Colombia. [SEP] [CLS] The Colombian Defense Minister, Luis Carlos Villegas, stated that the crash was most likely caused by bad weather.The flight was part of an operation against Clan Úsuga, a criminal organization composed of former right-wing paramilitary group members. [SEP] [CLS] Two other helicopters flew on the same mission but did not encounter difficulties and did not hear any hostile fire. [SEP] [CLS]
-

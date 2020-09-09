@@ -1,2 +1,0 @@
-[CLS] The 1961 President Airlines Douglas DC-6 crash occurred on the night of September 10, 1961, when a President Airlines Douglas DC-6B named Theodore Roosevelt outbound from Shannon, Ireland crashed into the nearby River Shannon shortly after takeoff, killing all 83 people on board. [SEP] [CLS] To date, the crash remains the deadliest one in Irish territory. [SEP] [CLS]
-

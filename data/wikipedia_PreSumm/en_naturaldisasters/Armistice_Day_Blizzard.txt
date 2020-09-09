@@ -1,2 +1,0 @@
-[CLS] The Armistice Day Blizzard (or the Armistice Day Storm) took place in the Midwest region of the United States on November 11 (Armistice Day) and November 12, 1940. [SEP] [CLS] The intense early-season "panhandle hook" winter storm cut a 1,000-mile-wide (1600 km) swath through the middle of the country from Kansas to Michigan. [SEP] [CLS]
-

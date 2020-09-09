@@ -1,2 +1,0 @@
-[CLS] The 526 Antioch earthquake hit Syria (region) and Antioch in the Byzantine Empire in 526. [SEP] [CLS] It struck during late May, probably between 20–29 May, at mid-morning, killing approximately 250,000 people. [SEP] [CLS] The earthquake was followed by a fire that destroyed most of the buildings left standing by the earthquake. [SEP] [CLS] The maximum intensity in Antioch is estimated to be between VIII (Severe) and IX (Violent) on the Mercalli intensity scale. [SEP] [CLS]
-

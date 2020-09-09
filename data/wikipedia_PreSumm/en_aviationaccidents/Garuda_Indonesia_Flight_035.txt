@@ -1,2 +1,0 @@
-[CLS] Garuda Indonesia Flight 035 was a domestic Garuda Indonesia flight that struck a pylon and crashed on approach to Medan-Polonia Airport on 4 April 1987. [SEP] [CLS] 23 of the 45 passengers and crew on board were killed in the accident. [SEP] [CLS]
-

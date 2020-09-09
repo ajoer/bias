@@ -1,2 +1,0 @@
-[CLS] Felix von Leitner, nicknamed Fefe, is a German IT security expert living in Berlin. [SEP] [CLS] He is the main author of the dietlibc, a C standard library. [SEP] [CLS] His personal blog posts have received larger media coverage in Germany. [SEP] [CLS]
-

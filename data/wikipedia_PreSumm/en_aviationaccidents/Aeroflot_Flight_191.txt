@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 191 was a Soviet domestic passenger flight from Vnukovo International Airport to Ashgabat International Airport, with a stopover in Turkmenbashi International Airport. [SEP] [CLS] On 5 March 1963, the Ilyushin Il-18 crashed while landing at Ashgabat International Airport as a result of a dust storm. [SEP] [CLS] 12 of the 54 people on board were killed. [SEP] [CLS]
-

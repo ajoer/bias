@@ -1,2 +1,0 @@
-[CLS] Airbus Industrie Flight 129 was an Airbus Industrie A330-321 test flight that ended in a crash on 30 June 1994 at Toulouse-Blagnac Airport, killing all seven people aboard. [SEP] [CLS] The last test flown was to certify the plane's takeoff capability with a single engine failure. [SEP] [CLS] It was the first fatal accident involving an Airbus A330 as well as the first hull loss of the type. [SEP] [CLS] It remained the only fatal accident involving an A330 until the crash of Air France Flight 447 on 1 June 2009. [SEP] [CLS]
-

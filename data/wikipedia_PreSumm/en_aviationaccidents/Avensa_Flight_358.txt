@@ -1,2 +1,0 @@
-[CLS] Avensa Flight 358 was a scheduled airline flight from Maturín Airport to Simón Bolívar International Airport in Venezuela that crashed on 22 December 1974 killing all 75 people on board. [SEP] [CLS]
-

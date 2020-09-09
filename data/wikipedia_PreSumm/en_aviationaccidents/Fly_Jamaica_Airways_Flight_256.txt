@@ -1,2 +1,0 @@
-[CLS] Fly Jamaica Airways Flight 256 was a scheduled international passenger flight from Cheddi Jagan International Airport in Guyana to Toronto Pearson International Airport in Canada. [SEP] [CLS] The Boeing 757 aircraft serving the flight suffered a technical fault on 9 November 2018, forcing its return and resulting in a runway excursion on landing. [SEP] [CLS] This caused significant damage to the aircraft and one passenger fatality. [SEP] [CLS]
-

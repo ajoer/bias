@@ -1,2 +1,0 @@
-[CLS] Continental Airlines Flight 603 was a scheduled McDonnell Douglas DC-10 flight between Los Angeles International Airport and Honolulu International Airport. [SEP] [CLS] On March 1, 1978, it crashed during an aborted takeoff, resulting in the deaths of four passengers. [SEP] [CLS]
-

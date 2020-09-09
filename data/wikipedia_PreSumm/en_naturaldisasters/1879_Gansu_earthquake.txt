@@ -1,2 +1,0 @@
-[CLS] The 1879 Gansu earthquake occurred at about 04:00 local time on 1 July. [SEP] [CLS] It had an estimated magnitude of 8.0 on the Ms scale and a maximum perceived intensity of XI (Extreme) on the Mercalli intensity scale. [SEP] [CLS] The epicenter was in Wudu District in southern Gansu, close to the border with Sichuan. [SEP] [CLS] It caused widespread damage and killed an estimated 22,000 people. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The 1918 Shantou earthquake occurred in Shantou, Guangdong, Republic of China. [SEP] [CLS] It also caused some damage in what was then British Hong Kong. [SEP] [CLS]
-

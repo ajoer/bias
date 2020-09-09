@@ -1,2 +1,0 @@
-[CLS] On 11 July 2011, Angara Airlines Flight 9007, an Antonov An-24 turboprop passenger aircraft on a domestic service from Tomsk to Surgut, Russia, ditched into the Ob River, after suffering an engine fire. [SEP] [CLS] Seven of the 37 people on board died. [SEP] [CLS]
-

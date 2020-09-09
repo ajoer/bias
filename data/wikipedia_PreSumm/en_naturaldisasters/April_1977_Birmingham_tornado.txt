@@ -1,2 +1,0 @@
-[CLS] The tornado outbreak of April 4–5, 1977, was a significant severe weather event that affected the Southeastern United States. [SEP] [CLS] Over the course, a total of 21 tornadoes touched down across portions of Alabama and Georgia. [SEP] [CLS] One powerful tornado that struck the northern suburbs of the Greater Birmingham Area in central Alabama during the afternoon of Monday, April 4, 1977. [SEP] [CLS] In the end, the entire outbreak directly caused 24 deaths, (indirectly caused 74) and resulted in over 200 injuries. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The name Lidia has been used for five tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Lidia (1981) Hurricane Lidia (1987) Hurricane Lidia (1993) Tropical Storm Lidia (2005) – No threat to land. [SEP] [CLS] Tropical Storm Lidia (2017) – Made landfall in Baja California Sur. [SEP] [CLS]
-

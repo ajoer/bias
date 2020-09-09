@@ -1,2 +1,0 @@
-[CLS] Air Illinois Flight 710 crashed due to an electrical problem near Pinckneyville, Illinois. [SEP] [CLS] All 10 passengers and crew were killed in the accident. [SEP] [CLS]
-

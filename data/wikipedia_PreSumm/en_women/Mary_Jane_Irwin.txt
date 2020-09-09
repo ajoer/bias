@@ -1,2 +1,0 @@
-[CLS] Mary Jane Irwin is the Evan Pugh Professor and A. [SEP] [CLS] Robert Noll Chair Emeritus in Engineering in the Department of Computer Science and Engineering at Pennsylvania State University. [SEP] [CLS] She has been on the faculty at Penn State since 1977. [SEP] [CLS] She is an international expert in computer architecture. [SEP] [CLS] Her research and teaching interests include computer architecture, embedded and mobile computing systems design, power and reliability aware design, and emerging technologies in computing systems. [SEP] [CLS]
-

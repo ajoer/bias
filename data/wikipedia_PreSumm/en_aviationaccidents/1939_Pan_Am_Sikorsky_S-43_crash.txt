@@ -1,2 +1,0 @@
-[CLS] The Seaplane Baby Clipper NC 16933 Crash took place in Rio de Janeiro on August 13, 1939. [SEP] [CLS] The aircraft, owned by Pan Am, was flying Miami-Rio, with stops in the cities of Antilla, Port-au-Prince, San Pedro de Macorís, San Juan, Port of Spain, Georgetown, Paramaribo, Cayenne, Belém, São Luís, Fortaleza, Natal, João Pessoa, Recife, Maceió, Aracaju, Salvador, Caravelas and Vitória. [SEP] [CLS] This would be the first accident of a Pan Am aircraft in Brazil. [SEP] [CLS]
-

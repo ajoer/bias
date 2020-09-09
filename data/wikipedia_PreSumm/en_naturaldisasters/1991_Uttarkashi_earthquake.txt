@@ -1,2 +1,0 @@
-[CLS] The 1991 Uttarkashi earthquake (also known as the Garhwal earthquake) occurred at 02:53:16 20 October local time with a moment magnitude of 6.8 and a maximum Mercalli intensity of IX (Violent). [SEP] [CLS] This thrust event was instrumentally recorded and occurred along the Main Central Thrust in the Uttarkashi and Gharwal regions of the Indian state of Uttarakhand (then still part of Uttar Pradesh). [SEP] [CLS] High intensity shaking resulted in the deaths of at least 768 people and the destruction of thousands of homes. [SEP] [CLS]
-

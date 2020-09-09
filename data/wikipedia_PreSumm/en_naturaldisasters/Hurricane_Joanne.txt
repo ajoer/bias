@@ -1,2 +1,0 @@
-[CLS] The name Joanne has been used for four tropical cyclones in the eastern Pacific Ocean. [SEP] [CLS] Tropical Storm Joanne (1961) Hurricane Joanne (1968) Hurricane Joanne (1972) Tropical Storm Joanne (1976)
-

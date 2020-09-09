@@ -1,2 +1,0 @@
-[CLS] Cristina Marcano (1960), is a noted biographer of former Venezuelan President Hugo Chávez. [SEP] [CLS] Along with Alberto Barrera Tyszka, she authored Hugo Chávez Sin Uniforme: Una Historia Personal, which was published in 2005 by Random House Mondadori (ISBN 980-293-284-1). [SEP] [CLS]
-

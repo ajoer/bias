@@ -1,2 +1,0 @@
-[CLS] JAL Cargo Flight 8054 was a charter flight on January 13, 1977, from Grant County, Washington, United States to Tokyo, Japan with a stopover in Anchorage, Alaska, United States. [SEP] [CLS] The flight crashed during the initial climb phase, shortly after takeoff from Anchorage due to pilot intoxication. [SEP] [CLS]
-

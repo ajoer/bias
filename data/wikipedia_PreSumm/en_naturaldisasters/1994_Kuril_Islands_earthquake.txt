@@ -1,2 +1,0 @@
-[CLS] The 1994 Kuril Islands earthquake – also known as the Hokkaido Toho-oki earthquake – occurred on October 5 at 00:23:00 local time. [SEP] [CLS] The magnitude of this earthquake was put at Mw 8.2, or MJMA8.1. [SEP] [CLS] The epicenter was located at about 70 km east of Shikotan Island. [SEP] [CLS] The shaking and tsunami caused road and building damage. [SEP] [CLS] At least 10 people were reported dead. [SEP] [CLS]
-

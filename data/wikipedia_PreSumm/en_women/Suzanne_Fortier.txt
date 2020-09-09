@@ -1,2 +1,0 @@
-[CLS] Suzanne Fortier (born November 11, 1949) is the Principal and Vice-Chancellor of McGill University. [SEP] [CLS]
-

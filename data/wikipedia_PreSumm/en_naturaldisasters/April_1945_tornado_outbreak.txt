@@ -1,2 +1,0 @@
-[CLS] The tornado outbreak of April 1945 occurred on April 12, 1945, in the Midwestern United States, producing numerous strong tornadoes and killing at least 128 people; however, the concurrent death of President Franklin D. [SEP] [CLS] Roosevelt overshadowed news of the outbreak. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] The first of the 1957 Fethiye earthquakes occurred on April 24, 1957, with the second and larger event about seven hours later on the following day. [SEP] [CLS] Both earthquakes had epicentres in the eastern Mediterranean between Rhodes and the coastal city of Fethiye in Muğla Province, southwestern Turkey. [SEP] [CLS]
-

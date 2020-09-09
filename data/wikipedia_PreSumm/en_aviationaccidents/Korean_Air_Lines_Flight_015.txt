@@ -1,2 +1,0 @@
-[CLS] Korean Air Lines Flight 015 was a Boeing 747 (-200) operating a scheduled passenger flight from Los Angeles International Airport, in Los Angeles, California, to Gimpo International Airport in Seoul, South Korea with an intermediate stop in Anchorage, Alaska, that crashed while attempting to land on 19 November 1980. [SEP] [CLS] Of the 226 passengers and crew on board, 15 were killed in the accident. [SEP] [CLS]
-

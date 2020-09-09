@@ -1,2 +1,0 @@
-[CLS] Nigeria Airways Flight 9805 was a cargo flight from King Abdulaziz International Airport in Jeddah to Mallam Aminu Kano International Airport in Kano, Nigeria. [SEP] [CLS] On 19 December 1994, the Boeing 707-3F9C flying the route suffered an in-flight fire and crashed into a marshland near Kiri Kasama, Hadejia LGA, Nigeria. [SEP] [CLS] One of the three crew members and both passengers died. [SEP] [CLS] The investigation determined that a heat generating substance was the probable cause. [SEP] [CLS]
-

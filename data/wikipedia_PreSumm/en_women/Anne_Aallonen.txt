@@ -1,2 +1,0 @@
-[CLS] Anne Aallonen (born 15 July 1967) is a Finnish born Hong Kong former professional tennis player. [SEP] [CLS] On 23 October 1989, she reached her highest WTA singles ranking of 179. [SEP] [CLS] On 20 August 1990, she also reached her highest WTA doubles ranking of 116. [SEP] [CLS] Anne Aallonen debuted for the Finland Fed Cup team in 1985, winning her singles match in the tie against the Chinese Taipei Fed Cup team. [SEP] [CLS] In 1999 she competed for the Hong Kong Fed Cup team. [SEP] [CLS]
-

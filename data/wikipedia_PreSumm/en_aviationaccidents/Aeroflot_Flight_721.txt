@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 721 was a scheduled domestic passenger flight between Moscow and Yuzhno-Sakhalinsk in the Russian SFSR. [SEP] [CLS] On Wednesday, 2 September 1964, the aircraft flying this route, an Ilyushin Il-18V, crashed into the side of a hill on approach to Yuzhno-Sakhalinsk, killing 87 of the 93 people on board. [SEP] [CLS] At the time of the accident it was the deadliest Il-18 crash and the deadliest aviation accident on Russian soil. [SEP] [CLS]
-

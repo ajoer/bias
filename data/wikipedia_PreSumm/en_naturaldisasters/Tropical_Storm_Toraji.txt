@@ -1,2 +1,0 @@
-[CLS] The name Toraji has been used to name four tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was submitted by North Korea and refers to a species of flower, the bellflower (Platycodon grandiflorus). [SEP] [CLS] Typhoon Toraji (2001) (T0108, 11W, Isang) – impacted Taiwan and China, killing at least 72 Tropical Storm Toraji (2007) (T0703, 03W) – struck Vietnam Tropical Storm Toraji (2013) (T1317, 15W) – struck Japan. [SEP] [CLS] Tropical Storm Toraji (2018) (T1827, 32W) – a weak system that struck Vietnam
-

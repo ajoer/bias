@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 2415 (Russian: Рейс 2415 Аэрофлота Reys 2415 Aeroflota) was a regularly scheduled passenger flight from Moscow to Leningrad that crashed shortly after takeoff on 28 November 1976. [SEP] [CLS] The cause of the accident was attributed to crew disorientation as a result of artificial horizon failure in low visibility conditions. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] A prince is a male ruler (ranked below a king, grand prince, and grand duke) or member of a monarch's or former monarch's family. [SEP] [CLS] Prince is also a title of nobility (often highest), often hereditary, in some European states. [SEP] [CLS] The feminine equivalent is a princess. [SEP] [CLS] The English word derives, via the French word prince, from the Latin noun princeps, from primus (first) and capio (to seize), meaning "the chief, most distinguished, ruler, prince". [SEP] [CLS]
-

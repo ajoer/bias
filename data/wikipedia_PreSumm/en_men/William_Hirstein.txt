@@ -1,2 +1,0 @@
-[CLS] William Hirstein is an American philosopher primarily interested in philosophy of mind, philosophy of language, metaphysics, cognitive science, and analytic philosophy. [SEP] [CLS] He is a professor of philosophy at Elmhurst University. [SEP] [CLS]
-

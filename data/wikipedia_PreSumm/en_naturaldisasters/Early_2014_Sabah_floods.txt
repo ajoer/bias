@@ -1,2 +1,0 @@
-[CLS] High intensity rainfall since 13 January 2014 caused major flooding across the Interior Division of Sabah including some district in other division such as Menggatal, Penampang and Tuaran. [SEP] [CLS] Another follow-up heavy rainfall events caused repeated flash flooding in the interior areas in early February. [SEP] [CLS]
-

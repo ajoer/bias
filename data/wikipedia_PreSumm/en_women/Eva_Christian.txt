@@ -1,2 +1,0 @@
-[CLS] Eva Christian (born Evelyne Gutmann; 27 May 1937) is a German actress who has appeared in numerous films since her 1958 film debut. [SEP] [CLS] Born in Berlin, she grew up in Romania, and made her stage debut at the Bucharest Comedy Theater. [SEP] [CLS] In 1962, she went to Germany, where she appeared at the Freie Volksbühne Berlin, under Erwin Piscator. [SEP] [CLS]
-

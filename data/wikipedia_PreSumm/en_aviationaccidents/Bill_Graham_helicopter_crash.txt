@@ -1,2 +1,0 @@
-[CLS] On October 25, 1991, a Bell 206 carrying rock music concert promoter Bill Graham, his girlfriend, Melissa Gold, and pilot Steve Kahn crashed into a transmission tower west of Vallejo, California, killing everyone on board. [SEP] [CLS] The cause of the accident was determined to be the pilot's intentional flight into known adverse weather conditions. [SEP] [CLS]
-

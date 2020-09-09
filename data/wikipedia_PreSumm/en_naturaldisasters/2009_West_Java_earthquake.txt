@@ -1,2 +1,0 @@
-[CLS] The 2009 West Java earthquake occurred on September 2 at 14:55:01 local time in West Java, Indonesia. [SEP] [CLS] The magnitude 7.0 earthquake killed at least 79 people, injured over 1,250, and displaced over 210,000 (including more than 140,000 in Tasikmalaya regency). [SEP] [CLS] The quake was felt in the capital Jakarta, although damage there was minimal, and it was Indonesia's deadliest earthquake since the 2006 Pangandaran earthquake and tsunami. [SEP] [CLS]
-

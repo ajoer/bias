@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 3519 was a Tupolev Tu-154B-2 airline flight on a domestic route from Krasnoyarsk to Irkutsk on 23 December 1984. [SEP] [CLS] Shortly after takeoff, the No. [SEP] [CLS] 3 engine caught fire, and the airplane crashed during an emergency landing. [SEP] [CLS] This killed 110 people; there was only one survivor, and the aircraft was destroyed. [SEP] [CLS]
-

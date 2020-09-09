@@ -1,2 +1,0 @@
-[CLS] Renate Götschl (born 6 August 1975 in Judenburg, Austria) is a former champion alpine ski racer. [SEP] [CLS] She is a two-time individual World Champion in the combined (1997) and downhill (1999), and has won a total of 9 World Championships medals. [SEP] [CLS] She also won two Olympic medals in 2002, the bronze medal in downhill and the silver medal in the combined. [SEP] [CLS]
-

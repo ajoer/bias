@@ -1,2 +1,0 @@
-[CLS] Lena Johanna Gercke (born 29 February 1988) is a German fashion model and television host. [SEP] [CLS] She won the first cycle of Germany's Next Topmodel and was the host of Austria's Next Topmodel (cycles 1-4). [SEP] [CLS]
-

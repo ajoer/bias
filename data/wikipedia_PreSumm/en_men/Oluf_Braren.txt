@@ -1,2 +1,0 @@
-[CLS] Oluf Braren (25 February 1787 – 22 March 1839) was a painter of naïve art from the north Frisian island of Föhr. [SEP] [CLS] Some of his works show a strong affinity to his Frisian homeland. [SEP] [CLS] His paintings include portraits and depictions of public life as well as religious and mythological motifs. [SEP] [CLS] Later works are influenced by Wilhelm Tischbein's art. [SEP] [CLS] Unknown and little appreciated during his lifetime, Braren's paintings became greatly valued during the 20th century. [SEP] [CLS]
-

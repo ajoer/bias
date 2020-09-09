@@ -1,2 +1,0 @@
-[CLS] On 5 January 1970, a Convair 990 Coronado operated by the Spanish airline Spantax crashed shortly after take-off from Stockholm Arlanda Airport, killing five of the ten people on board. [SEP] [CLS]
-

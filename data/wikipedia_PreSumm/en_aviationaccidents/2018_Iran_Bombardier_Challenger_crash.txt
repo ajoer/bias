@@ -1,2 +1,0 @@
-[CLS] On 11 March 2018, a Bombardier Challenger 604 private jet owned by Turkish group Başaran Holding crashed in the Zagros Mountains near Shahr-e Kord, Iran, while returning to Turkey from the United Arab Emirates. [SEP] [CLS] All three crew members and eight passengers on board were killed. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 1912 (Russian: Рейс 1912 Аэрофлота Reys 1912 Aeroflota) was a scheduled domestic Aeroflot passenger flight on the Odessa-Kiev-Chelyabinsk-Novosibirsk-Irkutsk-Karbarovsk-Vladivostok route that crashed on 25 July 1971, making a hard landing at Irkutsk Airport. [SEP] [CLS] It touched down 150 m (490 ft) short of the runway, breaking the left wing and catching fire. [SEP] [CLS] Of the 126 people on board the aircraft, 29 survived. [SEP] [CLS]
-

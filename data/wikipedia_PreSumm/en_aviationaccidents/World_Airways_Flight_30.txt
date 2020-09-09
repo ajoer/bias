@@ -1,2 +1,0 @@
-[CLS] World Airways Flight 30 was a McDonnell Douglas DC-10-30CF airliner which suffered a fatal accident upon landing at Boston Logan International Airport in Boston after departing Newark International Airport (now Newark Liberty International Airport) in Newark, New Jersey on January 23, 1982. [SEP] [CLS] Two of the passengers were never found, and are presumed to have drowned. [SEP] [CLS]
-

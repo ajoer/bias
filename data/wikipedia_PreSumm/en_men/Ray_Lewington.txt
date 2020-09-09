@@ -1,2 +1,0 @@
-[CLS] Raymond Lewington (born 7 September 1956) is an English retired footballer and current assistant manager of Crystal Palace FC. [SEP] [CLS] Previously he was the assistant manager of the England national football team. [SEP] [CLS] His son, Dean, is a professional footballer playing for Milton Keynes Dons. [SEP] [CLS]
-

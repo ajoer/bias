@@ -1,2 +1,0 @@
-[CLS] The name Talas (Tagalog: [ˈtalɐs], TAH-ləs) has been used for three tropical cyclone names in the western north Pacific Ocean. [SEP] [CLS] The name was contributed by the Philippines and means "sharpness" (of an object, e.g. [SEP] [CLS] a knife) or "acuteness" (of the mind, physical sense, faculty, etc.). [SEP] [CLS] Tropical Storm Talas (2004) (T0428, 31W, Zosimo) Severe Tropical Storm Talas (2011) (T1112, 15W), a storm that caused severe damage in Japan Severe Tropical Storm Talas (2017) (T1704, 06W), affected Indochina. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] On 17 December 1960, a Convair C-131D Samaritan operated by the United States Air Force on a flight from Munich to RAF Northolt crashed shortly after take-off from Munich-Riem Airport, due to fuel contamination. [SEP] [CLS] All 20 passengers and crew on board as well as 32 people on the ground were killed. [SEP] [CLS]
-

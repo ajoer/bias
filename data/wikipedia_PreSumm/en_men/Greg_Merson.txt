@@ -1,2 +1,0 @@
-[CLS] Gregory "Greg" Merson (born December 8, 1987) is an American professional poker player. [SEP] [CLS] Merson is best known as the winner of the Main Event at the 2012 World Series of Poker (WSOP). [SEP] [CLS] During the same year, he also won a WSOP bracelet in the $10,000 Six Handed No-Limit Hold'em World Championship. [SEP] [CLS] Largely as a result of these two championships, he was the 2012 WSOP Player of the Year. [SEP] [CLS] He is an online shorthanded cash game poker professional. [SEP] [CLS]
-

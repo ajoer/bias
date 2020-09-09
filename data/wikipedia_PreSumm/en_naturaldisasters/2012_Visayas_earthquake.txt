@@ -1,2 +1,0 @@
-[CLS] The 2012 Visayas earthquake occurred on February 6 at 11:49 PST with a body wave magnitude of 6.7 and a maximum intensity of VII (Destructive) off the coast of Negros Oriental, Philippines. [SEP] [CLS] The epicenter of the submarine blind thrust earthquake was approximately 72 kilometres (45 mi) north of the provincial capital of Dumaguete City. [SEP] [CLS]
-

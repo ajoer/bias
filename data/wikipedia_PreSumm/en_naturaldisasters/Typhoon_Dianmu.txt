@@ -1,2 +1,0 @@
-[CLS] The name Dianmu has been used to name three tropical cyclones in the northwestern Pacific Ocean. [SEP] [CLS] The name was contributed by China and literally means "Mother of lightning", a title of the ancient goddess of lighting, Leizi. [SEP] [CLS] Typhoon Dianmu (2004) (T0406, 09W, Helen) – struck Japan. [SEP] [CLS] Severe Tropical Storm Dianmu (2010) (T1004, 05W, Ester) Tropical Storm Dianmu (2016) (T1608, 11W) - struck Indochina
-

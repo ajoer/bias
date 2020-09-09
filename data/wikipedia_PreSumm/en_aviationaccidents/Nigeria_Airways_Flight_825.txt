@@ -1,2 +1,0 @@
-[CLS] On 20 November 1969, Nigeria Airways Flight 825, a Vickers VC10 aircraft, crashed while on approach to Lagos International Airport in Lagos, Nigeria killing all 87 people on board. [SEP] [CLS]
-

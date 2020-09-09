@@ -1,2 +1,0 @@
-[CLS] Grégory Coupet (born 31 December 1972) is French former professional footballer who played as a goalkeeper. [SEP] [CLS] Throughout his playing career, he represented Saint-Étienne, Lyon, Atlético Madrid and Paris Saint-Germain, as well as the France national team. [SEP] [CLS] He holds the record for most Ligue 1 titles won (seven), along with Hervé Revelli and Jean-Michel Larqué of Saint-Étienne, as well as Thiago Silva and Marco Verratti of Paris Saint–Germain, and his own club teammates, Juninho and Sidney Govou, of Lyon. [SEP] [CLS]
-

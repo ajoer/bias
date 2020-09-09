@@ -1,2 +1,0 @@
-[CLS] The Thredbo landslide was a catastrophic landslide that occurred at the village and ski resort of Thredbo, New South Wales, Australia, on 30 July 1997. [SEP] [CLS] Two ski lodges were destroyed and 18 people died. [SEP] [CLS] Stuart Diver was the only survivor. [SEP] [CLS]
-

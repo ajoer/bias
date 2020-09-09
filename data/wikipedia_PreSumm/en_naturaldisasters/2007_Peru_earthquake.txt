@@ -1,2 +1,0 @@
-[CLS] The 2007 Peru earthquake, which measured 8.0 on the moment magnitude scale, hit the central coast of Peru on August 15 at 23:40:57 UTC (18:40:57 local time) and lasted two minutes. [SEP] [CLS] The epicenter was located 150 km (93 mi) south-southeast of Lima at a depth of 39 km (24 mi). [SEP] [CLS] The United States Geological Survey National Earthquake Information Center reported that it was a Very strong earthquake. [SEP] [CLS] The Peruvian government stated that 519 people were killed by the quake. [SEP] [CLS]
-

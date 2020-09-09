@@ -1,2 +1,0 @@
-[CLS] The 2016 Accra floods are heavy rainfalls in Accra, the capital of Ghana in June 2016. [SEP] [CLS] The flood began on June 9, 2015. [SEP] [CLS] As of June 15, 2016, at least 10 people have been killed. [SEP] [CLS]
-

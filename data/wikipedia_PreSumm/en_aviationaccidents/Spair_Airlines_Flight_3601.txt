@@ -1,2 +1,0 @@
-[CLS] Spair Airlines Flight 3601 (PAR-3601) was a cargo flight between Ekaterinburg, Russia, and Malta International Airport, Malta. [SEP] [CLS] On the 19 August 1996 the aircraft crashed in a corn field, 1,500 meters (4,921 feet) northeast of Belgrade Nikola Tesla Airport's runway in Yugoslavia. [SEP] [CLS]
-

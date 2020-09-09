@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 4 (Russian: Рейс 4 Аэрофлота Reys 4 Aeroflota) was a scheduled domestic passenger flight from Khabarovsk to Moscow with a stopover in Irkutsk that crashed on 15 August 1958, killing all 64 passengers and crew aboard the aircraft. [SEP] [CLS] It was the first fatal accident involving a Tupolev Tu-104. [SEP] [CLS]
-

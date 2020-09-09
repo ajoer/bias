@@ -1,2 +1,0 @@
-[CLS] The January 1987 snowfall was a very heavy lake-effect type snow event that affected the United Kingdom, mainly the areas of East Anglia, South-East England and London between 11 and 14 January and was the heaviest snowfall to fall in that part of the United Kingdom since the winter of 1981/82. [SEP] [CLS] Over 50 centimetres (20 in) of snow fell in South East England, with some locations reporting snowfall at 75 centimetres (30 in). [SEP] [CLS] Ireland was also affected by the cold wave, reporting more than 10 centimetres (3.9 in) in some areas. [SEP] [CLS]
-

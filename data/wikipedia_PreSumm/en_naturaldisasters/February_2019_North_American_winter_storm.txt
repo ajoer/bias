@@ -1,2 +1,0 @@
-[CLS] The "February 2019 North American winter storm" was one of three powerful winter storms that affected the continent in early February. [SEP] [CLS] This storm, in particular, paralyzed travel in parts of the Midwest, Northeast as well as Eastern Canada. [SEP] [CLS]
-

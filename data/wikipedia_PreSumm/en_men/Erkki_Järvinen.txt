@@ -1,2 +1,0 @@
-[CLS] Erkki Järvinen (15 October 1904 – 9 June 1991) was a Finnish athlete. [SEP] [CLS] He competed in the men's triple jump at the 1928 Summer Olympics. [SEP] [CLS]
-

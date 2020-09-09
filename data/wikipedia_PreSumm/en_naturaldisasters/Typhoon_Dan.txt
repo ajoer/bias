@@ -1,2 +1,0 @@
-[CLS] The name Dan has been used to name five tropical cyclones in the Northwestern Pacific Ocean. [SEP] [CLS] Typhoon Dan (1989) (T8928, 29W, Saling) Typhoon Dan (1992) (T9226, 27W) Tropical Storm Dan (1995) (T9524, 35W, Trining) Typhoon Dan (1996) (T9604, 06W) Typhoon Dan (1999) (T9925, 26W, Pepang)
-

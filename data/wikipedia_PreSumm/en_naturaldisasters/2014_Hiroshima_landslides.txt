@@ -1,2 +1,0 @@
-[CLS] On 20 August 2014, Hiroshima Prefecture in Japan was struck by a series of landslides following heavy rain. [SEP] [CLS] Seventy-four people were reported dead. [SEP] [CLS] According to the police, the dead included three boys aged two, three and eleven. [SEP] [CLS]
-

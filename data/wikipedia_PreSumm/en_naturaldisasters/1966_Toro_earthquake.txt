@@ -1,2 +1,0 @@
-[CLS] The 1966 Toro earthquake, or the 1966 Ruwenzori earthquake, occurred on March 20 at 01:42 UTC (04:42 Uganda local time). [SEP] [CLS] The earthquake was located near the border between Uganda and the Democratic Republic of the Congo (DRC), to the south of Lake Albert. [SEP] [CLS] Some sources put the epicenter in Uganda while some put it in the Democratic Republic of the Congo. [SEP] [CLS] The earthquake had a magnitude of Mw 6.8 and a maximum perceived intensity of VIII (Severe) on the Mercalli intensity scale. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 25 (Russian: Рейс 25 Аэрофлота Reys 25 Aeroflota) was a scheduled domestic passenger flight that crashed on 4 April 1963 in the region of Rybnaya Sloboda, Tatar ASSR, Russian SFSR the while en route from Moscow-Sheremetyevo to Krasnoyarsk Airport, Russian SFSR. [SEP] [CLS] All 67 people aboard were killed in the accident. [SEP] [CLS]
-

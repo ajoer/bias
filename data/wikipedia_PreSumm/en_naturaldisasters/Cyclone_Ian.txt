@@ -1,2 +1,0 @@
-[CLS] Cyclone Ian was a powerful tropical cyclone that formed on January 2, 2014. [SEP] [CLS] Areas affected by the tropical cyclone include Fiji and Tonga. [SEP] [CLS] In Tonga, Ian caused destruction in the Ha'apai islands, as well as one fatality. [SEP] [CLS]
-

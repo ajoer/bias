@@ -1,2 +1,0 @@
-[CLS] The Connellan air disaster was a suicide attack at Alice Springs Airport, Northern Territory, Australia, on 5 January 1977. [SEP] [CLS] The attack was carried out by a disgruntled former employee of Connellan Airways (also known as Connair), who flew a Beechcraft Baron into the Connair complex at the airport. [SEP] [CLS] The attack killed the pilot and four other people and injured four more, two of them seriously.The disaster is one of only two aircraft suicide attacks in Australia's history, the other being in 1982 at Bankstown Airport. [SEP] [CLS]
-

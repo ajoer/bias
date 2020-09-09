@@ -1,2 +1,0 @@
-[CLS] The name Beatriz has been used for seven tropical cyclones in the Eastern Pacific Ocean. [SEP] [CLS] Hurricane Beatriz (1981), remained far from land Tropical Storm Beatriz (1987), formed far from land Tropical Storm Beatriz (1993), made landfall in Mexico, killing six Hurricane Beatriz (1999), a Category 3 hurricane, possibly became annular Tropical Storm Beatriz (2005), never threatened land Hurricane Beatriz (2011), a Category 1 hurricane that grazed Mexico and killed four Tropical Storm Beatriz (2017), made landfall in Mexico, killing seven
-

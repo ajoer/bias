@@ -1,2 +1,0 @@
-[CLS] The 1957 Aquila Airways Solent crash occurred on the Isle of Wight in England on 15 November. [SEP] [CLS] With 45 lives lost, at the time it was the second worst aircraft accident within the United Kingdom, then at the time the worst ever air disaster to occur on English soil. [SEP] [CLS]
-

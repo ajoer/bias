@@ -1,2 +1,0 @@
-[CLS] The Tornado outbreak of May 1968 was a significant and deadly tornado outbreak that struck most of the central and southern United States from May 15 to May 16, 1968. [SEP] [CLS] Producing 46 tornadoes, the outbreak killed at least 72 people, including 45 in Arkansas alone. [SEP] [CLS] The outbreak also produced two F5 tornadoes in Iowa. [SEP] [CLS] It was one of the deadliest tornado outbreaks in the United States since the 1960s and is one of the deadliest outbreaks in Iowa history. [SEP] [CLS]
-

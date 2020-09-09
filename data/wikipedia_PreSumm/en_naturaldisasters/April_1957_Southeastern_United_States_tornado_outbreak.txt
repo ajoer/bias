@@ -1,2 +1,0 @@
-[CLS] The April 1957 Southeastern United States tornado outbreak struck the southern and southeastern United States during April 7–8, 1957. [SEP] [CLS] This outbreak was responsible for producing 7 deaths and 223 injuries across the Southeastern United States. [SEP] [CLS]
-

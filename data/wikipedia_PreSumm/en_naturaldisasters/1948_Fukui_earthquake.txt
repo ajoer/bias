@@ -1,2 +1,0 @@
-[CLS] The 1948 Fukui earthquake (福井地震, Fukui jishin) occurred in Fukui Prefecture, Japan. [SEP] [CLS] The magnitude 6.8 quake struck at 5:13:31 p.m.(JDT) on June 28. [SEP] [CLS] The strongest shaking occurred in the city of Fukui, where it was recorded as 6 (equivalent to the current 7) on the Japan Meteorological Agency seismic intensity scale. [SEP] [CLS] The shock occurred near the town of Maruoka. [SEP] [CLS]
-

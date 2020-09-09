@@ -1,2 +1,0 @@
-[CLS] Aeroflot Flight 1661 was a passenger flight operated by an Antonov An-24 that crashed during its initial climb, 25 minutes after take-off from Tolmachevo Airport on 1 April 1970. [SEP] [CLS] All 45 people on board perished. [SEP] [CLS] An investigation revealed that the Antonov collided with a radiosonde, causing a loss of control. [SEP] [CLS]
-

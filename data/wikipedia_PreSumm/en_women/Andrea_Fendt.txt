@@ -1,2 +1,0 @@
-[CLS] Andrea Fendt (born 31 January 1960 in Bischofswiesen) is a West German luger who competed during the 1970s. [SEP] [CLS] She won the silver medal in the women's singles event at the 1978 FIL World Luge Championships in Imst, Austria. [SEP] [CLS] Fendt's brother, Josef, has been president of the International Luge Federation since 1994. [SEP] [CLS] Fendt finished 12th in the women's singles event at the 1980 Winter Olympics in Lake Placid. [SEP] [CLS] She finished second overall in the women's singles Luge World Cup in 1977-8. [SEP] [CLS]
-

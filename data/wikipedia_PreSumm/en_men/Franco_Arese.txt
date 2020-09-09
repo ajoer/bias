@@ -1,2 +1,0 @@
-[CLS] Francesco "Franco" Arese (born 13 April 1944 in Centallo) is an Italian middle-distance runner, competing mainly at 1500 m. [SEP] [CLS] Arese won the 1500 meters final at the 1971 European Athletics Championships in Helsinki, Finland.He was the President of Italian Athletics Federation (FIDAL). [SEP] [CLS]
-

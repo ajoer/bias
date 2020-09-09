@@ -1,2 +1,0 @@
-[CLS] On October 1, 2015, heavy rains triggered a major landslide in the village of El Cambray Dos within Santa Catarina Pinula, Guatemala—15 km (9.3 mi) east of Guatemala City, killing at least 280 people and leaving dozens unaccounted for across the village. [SEP] [CLS] The landslide leveled much of the village, leaving some areas under 15 m (49 ft) of earth and debris. [SEP] [CLS]
-

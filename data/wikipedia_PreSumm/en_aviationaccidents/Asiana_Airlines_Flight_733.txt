@@ -1,2 +1,0 @@
-[CLS] Asiana Airlines Flight 733 (OZ733, AAR733, registration HL7229) was a domestic Asiana Airlines passenger flight from Seoul-Gimpo International Airport (SEL at the time, now GMP) to Mokpo Airport (MPK), South Korea. [SEP] [CLS] The Boeing 737 crashed on July 26, 1993 in the Hwawon area of Haenam County, South Jeolla Province. [SEP] [CLS] The cause of the accident was determined to be pilot error leading to controlled flight into terrain. [SEP] [CLS] 68 of the 116 passengers and crew on board were killed. [SEP] [CLS]
-

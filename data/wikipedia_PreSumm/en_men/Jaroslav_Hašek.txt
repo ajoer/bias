@@ -1,2 +1,0 @@
-[CLS] Jaroslav Hašek (Czech: [ˈjaroslaf ˈɦaʃɛk]; 30 April 1883 – 3 January 1923) was a Czech writer, humorist, satirist, journalist, bohemian and anarchist. [SEP] [CLS] He is best known for his novel The Fate of the Good Soldier Švejk during the World War, an unfinished collection of farcical incidents about a soldier in World War I and a satire on the ineptitude of authority figures. [SEP] [CLS] The novel has been translated into about 60 languages, making it the most translated novel in Czech literature. [SEP] [CLS]
-

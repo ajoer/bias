@@ -1,2 +1,0 @@
-[CLS] The 1934 Air France Wibault 282T crash occurred on 9 May 1934 when Wibault 282T-12 F-AMHY of Air France crashed into the English Channel off Dungeness, Kent, United Kingdom while operating an international scheduled passenger flight from Le Bourget, Paris, France to Croydon, Surrey, United Kingdom. [SEP] [CLS] All six people on board were killed. [SEP] [CLS]
-

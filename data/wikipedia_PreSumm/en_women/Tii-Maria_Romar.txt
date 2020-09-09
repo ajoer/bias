@@ -1,2 +1,0 @@
-[CLS] Complete results for the Women's Slalom competition at the 2009 World Championships. [SEP] [CLS] It was run on February 15, the final race of the championships. [SEP] [CLS] 101 athletes from 42 countries competed. [SEP] [CLS]
-

@@ -1,2 +1,0 @@
-[CLS] Air France Flight 406 was a Lockheed L-1649 Starliner that crashed in Algeria on May 10, 1961, after a bomb exploded on board. [SEP] [CLS] All 78 passengers and crew on board were killed. [SEP] [CLS] It was the worst aviation disaster involving a Lockheed Starliner. [SEP] [CLS]
-

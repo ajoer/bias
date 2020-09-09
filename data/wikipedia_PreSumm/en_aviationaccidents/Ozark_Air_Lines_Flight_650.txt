@@ -1,2 +1,0 @@
-[CLS] Ozark Air Lines Flight 650 was a regularly scheduled flight on December 20, 1983 from Sioux Gateway Airport in Sioux City, Iowa, to Sioux Falls Regional Airport in Sioux Falls, South Dakota. [SEP] [CLS] While landing in Sioux Falls, the aircraft struck a snow plow on the runway and burst into flames. [SEP] [CLS] The snow plow's driver was killed, and two flight attendants were injured. [SEP] [CLS]
-

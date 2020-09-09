@@ -1,2 +1,0 @@
-[CLS] The 1692 Salta earthquake took place in the Province of Salta, in the Republic of Argentina on 13 September at 11:00 a.m. [SEP] [CLS] local time. [SEP] [CLS] It registered 7.0 on the Richter magnitude scale and was located at a depth of 30 kilometres (19 mi). [SEP] [CLS] Aftershocks continued to be felt until 15 September. [SEP] [CLS]
-

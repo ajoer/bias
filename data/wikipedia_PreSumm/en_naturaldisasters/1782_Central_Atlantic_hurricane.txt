@@ -1,2 +1,0 @@
-[CLS] The Central Atlantic hurricane of 1782, was a hurricane that hit the fleet of British Admiral Thomas Graves as it sailed across the North Atlantic in September, 1782. [SEP] [CLS] It is believed to have killed some 3,500 people. [SEP] [CLS]
-

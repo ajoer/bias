@@ -1,2 +1,0 @@
-[CLS] The Independence Day Derecho of 1977 was a derecho, or long-lived windstorm associated with a fast-moving band of thunderstorms, that occurred in the northern Great Plains of the U.S. [SEP] [CLS] on July 4, 1977. [SEP] [CLS] It lasted around 15½ hours. [SEP] [CLS] The derecho formed in Minnesota around 10 a.m. [SEP] [CLS] CDT on July 4 and became more intense around noon in the central part of the state. [SEP] [CLS] The derecho produced winds of 80-100 mph (130–160 km/h) in northern Wisconsin felling thousands of trees in the northern part of the state. [SEP] [CLS]
-

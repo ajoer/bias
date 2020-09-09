@@ -1,2 +1,0 @@
-[CLS] The 1930 Dhubri earthquake occurred on July 3 at 03:23 local time near Dhubri, India (then British India). [SEP] [CLS] It had a magnitude of Mw 7.1. [SEP] [CLS] Most of the buildings were damaged in Dhubri and the surrounding areas. [SEP] [CLS] This earthquake did not cause any fatalities. [SEP] [CLS] The maximal intensity was IX (Devastating tremor) on the Rossi–Forel scale near Dhubri. [SEP] [CLS]
-

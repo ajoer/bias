@@ -1,2 +1,0 @@
-[CLS] The 1964 Guerrero earthquake occurred on July 6 at 01:22 local time in Guerrero, Mexico. [SEP] [CLS] The magnitude of this earthquake was given as Ms 7.4, or ML 7.2. [SEP] [CLS]
-

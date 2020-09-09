@@ -1,2 +1,0 @@
-[CLS] Garuda Indonesia Airways Flight 708 was a scheduled passenger flight on 16 February 1967 which crashed upon landing at Sam Ratulangi Airport, Manado, North Sulawesi, Indonesia. [SEP] [CLS] 22 of the 84 passengers on board were killed. [SEP] [CLS] All eight crew members survived. [SEP] [CLS]
-

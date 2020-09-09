@@ -1,2 +1,0 @@
-[CLS] The 1901 Cheviot earthquake occurred at 07:47 NZT on 16 November 1901 (20:15 15 November UTC) with an estimated magnitude of 6.9, centred near the township of Cheviot in the Canterbury region of New Zealand. [SEP] [CLS]
-
